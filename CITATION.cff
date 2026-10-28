@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this research corpus, please cite it as follows."
+title: "Digital Sovereign Workplace — Data-Driven Agentic Literature Review"
+abstract: "Data-driven, auto-validated, agentic literature review corpus on digital sovereign workplaces. Papers in papers.yaml, everything else generated."
+authors:
+  - family-names: "Weiß"
+    given-names: "Tobias"
+    orcid: ""
+date-released: "2026-08-06"
+license: MIT
+keywords:
+  - literature-review
+  - research-corpus
+  - agentic-ai
+  - papers
+  - open-science
+repository-code: "https://github.com/tobias-weiss-ai-xr/digital-sovereign-workplace-research"

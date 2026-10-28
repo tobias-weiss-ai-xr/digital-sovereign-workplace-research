@@ -378,7 +378,7 @@ was generated from analysis of 28 papers in the knowledge base, including:
 ### 8.2 Repository Structure
 
 ```
-skeleton-research/          # Template for new research projects
+digital-sovereign-workplace-research/          # This research project
 ├── papers.yaml             # Paper collection
 ├── config/
 │   ├── taxonomy.yaml       # Categories and queries
@@ -604,9 +604,9 @@ marketing-research/
 
 ### For a New Research Project
 
-1. Clone the skeleton:
+1. Clone the repository:
    ```bash
-   git clone git@github.com:tobias-weiss-ai-xr/skeleton-research.git my-research
+   git clone git@github.com:tobias-weiss-ai-xr/digital-sovereign-workplace-research.git my-research
    cd my-research
    ```
 
