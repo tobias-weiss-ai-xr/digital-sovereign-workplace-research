@@ -1,24 +1,42 @@
 # Multi-source discovery queries (fetch_other_sources.py)
-# Replace the example queries below with topic-specific ones.
-# Sources supported: dblp, crossref, europepmc, openalex, semantic_scholar
+# Topic: Digital Sovereign Workplace
+
+- source: crossref
+  query: digital sovereign workplace
+  category: digital-workplace
+  subcategory_hint: theory
+
+- source: crossref
+  query: data sovereignty workplace collaboration
+  category: data-sovereignty
+  subcategory_hint: theory
+
+- source: crossref
+  query: sovereign cloud office suite
+  category: data-sovereignty
+  subcategory_hint: application
+
+- source: crossref
+  query: open source collaboration platform enterprise
+  category: open-source
+  subcategory_hint: application
 
 - source: dblp
-  query: your topic a
-  category: method
-  subcategory_hint: agentic
-- source: crossref
-  query: your topic b agent survey
-  category: survey
-  subcategory_hint: hybrid
+  query: digital workplace sovereignty
+  category: digital-workplace
+  subcategory_hint: systems
+
+- source: dblp
+  query: interoperability digital workplace
+  category: interoperability
+  subcategory_hint: systems
+
 - source: europepmc
-  query: your topic c
-  category: application
-  subcategory_hint: non-agentic
+  query: digital workplace adoption
+  category: adoption-change
+  subcategory_hint: application
+
 - source: openalex
-  query: your topic d evaluation benchmark
-  category: evaluation
-  subcategory_hint: hybrid
-- source: semantic_scholar
-  query: your topic e
-  category: method
-  subcategory_hint: agentic
+  query: digital sovereign workplace
+  category: digital-workplace
+  subcategory_hint: theory
