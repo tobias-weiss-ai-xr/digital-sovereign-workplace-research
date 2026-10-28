@@ -234,6 +234,34 @@ This repo is designed to be driven by coding agents (OpenCode, Claude Code, …)
   - [Application](#application)
   - [Systems](#systems)
   - [Evaluation](#evaluation)
+- [📚 Hybrid & Remote Work](#hybrid-&-remote-work)
+  - [Method](#method)
+  - [Theory](#theory)
+  - [Application](#application)
+  - [Survey](#survey)
+  - [Systems](#systems)
+  - [Evaluation](#evaluation)
+- [📚 Employee Well-being](#employee-well-being)
+  - [Method](#method)
+  - [Theory](#theory)
+  - [Application](#application)
+  - [Survey](#survey)
+  - [Systems](#systems)
+  - [Development](#development)
+  - [Evaluation](#evaluation)
+  - [Mechanism](#mechanism)
+- [📚 Digital Transformation](#digital-transformation)
+  - [Method](#method)
+  - [Theory](#theory)
+  - [Application](#application)
+  - [Survey](#survey)
+  - [Evaluation](#evaluation)
+- [📚 AI & Language Models](#ai-&-language-models)
+  - [Theory](#theory)
+  - [Application](#application)
+- [📚 Federated & Privacy-Preserving](#federated-&-privacy-preserving)
+  - [Method](#method)
+  - [Theory](#theory)
 
 ### Digital Workplace
 
@@ -273,6 +301,7 @@ This repo is designed to be driven by coding agents (OpenCode, Claude Code, …)
 
 - [2021] **Emerging Trends for Digital Workplace Learning** *Transformative Digital Technology for Effective Workplace Learning* [[paper](https://doi.org/10.1201/9781003149132-9)]
 - [2021] **The Digital Future of the Workplace: Three Possible Scenarios** *Transformative Digital Technology for Effective Workplace Learning* [[paper](https://doi.org/10.1201/9781003149132-5)]
+- [2021] **Sovereign Investors Rising in Crisis** *The Hunt for Unicorns* [[paper](https://doi.org/10.1002/9781119746645.ch1)]
 
 ##### 2020
 
@@ -284,6 +313,10 @@ This repo is designed to be driven by coding agents (OpenCode, Claude Code, …)
 - [2018] **How We Learn at the Digital Workplace** *Digital Workplace Learning* [[paper](https://doi.org/10.1007/978-3-319-46215-8_1)]
 - [2018] **Massive Open Online Courses in Digital Workplace Learning** *Digital Workplace Learning* [[paper](https://doi.org/10.1007/978-3-319-46215-8_9)]
 - [2018] **Designing Flipped Learning for Digital Workplace Learning** *Digital Workplace Learning* [[paper](https://doi.org/10.1007/978-3-319-46215-8_6)]
+
+##### 2013
+
+- [2013] **Environmental awareness in the workplace** *Abertay Research Portal (Abertay University)* [[paper](https://rke.abertay.ac.uk/ws/files/15408373/ChedjouJouontso_2013_Environmental_awareness_in_the_workplace_PhD.pdf)]
 
 [⬆ Back to top](#paper-list)
 
@@ -355,14 +388,24 @@ This repo is designed to be driven by coding agents (OpenCode, Claude Code, …)
 ##### 2025
 
 - [2025] **RAGdb: A Zero-Dependency, Embeddable Architecture for Multimodal Retrieval-Augmented Generation on the Edge** [[paper](https://arxiv.org/abs/2602.22217)]
+- [2025] **Generative AI as a Geopolitical Factor in Industry 5.0: Sovereignty, Access, and Control** [[paper](https://arxiv.org/abs/2508.00973)]
+- [2025] **Integrating Feature Attention and Temporal Modeling for Collaborative Financial Risk Assessment** [[paper](https://arxiv.org/abs/2508.09399)]
+- [2025] **Sometimes Painful but Certainly Promising: Feasibility and Trade-offs of Language Model Inference at the Edge** [[paper](https://arxiv.org/abs/2503.09114)]
+- [2025] **Exploring Potential Prompt Injection Attacks in Federated Military LLMs and Their Mitigation** [[paper](https://arxiv.org/abs/2501.18416)]
+
+##### 2024
+
+- [2024] **Federated Computing -- Survey on Building Blocks, Extensions and Systems** [[paper](https://arxiv.org/abs/2404.02779)]
 
 ##### 2023
 
+- [2023] **Project Florida: Federated Learning Made Easy** [[paper](https://arxiv.org/abs/2307.11899)]
 - [2023] **New Digital Work and Digital Sovereignty at the Workplace – An Introduction** *New Digital Work* [[paper](https://doi.org/10.1007/978-3-031-26490-0_1)]
 
 ##### 2020
 
 - [2020] **Indigenous Data Sovereignty** *Indigenous Data Sovereignty and Policy* [[paper](https://doi.org/10.4324/9780429273957-10)]
+- [2020] **Growing Pueblo data sovereignty** *Indigenous Data Sovereignty and Policy* [[paper](https://doi.org/10.4324/9780429273957-4)]
 - [2020] **Conversational Collaboration Platforms** *The AI-Powered Workplace* [[paper](https://doi.org/10.1007/978-1-4842-5476-9_8)]
 
 ##### 2016
@@ -496,6 +539,15 @@ This repo is designed to be driven by coding agents (OpenCode, Claude Code, …)
 
 - [2025] **DepthScape: Authoring 2.5D Designs via Depth Estimation, Semantic Understanding, and Geometry Extraction** [[paper](https://arxiv.org/abs/2512.02263)]
 - [2025] **A2VISR: An Active and Adaptive Ground-Aerial Localization System Using Visual Inertial and Single-Range Fusion** [[paper](https://arxiv.org/abs/2512.16367)]
+- [2025] **A Scalable Multi-LLM Collaboration System with Retrieval-based Selection and Exploration-Exploitation-Driven Enhancement** [[paper](https://arxiv.org/abs/2507.14200)]
+- [2025] **Evolving Roles of LLMs in Scientific Innovation: Assistant, Collaborator, Scientist, and Evaluator** [[paper](https://arxiv.org/abs/2507.11810)]
+- [2025] **Position Paper: Towards Open Complex Human-AI Agents Collaboration Systems for Problem Solving and Knowledge Management** [[paper](https://arxiv.org/abs/2505.00018)]
+- [2025] **Never too Cocky to Cooperate: An FIM and RL-based USV-AUV Collaborative System for Underwater Tasks in Extreme Sea Conditions** [[paper](https://arxiv.org/abs/2504.14894)]
+- [2025] **PodAgent: A Comprehensive Framework for Podcast Generation** [[paper](https://arxiv.org/abs/2503.00455)]
+
+##### 2023
+
+- [2023] **Joint Sensing and Task-Oriented Communications with Image and Wireless Data Modalities for Dynamic Spectrum Access** [[paper](https://arxiv.org/abs/2312.13931)]
 
 [⬆ Back to top](#paper-list)
 
@@ -615,6 +667,7 @@ This repo is designed to be driven by coding agents (OpenCode, Claude Code, …)
 - [2026] **Synthetic populations for epidemic, demographic and mobility modeling** [[paper](https://arxiv.org/abs/2610.21784)]
 - [2026] **SIESTA-QCOMP: Bridging Classical and Quantum Computing for Strongly Correlated Systems** [[paper](https://arxiv.org/abs/2610.24616)]
 - [2026] **OctoSense: Building a Unified Ecosystem for Open-Source Wireless Sensing** [[paper](https://arxiv.org/abs/2610.12405)]
+- [2026] **A Transfer Learning-Driven Methodology for Efficient and Sustainable Indoor Localization Using VLC** [[paper](https://arxiv.org/abs/2610.29594)]
 - [2026] **From Digital Competence to Demonstrated Digital Capability: Positioning the International Digital Driving License Against DigComp and UNESCO Frameworks** [[paper](https://arxiv.org/abs/2609.19406)]
 - [2026] **Involving before Evolving: A Vision for Trustworthy Enterprise Digital Twin Engineering** [[paper](https://arxiv.org/abs/2609.13071)]
 - [2026] **Agentic AI-enabled Semantic Commissioning of a Cognitive Digital Twin for Reconfigurable Manufacturing** [[paper](https://arxiv.org/abs/2609.09503)]
@@ -629,6 +682,7 @@ This repo is designed to be driven by coding agents (OpenCode, Claude Code, …)
 - [2026] **From Language Models to World-Acting Systems: Progress and Limits of Agentic AI across Digital, Social, Virtual, and Physical Environments** [[paper](https://arxiv.org/abs/2609.04894)]
 - [2026] **LOCO 2026 Lightning Talk Abstracts: 2nd International Workshop on Low Carbon Computing** [[paper](https://arxiv.org/abs/2609.13355)]
 - [2026] **Teaching Micro-credentials through Learning Management Systems: A Systematic Review of Pedagogical Designs, Assessment Practices, and Learner Outcomes** *Research Square* [[paper](https://doi.org/10.21203/rs.3.rs-10758652/v1)]
+- [2026] **Multi-center Medical Data Mining with FL-Net - A One-stop Shop for Federated Learning** [[paper](https://arxiv.org/abs/2609.20650)]
 - [2026] **A Blueprint for Collaborative Cybersecurity Operations Centres with Capacity for Shared Situational Awareness, Coordinated Response, and Joint Preparedness** [[paper](https://arxiv.org/abs/2608.08011)]
 - [2026] **Removing Infrastructure Barriers in Human-Robot Collaboration Through Wireless Reconfigurable Cells** [[paper](https://arxiv.org/abs/2608.09658)]
 - [2026] **Use of the Common Information Model (IEC 61970) for Standardized Data Exchange in HVDC Digital Twin Systems** [[paper](https://arxiv.org/abs/2608.09259)]
@@ -636,18 +690,21 @@ This repo is designed to be driven by coding agents (OpenCode, Claude Code, …)
 - [2026] **BZKO: An Ontology for the Card Index of German Post-War Compensation Records** [[paper](https://arxiv.org/abs/2608.06918)] [[code](https://github.com/ISE-FIZKarlsruhe/bzko)]
 - [2026] **Designing, Deployment and Field Testing of C2Stack for Networked Intelligent Software-Defined UAVs** [[paper](https://arxiv.org/abs/2608.28854)]
 - [2026] **UrbanAgent: A Tool-Augmented Agent for Cross-System Urban Tasks** [[paper](https://arxiv.org/abs/2608.03018)]
+- [2026] **Token-Oriented Semantic Communication with Pretrained Vision Transformers** [[paper](https://arxiv.org/abs/2608.25410)]
 - [2026] **Trans-Domain Digital Twin: Conceptual Foundations, Architecture, and Research Outlook** [[paper](https://arxiv.org/abs/2607.15908)]
 - [2026] **Model-Driven Digital Twin Framework for Quantum Networks** [[paper](https://arxiv.org/abs/2607.10367)]
 - [2026] **A Verifier-Centric Conceptual Model for Digital Credential Ecosystems** [[paper](https://arxiv.org/abs/2607.10747)]
 - [2026] **Umulsai: A Plain-Text Format and In-Browser Engraving System for Jeongganbo, Korean Mensural Notation** [[paper](https://arxiv.org/abs/2607.24230)]
 - [2026] **Human-Robot Interaction in GenAI Architectures via the Agent-Client Protocol** [[paper](https://arxiv.org/abs/2607.14919)]
 - [2026] **Advanced Information Security and Assurance: A Literature Review of Zero Trust Architecture, Artificial Intelligence, and Cybersecurity Resilience** *International Journal of Latest Technology in Engineering Management & Applied Science* [[paper](https://doi.org/10.51583/ijltemas.2026.150600161)]
+- [2026] **AgentFAIR: A Multi-Agent Collaborative Framework for FAIRness Evaluation of Geospatial Datasets** [[paper](https://arxiv.org/abs/2607.15781)]
 - [2026] **Collaborative Human-Agent Protocol (CHAP)** [[paper](https://arxiv.org/abs/2606.09751)] [[code](https://github.com/BrightbeamAI/chap)]
 - [2026] **A Deployment Case Study in Robotic Apparel Automation: Digital Twin Integration, Interoperability, and Workforce Enablement** [[paper](https://arxiv.org/abs/2606.16078)]
 - [2026] **Integrating Heterogeneous Digital Twins in Federated Ecosystems** [[paper](https://arxiv.org/abs/2606.22791)]
 - [2026] **Toward Model-Driven Digital Twin Configuration: Separating Structure Semantics and Runtime with SysML SAREF and Ditto** [[paper](https://arxiv.org/abs/2609.04213)]
 - [2026] **Integrated cloud-based architecture for robot-robot and human-robot collaboration using ROS 2--MQTT in Mediterranean Greenhouses** [[paper](https://arxiv.org/abs/2606.22682)]
 - [2026] **Analyzing and Encoding the Al-Mawrid Arabic-English Dictionary with the ISO Language Markup Framework and TEI Lex-0** [[paper](https://arxiv.org/abs/2606.18205)]
+- [2026] **IDDMBSE: Integrating Data-Driven and Model-Based Systems Engineering for Trusted Autonomous Cyber-Physical Systems** [[paper](https://arxiv.org/abs/2606.06727)]
 - [2026] **DACP: A Scientific Data Access and Collaboration Protocol** [[paper](https://arxiv.org/abs/2605.03411)]
 - [2026] **The Evolution of Digital Twins from Reactive to Agentic Systems** [[paper](https://arxiv.org/abs/2605.26066)]
 - [2026] **EDA-Schema-V2: A Multimodal Schema, Open Datasets, and Benchmarks for Machine Learning in Digital Physical Design** [[paper](https://arxiv.org/abs/2605.06952)]
@@ -659,6 +716,7 @@ This repo is designed to be driven by coding agents (OpenCode, Claude Code, …)
 - [2026] **Global AI Regulations for FAIR and Ethics in High-Risk Use Cases: A Comparative Review** [[paper](https://arxiv.org/abs/2608.14562)]
 - [2026] **SS-ZKR: Spatial-Semantic Zero-Knowledge Routing for Privacy-Preserving Multi-Agent Collaboration** [[paper](https://arxiv.org/abs/2606.00962)]
 - [2026] **Delivering Science as a Service: Sci-Orchestra's Cloud-Native Approach to HPC** [[paper](https://arxiv.org/abs/2605.08396)]
+- [2026] **KG-First, LLM-Fallback: A Hybrid Microservice for Grounded Skill Search and Explanation** [[paper](https://arxiv.org/abs/2605.01582)]
 - [2026] **Searching for European Alternatives: Digital Sovereignty, Digital Patriotism, and the Emerging Geopolitics of Software Adoption** [[paper](https://arxiv.org/abs/2604.15767)]
 - [2026] **AONA: A Comprehensive Architecture and Workflow Design for Global Agentic Collaboration** [[paper](https://arxiv.org/abs/2606.20573)]
 - [2026] **From Brain Models to Executable Digital Twins: Execution Semantics and Neuro-Neuromorphic Systems** [[paper](https://arxiv.org/abs/2604.13574)]
@@ -668,6 +726,7 @@ This repo is designed to be driven by coding agents (OpenCode, Claude Code, …)
 - [2026] **The Missing Pillar in Quantum-Safe 6G: Regulation and Global Compliance** [[paper](https://arxiv.org/abs/2604.13314)]
 - [2026] **QLLVM: A Scalable Quantum-Classical Co-Compilation Framework based on LLVM** [[paper](https://arxiv.org/abs/2604.15094)]
 - [2026] **Binary Star Evolution Modules in REBOUNDx** [[paper](https://arxiv.org/abs/2604.06386)] [[code](https://github.com/malidib/ReboundS)]
+- [2026] **OpenPRC: A Unified Open-Source Framework for Physics-to-Task Evaluation in Physical Reservoir Computing** [[paper](https://arxiv.org/abs/2604.07423)]
 - [2026] **Fostering Knowledge Infrastructures in Science Communication and Aerospace Engineering** [[paper](https://arxiv.org/abs/2603.05984)]
 - [2026] **From Digital Twins to World Models:Opportunities, Challenges, and Applications for Mobile Edge General Intelligence** [[paper](https://arxiv.org/abs/2603.17420)]
 - [2026] **Cenergy3: An Open Software Package for City Energy 3D Modeling** [[paper](https://arxiv.org/abs/2603.20361)]
@@ -678,6 +737,8 @@ This repo is designed to be driven by coding agents (OpenCode, Claude Code, …)
 - [2026] **Methods for Knowledge Graph Construction from Text Collections: Development and Applications** [[paper](https://arxiv.org/abs/2603.25862)]
 - [2026] **The Vertical Challenge of Low-Altitude Economy: Why We Need a Unified Height System?** [[paper](https://arxiv.org/abs/2603.04866)]
 - [2026] **STEM Agent: A Self-Adapting, Tool-Enabled, Extensible Architecture for Multi-Protocol AI Agent Systems** [[paper](https://arxiv.org/abs/2603.22359)]
+- [2026] **Privacy-Preserving EHR Data Transformation via Geometric Operators: A Human-AI Co-Design Technical Report** [[paper](https://arxiv.org/abs/2603.22954)]
+- [2026] **Wearable Foundation Models Should Go Beyond Static Encoders** [[paper](https://arxiv.org/abs/2603.19564)]
 - [2026] **AWCP: A Workspace Delegation Protocol for Deep-Engagement Collaboration across Remote Agents** [[paper](https://arxiv.org/abs/2602.20493)] [[code](https://github.com/SII-Holos/awcp)]
 - [2026] **Towards complete digital twins in cultural heritage with ART3mis 3D artifacts annotator** [[paper](https://arxiv.org/abs/2602.12761)]
 - [2026] **Digital Twins &amp; ZeroConf AI: Structuring Automated Intelligent Pipelines for Industrial Applications** [[paper](https://arxiv.org/abs/2602.04385)]
@@ -685,6 +746,8 @@ This repo is designed to be driven by coding agents (OpenCode, Claude Code, …)
 - [2026] **CA20108 COST Action: A Methodology for Developing FAIR Micrometeorological Networks** [[paper](https://arxiv.org/abs/2602.23921)]
 - [2026] **Beyond Context Sharing: A Unified Agent Communication Protocol (ACP) for Secure, Federated, and Autonomous Agent-to-Agent (A2A) Orchestration** [[paper](https://arxiv.org/abs/2602.15055)]
 - [2026] **A Secure and Interoperable Architecture for Electronic Health Record Access Control and Sharing** [[paper](https://arxiv.org/abs/2602.20830)]
+- [2026] **Internet of Agentic AI: Incentive-Compatible Distributed Teaming and Workflow** [[paper](https://arxiv.org/abs/2602.03145)]
+- [2026] **SettleFL: Trustless and Scalable Reward Settlement Protocol for Federated Learning on Permissionless Blockchains (Extended version)** [[paper](https://arxiv.org/abs/2602.23167)]
 - [2026] **Archives, archival bond, and digital representation: A case study with the International Image Interoperability Framework** [[paper](https://arxiv.org/abs/2601.14823)]
 - [2026] **Digital Twin Synchronization: towards a data-centric architecture** [[paper](https://arxiv.org/abs/2601.23051)]
 - [2026] **Design and Evaluation of Next-Generation Cellular Networks through Digital and Physical Open and Programmable Platforms** [[paper](https://arxiv.org/abs/2601.19027)]
@@ -696,6 +759,8 @@ This repo is designed to be driven by coding agents (OpenCode, Claude Code, …)
 - [2026] **An Empirical Evaluation of Modern MLOps Frameworks** [[paper](https://arxiv.org/abs/2601.20415)]
 - [2026] **Self-Sovereign Identity and eIDAS 2.0: An Analysis of Control, Privacy, and Legal Implications** [[paper](https://arxiv.org/abs/2601.19837)]
 - [2026] **Exploring Blockchain Interoperability: Frameworks, Use Cases, and Future Challenges** [[paper](https://arxiv.org/abs/2601.02949)]
+- [2026] **Interoperability in AI Safety Governance: Ethics, Regulations, and Standards** [[paper](https://arxiv.org/abs/2601.06153)]
+- [2026] **Autonomous Agents on Blockchains: Standards, Execution Models, and Trust Boundaries** [[paper](https://arxiv.org/abs/2601.04583)]
 
 ##### 2025
 
@@ -708,12 +773,117 @@ This repo is designed to be driven by coding agents (OpenCode, Claude Code, …)
 - [2025] **interID -- An Ecosystem-agnostic Verifier Application for Self-sovereign Identity** [[paper](https://arxiv.org/abs/2512.23383)]
 - [2025] **Towards a point-to-point CV-QKD system: Implementation challenges and perspectives** [[paper](https://arxiv.org/abs/2512.19834)]
 - [2025] **Cenergy3: An API for City Energy 3D Modeling** [[paper](https://arxiv.org/abs/2512.06459)]
+- [2025] **EXR: An Interactive Immersive EHR Visualization in Extended Reality** [[paper](https://arxiv.org/abs/2512.05438)]
 - [2025] **SciCom Wiki: A Digital Library to Support the Science Communication Knowledge Infrastructure for Videos and Podcasts** [[paper](https://arxiv.org/abs/2511.09248)]
 - [2025] **A Brief History of Digital Twin Technology** [[paper](https://arxiv.org/abs/2511.20695)]
 - [2025] **Design and Performance Assessment of a Virtualized IED for Digital Substations** [[paper](https://arxiv.org/abs/2511.21310)]
 - [2025] **The Future of Food: How Artificial Intelligence is Transforming Food Manufacturing** [[paper](https://arxiv.org/abs/2511.15728)]
 - [2025] **The SolarEV City Paradox: A Critical Review of the Fragmented Integration of Rooftop Photovoltaics and Electric Vehicles for Urban Decarbonization** [[paper](https://arxiv.org/abs/2511.15091)]
 - [2025] **On Addressing Isolation in Blockchain-Based Self-Sovereign Identity** [[paper](https://arxiv.org/abs/2511.18379)]
+- [2025] **Orchestrating Rewards in the Era of Intelligence-Driven Commerce** [[paper](https://arxiv.org/abs/2512.00738)]
+- [2025] **A Comprehensive Survey on Surgical Digital Twin** [[paper](https://arxiv.org/abs/2512.00019)]
+- [2025] **Blockchain Signatures to Ensure Information Integrity and Non-Repudiation in the Digital Era: A comprehensive study** [[paper](https://arxiv.org/abs/2510.22561)]
+- [2025] **SafeCoop: Unravelling Full Stack Safety in Agentic Collaborative Driving** [[paper](https://arxiv.org/abs/2510.18123)]
+- [2025] **Federated Data Analytics for Cancer Immunotherapy: A Privacy-Preserving Collaborative Platform for Patient Management** [[paper](https://arxiv.org/abs/2510.09155)]
+- [2025] **Secure Multi-Modal Data Fusion in Federated Digital Health Systems via MCP** [[paper](https://arxiv.org/abs/2510.01780)]
+- [2025] **A Model-Driven Engineering Approach to AI-Powered Healthcare Platforms** [[paper](https://arxiv.org/abs/2510.09308)]
+- [2025] **From product to system network challenges in system of systems lifecycle management** [[paper](https://arxiv.org/abs/2510.27194)]
+- [2025] **Platform-Agnostic Modular Architecture for Quantum Benchmarking** [[paper](https://arxiv.org/abs/2510.08469)]
+- [2025] **Intelligent Healthcare Ecosystems: Optimizing the Iron Triangle of Healthcare (Access, Cost, Quality)** [[paper](https://arxiv.org/abs/2510.03331)]
+- [2025] **MCP Security Bench (MSB): Benchmarking Attacks Against Model Context Protocol in LLM Agents** [[paper](https://arxiv.org/abs/2510.15994)]
+- [2025] **AgenticAD: A Specialized Multiagent System Framework for Holistic Alzheimer Disease Management** [[paper](https://arxiv.org/abs/2510.08578)]
+- [2025] **FHIR-AgentBench: Benchmarking LLM Agents for Realistic Interoperable EHR Question Answering** [[paper](https://arxiv.org/abs/2509.19319)]
+- [2025] **Human-AI Use Patterns for Decision-Making in Disaster Scenarios: A Systematic Review** [[paper](https://arxiv.org/abs/2509.12034)]
+- [2025] **On Transferring, Merging, and Splitting Task-Oriented Network Digital Twins** [[paper](https://arxiv.org/abs/2509.02551)]
+- [2025] **OntoAligner Meets Knowledge Graph Embedding Aligners** [[paper](https://arxiv.org/abs/2509.26417)]
+- [2025] **Communication-Efficient and Interoperable Distributed Learning** [[paper](https://arxiv.org/abs/2509.22823)]
+- [2025] **A Survey on Cloud-Edge-Terminal Collaborative Intelligence in AIoT Networks** [[paper](https://arxiv.org/abs/2508.18803)]
+- [2025] **LLM-Assisted Semantic Alignment and Integration in Collaborative Model-Based Systems Engineering Using SysML v2** [[paper](https://arxiv.org/abs/2508.16181)]
+- [2025] **Using the NANDA Index Architecture in Practice: An Enterprise Perspective** [[paper](https://arxiv.org/abs/2508.03101)]
+- [2025] **Deep Data Hiding for ICAO-Compliant Face Images: A Survey** [[paper](https://arxiv.org/abs/2508.19324)]
+- [2025] **From slides to AI-ready maps: Standardized multi-layer tissue maps as metadata for artificial intelligence in digital pathology** [[paper](https://arxiv.org/abs/2508.21418)]
+- [2025] **SkeySpot: Automating Service Key Detection for Digital Electrical Layout Plans in the Construction Industry** [[paper](https://arxiv.org/abs/2508.10449)]
+- [2025] **HAWK: A Hierarchical Workflow Framework for Multi-Agent Collaboration** [[paper](https://arxiv.org/abs/2507.04067)]
+- [2025] **Agent Network Protocol Technical White Paper** [[paper](https://arxiv.org/abs/2508.00007)]
+- [2025] **Design of an Edge-based Portable EHR System for Anemia Screening in Remote Health Applications** [[paper](https://arxiv.org/abs/2507.15146)]
+- [2025] **Bridging Bots: from Perception to Action via Multimodal-LMs and Knowledge Graphs** [[paper](https://arxiv.org/abs/2507.09617)]
+- [2025] **A collaborative digital twin built on FAIR data and compute infrastructure** [[paper](https://arxiv.org/abs/2507.00048)]
+- [2025] **Agent Capability Negotiation and Binding Protocol (ACNBP)** [[paper](https://arxiv.org/abs/2506.13590)]
+- [2025] **A Study on the MCP x A2A Framework for Enhancing Interoperability of LLM-based Autonomous Agents** [[paper](https://arxiv.org/abs/2506.01804)]
+- [2025] **Enhancing Clinical Decision Support and EHR Insights through LLMs and the Model Context Protocol: An Open-Source MCP-FHIR Framework** [[paper](https://arxiv.org/abs/2506.13800)]
+- [2025] **Automated Vehicles Should be Connected with Natural Language** [[paper](https://arxiv.org/abs/2507.01059)]
+- [2025] **LLM Agents Are the Antidote to Walled Gardens** [[paper](https://arxiv.org/abs/2506.23978)]
+- [2025] **Systems-Theoretic and Data-Driven Security Analysis in ML-enabled Medical Devices** [[paper](https://arxiv.org/abs/2506.15028)]
+- [2025] **CFTel: A Practical Architecture for Robust and Scalable Telerobotics with Cloud-Fog Automation** [[paper](https://arxiv.org/abs/2506.17991)]
+- [2025] **ACPs: Agent Collaboration Protocols for the Internet of Agents** [[paper](https://arxiv.org/abs/2505.13523)]
+- [2025] **Position: Collaborative Agentic AI Needs Interoperability Across Ecosystems** [[paper](https://arxiv.org/abs/2505.21550)]
+- [2025] **MAIA: A Collaborative Medical AI Platform for Integrated Healthcare Innovation** [[paper](https://arxiv.org/abs/2507.19489)]
+- [2025] **KAITIAN: A Unified Communication Framework for Enabling Efficient Collaboration Across Heterogeneous Accelerators in Embodied AI Systems** [[paper](https://arxiv.org/abs/2505.10183)]
+- [2025] **Agent-as-a-Service based on Agent Network** [[paper](https://arxiv.org/abs/2505.08446)]
+- [2025] **A survey of agent interoperability protocols: Model Context Protocol (MCP), Agent Communication Protocol (ACP), Agent-to-Agent Protocol (A2A), and Agent Network Protocol (ANP)** [[paper](https://arxiv.org/abs/2505.02279)]
+- [2025] **AgentDNS: A Root Domain Naming System for LLM Agents** [[paper](https://arxiv.org/abs/2505.22368)]
+- [2025] **TUM2TWIN: Introducing the Large-Scale Multimodal Urban Digital Twin Benchmark Dataset** [[paper](https://arxiv.org/abs/2505.07396)]
+- [2025] **Agent Context Protocols Enhance Collective Inference** [[paper](https://arxiv.org/abs/2505.14569)]
+- [2025] **Polymer Data Challenges in the AI Era: Bridging Gaps for Next-Generation Energy Materials** [[paper](https://arxiv.org/abs/2505.13494)]
+- [2025] **From Glue-Code to Protocols: A Critical Analysis of A2A and MCP Integration for Scalable Agent Systems** [[paper](https://arxiv.org/abs/2505.03864)]
+- [2025] **Digital Twins in the Cloud: A Modular, Scalable and Interoperable Framework for Accelerating Verification and Validation of Autonomous Driving Solutions** [[paper](https://arxiv.org/abs/2505.12661)]
+- [2025] **SciMantify -- A Hybrid Approach for the Evolving Semantification of Scientific Knowledge** [[paper](https://arxiv.org/abs/2506.21819)]
+- [2025] **Behavioral Universe Network (BUN): A Behavioral Information-Based Framework for Complex Systems** [[paper](https://arxiv.org/abs/2504.15146)]
+- [2025] **Coral Protocol: Open Infrastructure Connecting The Internet of Agents** [[paper](https://arxiv.org/abs/2505.00749)]
+- [2025] **LOKA Protocol: A Decentralized Framework for Trustworthy and Ethical AI Agent Ecosystems** [[paper](https://arxiv.org/abs/2504.10915)]
+- [2025] **The Role of Open-Source LLMs in Shaping the Future of GeoAI** [[paper](https://arxiv.org/abs/2504.17833)]
+- [2025] **Building A Secure Agentic AI Application Leveraging A2A Protocol** [[paper](https://arxiv.org/abs/2504.16902)]
+- [2025] **Enhancing Reasoning with Collaboration and Memory** [[paper](https://arxiv.org/abs/2503.05944)]
+- [2025] **Status and Future Prospects of the Standardization Framework Industry 4.0: A European Perspective** [[paper](https://arxiv.org/abs/2503.08460)]
+- [2025] **Generative AI in Knowledge Work: Design Implications for Data Navigation and Decision-Making** [[paper](https://arxiv.org/abs/2503.18419)]
+- [2025] **OntoAligner: A Comprehensive Modular and Robust Python Toolkit for Ontology Alignment** [[paper](https://arxiv.org/abs/2503.21902)]
+- [2025] **A Circular Construction Product Ontology for End-of-Life Decision-Making** [[paper](https://arxiv.org/abs/2503.13708)]
+- [2025] **Antibiotic Resistance Microbiology Dataset (ARMD): A Resource for Antimicrobial Resistance from EHRs** [[paper](https://arxiv.org/abs/2503.07664)]
+- [2025] **CSSDM Ontology to Enable Continuity of Care Data Interoperability** [[paper](https://arxiv.org/abs/2501.10160)]
+- [2025] **From Conceptual Data Models to Multimodal Representation** [[paper](https://arxiv.org/abs/2504.11459)]
+- [2025] **Data Stewardship Decoded: Mapping Its Diverse Manifestations and Emerging Relevance at a time of AI** [[paper](https://arxiv.org/abs/2502.10399)]
+- [2025] **From Data to Action: Charting A Data-Driven Path to Combat Antimicrobial Resistance** [[paper](https://arxiv.org/abs/2502.00061)]
+- [2025] **Collaborative Content Moderation in the Fediverse** [[paper](https://arxiv.org/abs/2501.05871)]
+- [2025] **Making Software FAIR: A machine-assisted workflow for the research software lifecycle** [[paper](https://arxiv.org/abs/2501.10415)]
+- [2025] **Comparison of Feature Learning Methods for Metadata Extraction from PDF Scholarly Documents** [[paper](https://arxiv.org/abs/2501.05082)]
+
+##### 2024
+
+- [2024] **A Generative AI-driven Metadata Modelling Approach** [[paper](https://arxiv.org/abs/2501.04008)]
+- [2024] **Block MedCare: Advancing healthcare through blockchain integration with AI and IoT** [[paper](https://arxiv.org/abs/2412.02851)]
+- [2024] **CSSDH: An Ontology for Social Determinants of Health to Operational Continuity of Care Data Interoperability** [[paper](https://arxiv.org/abs/2412.09223)]
+- [2024] **Clinnova Federated Learning Proof of Concept: Key Takeaways from a Cross-border Collaboration** [[paper](https://arxiv.org/abs/2410.02443)]
+- [2024] **Novel Development of LLM Driven mCODE Data Model for Improved Clinical Trial Matching to Enable Standardization and Interoperability in Oncology Research** [[paper](https://arxiv.org/abs/2410.19826)]
+- [2024] **NFDI4DSO: Towards a BFO Compliant Ontology for Data Science** [[paper](https://arxiv.org/abs/2408.08698)]
+- [2024] **Future-Proofing Mobile Networks: A Digital Twin Approach to Multi-Signal Management** [[paper](https://arxiv.org/abs/2407.15520)]
+- [2024] **A Collaborative, Human-Centred Taxonomy of AI, Algorithmic, and Automation Harms** [[paper](https://arxiv.org/abs/2407.01294)]
+- [2024] **Rich Interoperable Metadata for Cultural Heritage Projects at Jagiellonian University** [[paper](https://arxiv.org/abs/2407.06976)]
+- [2024] **TMA-Grid: An open-source, zero-footprint web application for FAIR Tissue MicroArray De-arraying** [[paper](https://arxiv.org/abs/2407.21233)]
+- [2024] **CellularLint: A Systematic Approach to Identify Inconsistent Behavior in Cellular Network Specifications** [[paper](https://arxiv.org/abs/2407.13742)]
+- [2024] **fVDB: A Deep-Learning Framework for Sparse, Large-Scale, and High-Performance Spatial Intelligence** [[paper](https://arxiv.org/abs/2407.01781)]
+- [2024] **Gymnasium: A Standard Interface for Reinforcement Learning Environments** [[paper](https://arxiv.org/abs/2407.17032)]
+- [2024] **CollabStory: Multi-LLM Collaborative Story Generation and Authorship Analysis** [[paper](https://arxiv.org/abs/2406.12665)]
+- [2024] **IoT-Based Preventive Mental Health Using Knowledge Graphs and Standards for Better Well-Being** [[paper](https://arxiv.org/abs/2406.13791)]
+- [2024] **Deriva-ML: A Continuous FAIRness Approach to Reproducible Machine Learning Models** [[paper](https://arxiv.org/abs/2407.01608)]
+- [2024] **Foundations for Digital Twins** [[paper](https://arxiv.org/abs/2405.00960)]
+- [2024] **Generation of Asset Administration Shell with Large Language Model Agents: Toward Semantic Interoperability in Digital Twins in the Context of Industry 4.0** [[paper](https://arxiv.org/abs/2403.17209)]
+- [2024] **Enabling Digitalization in Modular Robotic Systems Integration** [[paper](https://arxiv.org/abs/2401.02227)]
+
+##### 2023
+
+- [2023] **Joining Forces for Pathology Diagnostics with AI Assistance: The EMPAIA Initiative** [[paper](https://arxiv.org/abs/2401.09450)]
+- [2023] **Creating a Discipline-specific Commons for Infectious Disease Epidemiology** [[paper](https://arxiv.org/abs/2311.06989)]
+- [2023] **On Fulfilling the Exigent Need for Automating and Modernizing Logistics Infrastructure in India: Enabling AI-based Integration, Digitalization, and Smart Automation of Industrial Parks and Robotic Warehouses** [[paper](https://arxiv.org/abs/2310.01077)]
+- [2023] **Adaptive Distributed Kernel Ridge Regression: A Feasible Distributed Learning Scheme for Data Silos** [[paper](https://arxiv.org/abs/2309.04236)]
+- [2023] **Ontologies in Digital Twins: A Systematic Literature Review** [[paper](https://arxiv.org/abs/2308.15168)]
+- [2023] **Towards Ubiquitous Semantic Metaverse: Challenges, Approaches, and Opportunities** [[paper](https://arxiv.org/abs/2307.06687)]
+- [2023] **Datasheets for Machine Learning Sensors** [[paper](https://arxiv.org/abs/2306.08848)]
+- [2023] **Re-imagining health and well-being in low resource African settings using an augmented AI system and a 3D digital twin** [[paper](https://arxiv.org/abs/2306.01772)]
+
+##### 2022
+
+- [2022] **Need of 6G for the Metaverse Realization** [[paper](https://arxiv.org/abs/2301.03386)]
+- [2022] **FAIR AI Models in High Energy Physics** [[paper](https://arxiv.org/abs/2212.05081)]
 
 [⬆ Back to top](#paper-list)
 
@@ -760,6 +930,7 @@ This repo is designed to be driven by coding agents (OpenCode, Claude Code, …)
 - [2026] **Jaxnasium: Embracing PyTrees For Any-Agent, Cross-Suite Reinforcement Learning** [[paper](https://arxiv.org/abs/2610.36075)] [[code](https://github.com/ponseko/jaxnasium)]
 - [2026] **PhoneBot: A Low-Cost Open Humanoid Robot Platform Reusing Smartphones** [[paper](https://arxiv.org/abs/2610.08737)]
 - [2026] **ClimbLab: MATLAB Simulation Platform for Legged Climbing Robotics** [[paper](https://arxiv.org/abs/2610.09315)]
+- [2026] **RAISE-Vision: An Automated Contact Angle Measurement Platform for Contact Lens Wettability Characterization** [[paper](https://arxiv.org/abs/2610.32188)]
 - [2026] **Skywing: A Platform for Decentralized Mathematical Computing in Unreliable Environments** [[paper](https://arxiv.org/abs/2609.03145)]
 - [2026] **Cnuas: A Software-Defined AI/HPC Rack-scale Emulation Platform and Hyperscale Data Center Facility Twin** [[paper](https://arxiv.org/abs/2609.15889)]
 - [2026] **Catena: A Comprehensive Software Suite for Large-Scale Connectomics** [[paper](https://arxiv.org/abs/2609.21887)] [[code](https://github.com/Mohinta2892/catena.git)]
@@ -767,6 +938,12 @@ This repo is designed to be driven by coding agents (OpenCode, Claude Code, …)
 - [2026] **PANEL: An Open-Source, Self-Hosted Web Platform for Human Evaluation of Generative Models** [[paper](https://arxiv.org/abs/2609.31392)] [[code](https://github.com/matteospanio/panel)]
 - [2026] **Entangle: Uncovering Collaboration in the GitHub Quantum Software Ecosystem** [[paper](https://arxiv.org/abs/2609.28349)]
 - [2026] **PowerMarketJax: A JAX Benchmark Suite for Multi-Agent Reinforcement Learning in Power Markets** [[paper](https://arxiv.org/abs/2609.37321)] [[code](https://github.com/powermarketjax/PowerMarketJax)]
+- [2026] **AerialDojo-200K: A Large-Scale Benchmark Suite for Open-World Aerial Object-Goal Search** [[paper](https://arxiv.org/abs/2609.36066)]
+- [2026] **HoliBench: A Cross-Platform Benchmarking and Deployment Toolkit for Foundation Models in CPS-IoT Applications** [[paper](https://arxiv.org/abs/2609.12412)]
+- [2026] **SwarmNxt: Open-source Software-Hardware Platform for Fast and Agile Aerial Swarms** [[paper](https://arxiv.org/abs/2609.11382)]
+- [2026] **Onboard Vision and MPC Navigation for Underwater Robots: An Open BlueROV2 Platform for Multi-Robot Experiments &amp; Docking** [[paper](https://arxiv.org/abs/2609.38511)]
+- [2026] **Teaching Reinforcement Learning and Humanoid Robotics to High-School Students: An Expert-Validated Curriculum Design on a Low-Cost Open Platform** [[paper](https://arxiv.org/abs/2609.25674)]
+- [2026] **BRIDGE: An Open-Source Humanoid Platform via Morphology-Control Co-Design for Physical AI** [[paper](https://arxiv.org/abs/2609.03497)]
 - [2026] **DD-suite: A cross-platform package to build Decision Diagrams for optimization purposes** [[paper](https://arxiv.org/abs/2608.10957)]
 - [2026] **An Open-Source Benchmark Suite of 3D-IC Testcases** [[paper](https://arxiv.org/abs/2608.25155)]
 - [2026] **An Open-Source Power Measurement Platform for System-Level Semiconductor Testing** [[paper](https://arxiv.org/abs/2608.05888)]
@@ -776,12 +953,17 @@ This repo is designed to be driven by coding agents (OpenCode, Claude Code, …)
 - [2026] **WIP: LLM Odyssey: A Game-Based Platform for Teaching LLM Engineering Concepts** [[paper](https://arxiv.org/abs/2608.16924)]
 - [2026] **Hardware-Enabled Fuzzy Inference: Architectures, Platforms, and Emerging Trends** [[paper](https://arxiv.org/abs/2608.04031)]
 - [2026] **CheMLFlow: An Open-Source Platform for Cheminformatics and Materials Informatics Applications** [[paper](https://arxiv.org/abs/2608.04942)]
+- [2026] **Validation of HRV Studio: A Transparent and Quality-Control-Aware Platform for Heart Rate Variability Analysis** [[paper](https://arxiv.org/abs/2608.24241)]
+- [2026] **Engineering Signals of Human-AI Collaboration in the Agentic Coding Era: A Longitudinal Analysis of 33,228 Pull Requests from vLLM and SGLang with Implications for Biomedical AI Agents and Bioinformatics Pipeline Developmen** [[paper](https://arxiv.org/abs/2608.13884)]
 - [2026] **Anamnesis: An Open-Source Platform for Large-Scale Backstory-Conditioned Survey Simulation** [[paper](https://arxiv.org/abs/2607.10628)]
 - [2026] **OmegaUse-OfficeVal: Benchmarking LLM Agents on Long-Horizon Office-Suite Tasks with Economic Grounding** [[paper](https://arxiv.org/abs/2607.27155)]
 - [2026] **ForMoSA: Forward Modeling tool for Spectral Analysis** [[paper](https://arxiv.org/abs/2607.26243)]
 - [2026] **ParasGB: A Graph Benchmark Suite for Parasitic Estimation on AMS Circuits** [[paper](https://arxiv.org/abs/2607.23225)] [[code](https://github.com/ShenShan123/ParasGB.git)]
 - [2026] **The Open Ant: A Robot Platform for Reinforcement Learning Research** [[paper](https://arxiv.org/abs/2607.18488)]
 - [2026] **CATKit2-HCI: a collaborative framework for advancing high-contrast coronagraph testbeds** [[paper](https://arxiv.org/abs/2607.19921)]
+- [2026] **HiMe: Real-Time Self-Hosted Personal Agent Platform for Health Insights with Wearable Devices** [[paper](https://arxiv.org/abs/2607.21019)]
+- [2026] **Aleena: Alignment Agent for Research Software Engineering Collaborations** [[paper](https://arxiv.org/abs/2607.08043)]
+- [2026] **LLMoxie: Exploring Agentic AI for Scientific Software Development** [[paper](https://arxiv.org/abs/2607.02703)]
 - [2026] **HighTide: An Agent-Curated Open-Source VLSI Benchmark Suite** [[paper](https://arxiv.org/abs/2606.04126)]
 - [2026] **CollaboratoR: A scalable workflow for collaborative data entry and management** [[paper](https://arxiv.org/abs/2606.19280)]
 - [2026] **Beyond Coverage and Kill Scores: Empirically Measuring Test Suite Behavioural Gaps** [[paper](https://arxiv.org/abs/2606.10417)]
@@ -794,6 +976,11 @@ This repo is designed to be driven by coding agents (OpenCode, Claude Code, …)
 - [2026] **From Prompts to Preferences: An Open-Source Platform for Generative AI-Enhanced Conjoint Analysis** [[paper](https://arxiv.org/abs/2606.12972)]
 - [2026] **DeskCraft: Benchmarking Desktop Agents on Professional Workflows and Human-in-the-Loop Collaboration** [[paper](https://arxiv.org/abs/2606.03103)] [[code](https://github.com/mrwwk/DeskCraft)]
 - [2026] **ORCA: A Platform for Open-Source Dexterity Research** [[paper](https://arxiv.org/abs/2606.14561)]
+- [2026] **DEEPMED Search: An Open-Source Agentic Platform for Medical Deep Research with Introspective Verification** [[paper](https://arxiv.org/abs/2606.29746)]
+- [2026] **CADET: A Modular Platform for Evaluating Distributed Cooperative Autonomy in Connected Autonomous Vehicles** [[paper](https://arxiv.org/abs/2606.04072)]
+- [2026] **HERCULES: An Open-Source Simulation Framework for Heterogeneous Multi-Robot SLAM, Collaborative Perception, and Exploration** [[paper](https://arxiv.org/abs/2606.22756)]
+- [2026] **NIMO: A Software Platform for Closed-Loop Materials Exploration with Diverse AI Algorithms** [[paper](https://arxiv.org/abs/2606.15522)]
+- [2026] **Pipette: An Embodied Simulation Platform, Benchmark, and Data-Efficient Augmentation Framework for Wet-Lab Robotics** [[paper](https://arxiv.org/abs/2606.12936)]
 - [2026] **PatRe: A Full-Stage Office Action and Rebuttal Generation Benchmark for Patent Examination** [[paper](https://arxiv.org/abs/2605.03571)]
 - [2026] **Method-level Change-proneness: A Better Metric for Black-box Test Suite Minimization** [[paper](https://arxiv.org/abs/2605.15232)]
 - [2026] **OpenHealth Lake: Designing and testing a data lakehouse platform for health applications** [[paper](https://arxiv.org/abs/2605.19922)]
@@ -804,6 +991,8 @@ This repo is designed to be driven by coding agents (OpenCode, Claude Code, …)
 - [2026] **OpenCompass: A Universal Evaluation Platform for Large Language Models** [[paper](https://arxiv.org/abs/2605.19276)]
 - [2026] **Randompack: Cross-Platform Reproducible Random Number Generation and Distribution Sampling** [[paper](https://arxiv.org/abs/2605.05099)]
 - [2026] **VisAnalog: A Diagnostic Suite for Visual Concept Transfer on Natural Images** *CVPR 2026 as a non-archival report* [[paper](https://arxiv.org/abs/2605.23141)] [[project](https://huggingface.co/datasets/zli99/VisAnalog)]
+- [2026] **SepsisAI Orchestrator: A Containerized and Scalable Platform for Deploying AI Models and Real-Time Monitoring in Early Sepsis Detection** [[paper](https://arxiv.org/abs/2605.22331)]
+- [2026] **A Four-Tier Communication Architecture and Sim-to-Real Validation of a Graphical Open-Source Platform for Robotic Engineering Education** [[paper](https://arxiv.org/abs/2606.00550)]
 - [2026] **BenGER Platform: A Collaborative Web Platform for End-to-End Benchmarking of German Legal Tasks** [[paper](https://arxiv.org/abs/2604.13583)]
 - [2026] **Augmenting unit test suites from integration tests** [[paper](https://arxiv.org/abs/2604.17508)]
 - [2026] **CommonMorph: Participatory Morphological Documentation Platform** [[paper](https://arxiv.org/abs/2604.04515)]
@@ -819,6 +1008,11 @@ This repo is designed to be driven by coding agents (OpenCode, Claude Code, …)
 - [2026] **The ecosystem of machine learning competitions: Platforms, participants, and their impact on AI development** [[paper](https://arxiv.org/abs/2604.08001)]
 - [2026] **SimEval-IR: A Unified Toolkit and Benchmark Suite for Evaluating User Simulators and Search Sessions** [[paper](https://arxiv.org/abs/2604.27878)]
 - [2026] **R2G: A Multi-View Circuit Graph Benchmark Suite from RTL to GDSII** [[paper](https://arxiv.org/abs/2604.08810)] [[code](https://github.com/ShenShan123/R2G)]
+- [2026] **LanG -- A Governance-Aware Agentic AI Platform for Unified Security Operations** [[paper](https://arxiv.org/abs/2604.05440)]
+- [2026] **CiteRadar: A Citation Intelligence Platform for Researcher Profiling and Geographic Visualization** [[paper](https://arxiv.org/abs/2604.25057)]
+- [2026] **SpikingBrain2.0: Brain-Inspired Foundation Models for Efficient Long-Context and Cross-Platform Inference** [[paper](https://arxiv.org/abs/2604.22575)]
+- [2026] **NeuroMesh: A Unified Neural Inference Framework for Decentralized Multi-Robot Collaboration** [[paper](https://arxiv.org/abs/2604.15475)]
+- [2026] **Threat-Oriented Digital Twinning for Security Evaluation of Autonomous Platforms** [[paper](https://arxiv.org/abs/2604.25757)]
 - [2026] **Metriq: A Collaborative Platform for Benchmarking Quantum Computers** [[paper](https://arxiv.org/abs/2603.08680)]
 - [2026] **GeoBenchr: An Application-Centric Benchmarking Suite for Spatiotemporal Database Platforms** [[paper](https://arxiv.org/abs/2603.09398)]
 - [2026] **Votiverse: A Configurable Governance Platform for Democratic Decision-Making** [[paper](https://arxiv.org/abs/2604.20863)]
@@ -826,9 +1020,22 @@ This repo is designed to be driven by coding agents (OpenCode, Claude Code, …)
 - [2026] **RADIUS: Ranking, Distribution, and Significance - A Comprehensive Alignment Suite for Survey Simulation** [[paper](https://arxiv.org/abs/2603.19002)]
 - [2026] **An Open-Source Robotics Research Platform for Autonomous Laparoscopic Surgery** [[paper](https://arxiv.org/abs/2603.08490)]
 - [2026] **EnterpriseLab: A Full-Stack Platform for developing and deploying agents in Enterprises** [[paper](https://arxiv.org/abs/2603.21630)]
+- [2026] **PeopleSearchBench: Evaluating AI-Powered People Search Platforms with Criteria-Grounded Verification** [[paper](https://arxiv.org/abs/2603.27476)]
+- [2026] **AgentDS Technical Report: Benchmarking the Future of Human-AI Collaboration in Domain-Specific Data Science** [[paper](https://arxiv.org/abs/2603.19005)]
+- [2026] **MUSE: A Run-Centric Platform for Multimodal Unified Safety Evaluation of Large Language Models** [[paper](https://arxiv.org/abs/2603.02482)]
+- [2026] **A Unified Platform and Quality Assurance Framework for 3D Ultrasound Reconstruction with Robotic, Optical, and Electromagnetic Tracking** [[paper](https://arxiv.org/abs/2603.20077)]
 - [2026] **Evaluation and Benchmarking Suite for Financial Large Language Models and Agents** [[paper](https://arxiv.org/abs/2602.19073)]
 - [2026] **ICSSPulse: A Modular LLM-Assisted Platform for Industrial Control System Penetration Testing** [[paper](https://arxiv.org/abs/2602.20663)]
 - [2026] **AIRS-Bench: a Suite of Tasks for Frontier AI Research Science Agents** [[paper](https://arxiv.org/abs/2602.06855)]
+- [2026] **Open TutorAI: An Open-source Platform for Personalized and Immersive Learning with Generative AI** [[paper](https://arxiv.org/abs/2602.07176)]
+- [2026] **A Microservice-Based Platform for Sustainable and Intelligent SLO Fulfilment and Service Management** [[paper](https://arxiv.org/abs/2602.12875)]
+- [2026] **A Collaborative Safety Shield for Safe and Efficient CAV Lane Changes in Congested On-Ramp Merging** [[paper](https://arxiv.org/abs/2602.10007)]
+- [2026] **Mobile-Agent-v3.5: Multi-platform Fundamental GUI Agents** [[paper](https://arxiv.org/abs/2602.16855)]
+- [2026] **RAPID: Reconfigurable, Adaptive Platform for Iterative Design** [[paper](https://arxiv.org/abs/2602.06653)]
+- [2026] **Orcheo: A Modular Full-Stack Platform for Conversational Search** [[paper](https://arxiv.org/abs/2602.14710)]
+- [2026] **Reinforcement Learning-Based Dynamic Management of Structured Parallel Farm Skeletons on Serverless Platforms** [[paper](https://arxiv.org/abs/2602.06555)]
+- [2026] **Athena: An Autonomous Open-Hardware Tracked Rescue Robot Platform** [[paper](https://arxiv.org/abs/2602.19898)]
+- [2026] **SpecFuse: A Spectral-Temporal Fusion Predictive Control Framework for UAV Landing on Oscillating Marine Platforms** [[paper](https://arxiv.org/abs/2602.15633)]
 - [2026] **VirtualEnv: A Platform for Embodied AI Research** [[paper](https://arxiv.org/abs/2601.07553)]
 - [2026] **ArabicDialectHub: A Cross-Dialectal Arabic Learning Resource and Platform** [[paper](https://arxiv.org/abs/2601.22987)]
 - [2026] **Lantern: A Minimalist Robotic Object Platform** [[paper](https://arxiv.org/abs/2601.22381)]
@@ -840,6 +1047,8 @@ This repo is designed to be driven by coding agents (OpenCode, Claude Code, …)
 - [2026] **Investigating Notable Metadata Practices in PyPI Libraries: An Empirical Study about Repository and Donation Platform URLs** [[paper](https://arxiv.org/abs/2601.15139)]
 - [2026] **MHDash: An Online Platform for Benchmarking Mental Health-Aware AI Assistants** [[paper](https://arxiv.org/abs/2602.00353)]
 - [2026] **An Open-Source Platform for Industrial Collaboration on CO2-Impurity Studies** *World CCUS Conference 2026* [[paper](https://doi.org/10.3997/2214-4609.202622087)]
+- [2026] **MHub.ai: A Simple, Standardized, and Reproducible Platform for AI Models in Medical Imaging** [[paper](https://arxiv.org/abs/2601.10154)]
+- [2026] **Genie Sim 3.0 : A High-Fidelity Comprehensive Simulation Platform for Humanoid Robot** [[paper](https://arxiv.org/abs/2601.02078)]
 
 ##### 2025
 
@@ -849,13 +1058,168 @@ This repo is designed to be driven by coding agents (OpenCode, Claude Code, …)
 - [2025] **AI4EOSC: a Federated Cloud Platform for Artificial Intelligence in Scientific Research** [[paper](https://arxiv.org/abs/2512.16455)]
 - [2025] **Scalable Relay Switching Platform for Automated Multi-Point Resistance Measurements** [[paper](https://arxiv.org/abs/2512.20419)]
 - [2025] **DeepQuantum: A PyTorch-based Software Platform for Quantum Machine Learning and Photonic Quantum Computing** [[paper](https://arxiv.org/abs/2512.18995)]
+- [2025] **hls4ml: A Flexible, Open-Source Platform for Deep Learning Acceleration on Reconfigurable Hardware** [[paper](https://arxiv.org/abs/2512.01463)]
+- [2025] **Nonlinear System Identification Nano-drone Benchmark** [[paper](https://arxiv.org/abs/2512.14450)]
 - [2025] **The SCIP Optimization Suite 10.0** [[paper](https://arxiv.org/abs/2511.18580)]
 - [2025] **Preemption-Enhanced Benchmark Suite for FPGAs** [[paper](https://arxiv.org/abs/2511.06736)]
 - [2025] **AfriSpeech-MultiBench: A Verticalized Multidomain Multicountry Benchmark Suite for African Accented English ASR** [[paper](https://arxiv.org/abs/2511.14255)]
 - [2025] **FsimNNs: An Open-Source Graph Neural Network Platform for SEU Simulation-based Fault Injection** [[paper](https://arxiv.org/abs/2511.09131)] [[code](https://github.com/luli2021/FsimNNs)]
 - [2025] **DISCO: A Browser-Based Privacy-Preserving Framework for Distributed Collaborative Learning** [[paper](https://arxiv.org/abs/2511.19750)] [[code](https://github.com/epfml/disco)]
 - [2025] **Latent Collaboration in Multi-Agent Systems** [[paper](https://arxiv.org/abs/2511.20639)] [[code](https://github.com/Gen-Verse/LatentMAS)]
+- [2025] **Be My Eyes: Extending Large Language Models to New Modalities Through Multi-Agent Collaboration** [[paper](https://arxiv.org/abs/2511.19417)]
+- [2025] **OceanAI: A Conversational Platform for Accurate, Transparent, Near-Real-Time Oceanographic Insights** [[paper](https://arxiv.org/abs/2511.01019)]
+- [2025] **Binary BPE: A Family of Cross-Platform Tokenizers for Binary Analysis** [[paper](https://arxiv.org/abs/2511.17573)]
+- [2025] **AIRHILT: A Human-in-the-Loop Testbed for Multimodal Conflict Detection in Aviation** [[paper](https://arxiv.org/abs/2511.18718)]
+- [2025] **Deliberate Lab: A Platform for Real-Time Human-AI Social Experiments** [[paper](https://arxiv.org/abs/2510.13011)]
+- [2025] **Bee: A High-Quality Corpus and Full-Stack Suite to Unlock Advanced Fully Open MLLMs** [[paper](https://arxiv.org/abs/2510.13795)]
+- [2025] **Unleashing Diverse Thinking Modes in LLMs through Multi-Agent Collaboration** [[paper](https://arxiv.org/abs/2510.16645)]
+- [2025] **TranSimHub:A Unified Air-Ground Simulation Platform for Multi-Modal Perception and Decision-Making** [[paper](https://arxiv.org/abs/2510.15365)]
+- [2025] **Octax: Accelerated CHIP-8 Arcade Environments for Reinforcement Learning in JAX** [[paper](https://arxiv.org/abs/2510.01764)]
+- [2025] **LLM Bazaar: A Service Design for Supporting Collaborative Learning with an LLM-Powered Multi-Party Collaboration Infrastructure** [[paper](https://arxiv.org/abs/2510.18877)]
+- [2025] **ToolUniverse: An open platform for democratizing AI scientists** [[paper](https://arxiv.org/abs/2509.23426)]
+- [2025] **A Cartography of Open Collaboration in Open Source AI: Mapping Practices, Motivations, and Governance in 14 Open Large Language Model Projects** [[paper](https://arxiv.org/abs/2509.25397)]
+- [2025] **PREDICT-GBM: A multi-center platform to advance personalized glioblastoma radiotherapy planning** [[paper](https://arxiv.org/abs/2509.13360)]
+- [2025] **OpenFake: An Open Dataset and Platform Toward Real-World Deepfake Detection** [[paper](https://arxiv.org/abs/2509.09495)]
+- [2025] **AISSISTANT: Human-AI Collaborative Review and Perspective Research Workflows in Data Science** [[paper](https://arxiv.org/abs/2509.12282)]
+- [2025] **RealMirror: A Comprehensive, Open-Source Vision-Language-Action Platform for Embodied AI** [[paper](https://arxiv.org/abs/2509.14687)]
+- [2025] **STARC: See-Through-Wall Augmented Reality Framework for Human-Robot Collaboration in Emergency Response** [[paper](https://arxiv.org/abs/2509.15507)]
+- [2025] **Autonomous Elemental Characterization Enabled by a Low Cost Robotic Platform Built Upon a Generalized Software Architecture** [[paper](https://arxiv.org/abs/2509.19541)]
+- [2025] **Online Dynamic Goal Recognition in Gym Environments** [[paper](https://arxiv.org/abs/2509.23244)]
 - [2025] **Retraction: The construction of ecosystem and collaboration platform for enterprise open innovation** *Frontiers in Psychology* [[paper](https://doi.org/10.3389/fpsyg.2025.1675298)]
+- [2025] **Mediator-Guided Multi-Agent Collaboration among Open-Source Models for Medical Decision-Making** [[paper](https://arxiv.org/abs/2508.05996)]
+- [2025] **CrafterDojo: A Suite of Foundation Models for Building Open-Ended Embodied Agents in Crafter** [[paper](https://arxiv.org/abs/2508.13530)]
+- [2025] **FinWorld: An All-in-One Open-Source Platform for End-to-End Financial AI Research and Deployment** [[paper](https://arxiv.org/abs/2508.02292)]
+- [2025] **MuFlex: A Scalable, Physics-based Platform for Multi-Building Flexibility Analysis and Coordination** [[paper](https://arxiv.org/abs/2508.13532)]
+- [2025] **Benchmarking Hindi LLMs: A New Suite of Datasets and a Comparative Analysis** [[paper](https://arxiv.org/abs/2508.19831)]
+- [2025] **Switch4EAI: Leveraging Console Game Platform for Benchmarking Robotic Athletics** [[paper](https://arxiv.org/abs/2508.13444)]
+- [2025] **SDBench: A Comprehensive Benchmark Suite for Speaker Diarization** [[paper](https://arxiv.org/abs/2507.16136)]
+- [2025] **AutoBridge: Automating Smart Device Integration with Centralized Platform** [[paper](https://arxiv.org/abs/2507.23178)]
+- [2025] **Seq vs Seq: An Open Suite of Paired Encoders and Decoders** [[paper](https://arxiv.org/abs/2507.11412)]
+- [2025] **Towards Interpretable Renal Health Decline Forecasting via Multi-LMM Collaborative Reasoning Framework** [[paper](https://arxiv.org/abs/2507.22464)]
+- [2025] **AirV2X: Unified Air-Ground Vehicle-to-Everything Collaboration** [[paper](https://arxiv.org/abs/2506.19283)]
+- [2025] **MedAgentBoard: Benchmarking Multi-Agent Collaboration with Conventional Methods for Diverse Medical Tasks** [[paper](https://arxiv.org/abs/2505.12371)]
+- [2025] **MMedAgent-RL: Optimizing Multi-Agent Collaboration for Multimodal Medical Reasoning** [[paper](https://arxiv.org/abs/2506.00555)]
+- [2025] **Group Think: Multiple Concurrent Reasoning Agents Collaborating at Token Level Granularity** [[paper](https://arxiv.org/abs/2505.11107)]
+- [2025] **FLAME-MoE: A Transparent End-to-End Research Platform for Mixture-of-Experts Language Models** [[paper](https://arxiv.org/abs/2505.20225)]
+- [2025] **PyTDC: A multimodal machine learning training, evaluation, and inference platform for biomedical foundation models** [[paper](https://arxiv.org/abs/2505.05577)]
+- [2025] **PyTupli: A Scalable Infrastructure for Collaborative Offline Reinforcement Learning Projects** [[paper](https://arxiv.org/abs/2505.16754)]
+- [2025] **RoboOS: A Hierarchical Embodied Framework for Cross-Embodiment and Multi-Agent Collaboration** [[paper](https://arxiv.org/abs/2505.03673)]
+- [2025] **MEbots: Integrating a RISC-V Virtual Platform with a Robotic Simulator for Energy-aware Design** [[paper](https://arxiv.org/abs/2505.16682)]
+- [2025] **FalconWing: An Ultra-Light Indoor Fixed-Wing UAV Platform for Vision-Based Autonomy** [[paper](https://arxiv.org/abs/2505.01383)]
+- [2025] **SciSciGPT: Advancing Human-AI Collaboration in the Science of Science** [[paper](https://arxiv.org/abs/2504.05559)]
+- [2025] **Towards Optimal Circuit Generation: Multi-Agent Collaboration Meets Collective Intelligence** [[paper](https://arxiv.org/abs/2504.14625)]
+- [2025] **QGen Studio: An Adaptive Question-Answer Generation, Training and Evaluation Platform** [[paper](https://arxiv.org/abs/2504.06136)]
+- [2025] **Two Heads are Better Than One: Test-time Scaling of Multi-agent Collaborative Reasoning** [[paper](https://arxiv.org/abs/2504.09772)]
+- [2025] **Embracing Collaboration Over Competition: Condensing Multiple Prompts for Visual In-Context Learning** [[paper](https://arxiv.org/abs/2504.21263)]
+- [2025] **A Systematic Approach to Design Real-World Human-in-the-Loop Deep Reinforcement Learning: Salient Features, Challenges and Trade-offs** [[paper](https://arxiv.org/abs/2504.17006)]
+- [2025] **LLM Misalignment via Adversarial RLHF Platforms** [[paper](https://arxiv.org/abs/2503.03039)]
+- [2025] **ExChanGeAI: An End-to-End Platform and Efficient Foundation Model for Electrocardiogram Analysis and Fine-tuning** [[paper](https://arxiv.org/abs/2503.13570)]
+- [2025] **Unreal-MAP: Unreal-Engine-Based General Platform for Multi-Agent Reinforcement Learning** [[paper](https://arxiv.org/abs/2503.15947)]
+- [2025] **PERC: a suite of software tools for the curation of cryoEM data with application to simulation, modelling and machine learning** [[paper](https://arxiv.org/abs/2503.13329)]
+- [2025] **AgiBot World Colosseo: A Large-scale Manipulation Platform for Scalable and Intelligent Embodied Systems** [[paper](https://arxiv.org/abs/2503.06669)]
+- [2025] **Adversarial Data Collection: Human-Collaborative Perturbations for Efficient and Robust Robotic Imitation Learning** [[paper](https://arxiv.org/abs/2503.11646)]
+- [2025] **Collab-Overcooked: Benchmarking and Evaluating Large Language Models as Collaborative Agents** [[paper](https://arxiv.org/abs/2502.20073)]
+- [2025] **SWE-Arena: An Interactive Platform for Evaluating Foundation Models in Software Engineering** [[paper](https://arxiv.org/abs/2502.01860)]
+- [2025] **Analog and Multi-modal Manufacturing Datasets Acquired on the Future Factories Platform V2** [[paper](https://arxiv.org/abs/2502.05020)]
+- [2025] **AttentionEngine: A Versatile Framework for Efficient Attention Mechanisms on Diverse Hardware Platforms** [[paper](https://arxiv.org/abs/2502.15349)]
+- [2025] **Design and Implementation of a Dual Uncrewed Surface Vessel Platform for Bathymetry Research under High-flow Conditions** [[paper](https://arxiv.org/abs/2502.12539)]
+- [2025] **ToddlerBot: Open-Source ML-Compatible Humanoid Platform for Loco-Manipulation** [[paper](https://arxiv.org/abs/2502.00893)]
+- [2025] **A standardised platform for translational advances in fluidic soft systems** [[paper](https://arxiv.org/abs/2502.10547)]
+- [2025] **Openfly: A comprehensive platform for aerial vision-language navigation** [[paper](https://arxiv.org/abs/2502.18041)]
+- [2025] **Stonefish: Supporting Machine Learning Research in Marine Robotics** [[paper](https://arxiv.org/abs/2502.11887)]
+- [2025] **HIVEX: A High-Impact Environment Suite for Multi-Agent Research (extended version)** [[paper](https://arxiv.org/abs/2501.04180)]
+- [2025] **ASKCOS: an open source software suite for synthesis planning** [[paper](https://arxiv.org/abs/2501.01835)]
+- [2025] **GraphChase: A Platform and Benchmark for Urban Network Security Games** [[paper](https://arxiv.org/abs/2501.17559)]
+- [2025] **Cosmos World Foundation Model Platform for Physical AI** [[paper](https://arxiv.org/abs/2501.03575)]
+- [2025] **CyberMentor: AI Powered Learning Tool Platform to Address Diverse Student Needs in Cybersecurity Education** [[paper](https://arxiv.org/abs/2501.09709)]
+- [2025] **RLPP: A Residual Method for Zero-Shot Real-World Autonomous Racing on Scaled Platforms** [[paper](https://arxiv.org/abs/2501.17311)]
+- [2025] **Open-Source Autonomous Driving Software Platforms: Comparison of Autoware and Apollo** [[paper](https://arxiv.org/abs/2501.18942)]
+
+##### 2024
+
+- [2024] **DriveTester: A Unified Platform for Simulation-Based Autonomous Driving Testing** [[paper](https://arxiv.org/abs/2412.12656)]
+- [2024] **ROUTE: Robust Multitask Tuning and Collaboration for Text-to-SQL** [[paper](https://arxiv.org/abs/2412.10138)]
+- [2024] **GPgym: A Remote Service Platform with Gaussian Process Regression for Online Learning** [[paper](https://arxiv.org/abs/2412.13276)]
+- [2024] **Scalable and low-cost remote lab platforms: Teaching industrial robotics using open-source tools and understanding its social implications** [[paper](https://arxiv.org/abs/2412.15369)]
+- [2024] **The Zamba2 Suite: Technical Report** [[paper](https://arxiv.org/abs/2411.15242)]
+- [2024] **Lucia: A Temporal Computing Platform for Contextual Intelligence** [[paper](https://arxiv.org/abs/2411.12778)]
+- [2024] **PyGen: A Collaborative Human-AI Approach to Python Package Creation** [[paper](https://arxiv.org/abs/2411.08932)]
+- [2024] **Leveraging LLMs to Enable Natural Language Search on Go-to-market Platforms** [[paper](https://arxiv.org/abs/2411.05048)]
+- [2024] **COMPL-AI Framework: A Technical Interpretation and LLM Benchmarking Suite for the EU Artificial Intelligence Act** [[paper](https://arxiv.org/abs/2410.07959)]
+- [2024] **YanTian: An Application Platform for AI Global Weather Forecasting Models** [[paper](https://arxiv.org/abs/2410.04539)]
+- [2024] **The Smart Buildings Control Suite: A Diverse Open Source Benchmark to Evaluate and Scale HVAC Control Policies for Sustainability** [[paper](https://arxiv.org/abs/2410.03756)]
+- [2024] **Adver-City: Open-Source Multi-Modal Dataset for Collaborative Perception Under Adverse Weather Conditions** [[paper](https://arxiv.org/abs/2410.06380)]
+- [2024] **Low-code from frontend to backend: Connecting conversational user interfaces to backend services via a low-code IoT platform** [[paper](https://arxiv.org/abs/2410.00006)]
+- [2024] **On-Device Collaborative Language Modeling via a Mixture of Generalists and Specialists** [[paper](https://arxiv.org/abs/2409.13931)]
+- [2024] **An Open-Source Soft Robotic Platform for Autonomous Aerial Manipulation in the Wild** [[paper](https://arxiv.org/abs/2409.07662)]
+- [2024] **USV-AUV Collaboration Framework for Underwater Tasks under Extreme Sea Conditions** [[paper](https://arxiv.org/abs/2409.02444)]
+- [2024] **Data-Juicer Sandbox: A Feedback-Driven Suite for Multimodal Data-Model Co-development** [[paper](https://arxiv.org/abs/2407.11784)]
+- [2024] **MSSP : A Versatile Multi-Scenario Adaptable Intelligent Robot Simulation Platform Based on LIDAR-Inertial Fusion** [[paper](https://arxiv.org/abs/2407.14102)]
+- [2024] **Collaborative Graph Exploration with Reduced Pose-SLAM Uncertainty via Submodular Optimization** [[paper](https://arxiv.org/abs/2407.01013)]
+- [2024] **A UAV-assisted Wireless Localization Challenge on AERPAW** [[paper](https://arxiv.org/abs/2407.12180)]
+- [2024] **MLLMGuard: A Multi-dimensional Safety Evaluation Suite for Multimodal Large Language Models** [[paper](https://arxiv.org/abs/2406.07594)]
+- [2024] **GenAI Arena: An Open Evaluation Platform for Generative Models** [[paper](https://arxiv.org/abs/2406.04485)]
+- [2024] **BiomedBench: A benchmark suite of TinyML biomedical applications for low-power wearables** [[paper](https://arxiv.org/abs/2406.03886)]
+- [2024] **Benchmarking SLAM Algorithms in the Cloud: The SLAM Hive Benchmarking Suite** [[paper](https://arxiv.org/abs/2406.17586)]
+- [2024] **UniQuad: A Unified and Versatile Quadrotor Platform Series for UAV Research and Application** [[paper](https://arxiv.org/abs/2407.00578)]
+- [2024] **Multi-Camera Hand-Eye Calibration for Human-Robot Collaboration in Industrial Robotic Workcells** [[paper](https://arxiv.org/abs/2406.11392)]
+- [2024] **CarDreamer: Open-Source Learning Platform for World Model based Autonomous Driving** [[paper](https://arxiv.org/abs/2405.09111)]
+- [2024] **Optimizing Foundation Model Inference on a Many-tiny-core Open-source RISC-V Platform** [[paper](https://arxiv.org/abs/2405.19284)]
+- [2024] **FinRobot: An Open-Source AI Agent Platform for Financial Applications using Large Language Models** [[paper](https://arxiv.org/abs/2405.14767)]
+- [2024] **DTR-Bench: An in silico Environment and Benchmark Platform for Reinforcement Learning Based Dynamic Treatment Regime** [[paper](https://arxiv.org/abs/2405.18610)]
+- [2024] **RoboCar: A Rapidly Deployable Open-Source Platform for Autonomous Driving Research** [[paper](https://arxiv.org/abs/2405.03572)]
+- [2024] **BenchNav: Simulation Platform for Benchmarking Off-road Navigation Algorithms with Probabilistic Traversability** [[paper](https://arxiv.org/abs/2405.13318)]
+- [2024] **MIMIR: A Streamlined Platform for Personalized Agent Tuning in Domain Expertise** [[paper](https://arxiv.org/abs/2404.04285)]
+- [2024] **LEGENT: Open Platform for Embodied Agents** [[paper](https://arxiv.org/abs/2404.18243)]
+- [2024] **Open-Source AI-based SE Tools: Opportunities and Challenges of Collaborative Software Learning** [[paper](https://arxiv.org/abs/2404.06201)]
+- [2024] **CyberSecEval 2: A Wide-Ranging Cybersecurity Evaluation Suite for Large Language Models** [[paper](https://arxiv.org/abs/2404.13161)]
+- [2024] **Optimal Design and Implementation of an Open-source Emulation Platform for User-Centric Shared E-mobility Services** [[paper](https://arxiv.org/abs/2403.07964)]
+- [2024] **MQE: Unleashing the Power of Interaction with Multi-agent Quadruped Environment** [[paper](https://arxiv.org/abs/2403.16015)]
+- [2024] **Uni-RLHF: Universal Platform and Benchmark Suite for Reinforcement Learning with Diverse Human Feedback** [[paper](https://arxiv.org/abs/2402.02423)]
+- [2024] **Privacy-Enhancing Collaborative Information Sharing through Federated Learning -- A Case of the Insurance Industry** [[paper](https://arxiv.org/abs/2402.14983)]
+- [2024] **FedKit: Enabling Cross-Platform Federated Learning for Android and iOS** [[paper](https://arxiv.org/abs/2402.10464)]
+- [2024] **LimSim++: A Closed-Loop Platform for Deploying Multimodal LLMs in Autonomous Driving** [[paper](https://arxiv.org/abs/2402.01246)]
+
+##### 2023
+
+- [2023] **AV4EV: Open-Source Modular Autonomous Electric Vehicle Platform for Making Mobility Research Accessible** [[paper](https://arxiv.org/abs/2312.00951)]
+- [2023] **Heterogeneous federated collaborative filtering using FAIR: Federated Averaging in Random Subspaces** [[paper](https://arxiv.org/abs/2311.01722)]
+- [2023] **JADE: A Linguistics-based Safety Evaluation Platform for Large Language Models** [[paper](https://arxiv.org/abs/2311.00286)]
+- [2023] **Modular Customizable ROS-Based Framework for Rapid Development of Social Robots** [[paper](https://arxiv.org/abs/2311.15780)]
+- [2023] **BatteryML:An Open-source platform for Machine Learning on Battery Degradation** [[paper](https://arxiv.org/abs/2310.14714)]
+- [2023] **MetaBox: A Benchmark Platform for Meta-Black-Box Optimization with Reinforcement Learning** [[paper](https://arxiv.org/abs/2310.08252)]
+- [2023] **Surgical Gym: A high-performance GPU-based platform for reinforcement learning with surgical robots** [[paper](https://arxiv.org/abs/2310.04676)]
+- [2023] **Open Gimbal: A 3 Degrees of Freedom Open Source Sensing and Testing Platform for Nano and Micro UAVs** [[paper](https://arxiv.org/abs/2310.02678)]
+- [2023] **OmniDrones: An Efficient and Flexible Platform for Reinforcement Learning in Drone Control** [[paper](https://arxiv.org/abs/2309.12825)]
+- [2023] **Cleanba: A Reproducible and Efficient Distributed Reinforcement Learning Platform** [[paper](https://arxiv.org/abs/2310.00036)]
+- [2023] **RobotPerf: An Open-Source, Vendor-Agnostic, Benchmarking Suite for Evaluating Robotics Computing System Performance** [[paper](https://arxiv.org/abs/2309.09212)]
+- [2023] **Enabling Large-scale Heterogeneous Collaboration with Opportunistic Communications** [[paper](https://arxiv.org/abs/2309.15975)]
+- [2023] **Intelligence-Endogenous Management Platform for Computing and Network Convergence** [[paper](https://arxiv.org/abs/2308.03450)]
+- [2023] **Data Collaboration Analysis applied to Compound Datasets and the Introduction of Projection data to Non-IID settings** [[paper](https://arxiv.org/abs/2308.00280)]
+- [2023] **Automated Vehicle Platform with Connected Driving Capabilities** [[paper](https://arxiv.org/abs/2308.02176)]
+- [2023] **MARBLER: An Open Platform for Standardized Evaluation of Multi-Robot Reinforcement Learning Algorithms** [[paper](https://arxiv.org/abs/2307.03891)]
+- [2023] **Maestro: A Gamified Platform for Teaching AI Robustness** [[paper](https://arxiv.org/abs/2306.08238)]
+- [2023] **Share, Collaborate, Benchmark: Advancing Travel Demand Research through rigorous open-source collaboration** [[paper](https://arxiv.org/abs/2306.06194)]
+- [2023] **IMP-MARL: a Suite of Environments for Large-scale Infrastructure Management Planning via MARL** [[paper](https://arxiv.org/abs/2306.11551)]
+- [2023] **DataCI: A Platform for Data-Centric AI on Streaming Data** [[paper](https://arxiv.org/abs/2306.15538)]
+- [2023] **Git-Theta: A Git Extension for Collaborative Development of Machine Learning Models** [[paper](https://arxiv.org/abs/2306.04529)]
+- [2023] **ScenarioNet: Open-Source Platform for Large-Scale Traffic Scenario Simulation and Modeling** [[paper](https://arxiv.org/abs/2306.12241)]
+- [2023] **UDTIRI: An Online Open-Source Intelligent Road Inspection Benchmark Suite** [[paper](https://arxiv.org/abs/2304.08842)]
+- [2023] **A multi-functional simulation platform for on-demand ride service operations** [[paper](https://arxiv.org/abs/2303.12336)]
+- [2023] **Upside down: affordable high-performance motion platform** [[paper](https://arxiv.org/abs/2303.17974)]
+- [2023] **The SLAM Hive Benchmarking Suite** [[paper](https://arxiv.org/abs/2303.11854)]
+- [2023] **eViper: A Scalable Platform for Untethered Modular Soft Robots** [[paper](https://arxiv.org/abs/2303.01676)]
+- [2023] **Aerostack2: A Software Framework for Developing Multi-robot Aerial Systems** [[paper](https://arxiv.org/abs/2303.18237)]
+- [2023] **Towards Implementing Energy-aware Data-driven Intelligence for Smart Health Applications on Mobile Platforms** [[paper](https://arxiv.org/abs/2302.00514)]
+- [2023] **COVINS-G: A Generic Back-end for Collaborative Visual-Inertial SLAM** [[paper](https://arxiv.org/abs/2301.07147)]
+- [2023] **Orbit: A Unified Simulation Framework for Interactive Robot Learning Environments** [[paper](https://arxiv.org/abs/2301.04195)]
+
+##### 2022
+
+- [2022] **Flowstorm: Open-Source Platform with Hybrid Dialogue Architecture** [[paper](https://arxiv.org/abs/2212.09377)]
+- [2022] **A Grid-based Sensor Floor Platform for Robot Localization using Machine Learning** [[paper](https://arxiv.org/abs/2212.04721)]
+- [2022] **AVstack: An Open-Source, Reconfigurable Platform for Autonomous Vehicle Development** [[paper](https://arxiv.org/abs/2212.13857)]
+- [2022] **XTENTH-CAR: A Proportionally Scaled Experimental Vehicle Platform for Connected Autonomy and All-Terrain Research** [[paper](https://arxiv.org/abs/2212.01691)]
 
 ##### 2019
 
@@ -1143,6 +1507,33 @@ This repo is designed to be driven by coding agents (OpenCode, Claude Code, …)
 
 - [2025] **Federated Learning for Pediatric Pneumonia Detection: Enabling Collaborative Diagnosis Without Sharing Patient Data** [[paper](https://arxiv.org/abs/2511.11714)]
 - [2025] **Comparative Security Performance of Workday Cloud ERP Across Key Dimensions** [[paper](https://arxiv.org/abs/2511.15840)]
+- [2025] **Research in Collaborative Learning Does Not Serve Cross-Silo Federated Learning in Practice** [[paper](https://arxiv.org/abs/2510.12595)]
+- [2025] **Beyond Static Knowledge Messengers: Towards Adaptive, Fair, and Scalable Federated Learning for Medical AI** [[paper](https://arxiv.org/abs/2510.06259)]
+- [2025] **PETLP: A Privacy-by-Design Pipeline for Social Media Data in AI Research** [[paper](https://arxiv.org/abs/2508.09232)]
+- [2025] **Oblivionis: A Lightweight Learning and Unlearning Framework for Federated Large Language Models** [[paper](https://arxiv.org/abs/2508.08875)]
+- [2025] **MobText-SISA: Efficient Machine Unlearning for Mobility Logs with Spatio-Temporal and Natural-Language Data** [[paper](https://arxiv.org/abs/2508.19554)]
+- [2025] **Policy-Driven AI in Dataspaces: Taxonomy, Explainability, and Pathways for Compliant Innovation** [[paper](https://arxiv.org/abs/2507.20014)]
+- [2025] **Find a Scapegoat: Poisoning Membership Inference Attack and Defense to Federated Learning** [[paper](https://arxiv.org/abs/2507.00423)]
+- [2025] **Simple Yet Effective: Extracting Private Data Across Clients in Federated Fine-Tuning of Large Language Models** [[paper](https://arxiv.org/abs/2506.06060)]
+- [2025] **DRAUN: An Algorithm-Agnostic Data Reconstruction Attack on Federated Unlearning Systems** [[paper](https://arxiv.org/abs/2506.01777)]
+- [2025] **Inclusive Federated Learning Through Compliance-Weighted Noise Allocation in Healthcare AI** [[paper](https://arxiv.org/abs/2505.22108)]
+- [2025] **Asynchronous Personalized Federated Learning through Global Memorization** [[paper](https://arxiv.org/abs/2503.00407)]
+- [2025] **Forgetting Any Data at Any Time: A Theoretically Certified Unlearning Framework for Vertical Federated Learning** [[paper](https://arxiv.org/abs/2502.17081)]
+
+##### 2024
+
+- [2024] **A Review on Machine Unlearning** [[paper](https://arxiv.org/abs/2411.11315)]
+- [2024] **The trade-off between data minimization and fairness in collaborative filtering** [[paper](https://arxiv.org/abs/2410.07182)]
+- [2024] **Unlocking the Potential of Binding Corporate Rules (BCRs) in Health Data Transfers** [[paper](https://arxiv.org/abs/2407.21281)]
+- [2024] **A Survey on Federated Unlearning: Challenges and Opportunities** [[paper](https://arxiv.org/abs/2403.02437)]
+- [2024] **An advanced data fabric architecture leveraging homomorphic encryption and federated learning** [[paper](https://arxiv.org/abs/2402.09795)]
+- [2024] **Federated Unlearning: A Survey on Methods, Design Guidelines, and Evaluation Metrics** [[paper](https://arxiv.org/abs/2401.05146)]
+
+##### 2023
+
+- [2023] **Synthetic Speaking Children -- Why We Need Them and How to Make Them** [[paper](https://arxiv.org/abs/2311.06307)]
+- [2023] **FedHGN: A Federated Framework for Heterogeneous Graph Neural Networks** [[paper](https://arxiv.org/abs/2305.09729)]
+- [2023] **The Saudi Privacy Policy Dataset** [[paper](https://arxiv.org/abs/2304.02757)]
 
 [⬆ Back to top](#paper-list)
 
@@ -1598,6 +1989,11 @@ This repo is designed to be driven by coding agents (OpenCode, Claude Code, …)
 ##### 2026
 
 - [2026] **Detoxifying Toxic Communication: A Design Science Approach to Responsible AI** [[paper](https://arxiv.org/abs/2609.00361)]
+
+##### 2024
+
+- [2024] **Revolutionising Role-Playing Games with ChatGPT** [[paper](https://arxiv.org/abs/2407.02048)]
+- [2024] **WorkR: Occupation Inference for Intelligent Task Assistance** [[paper](https://arxiv.org/abs/2407.18518)]
 
 [⬆ Back to top](#paper-list)
 
@@ -2086,110 +2482,975 @@ This repo is designed to be driven by coding agents (OpenCode, Claude Code, …)
 
 [⬆ Back to top](#paper-list)
 
+### Hybrid & Remote Work
+
+#### Method
+
+##### 2026
+
+- [2026] **Experiencing Remote, Hybrid and In‐Office Work in the Canadian Public Sector: Evidence from a 90‐Day Workplace Study** *Canadian Public Administration* [[paper](https://doi.org/10.1111/capa.70075)]
+- [2026] **Remote Work, Loneliness, and the Leadership Deficit: Moving Beyond the Return-to-Office Debate** *Human capital leadership.* [[paper](https://doi.org/10.70175/hclreview.2020.39.2.6)]
+- [2026] **Are there gender differences in boundary behaviour? A structural invariance analysis on the effects of work centrality, segmentation preferences and boundary enactment on work-life conflict** *SA Journal of Human Resource Management* [[paper](https://doi.org/10.4102/sajhrm.v24i0.3738)]
+- [2026] **Women in Remote and Hybrid Work** *IGI Global eBooks* [[paper](https://doi.org/10.4018/979-8-3373-7370-6.ch017)]
+- [2026] **What is the impact of employer-led interventions or approaches to support young employees in the workplace? A Rapid Review** *Zenodo (CERN European Organization for Nuclear Research)* [[paper](https://doi.org/10.5281/zenodo.22801988)]
+- [2026] **Neurodiversity, work structure, and support in Research Software Engineering: an InclusiveRSE and SSI Fellowship survey study** *Zenodo (CERN European Organization for Nuclear Research)* [[paper](https://doi.org/10.5281/zenodo.22228421)]
+- [2026] **Human capital mobility in the digital economy: Features of remote work and its impact on spatial development** *Regional Economics Theory and Practice* [[paper](https://doi.org/10.24891/tdffba)]
+- [2026] **Human Resource Development Practices and Employee Performance in the Modern Workplace** *Zenodo (CERN European Organization for Nuclear Research)* [[paper](https://doi.org/10.5281/zenodo.22951175)]
+- [2026] **Work-Life Balance Disclosure in European Corporate Reporting (2019-2024): Processed Dataset** *Zenodo (CERN European Organization for Nuclear Research)* [[paper](https://doi.org/10.5281/zenodo.22081680)]
+- [2026] **Recent Advances in Hybrid Work Research** *Academy of Management Proceedings* [[paper](https://doi.org/10.5465/amproc.2026.20238symposium)]
+- [2026] **Privacy Challenges of AI-Enabled Monitoring in the Workplace** *Journal of the Australian Library and Information Association* [[paper](https://doi.org/10.1080/24750158.2026.2694614)]
+- [2026] **SUSTAINABLE HRM IN HYBRID AND REMOTE WORK: TRANSLATING SDG STRATEGY INTO ORGANIZATIONAL PRACTICE** *International Journal of Innovation and Business Strategy (IJIBS)* [[paper](https://doi.org/10.11113/ijibs.v21.208)]
+- [2026] **Sickness presenteeism in remote work: Insights from a systematic review** *E+M Ekonomie a Management* [[paper](https://doi.org/10.15240/tul/001/2026-2-002)]
+- [2026] **Work Life Balance in India: An Urban Approach** *World Journal of Economics Business and Management* [[paper](https://doi.org/10.65336/wjebm.2026.3601)]
+- [2026] **A personal network analysis of remote workers** *Social Networks* [[paper](https://doi.org/10.1016/j.socnet.2026.04.010)]
+- [2026] **A study on the impact of hybrid work environment on employee performance: The mediating role of social and technological** *Asian Journal of Management and Commerce* [[paper](https://doi.org/10.22271/27084515.2026.v7.i5a.1195)]
+
+[⬆ Back to top](#paper-list)
+
+#### Theory
+
+##### 2026
+
+- [2026] **REMOTE WORK FATIGUE AND EMPLOYEE ENGAGEMENT IN HYBRID WORK ENVIRONMENTS: A REVIEW** *Zenodo (CERN European Organization for Nuclear Research)* [[paper](https://doi.org/10.5281/zenodo.23205377)]
+- [2026] **IMPACT OF REMOTE AND HYBRID WORK MODELS ON EMPLOYEE PRODUCTIVITY AND JOB SATISFACTION** [[paper](https://doi.org/10.48047/ijss.5.9.2026.4)]
+- [2026] **Impact of Remote Work Visibility Pressure on Employee Burnout: The Moderating Role of Managerial Trust** *International Journal of Emerging Multidisciplinary Research and Innovation * [[paper](https://doi.org/10.65180/ijemri.2026.2.4.03)]
+- [2026] **The Remote Work Paradox: Why Flexibility Raises Retention—and Why Poor Design Destroys Collaboration** *Zenodo (CERN European Organization for Nuclear Research)* [[paper](https://doi.org/10.5281/zenodo.23096047)]
+- [2026] **High Trust and High Flexibility: Hybrid Work Practices in the Norwegian Software Industry** *Lecture notes in business information processing* [[paper](https://doi.org/10.1007/978-3-032-39205-3_14)]
+- [2026] **Videoconferencing fatigue in the workplace: A stressor-strain-outcome model of work exhaustion** *Work* [[paper](https://doi.org/10.1177/10519815261497297)]
+- [2026] **Remote Work, Employee Mental Wellbeing, Burnout-Related Responses and Organizational Commitment: An Exploratory Study in Bengaluru** *International Journal For Multidisciplinary Research* [[paper](https://doi.org/10.36948/ijfmr.2026.v08i05.90063)]
+- [2026] **Human Resource Management Policies and Work-Life Balance: Impact on Job Satisfaction in The Post-Pandemic Workplace in Nigeria** *Zenodo (CERN European Organization for Nuclear Research)* [[paper](https://doi.org/10.5281/zenodo.23410469)]
+- [2026] **Hybrid Work: The Long-Term Impact of Flexible Working Models on Organizational Culture and Overall Employee Productivity** *International Journal on Research and Development - A Management Review* [[paper](https://doi.org/10.65521/ijrdmr.v15i2.4669)]
+- [2026] **Impact Of Flexible and Hybrid Work Practices on Employee Engagement and Job Satisfaction: Evidence from the Indian It Sector** *Natural Resources for Human Health* [[paper](https://doi.org/10.53365/nrfhh.2791)]
+- [2026] **Impact of Hybrid Policies on Employee Engagement: A Study of Infosys in Noida** *International Journal of Research Publication and Reviews* [[paper](https://doi.org/10.55248/gengpi.07.1026.33059)]
+- [2026] **Recruiting for SDGs-Oriented Profiles: Unpacking Drivers of Employer Attractiveness in Hybrid Organizations** *Review of Public Personnel Administration* [[paper](https://doi.org/10.1177/0734371x261497110)]
+- [2026] **INTEGRATING FLEXIBLE WORK ARRANGEMENTS FEATURES INTO BANKING OFFICE ENVIRONMENTS: EVIDENCE FROM KUALA LUMPUR CITY CENTRE** *PLANNING MALAYSIA* [[paper](https://doi.org/10.21837/pm.v24i44.2309)]
+- [2026] **Placemaking, interpersonal trust, and temporal structuring in hybrid working arrangements for knowledge workers: cases from Ireland** *Edinburgh Research Archive (University of Edinburgh)* [[paper](https://era.ed.ac.uk/bitstreams/0a958b75-f19d-4642-adb5-df0a9e2b7f01/download)]
+- [2026] **When leaders listen, employees speak up: a systematic review of communicative leadership, voice and technology in hybrid internal communication** *Corporate Communications An International Journal* [[paper](https://doi.org/10.1108/ccij-03-2026-0088)]
+- [2026] **Barriers and enablers of work–life balance among regulatory affairs pharmacists working remotely in Gauteng, South Africa: A qualitative study** *Health SA Gesondheid* [[paper](https://doi.org/10.4102/hsag.v31i0.3184)]
+- [2026] **Beyond Zoom: A Socio-Temporal Framework for Leading Fragmented Teams in the New Era of Work** *Zenodo (CERN European Organization for Nuclear Research)* [[paper](https://doi.org/10.5281/zenodo.23153682)]
+- [2026] **IA, talento y espacio organizacional híbrido** [[paper](https://doi.org/10.62486/978-9915-9928-8-4.ch04)]
+- [2026] **A Study on Employee Retention in The Hybrid Work** *International Journal of Data Science and IoT Management System* [[paper](https://doi.org/10.64751/ijdim.2026.v5.n3.1316)]
+- [2026] **Brave New Workplace** [[paper](https://doi.org/10.1093/9780197692332.003.0010)]
+- [2026] **The Well-Being Ledger of Hybrid Work: A Concise Job Demands-Resources Review of HRM Practices for the PostPandemic Workplace** *Journal of Science Engineering Technology and Management Sciences* [[paper](https://doi.org/10.64771/jsetms.2026.v03.i09.pp113-119)]
+- [2026] **Remote Work and Employee Performance an Analysis of Podt Pademic Hr Practices at Hcl Technologies** *International Journal of Data Science and IoT Management System* [[paper](https://doi.org/10.64751/ijdim.2026.v5.n3.1312)]
+- [2026] **The “Invisible” Office Politics and Work Withdrawal Behavior: A Stress Cognitive Appraisal Model in Remote Work Contexts** *Preprints.org* [[paper](https://doi.org/10.20944/preprints202609.0700.v1)]
+- [2026] **When you can work from anywhere, why work there? Workplace governance, visually persistent culture and the reconfiguration of the post-pandemic office** *Corporate real estate journal* [[paper](https://doi.org/10.69554/hrnl5842)]
+- [2026] **How Employee Recognition Shapes a Positive Workplace Culture** *Zenodo (CERN European Organization for Nuclear Research)* [[paper](https://doi.org/10.5281/zenodo.22914492)]
+- [2026] **The Influence of Hybrid and Flexible Work Arrangements on Employee Engagement: A Study of Educational Sector** *The Discourse* [[paper](https://www.discourse.org.pk/index.php/discourse/article/view/372)]
+- [2026] **Relationship Between Remote Work Loneliness and Job Satisfaction Among IT Professionals in India: The Moderating Role of Perceived Social Support** *International Journal of Science and Research (IJSR)* [[paper](https://doi.org/10.21275/sr26926173811)]
+- [2026] **‘Your Support Matters’—An Exploration of Newcomers' Workplace Commitment During Virtual Socialisation** *New Technology Work and Employment* [[paper](https://doi.org/10.1111/ntwe.70045)]
+- [2026] **DIGITAL DEXTERITY AND TALENT MANAGEMENT EFFECTIVENESS: EVIDENCE FROM THE MODERN WORKPLACE AMONG WORK-FROM-HOME EMPLOYEES IN CHENNAI AND BENGALURU** *International Journal for Research Trends and Innovation* [[paper](https://doi.org/10.56975/ijrti.v11i9.300631)]
+- [2026] **Universal support, local impact: insights into workplace dynamics in child welfare** *Journal of Public Child Welfare* [[paper](https://doi.org/10.1080/15548732.2026.2734928)]
+- [2026] **What Happens When Work Is Not Restricted to a Single Work Location? Development and Validation of the E-Work Well-Being (EWW) Scale** *International Journal of Environmental Research and Public Health* [[paper](https://doi.org/10.3390/ijerph23091215)]
+- [2026] **Mental Health and Resilience in Evolving Work Environments** *IGI Global eBooks* [[paper](https://doi.org/10.4018/979-8-3373-5509-2.ch007)]
+- [2026] **A Study on the Impact of Flexible Work Arrangement on Employee Satisfaction and Work-Life Balance** *NOLEGEIN-Journal of Performance Management & Retention Strategies* [[paper](https://mbajournals.in/index.php/JoPMRS/article/view/2056)]
+- [2026] **ON-SITE AND OFF-SITE WORK INTEGRATION AND EMPLOYEE ENGAGEMENT IN INTERNATIONAL AGRICULTURAL RESEARCH CENTERS IN NAIROBI COUNTY, KENYA** *African Journal of Emerging Issues* [[paper](https://ajoeijournal.org/sys/index.php/ajoei/article/view/1287)]
+- [2026] **Work-related learning in the AI era: the influence of formal and informal learning on employee attitudes toward artificial intelligence** *SAM Advanced Management Journal* [[paper](https://doi.org/10.1108/samamj-02-2026-0018)]
+- [2026] **PERSONNEL MANAGEMENT SUBSYSTEMS UNDER FLEXIBLE WORK ARRANGEMENTS: ZONES OF DIFFERENTIAL IMPACT** *Economic scope* [[paper](https://doi.org/10.30838/ep.216.364-373)]
+- [2026] **Experiencing and enacting organisational culture in virtual work environments** *Durham Research Online (Durham University)* [[paper](https://durham-repository.worktribe.com/output/5843475)]
+- [2026] **Samoocena zdrowia i potrzeby pracowników 50+ w zakresie edukacji zdrowotnej w przedsiębiorstwie Wyniki wywiadów pogłębionych w grupach pracowników zdalnych, hybrydowych i stacjonarnych** *Occupational Safety – Science and Practice* [[paper](https://doi.org/10.54215/bp.2026.9.18.kaminska)]
+- [2026] **Lessons from the COVID-19 Pandemic: Preparing Higher Education for Future Disruptions** *International Journal of Management Knowledge and Learning* [[paper](https://doi.org/10.53615/2232-5697.15.350-369)]
+- [2026] **Embedding the Matter Model Across Organisations** *Routledge eBooks* [[paper](https://doi.org/10.4324/9781003790136-35)]
+- [2026] **The Impact of Remote and Hybrid Work Policies on Employee Autonomy and Turnover Intentions** *Zenodo (CERN European Organization for Nuclear Research)* [[paper](https://doi.org/10.5281/zenodo.21864124)]
+- [2026] **Impact of Remote and Hybrid Work Arrangements on Employee Productivity, Organizational Culture, and Psychological Well-Being** *Global Insights Journal* [[paper](https://doi.org/10.66572/insightonix.2026.v6.i1.59845)]
+- [2026] **The Influence of Remote Work Flexibility, Digital Leadership, Employee Engagement, and Work-Life Balance on Organizational Commitment in Hybrid Work Environments** *Journal Management & Economics Review (JUMPER)* [[paper](https://malaqbipublisher.com/index.php/JUMPER/article/view/1254)]
+- [2026] **Managing the Modern workforce: Evaluating the effectiveness of Remote and Hybrid Working Policies** *International Journal of Computer Information Systems and Industrial Management Applications* [[paper](https://doi.org/10.70917/ijcisim-2026-5073)]
+- [2026] **Do I Own My Organisation? Drivers of Satisfaction Among Remote and Hybrid Workers in India** *South Asian Journal of Human Resources Management* [[paper](https://doi.org/10.1177/23220937261466732)]
+- [2026] **Leveraging Strategic Communication for Organisational Cohesion in Hybrid Work Environments** *Zenodo (CERN European Organization for Nuclear Research)* [[paper](https://doi.org/10.5281/zenodo.22149798)]
+- [2026] **ASSESSING THE IMPACT OF WORK FROM HOME ON EMPLOYEEPRODUCTIVITY IN THE MODERN WORKPLACE** *NOLEGEIN Journal of Leadership & Strategic Management* [[paper](https://mbajournals.in/index.php/JoKSM/article/download/2017/1893)]
+- [2026] **Navigating Face-To-Face Communication in the Era of Remote Work among Gen Z** *Proceeding of International Conference on Business Economics Social Sciences and Humanities* [[paper](https://doi.org/10.34010/icobest.v9i.914)]
+- [2026] **Workplace Loneliness and the Impact of Social Connections in Distributed Teams** *ScholarWorks (Walden University)* [[paper](https://scholarworks.waldenu.edu/dissertations/20748)]
+- [2026] **Workplace Spirituality and Mediating Effect of Trust for Organizational Performance** *Apple Academic Press eBooks* [[paper](https://doi.org/10.1201/9781779641878-19)]
+- [2026] **A Study on Hybrid work preference among Mumbai Corporate Interns – WFH vs Office in BKC \ Powai** *Zenodo (CERN European Organization for Nuclear Research)* [[paper](https://doi.org/10.5281/zenodo.23359200)]
+- [2026] **Communication Repertoires in Hybrid Office Work: Mediated Channels, Face-to-Face Interaction, and Formal and Informal Exchange** [[paper](https://doi.org/10.31235/osf.io/skupm_v1)]
+- [2026] **WORKPLACE HEALTH PROMOTION: STRATEGIES FOR PREVENTING LIFESTYLE DISEASES AND ENHANCING EMPLOYEE WELL-BEING** *Iterative International Publishers eBooks* [[paper](https://doi.org/10.58532/nbennur3326c4)]
+- [2026] **UNDERSTANDING HOW WORK–LIFE BALANCE SHAPES EMPLOYEE PRODUCTIVITY IN INDIAN WORKPLACES: INSIGHTS INTO WELL-BEING, STRESS, AND SUPPORTIVE HR PRACTICES** *Zenodo (CERN European Organization for Nuclear Research)* [[paper](https://doi.org/10.5281/zenodo.21847311)]
+- [2026] **Speaking up at work is harder than ever. Here’s how leaders can help** *Organizational Dynamics* [[paper](https://doi.org/10.1016/j.orgdyn.2026.101265)]
+- [2026] **FINGER-PAINTING ART THERAPY WITH GROWTH-MINDSET PROMPTS FOR SCREENED OCCUPATIONAL ANXIETY AND WELL-BEING IN INDONESIAN DIGITAL WORKPLACES: A RANDOMIZED CONTROLLED TRIAL PROTOCOL** *Acta Innovations* [[paper](https://doi.org/10.62441/actainnovations.v63i.1114)]
+- [2026] **The Future of Work: Remote and Hybrid Workplaces** [[paper](https://doi.org/10.59646/722/1)]
+- [2026] **Isolation in Remote and Hybrid Work: A Conceptual Review** *Academy of Management Proceedings* [[paper](https://doi.org/10.5465/amproc.2026.15862poster)]
+- [2026] **Beyond the Workplace: A Theoretical Synthesis of Flexible Working Arrangements and Work–Family Dynamics in the Hybrid Era** *International Journal For Multidisciplinary Research* [[paper](https://doi.org/10.36948/ijfmr.2026.v08i04.84332)]
+- [2026] **Mapping the Literature of Remote and Hybrid Work Since the Pandemic: A Bibliometric and BERTopic Thematic Analysis** *Zenodo (CERN European Organization for Nuclear Research)* [[paper](https://doi.org/10.5281/zenodo.21644727)]
+- [2026] **Workplace Well–being and Work–Life Balance: A Systematic Review of Organizational Support, Leadership, and Remote Work in the U.S.A.** *Acta Carolus Robertus* [[paper](https://doi.org/10.56617/acr.7525)]
+- [2026] **Examining the Effect of Employee Involvement on Employee Commitment under Hybrid Workplace Conditions in the IT Industry** *International Journal of Economic Practices and Theories* [[paper](https://doi.org/10.52783/ijept.624)]
+- [2026] **IMPACT OF TECHNOLOGY ON WORK STRESS: DIGITAL TRANSFORMATION, HYPERCONNECTIVITY, AND WOMEN’S WORKPLACE WELL BEING** *Iterative International Publishers eBooks* [[paper](https://doi.org/10.58532/nbennur3271c12)]
+- [2026] **Rethinking return-to-office: the positive impact of remote work on well-being, connection, and employee retention** *Frontiers in Psychology* [[paper](https://doi.org/10.3389/fpsyg.2026.1848857)]
+- [2026] **FROM DISTANCE TO PERFORMANCE: HOW REMOTE WORK SHAPES COMMUNICATION, TRUST, AND PROJECT PERFORMANCE IN DISTRIBUTED TEAMS** *Perspectives in Social Sciences* [[paper](https://pssperspectives.com/index.php/06/article/view/142)]
+- [2026] **Modelling the Impact of Post-Pandemic Remote Work Challenges on Work-Life Balance: Evidence from Chennai's Selected IT Industries** *International Journal of Drug Delivery Technology* [[paper](https://doi.org/10.25258/ijddt.16.62s.142)]
+- [2026] **Impact of Physical Isolation, Remote Work Intensity, and Team Cohesion on Employee Interpersonal Relationships in Sri Lanka: The Moderating Role of Trust** *Journal of Human Resource Management Perspectives* [[paper](https://doi.org/10.4038/jhrmp.v11i4.87)]
+- [2026] **Control and Cohesion: The Effects of a Remote Management Training on Job Satisfaction** *Academy of Management Proceedings* [[paper](https://doi.org/10.5465/amproc.2026.20878abstract)]
+- [2026] **Beyond Remote Work: How Temporal Autonomy and Digital Well-Being Shape Gen Z's Work-Life Integration** *Zenodo (CERN European Organization for Nuclear Research)* [[paper](https://doi.org/10.5281/zenodo.21253333)]
+- [2026] **Scoping Review: How workplace nutrition environments, policies, and practices shape menopausal women’s health, experiences, and work-related outcomes.** [[paper](https://osf.io/dm25a)]
+- [2026] **Transformational Leadership in the Digital Age: Navigating Change, Innovation, and Employee Well-being in Modern Workplaces** *BENTHAM SCIENCE PUBLISHERS eBooks* [[paper](https://doi.org/10.2174/9798898816452126010011)]
+- [2026] **Applied Ergonomics in Telework: A Sociotechnical and Organizational Psychology Analysis of Workplace Digital Surveillance and Worker Wellbeing Job Satisfaction** *Merits* [[paper](https://doi.org/10.3390/merits6030021)]
+- [2026] **How Self-Efficacy Influences Gen Z Employees’ Willingness for Hybrid Working** *Information Systems Frontiers* [[paper](https://doi.org/10.1007/s10796-026-10781-9)]
+- [2026] **The Great Reconfiguration: Rethinking Routines, Incentives, & Relationships in the New World of Work** *Academy of Management Proceedings* [[paper](https://doi.org/10.5465/amproc.2026.18303symposium)]
+- [2026] **Virtual Organizational Climate in Technology-Mediated Work: Conceptualization and Measurement** *Academy of Management Proceedings* [[paper](https://doi.org/10.5465/amproc.2026.17650abstract)]
+- [2026] **What Disability Reveals About the Future of Work** *Academy of Management Proceedings* [[paper](https://doi.org/10.5465/amproc.2026.15932symposium)]
+- [2026] **The Future of Work – Happiness, Inclusivity, and Beyond** *BENTHAM SCIENCE PUBLISHERS eBooks* [[paper](https://doi.org/10.2174/9798898815554126010013)]
+- [2026] **The Great Return in Higher Education** [[paper](https://doi.org/10.31979/etd.552k-znkz)]
+- [2026] **From Distance to Disconnection? Organizational Justice and Professional Isolation in Telework** *Academy of Management Proceedings* [[paper](https://doi.org/10.5465/amproc.2026.20242abstract)]
+- [2026] **THE FLUID WORKPLACE: STRATEGIES FOR LEADING HYBRID AND REMOTE TEAMS** *Iterative International Publishers eBooks* [[paper](https://doi.org/10.58532/nbennurnhhrb3p1c3)]
+- [2026] **Employee-Office Workplace Alignment in Hybrid Work Settings** *TUbilio (Technical University of Darmstadt)* [[paper](https://tubiblio.ulb.tu-darmstadt.de/view/person/H=F6cker=3AMartin_Christian=3A=3A.html>)]
+- [2026] **EMPLOYEE ENGAGEMENT AND WORKPLACE WELL-BEING MODELS IN HYBRID WORK ENVIRONMENTS** *Iterative International Publishers eBooks* [[paper](https://doi.org/10.58532/nbennurnhhrb3p2c2)]
+- [2026] **On-site and hybrid work: understanding how adjustment to work modality affects workplace attachment and belongingness** *European Review of Applied Psychology* [[paper](https://doi.org/10.1016/j.erap.2026.101229)]
+- [2026] **Navigating remote leadership in the age of operational hybrid work: current Issues and innovative approaches** *Human Resources Management and Services* [[paper](https://doi.org/10.18282/hrms5888)]
+- [2026] **Workplace communication in remote-based teams: a media richness approach** *Corporate Communications An International Journal* [[paper](https://doi.org/10.1108/ccij-09-2025-0267)]
+- [2026] **The Psychological and Performance Impacts of Remote and Hybrid Work on Knowledge Workers: Insights from Systematic Review and Meta-Analysis** *Journal of Primeasia* [[paper](https://doi.org/10.25163/primeasia.7110830)]
+- [2026] **The Impacts of Digital Technologies on Remote and Hybrid Work: Psychological and Performance Outcomes for Knowledge Workers — A Systematic Review and Meta-Analysis** *Journal of Primeasia* [[paper](https://doi.org/10.25163/primeasia.7110829)]
+- [2026] **Remote and hybrid work before, during and after the Covid19 pandemic. A qualitative study of changing attitudes and work practices** *Gothenburg University Publications Electronic Archive (Gothenburg University)* [[paper](https://hdl.handle.net/2077/92077)]
+- [2026] **Impact of Hybrid Work on Employee Motivation and Performance** *Zenodo (CERN European Organization for Nuclear Research)* [[paper](https://doi.org/10.5281/zenodo.20770477)]
+- [2026] **The affects of pushing: Chronic illness, remote work, and crip epistemology** *Environment and Planning D Society and Space* [[paper](https://doi.org/10.1177/02637758261455439)]
+- [2026] **Remote Work Practices and Employee Productivity in the Post COVID-19 Business Environment** *International Journal of Social Sciences and Scientific Studies* [[paper](https://ijssass.com/index.php/ijssass/article/view/494)]
+- [2026] **Remote Work Culture And Employee Retention In India: An Empirical Study Of Post-Pandemic Workforce Dynamics** *International Journal for Research Trends in Social Science & Humanities.* [[paper](https://doi.org/10.5281/zenodo.20581927)]
+- [2026] **A Study on Impact of Hybrid Work Culture on Employee Engagement in IT Companies** *Economic Sciences.* [[paper](https://doi.org/10.69889/y1994j14)]
+- [2026] **Navigating Hybrid Work and Return-to-Office. A Study of Culture and Identity in the Swedish Transportation Manufacturing Industry** *Gothenburg University Publications Electronic Archive (Gothenburg University)* [[paper](https://hdl.handle.net/2077/92072)]
+- [2026] **Research Trends in Workplace Privacy Before and After COVID-19 - A Bibliometric Analysis -** *한국실내디자인학회 논문집* [[paper](https://doi.org/10.14774/jkiid.2026.35.3.158)]
+- [2026] **THE ROLE OF WORKPLACE FLEXIBILITY IN ENHANCING EMPLOYEE RETENTION AMONG GENERATION Z: A LITERATURE REVIEW** *Berajah Journal* [[paper](https://ojs.berajah.com/index.php/go/article/view/566)]
+- [2026] **Analyzing deviant workplace behaviors: a comparative study of new and traditional scales** *TUScholarShare (Temple University)* [[paper](https://scholarshare.temple.edu/handle/20.500.12613/12124)]
+- [2026] **The Impact of Digitalization on Modern Work Practices and the Evolving Skillset Requirements in the 21st Century** *Zenodo (CERN European Organization for Nuclear Research)* [[paper](https://doi.org/10.5281/zenodo.22643761)]
+- [2026] **Bridging Distances: The Role of Growth Mindset and Psychological Safety in Enhancing Employee and Customer Experiences Across Work Arrangements** *Australasian Marketing Journal (AMJ)* [[paper](https://doi.org/10.1177/14413582261451274)]
+- [2026] **The Evolving Landscape of Work and Employment: a Study of Employee Well-being, Technology, and Organizational Adaptability** *International Journal For Multidisciplinary Research* [[paper](https://doi.org/10.36948/ijfmr.2026.v08i03.81794)]
+- [2026] **THE FUTURE OF WORK: LEADING THE HUMAN-AI CONVERGENCE THROUGH SKILLS, WELL-BEING, AND INCLUSION** *Iterative International Publishers eBooks* [[paper](https://doi.org/10.58532/nbennurftmb1p3c1)]
+- [2026] **EMPLOYEE ENGAGEMENT AND WORKPLACE PRODUCTIVITY IN HYBRID WORK ENVIRONMENTS** *Research* [[paper](https://doi.org/10.5281/zenodo.20078990)]
+- [2026] **Measuring the Ins and Outs of Remote Work: New Evidence from the Gallup Workplace Panel** *AEA Papers and Proceedings* [[paper](https://doi.org/10.1257/pandp.20261013)]
+- [2026] **The Evolution of Hybrid and Remote Working** *Routledge eBooks* [[paper](https://doi.org/10.4324/9781003636281)]
+- [2026] **Talent empowerment in AI-enabled remote workplaces** *Discover Sustainability* [[paper](https://doi.org/10.1007/s43621-026-03418-z)]
+- [2026] **Factors Influencing Employee Engagement In Hybrid Workplace** *International Journal of Research Publication and Reviews* [[paper](https://doi.org/10.55248/gengpi.07.0526.c1311)]
+- [2026] **Productivity in Remote and Hybrid Work : A Review of Post-Pandemic Perspectives in Kathmandu's IT Industry** *Osuva (University of Vaasa)* [[paper](https://osuva.uwasa.fi/items/d38dfe3a-6b24-43a8-8976-69b1060f345a)]
+- [2026] **Remote Work Flexibility, Work-Life Balance, and Organizational Commitment on Employee Retention** *Journal Management & Economics Review (JUMPER)* [[paper](https://malaqbipublisher.com/index.php/JUMPER/article/view/1087)]
+- [2026] **Hybrid Work Models and Work Life Balance in the IT Sector: A Review of Literature.** *ACR North American Advances* [[paper](https://doi.org/10.5281/zenodo.20320631)]
+- [2026] **A CONCEPTUAL RESEARCH ON EMPLOYEE ENGAGEMENT MODELS AND THEIR CORRELATION WITH PRODUCTIVITY IN HYBRID WORK SETTINGS** *ACCENT JOURNAL OF  ECONOMICS ECOLOGY  & ENGINEERING* [[paper](https://ajeee.co.in/index.php/ajeee/article/download/6268/5118)]
+- [2026] **Hybrid Work Culture and Employee Engagement: Challenges, Opportunities, and Strategic Approaches** *Zenodo (CERN European Organization for Nuclear Research)* [[paper](https://doi.org/10.5281/zenodo.21751818)]
+- [2026] **HR STRATEGIES FOR MANAGING EMPLOYEE ENGAGEMENT AND REDUCING WORK-RELATED STRESS IN HYBRID WORK MODELS** *Zenodo (CERN European Organization for Nuclear Research)* [[paper](https://doi.org/10.5281/zenodo.20344688)]
+- [2026] **Hybrid Work Models and Their Impact on Employee Productivity and Well-Being** *Zenodo (CERN European Organization for Nuclear Research)* [[paper](https://doi.org/10.5281/zenodo.20308554)]
+- [2026] **Beyond single OSH policies: Gender-specific psychosocial hazards in remote work** *Work* [[paper](https://doi.org/10.1177/10519815261453347)]
+- [2026] **Workplace Spirituality and Its Impact on Work-Life Balance in Modern Organizations: A Systematic Review and Theoretical Synthesis** *International Journal of Novel Research and Development* [[paper](https://doi.org/10.56975/ijnrd.v11i5.325412)]
+- [2026] **WORKPLACE FLEXIBILITY: A Study on Satisfaction towards Workplace flexibility strategies among IT employees with special reference to IT companies situated in Bangalore** *International Journal of Versatile Research and Analysis* [[paper](https://doi.org/10.56975/ijvra.v4i5.705784)]
+- [2026] **Remote Work and the Changing Geography of Technology‐Based Economic Development in the United States** *Preprints.org* [[paper](https://doi.org/10.20944/preprints202605.1280.v1)]
+- [2026] **Psychological Safety and Its Impact on Team Performance in Hybrid Work Models** *Scriptora International Journal of Research and Innovation (SIJRI)* [[paper](https://doi.org/10.65579/sijri.2026.v2i5.10)]
+- [2026] **Leadership in Remote Work (2020–2027): A Bibliometrics Analysis of Keyword Networks, Thematic Evolution, and Emerging Research Frontiers** *International Journal of Education Leadership Artificial Intelligence Computing Business Life Sciences and Society* [[paper](https://doi.org/10.65222/viral.2026.5.31.51)]
+- [2026] **Psychological Ownership and Resistance to Change in Hybrid Work Environments: An Internalization-Based Explanation** *Administrative Sciences* [[paper](https://doi.org/10.3390/admsci16060257)]
+- [2026] **FROM FLEXIBILITY TO FULFILMENT: A STUDY OF HYBRID WORK ENVIRONMENT ON EMPLOYEE COMMITMENT AND HOLISTIC WELLBEING** *International Journal of Research -GRANTHAALAYAH* [[paper](https://doi.org/10.29121/granthaalayah.v14.i5.2026.6860)]
+- [2026] **Understanding why people value working from home or hybrid workplace flexibility a study of preferences during the COVID-19 pandemic** *PLoS ONE* [[paper](https://doi.org/10.1371/journal.pone.0348206)]
+- [2026] **Analisis Pengaruh Remote Working terhadap Produktivitas Kerja Karyawan Generasi Z** *Jurnal Publikasi Sistem Informasi dan Manajemen Bisnis* [[paper](https://doi.org/10.55606/jupsim.v5i2.7061)]
+- [2026] **Digital Engagement Ecosystem and Agile Leadership: A Cognitive-Social Buffer Against Rumination Among Remote IT Professionals** *American Journal of Business and Management Innovation* [[paper](https://doi.org/10.54536/ajbmi.v1i1.6801)]
+- [2026] **Tutkimus toimistojen yhteiskäyttötilojen vaikutuksesta työntekijöiden yhteenkuuluvuuden tunteeseen hybridityöympäristössä** *Aaltodoc (Aalto University)* [[paper](https://aaltodoc.aalto.fi/handle/123456789/145736)]
+- [2026] **Гибридная занятость в коммерческом банке: возможности и ограничения HR-технологий управления распределенными командами** *Industrial Economics* [[paper](https://doi.org/10.47576/2949-1886.2026.5.5.011)]
+- [2026] **Foundations of Retention** *IGI Global eBooks* [[paper](https://doi.org/10.4018/979-8-3373-2287-2.ch001)]
+
+[⬆ Back to top](#paper-list)
+
+#### Application
+
+##### 2026
+
+- [2026] **Hybrid Work and the Restructuring of Urban Mobility in U.S. Cities** [[paper](https://arxiv.org/abs/2609.36428)]
+- [2026] **Labor-Oriented Management Controls in the Modern Era** *Journal of Management Accounting Research* [[paper](https://doi.org/10.2308/jmar-2026-045)]
+- [2026] **Governing digital collaboration in remote and hybrid work: a bibliometric analysis grounded in a multi-level governance framework** *Management Review Quarterly* [[paper](https://doi.org/10.1007/s11301-026-00641-w)]
+- [2026] **DevOps and General Developers: Insights from Stack Overflow's 2023 Survey** [[paper](https://arxiv.org/abs/2606.19395)]
+- [2026] **Emotive Architectures: The Role of LLMs in Adjusting Work Environments** [[paper](https://arxiv.org/abs/2604.25601)]
+- [2026] **Regression Testing in Remote and Hybrid Software Teams: An Exploratory Study of Processes, Tools, and Practices** [[paper](https://arxiv.org/abs/2603.07419)]
+- [2026] **Productivity and Collaboration in Hybrid Agile Teams: An Interview Study** [[paper](https://arxiv.org/abs/2602.22835)]
+- [2026] **The Anatomy of a Successful Student Scrum Team: Motivation, Personalities, and Academic Adaptation** [[paper](https://arxiv.org/abs/2601.03364)]
+- [2026] **Cognitive Collaboration** *Advances in Computational Intelligence and Robotics* [[paper](https://doi.org/10.4018/979-8-3373-7416-1.ch006)]
+
+##### 2025
+
+- [2025] **Financial Management Challenges in Enterprises Employing Remote and Hybrid Workforces** [[paper](https://arxiv.org/abs/2512.11918)]
+- [2025] **Challenges and Enablers: Remote Work for People with Disabilities in Software Development Teams** [[paper](https://arxiv.org/abs/2512.12965)]
+- [2025] **Balancing Turnover and Promotion Outcomes: Evidence on the Optimal Hybrid-Work Frequency** [[paper](https://arxiv.org/abs/2512.10328)]
+- [2025] **The Effects of Remote Working on Scientific Collaboration and Impact** [[paper](https://arxiv.org/abs/2511.18481)]
+- [2025] **Teaching Paper: Glossary of Key Digital Collaboration Terms – Foundations for Effective Remote and Hybrid Work** *NEYA Global Journal of Non-Profit Studies* [[paper](https://doi.org/10.64357/neya-gjnps-dgcltlenhtmpr-tp-04)]
+
+##### 2024
+
+- [2024] **Introduction to Remote and
+                        Hybrid Work** *Remote and Hybrid Work* [[paper](https://doi.org/10.1093/wentk/9780197684955.003.0002)]
+- [2024] **The Worker’s Experience of Remote and Hybrid Work** *Remote and Hybrid Work* [[paper](https://doi.org/10.1093/wentk/9780197684955.003.0004)]
+
+[⬆ Back to top](#paper-list)
+
+#### Survey
+
+##### 2026
+
+- [2026] **Work** *Routledge eBooks* [[paper](https://doi.org/10.4324/9781003757764-7)]
+- [2026] **AI at Work: Working Arrangements and Human–AI Collaboration** *Athens Journal of Social Sciences* [[paper](https://doi.org/10.30958/ajss.13-4-3)]
+- [2026] **HYBRID WORK AND EMPLOYEE ENGAGEMENT: THE NEW ROLE OF HUMAN RESOURCE MANAGEMENT** *Journal of Social Sciences Development* [[paper](https://doi.org/10.59075/jssd.v5i6.280)]
+- [2026] **‘Narcissist’ bosses are more likely to oppose work from home, studies show. But are they right?** [[paper](https://doi.org/10.64628/aa.3pqhajc7e)]
+- [2026] **Work Setting and the Experience of Bias** *Revista de Cercetare si Interventie Sociala* [[paper](https://doi.org/10.33788/rcis.93.7)]
+- [2026] **Libraries as a ‘Third Place’ for Remote Workers: A Survey of Australian Workplace Preferences** *Public Library Quarterly* [[paper](https://doi.org/10.1080/01616846.2026.2667109)]
+- [2026] **Thematic Working Paper No.1: How flexible working arrangements shape workplace experience across genders in Australia** *The Sydney eScholarship Repository (The University of Sydney)* [[paper](https://hdl.handle.net/2123/35295)]
+
+[⬆ Back to top](#paper-list)
+
+#### Systems
+
+##### 2026
+
+- [2026] **Impact of Hybrid Work on Employee Well-being and Organizational Commitment** *Prabandhan Darpan - Journal of Management Studies* [[paper](https://doi.org/10.65525/prabandhan.v2i2.41)]
+- [2026] **SlangLane Digital Sociology of Work, Remote Team Communication Async Register Dataset (2026 — Volume 44)** *Telkom University* [[paper](https://doi.org/10.34820/fk2/mwcy5h)]
+- [2026] **Effectiveness Of Remote Working And Hybrid Working On Employee Productivity** *International Journal of Health Sciences* [[paper](https://doi.org/10.59585/ijhs.v4i2.1373)]
+
+[⬆ Back to top](#paper-list)
+
+#### Evaluation
+
+##### 2026
+
+- [2026] **Stress and remote working in higher education: a comparison of remote, hybrid, and on-campus academic staff** *Perspectives Policy and Practice in Higher Education* [[paper](https://doi.org/10.1080/13603108.2026.2683390)]
+
+[⬆ Back to top](#paper-list)
+
+### Employee Well-being
+
+#### Method
+
+##### 2026
+
+- [2026] **Workplace Ergonomic Practices and Quality of Work Life Among IT Employees: the Mediating Role of Psychological Well-Being** *ACR North American Advances* [[paper](https://doi.org/10.5281/zenodo.23311592)]
+- [2026] **Always on my mind-a within-person study on workplace fear of missing out and ICT use during leisure time on informational benefits and employee well-being** *International Journal of Workplace Health Management* [[paper](https://doi.org/10.1108/ijwhm-09-2025-0248)]
+- [2026] **Support or Scrutiny? Experiencing Workplace Well-Being Interviews** *Journal of Occupational Rehabilitation* [[paper](https://doi.org/10.1007/s10926-026-10459-8)]
+- [2026] **The Impact of Leadership on Employee Well-Being Strategies for a Thriving Workplace** *IGI Global eBooks* [[paper](https://doi.org/10.4018/979-8-3373-2920-8.ch007)]
+- [2026] **Impact of Workplace Bullying on Mental Well-being among Private Sector Employees** *Social Prism* [[paper](https://doi.org/10.69671/socialprism.3.7.2026.248)]
+- [2026] **Role of Leadership in Balancing Efficiency and Employee Well-being in AI-Driven Workplaces** *Routledge eBooks* [[paper](https://doi.org/10.4324/9781003587712-6)]
+- [2026] **A STUDY ON FOSTERING A CULTURE OF HOLISTIC WELL-BEING AND MENTAL HEALTH IN THE WORKPLACE** *Journal of Inventive and Scientific Research Studies* [[paper](https://doi.org/10.66194/gvncjisrsv4i3-086)]
+- [2026] **Human-Centered Workplace Design for Employee Well-Being and Productivity:** *AFRICA HABITAT REVIEW* [[paper](https://doi.org/10.66563/a1e91e76)]
+- [2026] **Quantitative Analysis Of Psychological Well-Being And Workplace Resilience On Employee Performance At The Tasikmalaya City Department Of Communication And Informatics** *Journal of Law Social Science and Management Review* [[paper](https://doi.org/10.70963/jlsmr.v2i4.892)]
+- [2026] **The Impact of Digital Transformation on Employee Well-Being and Work Performance** *IGI Global eBooks* [[paper](https://doi.org/10.4018/979-8-2600-3570-2.ch003)]
+- [2026] **Workplace Democracy and the Pursuit of Well-being: Reimagining Organizations Through Participation and Equality** *The regional tribune.* [[paper](https://doi.org/10.55737/trt/v-viii.409)]
+- [2026] **Workplace Stress Dynamics and Employee Psychological Well-Being** *International Journal of Global Sustainable Research* [[paper](https://doi.org/10.59890/ijgsr.v4i6.287)]
+- [2026] **THE ROLE OF WORKPLACE LONELINESS IN PREDICTING EMPLOYEE WELL-BEING AMONG OIL AND GAS WORKERS** [[paper](https://osf.io/fsuab)]
+- [2026] **FROM STRESS TO WELL-BEING: EVALUATING THE EFFECTIVENESS OF WORKPLACE STRESS MANAGEMENT PRACTICES AMONG WOMEN EMPLOYEES** *AHURI Final Report* [[paper](https://doi.org/10.5281/zenodo.21260833)]
+- [2026] **Critical analysis of the leadership capabilities in employee well-being** *International Journal For Multidisciplinary Research* [[paper](https://doi.org/10.36948/ijfmr.2026.v08i04.84097)]
+- [2026] **Staff Perspectives on Workplace Well‐Being in Dental Schools: Challenges and Solutions** *European Journal Of Dental Education* [[paper](https://doi.org/10.1111/eje.70258)]
+- [2026] **WORKPLACE BULLYING AND JOB PERFORMANCE AMONG MALAYSIAN PUBLIC SECTOR EMPLOYEES** *Quantum Journal of Social Sciences and Humanities* [[paper](https://doi.org/10.55197/qjssh.v7si4.1584)]
+- [2026] **Poetry & You: Bridging Emotional Well-Being And Employee Engagement In Modern Workplaces** *ACR North American Advances* [[paper](https://doi.org/10.5281/zenodo.20587976)]
+- [2026] **A Systematic Review of Psychological Workplace Stress and Work-Life Balance on Employee Well-Being** *Zenodo (CERN European Organization for Nuclear Research)* [[paper](https://doi.org/10.5281/zenodo.21610261)]
+- [2026] **MAPPING EMPLOYEE HEALTH AND SAFETY: A PUBLIC SURVEY APPROACH TO WORKPLACE WELL-BEING** *International Research Journal of Modernization in Engineering Technology and Science* [[paper](https://doi.org/10.56726/irjmets79610)]
+- [2026] **Exploring the moderating role of workplace spirituality in the link between organizational forgiveness climate and employees’ psychological well-being** *Social Responsibility Journal* [[paper](https://doi.org/10.1108/srj-09-2025-0955)]
+- [2026] **Digital Work Pressure, Workplace Well-Being, and Retention Intention among Generation Z Employees: A Qualitative Study** *Journal of Economics Entrepreneurship Management Business and Accounting* [[paper](https://doi.org/10.61255/jeemba.v4i4.1063)]
+- [2026] **Enhancing employee experience and workplace well-being in oncology: a bottom-up co-construction approach in healthcare institutions in Québec** *Figshare* [[paper](https://doi.org/10.6084/m9.figshare.c.8650544)]
+- [2026] **Additional file 1 of Enhancing employee experience and workplace well-being in oncology: a bottom-up co-construction approach in healthcare institutions in Québec** *Figshare* [[paper](https://doi.org/10.6084/m9.figshare.33236456)]
+- [2026] **Additional file 2 of Enhancing employee experience and workplace well-being in oncology: a bottom-up co-construction approach in healthcare institutions in Québec** *Figshare* [[paper](https://doi.org/10.6084/m9.figshare.33236459)]
+- [2026] **Workplace Well-Being for Generation Z in Today’s Hustle Culture** *PHILANTHROPY Journal of Psychology* [[paper](https://doi.org/10.26623/philanthropy.v10i1.13930)]
+- [2026] **WORKING CONDITIONS AND EMPLOYEE WELL-BEING: AN EMPIRICAL ANALYSIS** *DOAJ (DOAJ: Directory of Open Access Journals)* [[paper](https://doaj.org/article/ae572d88bf444c2c933419e5cb135435)]
+- [2026] **EVALUATING THE EFFECTS OF ECONOMIC POLICIES AND WORKPLACE INTERVENTIONS ON CONSUMPTION BEHAVIOR AND WELL-BEING** *Purdue* [[paper](https://doi.org/10.25394/pgs.32775072)]
+- [2026] **Analyzing Workplace Stress and Performance of Women Employees in Nationalized Banks** *B-Digest (Journal of Commerce & Management)* [[paper](https://doi.org/10.26634/jbd.18.1.1544)]
+- [2026] **Workplace & Adult Life - Workplace Stress and Employee Productivity: A Psychological Perspective** *Zenodo (CERN European Organization for Nuclear Research)* [[paper](https://doi.org/10.5281/zenodo.20355761)]
+- [2026] **Employers’ Perceptions on Protecting the Workplace Dignity of Their Employees with Disabilities** *Journal of Vocational Rehabilitation* [[paper](https://doi.org/10.1177/10522263261449099)]
+
+[⬆ Back to top](#paper-list)
+
+#### Theory
+
+##### 2026
+
+- [2026] **The impact of facilities management on workplace well-being and employee productivity in the banking sector** *African Journal of Empirical Research* [[paper](https://doi.org/10.51867/ajernet.7.4.23)]
+- [2026] **Workplace Mobbing and Employee Well-being: Associations with Burnout, Job Satisfaction, and Organizational Climate** *Scientiae Radices* [[paper](https://doi.org/10.58332/scirad2026v5i4a01)]
+- [2026] **Workplace Stress and Work Life Balance as Predictors of Well-Being among Full-Time BPO Employees** *International Journal of Research on Multidisciplinary Studies* [[paper](https://doi.org/10.67903/ijroms0540)]
+- [2026] **Talent Management and Employee Retention: Assessing the Influence of Career Development, Workplace Well-Being and Organizational Commitment** *Natural Resources for Human Health* [[paper](https://doi.org/10.53365/nrfhh.3324)]
+- [2026] **Pengaruh Workplace Spirituality terhadap Job Performance: Peran Mediasi Employee Well-Being dan Job Satisfaction** *ARZUSIN* [[paper](https://doi.org/10.58578/arzusin.v6i6.12326)]
+- [2026] **"WORKPLACE BURNOUT AND EMPLOYEE PSYCHOLOGICAL WELL-BEING: THE MEDIATING ROLE OF EMOTIONAL EXHAUSTION AND THE MODERATING ROLE OF ORGANIZATIONAL SUPPORT"** *Perspectives in Social Sciences* [[paper](https://pssperspectives.com/index.php/06/article/view/139)]
+- [2026] **Workplace benign envy and employee outcomes: the mediating role of a leader’s knowledge-sharing behaviour on innovative work behaviour and workplace well-being among nurses** *Journal of Health Organization and Management* [[paper](https://doi.org/10.1108/jhom-04-2026-0400)]
+- [2026] **The Influence of Sustainable Human Resource Management, Workplace Well-Being, and Sustainable Work Environment on Job Satisfaction: the Mediating Role of Employee Engagement** *Ilomata International Journal of Management* [[paper](https://doi.org/10.61194/ijjm.v7i4.2205)]
+- [2026] **Ethical Leadership, Workplace Well-Being, and Creative Performance: The Roles of Workaholism, Employee Voice, and Self-Efficacy in Saudi Arabian Travel Agencies** *Societies* [[paper](https://doi.org/10.3390/soc16100325)]
+- [2026] **Psychosocial Workplace Stress and Job Sa6sfac6on among Beauty Salon Employees in Bengaluru: An Empirical Study of Occupa6onal Well-Being in the Urban Service Sector** *Journal of Cortexplore* [[paper](https://doi.org/10.65320/jce.vol.1.issue5.47)]
+- [2026] **Designing a framework for workplace well-being** *Current Psychology* [[paper](https://doi.org/10.1007/s12144-026-10112-w)]
+- [2026] **Workplace Architecture and Employee Well-Being** *The Sankalpa: International Journal of Management Decisions* [[paper](https://thesankalpa.org/ijmd/article/view/513)]
+- [2026] **The Influence of Workplace Incivility, Abusive Supervision, and Workplace Gossip on Employee Well-Being of Gen Z Employees in Sragen Regency** *Escalate Economics and Business Journal* [[paper](https://doi.org/10.61536/escalate.v4i02.639)]
+- [2026] **Perceived Organizational Support For Menstrual Health: Advancing Employee Well-Being In The Workplace** *Journal of Asia Entrepreneurship and Sustainability* [[paper](https://doi.org/10.66635/0secrp67)]
+- [2026] **Human–AI Collaboration and Workplace Well-Being: Examining the Mediating Role of Employee Engagement in Employee Productivity** *Minnesota Journal of Business Law and Entrepreneurship* [[paper](https://kommerstad.org/journal/article/view/997)]
+- [2026] **Health and Safety in the Workplace: The Role of Compliance in Ensuring Employee Well-Being and Organizational Success** *Zenodo (CERN European Organization for Nuclear Research)* [[paper](https://doi.org/10.5281/zenodo.22772506)]
+- [2026] **The AI–Well-being Paradox in the Workplace: A Dual-Pathway Model of Employee Well-being, Engagement and Sustainable Organizational Performance** *International journal of economic perspectives* [[paper](https://ijeponline.com/index.php/journal/article/view/1161)]
+- [2026] **Workplace social courage as a boundary condition of trust: evidence from employee well-being outcomes** *Journal of Organizational Effectiveness People and Performance* [[paper](https://doi.org/10.1108/joepp-03-2026-0350)]
+- [2026] **The Effect of Workplace Spirituality on Generation Z Employees' Holistic Well-Being in Kupang Creative Economy** *Annals of Human Resource Management Research* [[paper](https://doi.org/10.35912/ahrmr.v6.n3.p173-183.2026)]
+- [2026] **Work engagement and employee well-being in hybrid IT workplace: effects of employee voice, innovative work behavior, and co-worker support** *Evidence-based HRM a Global Forum for Empirical Scholarship* [[paper](https://doi.org/10.1108/ebhrm-04-2026-0251)]
+- [2026] **Employee eudaimonic well-being and green behavior in sustainable workplaces toward a human-centered sustainability framework** *Discover Sustainability* [[paper](https://doi.org/10.1007/s43621-026-04802-5)]
+- [2026] **Gender Equity Policies and Employee Well-Being: Bridging the Gap Between Policy and Practice in Nigerian and Global Workplaces** *Zenodo (CERN European Organization for Nuclear Research)* [[paper](https://doi.org/10.5281/zenodo.22880937)]
+- [2026] **Extrapolating CSR–HRM interdependencies and employee well-being for sustainable workplaces in generative AI era** *Discover Sustainability* [[paper](https://doi.org/10.1007/s43621-026-04810-5)]
+- [2026] **Building a Future-Ready Workforce: Workplace Learning, Employee Well-Being and Performance in Indian Organisations – A Conceptual Review** *International Journal of Commerce and Management Research Studies (IJCMRS)* [[paper](https://doi.org/10.63090/ijcmrs/3049.1908.0043)]
+- [2026] **Industry-level emotional-labor exposure proxy and employee well-being: the statistical indirect role of workplace equity perceptions** *Frontiers in Psychology* [[paper](https://doi.org/10.3389/fpsyg.2026.1902210)]
+- [2026] **Digital Workplace Transformation and Employee Well being - Examining the Role of Human Resource Management Practices in Promoting Mental Health** *INTERANTIONAL JOURNAL OF SCIENTIFIC RESEARCH IN ENGINEERING AND MANAGEMENT* [[paper](https://doi.org/10.55041/ijsrem67545)]
+- [2026] **Toward Sustainable Workplaces: The Roles of Work–Family Conflict, Social Support, and Meaning in Employee Well-Being and Performance After Parental Leave** *Behavioral Sciences* [[paper](https://doi.org/10.3390/bs16091566)]
+- [2026] **INFLUENCE OF WORKPLACE COUNSELLING ON EMPLOYEE MOTIVATION** *African Journal of Emerging Issues* [[paper](https://ajoeijournal.org/sys/index.php/ajoei/article/view/1275)]
+- [2026] **The Effects of Hazards on the Well-being of Employees in Europe** *Asian Journal of Human Services* [[paper](https://doi.org/10.14391/ajhs.e3005.1.007)]
+- [2026] **Deciphering Identity Dynamics and Their Role in Health and Well-Being in the Workplace** [[paper](https://doi.org/10.1093/9780197692332.003.0001)]
+- [2026] **Impact of Digital Surveillance on Employee Well-Being** *Minnesota Journal of Business Law and Entrepreneurship* [[paper](https://kommerstad.org/journal/article/view/969)]
+- [2026] **Workplace Stress, Coping Strategies and Employee Satisfaction: A Study of Coal Mining Employees in Dhanbad** *Journal of Modern Management & Entrepreneurship* [[paper](https://doi.org/10.62823/jmme/16.03.9346)]
+- [2026] **The Impact of Employee Well-Being and Mental Health on Retail Employee Performance of North Karnataka** *Minnesota Journal of Business Law and Entrepreneurship* [[paper](https://kommerstad.org/journal/article/view/996)]
+- [2026] **The Influence of Workplace Conflict and Quiet Quitting Behavior among IT Employees** *Zenodo (CERN European Organization for Nuclear Research)* [[paper](https://doi.org/10.5281/zenodo.23060201)]
+- [2026] **A Study on the Impact of Workplace Well-being Initiatives on Employee Performance** *Zenodo (CERN European Organization for Nuclear Research)* [[paper](https://doi.org/10.5281/zenodo.21877142)]
+- [2026] **A Review on Spirituality in the Workplace and Employee Well-Being: A Human Resource Development Perspective** *Human Resource Development Review* [[paper](https://doi.org/10.1177/15344843261477998)]
+- [2026] **Effects of workplace greenery on well-being in live-in shiftwork rotation employees** *OSF Preprints (OSF Preprints)* [[paper](https://osf.io/et32f)]
+- [2026] **WORKPLACE WELL-BEING AND ORGANIZATIONAL COMMITMENT AMONG EMPLOYEES OF PUBLIC SECTOR BANKS IN ERNAKULAM DISTRICT** *International Journal of Drug Delivery Technology* [[paper](https://doi.org/10.25258/ijddt.16.77s.2)]
+- [2026] **The impact of flexible human resource management on employees’ workplace well-being based on self-determination theory** *Frontiers in Psychology* [[paper](https://doi.org/10.3389/fpsyg.2026.1885266)]
+- [2026] **Employee Well-Being, Organizational Health, and Perceived Effectiveness of Workplace Mental Health Initiatives in the IT Sector** *International Conference on Computational Intelligence: Methods, Models, and Real-World Applications (ICCIMMR)* [[paper](https://doi.org/10.1109/iccimmr71310.2026.11731705)]
+- [2026] **Organizational Climate and Workplace Well-Being of Employees at Ingeniería, Investigación y Ambiente S.A.S. E.S.P.** *Repositorio Institucional Universidad El Bosque* [[paper](https://hdl.handle.net/20.500.12495/21064)]
+- [2026] **Workplace Stress, Emotional Intelligence, and Employee Well-Being | Meritorious Journal of Social Sciences and Management** [[paper](https://doi.org/10.66857/mgp1-3708)]
+- [2026] **Do Happy Employees Create Loyal Consumers? Reframing Workplace Well-being through Consumer Perception Lenses.** *Minnesota Journal of Business Law and Entrepreneurship* [[paper](https://kommerstad.org/journal/article/view/882)]
+- [2026] **Impact of sustainable workplace environment on employee well-being: Mediating role of work engagement and moderating role of psychological safety** *Journal of Emerging Trends in Social Sciences and Humanities* [[paper](https://doi.org/10.68065/joetssh.03.03.89)]
+- [2026] **289Chapter 18 Workplace Mental Health in the Age of Data: Opportunities and Challenges of Employee Well-Being Analytics** *De Gruyter eBooks* [[paper](https://doi.org/10.1515/9783112237687-018)]
+- [2026] **Employee Mental Health and Workplace Well-Being Programs in Oil Services Firms: Evidence from Port Harcourt, Nigeria** *JOURNAL OF PUBLIC ADMINISTRATION AND SOCIAL WELFARE RESEARCH* [[paper](https://doi.org/10.56201/jpaswr.v11.no6.2026.pg56.67)]
+- [2026] **Integrating workplace spirituality and employee well-being: a study on India’s women workforce using the integral theory of spirituality** *Current Psychology* [[paper](https://doi.org/10.1007/s12144-026-09863-3)]
+- [2026] **Yoga as a Workplace Wellness Strategy: Examining Its Role in Reducing Burnout and Enhancing Employee Resilience** *Zenodo (CERN European Organization for Nuclear Research)* [[paper](https://doi.org/10.5281/zenodo.22168389)]
+- [2026] **IMPORTANCE OF WORK LIFE BALANCE IN EMPLOYEE WELL-BEING** *Zenodo (CERN European Organization for Nuclear Research)* [[paper](https://doi.org/10.5281/zenodo.21894367)]
+- [2026] **Three Layers of Workplace Well-Being: Job Design, Job Crafting, and Individual Well-being Behaviors** *European Health Psychologist* [[paper](https://doi.org/10.62696/v8cxfj04)]
+- [2026] **Enhancing Employee Well-being and Mental Health Through AI** *Emerald Group Publishing Limited eBooks* [[paper](https://doi.org/10.1108/978-1-80686-125-520261005)]
+- [2026] **Exploring the impact of Organizational Virtuousness on Proactive Work Behavior and Workplace Well-Being** *International Journal For Multidisciplinary Research* [[paper](https://doi.org/10.36948/ijfmr.2026.v08i04.86114)]
+- [2026] **When AI usage inspires or exhausts: Cognitive and motivational pathways to workplace well-being** *Current Psychology* [[paper](https://doi.org/10.1007/s12144-026-09854-4)]
+- [2026] **Workplace Spirituality and Employee Well-Being: The Mediating Roles of Mindfulness and Workforce Agility** *Journal of Economics Entrepreneurship Management Business and Accounting* [[paper](https://doi.org/10.61255/jeemba.v4i4.1203)]
+- [2026] **Impact of workplace incivility on employee well-being and commitment to organizational citizenship behavior** *Journal of Islamic accounting and business research* [[paper](https://doi.org/10.1108/jiabr-09-2025-0579)]
+- [2026] **Employee experiences of digital workplace well-being programmes: A qualitative meta-synthesis** *International Journal of Wellbeing* [[paper](https://doi.org/10.5502/ijw.v16i3.5549)]
+- [2026] **Autonomous or controlled motivation? How playful work design shapes employee workplace well-being** *New Ideas in Psychology* [[paper](https://doi.org/10.1016/j.newideapsych.2026.101282)]
+- [2026] **Beyond Helping or Hurting? Dual Appraisals of Workplace AI, Skill Readiness, and Employee Well-Being** *Academy of Management Proceedings* [[paper](https://doi.org/10.5465/amproc.2026.12197abstract)]
+- [2026] **Positive Psychology in the Workplace: Psychological Capital, Flourishing, Leadership, and Employee Well-Being in Contemporary Organizations** *Administrative Sciences* [[paper](https://doi.org/10.3390/admsci16070325)]
+- [2026] **Factors Influencing Workplace Well-being Among Generation Z Employees: A Scoping Review Protocol** [[paper](https://osf.io/5q63e)]
+- [2026] **Unlocking Workplace Well‐Being and Engagement: The Role of DEIB Initiatives on Employee Job Satisfaction** *Global Business and Organizational Excellence* [[paper](https://doi.org/10.1002/joe.70046)]
+- [2026] **Thriving in Digital Workplaces: How Digital Competency and Psychological Capital Shape Employee Well-Being under Technostressency and Psychological Capital Shape Employee Well-Being under Technostress** *Fundamental and Applied Management Journal* [[paper](https://doi.org/10.66314/famj.v4i3.1082)]
+- [2026] **Women Managers and Employee Well-Being in Guinea: What Role Does the IGLO Model Play in Workplace Resources?** *Revue Marocaine de Droit d Economie et de Gestion (Moroccan Journal of Law Economics and Management)* [[paper](https://doi.org/10.66499/2665-7112.1612)]
+- [2026] **EMPLOYEE WELL-BEING AND ORGANIZATIONAL DEVELOPMENT** *African Journal of Emerging Issues* [[paper](https://ajoeijournal.org/sys/index.php/ajoei/article/view/1204)]
+- [2026] **ORGANISATIONAL CULTURE AND EMPLOYEE WELL-BEING** *Iterative International Publishers eBooks* [[paper](https://doi.org/10.58532/nbennur3271c14)]
+- [2026] **ESG and Employee Mental Well Being** *Figshare* [[paper](https://doi.org/10.6084/m9.figshare.32778546)]
+- [2026] **Good talk, bad talk: workplace gossip and well-being** *Management Decision* [[paper](https://doi.org/10.1108/md-09-2025-2836)]
+- [2026] **IMPACT OF OCCUPATIONAL STRESS ON EMPLOYEE WELL-BEING AMONG BANK EMPLOYEES IN BENGALURU** *EPRA International Journal of Multidisciplinary Research (IJMR)* [[paper](https://doi.org/10.36713/epra30844)]
+- [2026] **Breaking the silence: employees’ experiences of workplace mistreatment** *BMC Psychology* [[paper](https://doi.org/10.1186/s40359-026-05189-8)]
+- [2026] **Purpose, People, and Profit: A Review of the Impact of Spirituality in the Workplace on Well-Being** *Academy of Management Proceedings* [[paper](https://doi.org/10.5465/amproc.2026.21512abstract)]
+- [2026] **Can Fandom Harm Sport Employee Well-Being?** *Journal of Sport Management* [[paper](https://doi.org/10.1123/jsm.2025-0329)]
+- [2026] **A Study On Employee Health And Well- Being Programs And Their Effect On Productivity** *Zenodo (CERN European Organization for Nuclear Research)* [[paper](https://doi.org/10.5281/zenodo.21452997)]
+- [2026] **Workplace Bullying and Workplace Deviance among Managerial Employees in ABC (Pvt) Ltd: The Mediating Role of Emotional Exhaustion** *Kelaniya Journal of Human Resource Management* [[paper](https://doi.org/10.4038/kjhrm.v21i1.208)]
+- [2026] **The Impact of Artificial Intelligence on Employee Engagement and Workplace Productivity** *International Journal of Research in Engineering Science and Management* [[paper](https://doi.org/10.65138/ijresm.v9i7.3487)]
+- [2026] **EMPLOYEE ENGAGEMENT AND WORKPLACE WELL BEING MODELS** *Iterative International Publishers eBooks* [[paper](https://doi.org/10.58532/nbennurmrt34)]
+- [2026] **The Impact of Workplace Well-Being and Ethical Leadership on Employee Performance** *Indonesian Journal Economic Review (IJER)* [[paper](https://doi.org/10.59431/ijer.v6i2.815)]
+- [2026] **Workplace Belongingness and Employee Well-being: A Qualitative Exploration of Employees' Experiences in Pakistani Organizations** *Pakistan Journal of Social Science Review* [[paper](https://pjssrjournal.com/index.php/Journal/article/view/1005)]
+- [2026] **The impact of workplace relationships on employee well-being moderated by age and gender** *Discover Psychology* [[paper](https://doi.org/10.1007/s44202-026-00795-4)]
+- [2026] **Workplace Spirituality and Meaningful Work in Enhancing Employee Well-Being through Organizational Identification among Millennial Employees** *Jurnal Kewirausahaan Cerdas dan Digital* [[paper](https://doi.org/10.61132/jukerdi.v3i3.1551)]
+- [2026] **Belonging at Work: A Qualitative Meta-Synthesis of Workplace Inclusion, Social Identity, and Employee Well-Being** *Golden Ratio of Mapping Idea and Literature Format* [[paper](https://doi.org/10.52970/grmilf.v6i3.2461)]
+- [2026] **The power of workplace relations: Impacts on employee perceived well-being and quality of life** *Economics & Sociology* [[paper](https://doi.org/10.14254/2071-789x.2026/19-2/1)]
+- [2026] **Significant Role Positive Leadership in Mediator of Workplace Diversity on Employee Well-Being** *Agregat Jurnal Ekonomi dan Bisnis* [[paper](https://doi.org/10.22236/agregat_vol10.i1/23411)]
+- [2026] **Linking Ethical Leadership to Employee Well-Being: The Mediating Role of Resolution Efficacy and Workplace Conflict** *Annals of Management Review* [[paper](https://doi.org/10.54692/amr.2026.31229)]
+- [2026] **Islamic Workplace Spirituality and Its Influence on Employee Well-Being and Performance: A Systematic Literature Review** *Journal of Islamic Economic and Business Research* [[paper](https://doi.org/10.18196/jiebr.v6i1.550)]
+- [2026] **Workplace Spirituality as Lived Experience: An Interpretive Phenomenological Study of Meaning, Well-Being, and Employee Performance** *International Journal of Economics Business and Innovation Research* [[paper](https://e-journal.citakonsultindo.or.id/index.php/IJEBIR/article/view/4603)]
+- [2026] **Psychological Safety in the Algorithmic Workplace: A Conceptual Review of AI's Impact on Learning Vulnerability and Employee Well-being** *Digital Education Review* [[paper](https://doi.org/10.1344/der.2026.49.208-221)]
+- [2026] **Workplace Incivility and Employee Well-Being: The Influence of HRM Systems, Organizational Justice, and Psychological Safety** *International Journal of Business and Management Sciences* [[paper](https://doi.org/10.63468/ijbms.7.04.06)]
+- [2026] **Employee Productivity Across IT Sectors Through Workplace Spirituality, Organizational Culture, Technostress, and Psychological Well-being** *Zenodo (CERN European Organization for Nuclear Research)* [[paper](https://doi.org/10.5281/zenodo.20622048)]
+- [2026] **Impact of Workplace Spirituality on Organizational Commitment: The Mediating Effect of Employee Well-Being and the Moderating Effect of Work-Life Balance** *Journal of Human Resource Management Perspectives* [[paper](https://doi.org/10.4038/jhrmp.v11i1.76)]
+- [2026] **A qualitative exploration of the experiences of workplace stress, treatment adherence, and well-being among employees with type 2 diabetes in Nigeria** *Journal of Health Psychology* [[paper](https://doi.org/10.1177/13591053261452192)]
+- [2026] **FROM AI ANXIETY TO EMPLOYEE WELL-BEING: THE SEQUENTIAL MEDIATING ROLE OF PSYCHOLOGICAL SAFETY AND JOB MEANINGFULNESS IN AI-ENABLED WORKPLACES** *Journal of Business and Management Research* [[paper](https://jbmrresearch.com/index.php/Journal/article/view/787)]
+- [2026] **Implementing Workplace Mental Health Policy: Occupational Health Psychology Interventions to Reduce Psychosomatic Symptoms, Absenteeism, and Strengthen Employee Well-being** [[paper](https://doi.org/10.13140/rg.2.2.16374.77128)]
+- [2026] **EMPLOYEE ENGAGEMENT AND WELL-BEING MODELS** *Iterative International Publishers eBooks* [[paper](https://doi.org/10.58532/nbennurnhhrb1c9)]
+- [2026] **EMPLOYEE WELL-BEING PROGRAMS AND THEIR INFLUENCE ON ABSENTEEISM AND PRODUCTIVITY: AN EMPIRICAL STUDY** *Zenodo (CERN European Organization for Nuclear Research)* [[paper](https://doi.org/10.5281/zenodo.21697114)]
+- [2026] **Factors Affecting Employee Well-Being: A Mediation Analysis** *Social science review archives.* [[paper](https://policyjournalofms.com/index.php/6/article/view/2258)]
+- [2026] **Social Beings in Organizations: The Impact of Distinct Well-being Dimensions and Character Strengths on Workplace Loneliness** *International Journal of Applied Positive Psychology* [[paper](https://doi.org/10.1007/s41042-026-00307-8)]
+- [2026] **Workplace Bullying, Employee Stress, and Organizational Commitment: An Industrial Perspective** *IOSR Journal of Business and Management* [[paper](https://doi.org/10.9790/487x-2806017186)]
+- [2026] **Stress Management and Psychological Well-being: A Study of Employees in Service Industries** *International Journal for Multidimensional Research Perspectives* [[paper](https://doi.org/10.61877/ijmrp.v4i6.322)]
+- [2026] **Artificial intelligence, affective well-being and workplace happiness in Iberoamerican companies** *Management Research The Journal of the Iberoamerican Academy of Management* [[paper](https://doi.org/10.1108/mrjiam-11-2025-1854)]
+- [2026] **Leadership, Workplace Culture and Employee Well- Being at Workplace** *NOLEGEIN-Journal of Business Ethics Ethos & CSR* [[paper](https://mbajournals.in/index.php/JoBEC/article/download/1882/1711)]
+- [2026] **The Perceived Cultural Intelligence of Leadership and Its Impact on Employee Organizational Commitment and Workplace Well-Being** *Aquila Digital Community (University of Southern Mississippi)* [[paper](https://aquila.usm.edu/dissertations/2480)]
+- [2026] **Unravelling how flourishing shapes employee retention intention: The sequential mediating roles of workplace well-being and work engagement** *SA Journal of Human Resource Management* [[paper](https://doi.org/10.4102/sajhrm.v24i0.3325)]
+- [2026] **Reconfiguring Workplace Well-Being in India’s IT Sector: A Systems-Based Examination of Job Demands, Employee Profiles, and Strain Dynamics** *International Journal of Latest Technology in Engineering Management & Applied Science* [[paper](https://doi.org/10.51583/ijltemas.2026.150400104)]
+- [2026] **A dual-mediation model linking relationship conflict to employee well-being via workplace incivility and emotional exhaustion, moderated by political skill** *International Journal of Conflict Management* [[paper](https://doi.org/10.1108/ijcma-05-2025-0169)]
+- [2026] **HUMAN RESOURCE MANAGEMENT PRACTICES BASED ON COMMITMENT AND THEIR IMPACT IN WORKPLACE WELL-BEING – AN ANALYTICAL SURVEY OF THE OPINIONS OF A SAMPLE OF EMPLOYEES AT AL-KAFEEL SPECIALIZED HOSPITAL IN THE HOLY CITY OF KARBALA** *Veredas do Direito Direito Ambiental e Desenvolvimento Sustentável* [[paper](https://doi.org/10.18623/rvd.v23.6732)]
+- [2026] **Workplace Wellness and Employee Loyalty** *IGI Global eBooks* [[paper](https://doi.org/10.4018/979-8-3373-2287-2.ch003)]
+- [2026] **Measurement of Well-Being in The Workplace: The Adaptation of The Workplace Well-Being Questionnaire Into Indonesian** *Journal of Educational Health and Community Psychology* [[paper](https://doi.org/10.12928/jehcp.vi.32110)]
+- [2026] **Employee Well-Being and AI-Based Stress Management:An Extensive Review of Literature** *International Journal of Creative and Open Research in Engineering and Management* [[paper](https://doi.org/10.55041/ijcope.v2i5.506)]
+- [2026] **Artificial Intelligence Influences on Employee Well-Being** *Advances in computational intelligence and robotics book series* [[paper](https://doi.org/10.4018/979-8-3373-4227-6.ch001)]
+- [2026] **Employee voice, equal opportunities and workplace outcomes: an analysis of UK workplaces** *e-space (Manchester Metropolitan University)* [[paper](https://doi.org/10.83056/mmu.32478528)]
+- [2026] **The Future of Artificial Intelligence and Employee Well-Being in Organizations** *Advances in computational intelligence and robotics book series* [[paper](https://doi.org/10.4018/979-8-3373-4227-6.ch016)]
+- [2026] **AN EMPIRICAL ANALYSIS OF WORKPLACE DESIGN DETERMINANTS ON EMPLOYEE HAPPINESS IN THE IT SECTOR** *ShodhKosh Journal of Visual and Performing Arts* [[paper](https://doi.org/10.29121/shodhkosh.v7.i11s.2026.7614)]
+- [2026] **Understanding the roles and experiences of workplace well-being champions: a qualitative study** *International Journal of Workplace Health Management* [[paper](https://doi.org/10.1108/ijwhm-09-2025-0240)]
+
+[⬆ Back to top](#paper-list)
+
+#### Application
+
+##### 2026
+
+- [2026] **The Impact of Deep Care Isa on Reducing Musculoskeletal Disorders and Enhancing Productivity Among Office Employees: A Comprehensive Study** [[paper](https://arxiv.org/abs/2609.25883)]
+- [2026] **EMPLOYEE WELL-BEING AND ITS INFLUENCE ON WORKPLACE PRODUCTIVITY** *INTERANTIONAL JOURNAL OF SCIENTIFIC RESEARCH IN ENGINEERING AND MANAGEMENT* [[paper](https://doi.org/10.55041/ijsrem67205)]
+- [2026] **Mental well-being and psychological distress in the workplace: A pilot study of Greek hotel employees** *Turyzm/Tourism* [[paper](https://doi.org/10.18778/0867-5856.2026.07)]
+- [2026] **Workplace Stress and Job Satisfaction among Employees: An Empirical Study** *International Journal of Creative and Open Research in Engineering and Management* [[paper](https://doi.org/10.55041/ijcope.v2i6.347)]
+- [2026] **A STUDY ON WORKPLACE STRESS AND BURNOUT IN THE DIGITAL ERA AND ROLE OF HR IN EMPLOYEE WELL-BEING** *International Journal of Research Publication and Reviews* [[paper](https://doi.org/10.55248/gengpi.07.0526.b1206)]
+- [2026] **The Impact of Workplace Stress on Employee Productivity: A Study at FamilyMart Malaysia** *Journal of The Community Development in Asia* [[paper](https://doi.org/10.32535/jcda.v9i2.4643)]
+
+[⬆ Back to top](#paper-list)
+
+#### Survey
+
+##### 2026
+
+- [2026] **Impact of Employee Engagement on Workplace Well-Being Among Middle-Level Managers in the Private Sector** *International Journal of Interdisciplinary Approaches in Psychology* [[paper](https://doi.org/10.61113/ijiap.v4i10.1664)]
+- [2026] **Workplace Incivility and Employee Well-being among Administrative Staff in the Polytechnic of Ibadan: The Buffering Role of Social Support** *Ilorin Journal of Business Education* [[paper](https://ijbe.ijem.org.ng/index.php/ijbe/article/view/143)]
+- [2026] **Employee Perceptions of the Risks and Benefits Associated with Workplace Monitoring** *Routledge eBooks* [[paper](https://doi.org/10.4324/9781003774624-13)]
+- [2026] **Hybrid workplace practices, employees' psychological well-being and workplace social support in a Malaysian insurance company** *Selangor Business Review* [[paper](https://sbr.journals.unisel.edu.my/index.php/sbr/article/view/268)]
+- [2026] **Workplace Experiences and Employee Well-Being in Latvia** *OSF Preprints (OSF Preprints)* [[paper](https://osf.io/pguas)]
+
+[⬆ Back to top](#paper-list)
+
+#### Systems
+
+##### 2026
+
+- [2026] **EMPLOYEE WELL-BEING AND ORGANIZATIONAL PERFORMANCE: A SYSTEMATIC REVIEW OF WORKPLACE INTERVENTIONS AND OUTCOMES** *Acta Innovations* [[paper](https://doi.org/10.62441/actainnovations.vi.2090)]
+- [2026] **Emotional State and Workplace Wellness among Employees of a Local Government Unit in Ifugao, Philippines** *International Journal of Research on Multidisciplinary Studies* [[paper](https://doi.org/10.67903/ijroms0320)]
+- [2026] **Workplaces as Social Policy Actors: Work Design, Administrative Burden, and Employee Well-Being** *Academy of Management Proceedings* [[paper](https://doi.org/10.5465/amproc.2026.21504symposium)]
+- [2026] **Employees’ Well-Being and Mental Health in the Workplace** *International Journal For Multidisciplinary Research* [[paper](https://doi.org/10.36948/ijfmr.2026.v08i03.79176)]
+- [2026] **Digital well-being among Generation Z employees in Indonesia** *Priviet Social Sciences Journal* [[paper](https://doi.org/10.55942/pssj.v6i5.1486)]
+
+[⬆ Back to top](#paper-list)
+
+#### Development
+
+##### 2026
+
+- [2026] **The Relationship Between PERMA Workplace Profiles and Employee Well-Being Interventions in Local Government Units** *Journal of exceptional multidisciplinary research.* [[paper](https://doi.org/10.69739/jemr.v3i1.1995)]
+
+[⬆ Back to top](#paper-list)
+
+#### Evaluation
+
+##### 2026
+
+- [2026] **Workplace Flexibility and Work Performance A Study on Materials Laboratory Employees** *International Journal of Sustainable and Integrated Studies* [[paper](https://doi.org/10.65339/ijsis.v1.i2.94)]
+
+[⬆ Back to top](#paper-list)
+
+#### Mechanism
+
+##### 2026
+
+- [2026] **Well-Being and Happiness in the Workplace in a Globalised Economy: Comparative Perspectives on Labour-Market Structures and Employee Rights** [[paper](https://doi.org/10.62768/adjuris/2026/6/11)]
+
+[⬆ Back to top](#paper-list)
+
+### Digital Transformation
+
+#### Method
+
+##### 2026
+
+- [2026] **The path towards a human-centric digital transformation: how learning capacity of organisations shapes skills matching through innovation** *Journal of Education and Work* [[paper](https://doi.org/10.1080/13639080.2026.2741587)]
+- [2026] **Strengthening Co-Determination in Digital Transformation: A Qualitative Approach to Enhancing Works Councils’ AI Literacy and Capability for Socio-Ethical Reflection** *Digital Society* [[paper](https://doi.org/10.1007/s44206-026-00287-x)]
+- [2026] **Industrial Relations and Workplace Transformation in Oil and Gas Industry in Nigeria** *INTERNATIONAL JOURNAL OF SOCIAL SCIENCES AND MANAGEMENT RESEARCH* [[paper](https://doi.org/10.56201/ijssmr.vol.12no7.2026.pg449.468)]
+- [2026] **Enhancing Workplace Culture Among Lecturers at Colleges in Ho Chi Minh City: Policy Issues and Strategic Solutions** *International Journal of Social Science and Human Research* [[paper](https://doi.org/10.47191/ijsshr/v9-i8-23)]
+- [2026] **The Future of Communication Skills Training in Neuro-Digital Workplaces** *IGI Global eBooks* [[paper](https://doi.org/10.4018/979-8-3373-9720-7.ch012)]
+- [2026] **The Need for Digital Transformation in Managing Human Resources and Its Impact on Organizational Effectiveness** *Emerald Group Publishing Limited eBooks* [[paper](https://doi.org/10.1108/978-1-80686-813-120261002)]
+- [2026] **Artificial Intelligence Use in the Workplace and Employee Innovative Work Behavior** *Academy of Management Proceedings* [[paper](https://doi.org/10.5465/amproc.2026.15974abstract)]
+- [2026] **Digital Transformation in Postal Logistics: A Design Science Approach to Enhancing Operational Performance through Geocoding and Voice-Assisted Sorting Systems** *Shirkah Journal of Economics and Business* [[paper](https://doi.org/10.22515/shirkah.v11i2.1210)]
+- [2026] **Trends on Leadership, Social Support, and Workplace Inclusion: A Systematic Science Mapping Study** *Jurnal Maksipreneur Manajemen Koperasi dan Entrepreneurship* [[paper](https://doi.org/10.30588/jmp.v15i2.2645)]
+- [2026] **The Role of Digital Transformation in Improving the Quality of Work Life in Light of Saudi Vision 2030: An Empirical Study of International Schools in the Eastern Province** *ASU International Conference in Emerging Technologies for Sustainability and Intelligent Systems (ICETSIS)* [[paper](https://doi.org/10.1109/icetsis68266.2026.11549291)]
+
+[⬆ Back to top](#paper-list)
+
+#### Theory
+
+##### 2026
+
+- [2026] **Digital Workload and Psychological Well-Being in the Digital Workplace: The Protective Role of Perceived Organizational Support** *Psikostudia Jurnal Psikologi* [[paper](https://doi.org/10.30872/5tpdkd80)]
+- [2026] **Digital Transformation and Employee Engagement in Healthcare Organizations: The Role of Digital Capability and Innovation** *Iconic Research and Engineering Journals* [[paper](https://doi.org/10.64388/irev10i4-1724034)]
+- [2026] **How digital workplace conditions shape career adaptability: the mediating role of job satisfaction** *Journal of Organizational Effectiveness People and Performance* [[paper](https://doi.org/10.1108/joepp-03-2026-0353)]
+- [2026] **Expatriate adjustment in the 21st century: rethinking person-environment fit theory and social learning theory in the digitalized and AI-supported workplace** *Personnel Review* [[paper](https://doi.org/10.1108/pr-02-2026-0279)]
+- [2026] **An Integrated Preventive Maintenance Transformation Framework Combining Lean Practices, Autonomous Maintenance and Digital Traceability** *Journal of Mechanical Engineering and Manufacturing* [[paper](https://doi.org/10.53941/jmem.2026.100035)]
+- [2026] **AI tools drive innovation in sports firms through employee experiences moderated by perceived digital transformation climate** *Scientific Reports* [[paper](https://doi.org/10.1038/s41598-026-73473-z)]
+- [2026] **Artificial Intelligence and Digital Innovation in Commerce Education (Opportunities, Challenges, And Social Transformation Among Generation Z Students)** *Zenodo (CERN European Organization for Nuclear Research)* [[paper](https://doi.org/10.5281/zenodo.23094042)]
+- [2026] **Mapping hybrid Infotech competencies for workplace learning: a bibliometric taxonomy and theoretical framework** *Higher Education Skills and Work-based Learning* [[paper](https://doi.org/10.1108/heswbl-07-2026-0599)]
+- [2026] **Transforming hotel businesses through hybrid workplace strategies post-COVID-19 in Southern Thailand** *Journal of Human Resources in Hospitality & Tourism* [[paper](https://doi.org/10.1080/15332845.2026.2738982)]
+- [2026] **Human Resource Transformation in the Digital Era** *IGI Global eBooks* [[paper](https://doi.org/10.4018/979-8-2600-1806-4.ch003)]
+- [2026] **Digital Technology and the Changing Nature of the Workplace on Performance Effectiveness of the Banking Sector in Bayelsa State of Nigeria** *JOURNAL OF BUSINESS AND AFRICAN ECONOMY* [[paper](https://doi.org/10.56201/jbae.vol.11.no7.2025.pg1.9)]
+- [2026] **REFRAMING GENERATION Y RETENTION IN THE DIGITAL WORKPLACE: THE BUFFERING ROLE OF IMMERSIVE TECHNOLOGY** *International Journal of Advanced Research* [[paper](https://doi.org/10.21474/ijar01/24171)]
+- [2026] **Digital sustainability and technology-driven workplaces: a perspective of job demands–resources theory in service industry** *Human Resources Management and Services* [[paper](https://doi.org/10.18282/hrms6136)]
+- [2026] **Digital Transformation and the Changing World of Work in Vietnam: Emerging Issues for Workers and Labour Relations** *Social Science Humanities and Sustainability Research* [[paper](https://doi.org/10.22158/sshsr.v7n1p61)]
+- [2026] **The Digital Native Advantage: Generation Z, Artificial Intelligence, and the Transformation of Organizational Management** *African Scientific Journal* [[paper](https://africanscientificjournal.com/index.php/AfricanScientificJournal/article/view/2194)]
+- [2026] **Generative Artificial Intelligence and the future of society: a multidisciplinary analysis of economic transformation, human behavior, education, and digital governance** *Aposta* [[paper](https://doi.org/10.23900/ra.v24i120.2177)]
+- [2026] **Remote Working and Digital Transformation in the South African Accounting Industry: Implications for Employee Well-Being and Organisational Practices** *International Journal of Applied Research in Business and Management* [[paper](https://doi.org/10.51137/wrp.ijarbm.1050)]
+- [2026] **THE HUMAN SIDE OF DIGITAL TRANSFORMATION: AN EXPLORATORY STUDY OF BURNOUT AND PRODUCTIVITY IN THE DIGITAL WORKPLACE** *Journal of the Association for Information Systems* [[paper](https://aisel.aisnet.org/amcis2026/social_comput/social_comput/9)]
+- [2026] **Human-Centric Digital Transformation via Organisational Determinants: Structural Predictors of Artificial Intelligence Adoption in the Digital Workplace** *Lecture notes on data engineering and communications technologies* [[paper](https://doi.org/10.1007/978-3-032-24048-4_4)]
+- [2026] **Dynamic Risk Assessment and Hazard Prediction in Complex Workplaces Using a Digital Twin Architecture** *International Journal of Advanced Research in Science Communication and Technology* [[paper](https://doi.org/10.48175/ijarsct-38125)]
+- [2026] **Identifying the role of adoption of artificial intelligence and digital workplace determinants in employee engagement: the mediating effect of perceived organizational support in the indian information technology sector** *Eastern-European Journal of Enterprise Technologies* [[paper](https://doi.org/10.15587/1729-4061.2026.367624)]
+- [2026] **Women’s Rights and Workplace Equality: Contemporary Legal Challenges and Reforms** *Global Insights Journal* [[paper](https://doi.org/10.66572/insightonix.2026.v6.i1.44878)]
+- [2026] **Work–life balance, job satisfaction, and professional commitment in private dental clinics: Evidence in the ERA of digital transformation and AI-driven healthcare** *Edelweiss Applied Science and Technology* [[paper](https://doi.org/10.55214/2576-8484.v10i8.13455)]
+- [2026] **Careers and workplace digital transformation: A study among employees in China (Study 2)** *California Digital Library* [[paper](https://doi.org/10.48321/d1d1714f26)]
+- [2026] **Careers and workplace digital transformation: A study among employees in China (Study 1)** *California Digital Library* [[paper](https://doi.org/10.48321/d1b6d5da2e)]
+- [2026] **How Authentic Workplace Learning Shapes Vocational Students' Digital Occupational Competence: A Workplace-Embedded Competence Formation Framework** *International Journal of Academic Research in Business and Social Sciences* [[paper](https://doi.org/10.6007/ijarbss/v16-i7/28641)]
+- [2026] **PEOPLE ANALYTICS IN THE DIGITAL WORKPLACE: UNDERSTANDING THE PERCEPTIONS OF EARLY-CAREER EMPLOYEES** *Zenodo (CERN European Organization for Nuclear Research)* [[paper](https://doi.org/10.5281/zenodo.22026606)]
+- [2026] **Transformational Leadership and Work Environment on Employee Performance through Job Satisfaction in the Digital Transformation** *Economic and Business Horizon* [[paper](https://doi.org/10.54518/ebh.5.4.2026.1165)]
+- [2026] **CoDiT-AI: combining digital twins and AI to transform workplaces into neurodivergent-friendly environments** *Interacting with Computers* [[paper](https://doi.org/10.1093/iwc/iwag037)]
+- [2026] **AI-Driven Workplace Transformation and Its Impact on B.Com Graduates: A Study of University of Mysore Graduates** *Zenodo (CERN European Organization for Nuclear Research)* [[paper](https://doi.org/10.5281/zenodo.22120686)]
+- [2026] **Perceived Intergenerational Workplace Digital Divides and the Erosion of Gen X Employee Contribution** *Academy of Management Proceedings* [[paper](https://doi.org/10.5465/amproc.2026.16133abstract)]
+- [2026] **Women entrepreneurs and their leadership in family business: insights from digital workplace innovation** *Strategy and Leadership* [[paper](https://doi.org/10.1108/sl-04-2026-0200)]
+- [2026] **TRANSPARENCY AND GOVERNANCE ENHANCEMENT IN MODERN INSTITUTIONS THROUGH ACCOUNTING DIGITALIZATION TRANSFORMATION** *Proceeding of International Conference on Economics, Technology, Management, Accounting, Education, and Social Science (ICETEA)* [[paper](https://conference.unita.ac.id/index.php/icetea/article/view/791)]
+- [2026] **The Role of Employee Engagement in Linking Supportive Workplace Environment and Digital-Era Enablers to Employee Performance: Evidence from Indonesia** *Eduvest - Journal Of Universal Studies* [[paper](https://doi.org/10.59188/eduvest.v6i7.53247)]
+- [2026] **Human–AI Collaboration In The Workplace: Examining Employee Adaptability, Trust, Productivity And Organisational Performance In The Emerging Digital Economy** *Zenodo (CERN European Organization for Nuclear Research)* [[paper](https://doi.org/10.5281/zenodo.22024457)]
+- [2026] **Self-Regulated and Workplace Learning as Catalysts for IWB: The Role of Organizational Context** *Academy of Management Proceedings* [[paper](https://doi.org/10.5465/amproc.2026.13435poster)]
+- [2026] **Navigating Employee Resilience in the Workplace: A Dual Pathway (WITHDRAWN)** *Academy of Management Proceedings* [[paper](https://doi.org/10.5465/amproc.2026.14617abstract)]
+- [2026] **How Does Employee-Generative AI Collaboration Impact Workplace Helping Behavior** *Academy of Management Proceedings* [[paper](https://doi.org/10.5465/amproc.2026.12127abstract)]
+- [2026] **Artificial Intelligence and Gender-Inclusive Workplaces in Pakistani Software Houses: The Mediating Role of Digital Marketing Capabilities and HR Digital Transformation** *Research consortium archive.* [[paper](https://rcresearcharchive.com/index.php/index/article/view/913)]
+- [2026] **Human Development Index for employees in digital workplace: A conceptualization and proposed measurement** *Human Systems Management* [[paper](https://doi.org/10.1177/01672533261457742)]
+- [2026] **The Automated Workplace and the Widening Digital Divide: Socio-Economic Impacts of Robotics and GenAI on the Future of Labor** *Journal of Emerging Technology and Digital Transformation* [[paper](https://journalofemergingtechnologyanddigitaltransformation.com/index.php/3/article/view/175)]
+- [2026] **Socio-Technical Transformation in Indonesian Agribusiness: A Cultural Framework for the Digital Era** *ELITE Journal of English Language and Literature* [[paper](https://doi.org/10.33772/v3znmy57)]
+- [2026] **Compensation Equity and Employee Commitment in the Digital Workplace: Examining the Mediating Role of Job Satisfaction and Employee Engagement** *Iconic Research and Engineering Journals* [[paper](https://doi.org/10.64388/irev9i12-1718961)]
+- [2026] **RESPONSIBLE AI LEADERSHIP, DIGITAL TRANSFORMATION, AND EMPLOYEE WELL-BEING IN PAKISTAN'S KNOWLEDGE-BASED ORGANIZATIONS** *Center for Management Science Research* [[paper](https://cmsrjournal.com/index.php/Journal/article/view/1041)]
+- [2026] **Digital Transformation Readiness and its Impact on Sustainable Competitive Advantage in Global Business Organizations** *Global Perspectives in Management* [[paper](https://doi.org/10.66027/gpim/v4i2/gpm26214)]
+- [2026] **New Leadership Styles and Trends in the 21st Century Workplace** *IGI Global eBooks* [[paper](https://doi.org/10.4018/979-8-3373-6711-8.ch001)]
+- [2026] **Impact of Workplace Generative AI Engagement and Employee Creative Performance: The Mediating Role of AI-Enabled Knowledge Sharing and the Moderating Role of Digital Leadership** *Economic Sciences.* [[paper](https://doi.org/10.69889/hbzk6835)]
+- [2026] **Algorithmic Transformation in Performance Management: The Ethical and Psychological Effects of AI-Based Workplace Surveillance on Employee Calmness and Organizational Citizenship Behaviors in Smart Organizations** *NTU journal for Administrative and Human Sciences (JAHS)* [[paper](https://doi.org/10.56286/91bf3726)]
+- [2026] **Understanding Trust in Virtual Teams Through Leadership Digital Competency in AI-Enabled Workplaces: A Conceptual Framework** *Journal of economics, business and commerce.* [[paper](https://doi.org/10.69739/jebc.v3i1.2064)]
+- [2026] **Artificial Intelligence, Employee Surveillance, and Workplace Trust: Redefining Human Resource Management in the Era of Digital Transformation** *Journal Of Psychology Health And Social Challenges* [[paper](https://doi.org/10.63075/bbjpkf64)]
+- [2026] **Mental Health and Workplace Productivity in the Digital Era** *Zenodo (CERN European Organization for Nuclear Research)* [[paper](https://doi.org/10.5281/zenodo.21279124)]
+- [2026] **Digital job crafting in Confucian-heritage workplaces: human-machine collaboration as a mediator and the moderating role of continuous renewal culture** *Humanities and Social Sciences Communications* [[paper](https://doi.org/10.1057/s41599-026-07587-0)]
+- [2026] **Adaptive Leadership and Digital Transformation Success: The Roles of Cultural Intelligence and Emotional Intelligence in Saudi Arabia** *Sustainable Business and Management* [[paper](https://doi.org/10.55121/sbm.v2i1.102523)]
+- [2026] **When AI Works in Indonesian Workplace: How Technological Self-Efficacy Translates AI Usage into Outcomes under Digital Leadership** *International Conference on Innovative Research in Applied Science, Engineering and Technology (IRASET)* [[paper](https://doi.org/10.1109/iraset68627.2026.11538482)]
+- [2026] **Investigating the Role of Digital Transformation and Innovative Work Behavior in Enhancing Employee Productivity in Bandung's Creative Fashion Industry** *JURNAL COMPUTECH & BISNIS* [[paper](https://doi.org/10.56447/jcb.v19i2.1)]
+- [2026] **The Dialectic of Digital Communication Transformation in Occupational Safety and Health (OSH): Between the Rationality of Technological Efficiency and Workers’ Psychosocial Well-Being** *Indonesian Journal of Advanced Research* [[paper](https://doi.org/10.55927/ijar.v5i5.16506)]
+- [2026] **Business ethics, technology use, and workplace happiness: Gender-based differences** *Human Resources Management and Services* [[paper](https://doi.org/10.18282/hrms5875)]
+
+[⬆ Back to top](#paper-list)
+
+#### Application
+
+##### 2026
+
+- [2026] **From Digital Capabilities to Non Linear Growth: The Exponential SME Framework** [[paper](https://arxiv.org/abs/2610.01129)]
+- [2026] **How Do Data Collection Strategy and Data Quality Influence the Outcomes of Digital Technology Adoption?** [[paper](https://arxiv.org/abs/2609.12745)]
+- [2026] **Dynamic Capabilities for AI-Enabled Exploration: Antecedents, Mechanisms, and Innovation Outcomes** [[paper](https://arxiv.org/abs/2607.02645)]
+- [2026] **Rethinking Leadership Competencies in the Digital Workplace: A Dual Perspective of Managers and Employees** *International Conference on Industrial Engineering and Operations Management (IEOM)* [[paper](https://doi.org/10.46254/eu09.20260030)]
+- [2026] **Navigating the unknown in large-scale operational transformation programs: The "Sirius Days" framework as a 'pilot-organization' for characterizing emerging issues** [[paper](https://arxiv.org/abs/2606.03350)]
+- [2026] **Explainable Machine Learning for Phishing Detection on Heterogeneous Datasets with MCP-Enabled Deployment** [[paper](https://arxiv.org/abs/2605.17891)]
+- [2026] **User-Centered Design for Digital Patient-Navigation Tools in Oncology: Scoping Review** [[paper](https://arxiv.org/abs/2608.24887)]
+- [2026] **The Hourglass Revolution: A Theoretical Framework of AI's Impact on Organizational Structures in Developed and Emerging Markets** [[paper](https://arxiv.org/abs/2604.09623)]
+- [2026] **Clarifying Core Dimensions in Digital Maturity Models: An Integrative Approach** [[paper](https://arxiv.org/abs/2602.07569)]
+- [2026] **Toward Open Science in the AEC Community: An Ecosystem for Sustainable Digital Knowledge Sharing and Reuse** [[paper](https://arxiv.org/abs/2601.00788)]
+- [2026] **Deep Dive into the Abuse of DL APIs To Create Malicious AI Models and How to Detect Them** [[paper](https://arxiv.org/abs/2601.04553)]
+
+##### 2025
+
+- [2025] **Data Protection and Corporate Reputation Management in the Digital Era** [[paper](https://arxiv.org/abs/2512.15794)]
+- [2025] **Sports Business Administration and New Age Technology: Role of AI** [[paper](https://arxiv.org/abs/2601.06053)]
+- [2025] **Legacy Modernization with AI -- Mainframe modernization** [[paper](https://arxiv.org/abs/2512.05375)]
+- [2025] **Feasibility of AI-Assisted Programming for End-User Development** [[paper](https://arxiv.org/abs/2512.05666)]
+- [2025] **AI-Enhanced TOE Framework for Sustainable Industrial Performance in Fragile and Transforming Economies: Evidence from Yemen and Saudi Arabia** [[paper](https://arxiv.org/abs/2512.10333)]
+- [2025] **Experimental insights into data augmentation techniques for deep learning-based multimode fiber imaging: limitations and success** [[paper](https://arxiv.org/abs/2511.19072)]
+- [2025] **Digital Transformation in the Workplace: Navigating the Balance Between Demands and Resources** *Scientia* [[paper](https://doi.org/10.33548/scientia1280)]
+
+##### 2024
+
+- [2024] **The digital transformation in the psychology of workplace spirituality** *Digital Transformation and Society* [[paper](https://doi.org/10.1108/dts-01-2023-0008)]
+
+##### 2022
+
+- [2022] **Digital transformation in workplace strategy** *Managing the Digital Workplace in the Post-Pandemic* [[paper](https://doi.org/10.4324/9781003283386-18)]
+- [2022] **Digital Transformation Is Here** *The Future of Workplace Fear* [[paper](https://doi.org/10.1007/978-1-4842-8101-7_2)]
+- [2022] **The Digital Transformation of People** *The Future of Workplace Fear* [[paper](https://doi.org/10.1007/978-1-4842-8101-7_16)]
+
+##### 2020
+
+- [2020] **1. How does digital transformation influence the workplace?** *AGILE LEADERSHIP* [[paper](https://doi.org/10.5771/9783869805559-15)]
+- [2020] **Key Competencies for Digital Transformation in Workplace** *Contributions to Management Science* [[paper](https://doi.org/10.1007/978-3-030-40390-4_14)]
+
+##### 2003
+
+- [2003] **STRATEGIC AGILITY, HRM PRACTICES AND DIGITAL TRANSFORMATION AT WORKPLACE** *International Journal of Management and IT* [[paper](https://doi.org/10.55399/ilvy8966)]
+
+[⬆ Back to top](#paper-list)
+
+#### Survey
+
+##### 2026
+
+- [2026] **Mapping the Research Landscape of Digital Transformation and Employee Performance** *Zenodo (CERN European Organization for Nuclear Research)* [[paper](https://doi.org/10.5281/zenodo.23120065)]
+- [2026] **Job Insecurity and Employee Performance in the Digital Workplace: The Moderating Role of Psychological Resilience** *Journal of Global Social Transformation* [[paper](https://doi.org/10.71317/jgst.2.9(s3).2026.684)]
+- [2026] **Obvia's Briefing Outlook - AI in the Workplace: Insights from a Survey of Unionized Workers** [[paper](https://doi.org/10.61737/nqmi8586)]
+
+[⬆ Back to top](#paper-list)
+
+#### Evaluation
+
+##### 2026
+
+- [2026] **From Threat Rigidity to Sabotage: Emotional Reactions During Digital Workplace Change** *Journal of the Association for Information Systems* [[paper](https://aisel.aisnet.org/amcis2026/sigcnow/sigcnow/5)]
+
+[⬆ Back to top](#paper-list)
+
+### AI & Language Models
+
+#### Theory
+
+##### 2026
+
+- [2026] **The Economic Implications of Artificial Intelligence for Employment and Labour Productivity: A Descriptive Evidence Synthesis (2020–2025)** *Inverge Journal of Social Sciences* [[paper](https://doi.org/10.63544/ijss.v5i5.339)]
+- [2026] **The Impact of Employees’ Spontaneous AI Application Capability on Customer Service Efficiency: Evidence from Software Service Enterprises in Guangdong, China** *Journal of Business and Economic Research* [[paper](https://doi.org/10.63887/jber.2026.2.6.8)]
+- [2026] **One Prompt Does Not Fit All: Self-Meta-Evolve for Personalized Information Extraction** *arXiv (Cornell University)* [[paper](https://arxiv.org/abs/2609.21626)]
+- [2026] **PolyWorkBench: Benchmarking LLM Agents for Cross-Lingual Long-Horizon Workflows** *arXiv (Cornell University)* [[paper](https://arxiv.org/abs/2607.06008)]
+- [2026] **Editorial: The impact of intelligent technologies on the future of work: challenges and opportunities for individuals, organizations, and society** *Frontiers in Sociology* [[paper](https://doi.org/10.3389/fsoc.2026.1877636)]
+- [2026] **Job Crafting Under the Intervention of Large Language Models: Skill Premium, Task Evolution, and Professional Identity Conflicts** *Asia Pacific Economic and Management Review* [[paper](https://doi.org/10.62177/apemr.v3i3.1417)]
+- [2026] **AN INTELLIGENT FOLDER-BASED DOCUMENT CONVERSATIONAL SYSTEM USING LARGE LANGUAGE MODELS AND RETRIEVAL-AUGMENTED GENERATION** *EPRA International Journal of Multidisciplinary Research (IJMR)* [[paper](https://doi.org/10.36713/epra27876)]
+- [2026] **Intelligent Technologies and the Reconfiguration of Work: An Editorial** *UEA Digital Repository (University of East Anglia)* [[paper](https://ueaeprints.uea.ac.uk/id/eprint/103099/1/EDITORIAL_article.docx)]
+
+[⬆ Back to top](#paper-list)
+
+#### Application
+
+##### 2026
+
+- [2026] **Designing for Imperfect Prompts: A Simulation-Based Evaluation of an LLM-Based Enterprise Data Assistant Using Knowledge Graphs** [[paper](https://arxiv.org/abs/2610.23304)]
+- [2026] **Collaborative Learning and Reasoning over Model Slices** [[paper](https://arxiv.org/abs/2610.12927)]
+- [2026] **MASBench: Benchmarking LLM-based Multi-Agent Collaboration under Partial Observability** [[paper](https://arxiv.org/abs/2610.04672)] [[code](https://github.com/BUPT-GAMMA/MASBench)]
+- [2026] **Learning to Ask: Information Acquisition for SLM-LLM Collaboration, under a budget** [[paper](https://arxiv.org/abs/2610.01236)]
+- [2026] **CoEvolve: Counterfactual-Guided Co-Evolution of Memory and Collaboration in Multi-Agent Systems** [[paper](https://arxiv.org/abs/2610.33539)]
+- [2026] **Training LLMs for Multi-Agent Collaboration with Verifiable Information Rewards** [[paper](https://arxiv.org/abs/2610.17893)]
+- [2026] **ERPBench: Evaluating LLM Agents for Enterprise Decision-Making Across Competitive Market Ecologies** [[paper](https://arxiv.org/abs/2609.04667)] [[code](https://github.com/GAIR-NLP/erp-bench)]
+- [2026] **Toward Sustainable AI Deployment: A Carbon-Aware Decision Framework for Enterprise Supply Chain Systems** [[paper](https://arxiv.org/abs/2609.14881)]
+- [2026] **FirmCORe: A Benchmark for Structured Reasoning about Inter-Firm Collaboration Opportunities** [[paper](https://arxiv.org/abs/2609.17128)]
+- [2026] **Beyond Vector Similarity: Hierarchical Context-Aware Graph RAG vs Standard RAG in Enterprise Code Migration** [[paper](https://arxiv.org/abs/2609.12464)]
+- [2026] **COMED: The Missing Middle Between Routing and Collaboration in Multi-LLM Inference** [[paper](https://arxiv.org/abs/2609.26913)]
+- [2026] **Rethinking Multi-Agent Collaboration: When More Is Less** [[paper](https://arxiv.org/abs/2609.19759)]
+- [2026] **W-RAG: Source-Aware Retrieval for Enterprise Document Generation from Heterogeneous Knowledge Bases** [[paper](https://arxiv.org/abs/2608.22081)]
+- [2026] **Evaluating LLM Trade-offs for Enterprise Automation: Lessons from Workflow Generation in a Production Enterprise Platform** [[paper](https://arxiv.org/abs/2608.03311)]
+- [2026] **Beyond Document Retrieval: Architectural Challenges When LLM Agents Query Structured Enterprise Data** [[paper](https://arxiv.org/abs/2608.19235)]
+- [2026] **Conversation Coach: A Voice-enabled AI System that Helps Practice Difficult Workplace Conversations** [[paper](https://arxiv.org/abs/2609.00441)]
+- [2026] **Principal Trait Analysis: Towards Deriving "Skills" in Human-AI Collaboration** [[paper](https://arxiv.org/abs/2608.11460)]
+- [2026] **Auditable by Construction: An Ontology-Driven Framework for Trustworthy LLM Analytics in Enterprise Finance** [[paper](https://arxiv.org/abs/2608.20661)]
+- [2026] **BEAR-Bench: A Bilingual Enterprise and Academic Reasoning Benchmark for Multimodal Models** [[paper](https://arxiv.org/abs/2608.17895)]
+- [2026] **Hybrid Semantic Tool Discovery for Enterprise MCP Gateway: Architecture and Implementation** [[paper](https://arxiv.org/abs/2608.23992)]
+- [2026] **ForestBench: A Unified Graph Framework for Evaluating Multi-Agent Collaboration** [[paper](https://arxiv.org/abs/2608.08605)]
+- [2026] **Spyre-Accelerated Retrieval-Augmented Generation on IBM LinuxONE: A Cloud-Native Architecture for Secure, High-Throughput Enterprise AI Inference** [[paper](https://arxiv.org/abs/2608.21393)]
+- [2026] **From Prompts to Contracts: Harness Engineering for Auditable Enterprise LLM Agents** [[paper](https://arxiv.org/abs/2607.08028)]
+- [2026] **LLM Agents for Deliberative Collaboration: A Study on Joint Decision Making Under Partial Observability** [[paper](https://arxiv.org/abs/2607.06157)]
+- [2026] **ESF-Bench: Benchmarking Challenging Slot-Filling Scenarios for Real-World Enterprise Applications** [[paper](https://arxiv.org/abs/2607.23326)]
+- [2026] **Agentic ERP: Multi-Agent Large Language Model Architecture for Autonomous Enterprise Resource Planning** [[paper](https://arxiv.org/abs/2607.17331)]
+- [2026] **Specification-Driven Development as the Foundation of AI-Native Enterprise Software Engineering** [[paper](https://arxiv.org/abs/2607.16680)]
+- [2026] **GRID: Grammar-Railed Decoding for Enterprise SQL Generation** *KDD 2027* [[paper](https://arxiv.org/abs/2607.11951)]
+- [2026] **FORCE-Bench: A Benchmark, Dataset, and Evaluation Harness for Agentic AI in Enterprise Finance** [[paper](https://arxiv.org/abs/2607.19409)]
+- [2026] **Zero Hallucination, by Construction: Hallucination-Aware Layered Oversight for Trustworthy Enterprise AI** [[paper](https://arxiv.org/abs/2607.17883)]
+- [2026] **Queen-Bee Agents: A BeeSpec-Centered Architecture for Governed Enterprise MCP Orchestration** [[paper](https://arxiv.org/abs/2606.06545)]
+- [2026] **AGORA: An Archive-Grounded Benchmark for Agentic Workplace Document Reasoning** [[paper](https://arxiv.org/abs/2606.24526)]
+- [2026] **Understanding How Enterprises Adopt the Model Context Protocol for LLM-Driven Software Engineering** [[paper](https://arxiv.org/abs/2606.09182)]
+- [2026] **Towards Scalable Customization and Deployment of Multi-Agent Systems for Enterprise Applications** [[paper](https://arxiv.org/abs/2606.18502)]
+- [2026] **Toward Pre-Deployment Assurance for Enterprise AI Agents: Ontology-Grounded Simulation and Trust Certification** [[paper](https://arxiv.org/abs/2606.04037)]
+- [2026] **ProSPy: A Profiling-Driven SQL-Python Agentic Framework for Enterprise Text-to-SQL** [[paper](https://arxiv.org/abs/2606.05836)]
+- [2026] **MECoBench: A Systematic Study of Multimodal Agent Collaboration in Embodied Environments** [[paper](https://arxiv.org/abs/2606.31966)] [[code](https://github.com/q-i-n-g/MECoBench)]
+- [2026] **Collaborative and AI-Supported Requirements Elicitation: An Empirical Study** [[paper](https://arxiv.org/abs/2606.24060)]
+- [2026] **Beyond Text-to-SQL: An Agentic LLM System for Governed Enterprise Analytics APIs** [[paper](https://arxiv.org/abs/2605.21027)]
+- [2026] **Beyond the All-in-One Agent: Benchmarking Role-Specialized Multi-Agent Collaboration in Enterprise Workflows** [[paper](https://arxiv.org/abs/2605.08761)]
+- [2026] **Position: Avoid Overstretching LLMs for every Enterprise Task** [[paper](https://arxiv.org/abs/2605.09365)]
+- [2026] **Designing Intelligent Enterprise Agents: A Capability-Aligned Multi-Agent Architecture** [[paper](https://arxiv.org/abs/2605.08258)]
+- [2026] **The Quiet Path from Seemingly Minor Design Errors to Workplace AI Incidents** [[paper](https://arxiv.org/abs/2605.21035)]
+- [2026] **Hypergraph Enterprise Agentic Reasoner over Heterogeneous Business Systems** [[paper](https://arxiv.org/abs/2605.14259)]
+- [2026] **Argo: Efficient Importance Labeling for Enterprise Email Systems** [[paper](https://arxiv.org/abs/2605.21604)]
+- [2026] **AI Assurance: A Comprehensive Testing Strategy for Enterprise AI Systems** [[paper](https://arxiv.org/abs/2605.23459)]
+- [2026] **PRISM: Prompt Reliability via Iterative Simulation and Monitoring for Enterprise Conversational AI** [[paper](https://arxiv.org/abs/2605.15665)]
+- [2026] **Beyond Autonomy: A Dynamic Tiered AgentRunner Framework for Governable and Resilient Enterprise AI Execution** [[paper](https://arxiv.org/abs/2605.10223)]
+- [2026] **From Automation to Collaboration: Human-in-the-Loop Methods for Safe and Trustworthy NLP** [[paper](https://arxiv.org/abs/2605.25226)]
+- [2026] **Evaluating Generative Models as Interactive Emergent Representations of Human-Like Collaborative Behavior** [[paper](https://arxiv.org/abs/2605.03855)]
+- [2026] **DADL: A Declarative Description Language for Enterprise Tool Libraries in LLM Agent Systems** [[paper](https://arxiv.org/abs/2605.05247)]
+- [2026] **Large Language Models over Networks: Collaborative Intelligence under Resource Constraints** [[paper](https://arxiv.org/abs/2605.08626)]
+- [2026] **Learning Transferable Topology Priors for Multi-Agent LLM Collaboration Across Domains** [[paper](https://arxiv.org/abs/2605.17359)]
+- [2026] **Bounded Autonomy for Enterprise AI: Typed Action Contracts and Consumer-Side Execution** [[paper](https://arxiv.org/abs/2604.14723)]
+- [2026] **Ontology-Constrained Neural Reasoning in Enterprise Agentic Systems: A Neurosymbolic Architecture for Domain-Grounded AI Agents** [[paper](https://arxiv.org/abs/2604.00555)]
+- [2026] **From CRUD to Autonomous Agents: Formal Validation and Zero-Trust Security for Semantic Gateways in AI-Native Enterprise Systems** [[paper](https://arxiv.org/abs/2604.25555)]
+- [2026] **Exploring Creativity in Human-Human-LLM Collaborative Software Design** [[paper](https://arxiv.org/abs/2604.24373)]
+- [2026] **From Control to Foresight: Simulation as a New Paradigm for Human-Agent Collaboration** [[paper](https://arxiv.org/abs/2603.11677)]
+- [2026] **Rethinking Health Agents: From Siloed AI to Collaborative Decision Mediators** [[paper](https://arxiv.org/abs/2603.24986)]
+- [2026] **Adaptive Workflow Intelligence: A Cognitive Architecture for Context-Driven Enterprise Automation** [[paper](https://arxiv.org/abs/2610.08793)]
+- [2026] **REGAL: A Registry-Driven Architecture for Deterministic Grounding of Agentic AI in Enterprise Telemetry** [[paper](https://arxiv.org/abs/2603.03018)]
+- [2026] **EnterpriseOps-Gym: Environments and Evaluations for Stateful Agentic Planning and Tool Use in Enterprise Settings** [[paper](https://arxiv.org/abs/2603.13594)]
+- [2026] **Large Language Models for Analyzing Enterprise Architecture Debt in Unstructured Documentation** [[paper](https://arxiv.org/abs/2604.00046)]
+- [2026] **Semantic Consensus: Process-Aware Conflict Detection and Resolution for Enterprise Multi-Agent LLM Systems** [[paper](https://arxiv.org/abs/2604.16339)]
+- [2026] **LH-Bench: Skill-Grounded Evaluation of Long-Horizon Agents on Subjective Enterprise Tasks** [[paper](https://arxiv.org/abs/2603.22744)]
+- [2026] **Demand-Driven Context: A Methodology for Building Enterprise Knowledge Bases Through Agent Failure** [[paper](https://arxiv.org/abs/2603.14057)]
+- [2026] **Evaluating Chunking Strategies For Retrieval-Augmented Generation in Oil and Gas Enterprise Documents** [[paper](https://arxiv.org/abs/2603.24556)]
+- [2026] **Enterprise Sales Copilot: Enabling Real-Time AI Support with Automatic Information Retrieval in Live Sales Calls** [[paper](https://arxiv.org/abs/2603.21416)]
+- [2026] **From Spark to Fire: Modeling and Mitigating Error Cascades in LLM-Based Multi-Agent Collaboration** [[paper](https://arxiv.org/abs/2603.04474)]
+- [2026] **The PBSAI Governance Ecosystem: A Multi-Agent AI Reference Architecture for Securing Enterprise AI Estates** [[paper](https://arxiv.org/abs/2602.11301)]
+- [2026] **Agent-Diff: Benchmarking LLM Agents on Enterprise API Tasks via Code Execution with State-Diff-Based Evaluation** [[paper](https://arxiv.org/abs/2602.11224)] [[code](https://github.com/agent-diff-bench/agent-diff)]
+- [2026] **From Human-Human Collaboration to Human-Agent Collaboration: A Vision, Design Philosophy, and an Empirical Framework for Achieving Successful Partnerships Between Humans and LLM Agents** [[paper](https://arxiv.org/abs/2602.05987)]
+- [2026] **DIG to Heal: Scaling General-purpose Agent Collaboration via Explainable Dynamic Decision Paths** [[paper](https://arxiv.org/abs/2603.00309)] [[project](https://happyeureka.github.io/dig)]
+- [2026] **EntWorld: A Holistic Environment and Benchmark for Verifiable Enterprise GUI Agents** [[paper](https://arxiv.org/abs/2601.17722)]
+- [2026] **World of Workflows: A Benchmark for Bringing World Models to Enterprise Systems** [[paper](https://arxiv.org/abs/2601.22130)]
+- [2026] **Fine-tuning Small Language Models as Efficient Enterprise Search Relevance Labelers** [[paper](https://arxiv.org/abs/2601.03211)]
+- [2026] **CSR-RAG: An Efficient Retrieval System for Text-to-SQL on the Enterprise Scale** [[paper](https://arxiv.org/abs/2601.06564)]
+- [2026] **BiasLab: A Multilingual Dual-Framing Framework for LLM Bias Measurement, Applied to Workplace and HR Contexts** [[paper](https://arxiv.org/abs/2601.06861)]
+- [2026] **Usage, Effects and Requirements for AI Coding Assistants in the Enterprise: An Empirical Study** [[paper](https://arxiv.org/abs/2601.20112)]
+- [2026] **SafeGPT: Preventing Data Leakage and Unethical Outputs in Enterprise LLM Use** [[paper](https://arxiv.org/abs/2601.06366)]
+- [2026] **Yuan3.0 Ultra: A Trillion-Parameter Enterprise-Oriented MoE LLM** [[paper](https://arxiv.org/abs/2601.14327)] [[code](https://github.com/Yuan-lab-LLM/Yuan3.0-Ultra)]
+- [2026] **The Six Sigma Agent: Achieving Enterprise-Grade Reliability in LLM Systems Through Consensus-Driven Decomposed Execution** [[paper](https://arxiv.org/abs/2601.22290)]
+- [2026] **Yuan3.0 Flash: An Open Multimodal Large Language Model for Enterprise Applications** [[paper](https://arxiv.org/abs/2601.01718)] [[code](https://github.com/Yuan-lab-LLM/Yuan3.0)]
+- [2026] **Structure and Diversity Aware Context Bubble Construction for Enterprise Retrieval Augmented Systems** [[paper](https://arxiv.org/abs/2601.10681)]
+- [2026] **SC-MAS: Constructing Cost-Efficient Multi-Agent Systems with Edge-Level Heterogeneous Collaboration** [[paper](https://arxiv.org/abs/2601.09434)]
+- [2026] **Token-Level LLM Collaboration via FusionRoute** [[paper](https://arxiv.org/abs/2601.05106)]
+- [2026] **Using AI to Detect Motivation : Inferring Author’s Basic Psychological Need Satisfaction with a Large Language Model from Workplace Appreciation Texts with Human and AI Participants** *Diva portal (Dalarna University Library)* [[paper](https://urn.kb.se/resolve?urn=urn:nbn:se:su:diva-257792)]
+- [2026] **Generative AI and Language Ceilings: Career Capital and Mobility in Multilingual Workplaces** *Preprints.org* [[paper](https://doi.org/10.20944/preprints202608.0011.v1)]
+- [2026] **AI Models for Faculty Stress Analysis and Workplace Wellbeing Monitoring** [[paper](https://doi.org/10.71443/9789349552579-14)]
+
+##### 2025
+
+- [2025] **Intelligent Human-Machine Partnership for Manufacturing: Enhancing Warehouse Planning through Simulation-Driven Knowledge Graphs and LLM Collaboration** *AAAI Human Machine Collaboration Workshop 2026* [[paper](https://arxiv.org/abs/2512.18265)]
+- [2025] **Higress-RAG: A Holistic Optimization Framework for Enterprise Retrieval-Augmented Generation via Dual Hybrid Retrieval, Adaptive Routing, and CRAG** [[paper](https://arxiv.org/abs/2602.23374)]
+- [2025] **A Systematic Framework for Enterprise Knowledge Retrieval: Leveraging LLM-Generated Metadata to Enhance RAG Systems** [[paper](https://arxiv.org/abs/2512.05411)]
+- [2025] **Multi-LLM Collaboration for Medication Recommendation** [[paper](https://arxiv.org/abs/2512.05066)]
+- [2025] **From Correctness to Collaboration: Toward a Human-Centered Framework for Evaluating AI Agent Behavior in Software Engineering** [[paper](https://arxiv.org/abs/2512.23844)]
+- [2025] **Small Language Models for Efficient Agentic Tool Calling: Outperforming Large Models with Targeted Fine-tuning** *AAAI 2026 Workshop on Agentic AI Benchmarks and Applications for Enterprise Tasks* [[paper](https://arxiv.org/abs/2512.15943)]
+- [2025] **LLM and Agent-Driven Data Analysis: A Systematic Approach for Enterprise Applications and System-level Deployment** [[paper](https://arxiv.org/abs/2511.17676)]
+- [2025] **Cost Transparency of Enterprise AI Adoption** [[paper](https://arxiv.org/abs/2511.11761)]
+- [2025] **BeautyGuard: Designing a Multi-Agent Roundtable System for Proactive Beauty Tech Compliance through Stakeholder Collaboration** [[paper](https://arxiv.org/abs/2511.12645)]
+- [2025] **Deciphering Scientific Collaboration in Biomedical LLM Research: Dynamics, Institutional Participation, and Resource Disparities** [[paper](https://arxiv.org/abs/2511.00818)]
+- [2025] **Multi-Agent Collaborative Filtering: Orchestrating Users and Items for Agentic Recommendations** [[paper](https://arxiv.org/abs/2511.18413)]
+- [2025] **Modular Task Decomposition and Dynamic Collaboration in Multi-Agent Systems Driven by Large Language Models** [[paper](https://arxiv.org/abs/2511.01149)]
+- [2025] **Large Language Models in the Workplace: A Social Perspective** *SSRN Electronic Journal* [[paper](https://doi.org/10.2139/ssrn.5222006)]
+- [2025] **Artificial Intelligence (AI) and Its Impact on the Labour Market and the Workplace: A Human Resources and Workplace Health Perspective** *Business guides on the go* [[paper](https://doi.org/10.1007/978-3-031-92174-2_7)]
+- [2025] **AI Based Behavioural Analytics Model for Workplace Performance Evaluations** *World Conference on Communication & Computing (WCONF)* [[paper](https://doi.org/10.1109/wconf64849.2025.11233271)]
+- [2025] **Responsible AI for Inclusive and Sustainable Workplace Communication: Detection of Misogynistic Language in Business Discourse** *International Scientific Conference ERAZ.  Knowledge Based Sustainable Development* [[paper](https://doi.org/10.31410/eraz.s.p.2025.11)]
+
+##### 2024
+
+- [2024] **Managing workplace AI risks and the future of work** *American Journal of Industrial Medicine* [[paper](https://doi.org/10.1002/ajim.23653)]
+- [2024] **The Role of Inclusion, Control, and Ownership in Workplace AI-Mediated Communication** *CHI Conference on Human Factors in Computing Systems* [[paper](https://doi.org/10.1145/3613904.3642650)]
+
+##### 2023
+
+- [2023] **AI language models** *OECD digital economy papers* [[paper](https://doi.org/10.1787/13d38f92-en)]
+
+##### 2019
+
+- [2019] **The AI-Powered Workplace** *Apress eBooks* [[paper](https://doi.org/10.1007/978-1-4842-5476-9)]
+
+[⬆ Back to top](#paper-list)
+
+### Federated & Privacy-Preserving
+
+#### Method
+
+##### 2026
+
+- [2026] **Combining Homomorphic Encryption and Differential Privacy in Federated Learning for Model Inspection and Availability** [[paper](https://arxiv.org/abs/2610.01650)]
+- [2026] **Privacy-Preserving Personalized Federated Learning (PPP-FL) for Medical Imaging** [[paper](https://arxiv.org/abs/2610.27470)]
+- [2026] **Evaluating Federated Vision-Language and Vision-Only Models for Privacy-Aware Breast Cancer Imaging** [[paper](https://arxiv.org/abs/2610.36379)]
+- [2026] **Toward Realistic Privacy Risk in FL-Enabled OT Intrusion Detection Systems** [[paper](https://arxiv.org/abs/2610.16872)]
+- [2026] **Projection-Based Federated Learning on Compact Submanifolds with Geometry-Independent Differential Privacy** [[paper](https://arxiv.org/abs/2610.33712)]
+- [2026] **Quantifying the Privacy Posture of Operator-Side 5G/O-RAN Profiles** [[paper](https://arxiv.org/abs/2610.07976)]
+- [2026] **Privacy-Preserving Federated Loss Exploration for Vision-Based Perception under Non-IID Data** [[paper](https://arxiv.org/abs/2610.32626)]
+- [2026] **Privacy-Preserving Over-the-Air Federated Learning over Cell-Free Massive MIMO System with User-Centric Clustering** [[paper](https://arxiv.org/abs/2610.37424)]
+- [2026] **Privacy-enhanced federated learning via asynchronous aggregation and local differential perturbation** [[paper](https://arxiv.org/abs/2609.15885)]
+- [2026] **Feature Suppression and Differential Privacy for Residential Traffic Classification: A Two-Home Federated Study** [[paper](https://arxiv.org/abs/2609.23521)]
+- [2026] **Privacy Foundations for Multi-Institutional Scientific Artificial Intelligence** [[paper](https://arxiv.org/abs/2609.39787)]
+- [2026] **LLM-Based Schema-Aware Split Learning for Privacy-Preserving Mental Distress Prediction Across Heterogeneous Surveys** [[paper](https://arxiv.org/abs/2609.15871)]
+- [2026] **Privacy, Robustness, and Fairness Trade-offs in Federated Intrusion Detection: Geometric Indistinguishability at the Aggregation Interface** [[paper](https://arxiv.org/abs/2609.03420)]
+- [2026] **Privacy-Preserving Split Learning for Federated LLM Fine-Tuning** [[paper](https://arxiv.org/abs/2609.09794)]
+- [2026] **Privacy-Aligned Personalized Federated Learning with Compact Adaptation and Variable-Length Gaussian Communication** [[paper](https://arxiv.org/abs/2609.15950)]
+- [2026] **Modality-Decoupled Federated Learning for Privacy-Preserving Embodied Intelligence in 6G** [[paper](https://arxiv.org/abs/2609.09591)]
+- [2026] **Similarity Weighted Aggregation with Global Differential Privacy for Federated Brain Lesion Segmentation** [[paper](https://arxiv.org/abs/2608.00872)]
+- [2026] **Differential Privacy in Feature Reconstruction Aided Federated Learning for Agent's Semantic Communication Model Update** [[paper](https://arxiv.org/abs/2608.19649)]
+- [2026] **Federated Deep Learning for Privacy-Preserving Cardiovascular Disease Risk Prediction** [[paper](https://arxiv.org/abs/2607.08595)]
+- [2026] **Multi-Agent Privacy Game in Federated Learning: A Unified Mean-Field View** [[paper](https://arxiv.org/abs/2607.23029)]
+- [2026] **Federated Learning Architecture: Data Privacy and System Security Approaches** [[paper](https://arxiv.org/abs/2607.09391)]
+- [2026] **Privacy-Preserving and Verifiable Approximate Distributed Coded Computing** [[paper](https://arxiv.org/abs/2607.02187)]
+- [2026] **PriEval-Protect: A Unified Framework for Privacy Evaluation and Protection in Healthcare Systems** [[paper](https://arxiv.org/abs/2607.13754)]
+- [2026] **FedDP-PALD: A Privacy-Preserving Federated Latent Diffusion Framework with Prototype Aggregation for Medical Data Synthesis** [[paper](https://arxiv.org/abs/2607.16300)]
+- [2026] **Privacy Leakage in Federated Learning in Radiology Reports: A Comparative Evaluation of Tokenizer-Driven Privacy Risks** [[paper](https://arxiv.org/abs/2607.14205)]
+- [2026] **Toward Production-Ready Federated Learning in Healthcare: Privacy, Orchestration, and Governance in MLOps** [[paper](https://arxiv.org/abs/2607.10467)]
+- [2026] **Recovering Clinical Utility Under Differential Privacy: Empirical Validation of Adaptive Federated Aggregation on Heterogeneous Cardiovascular Datasets** [[paper](https://arxiv.org/abs/2607.19403)]
+- [2026] **Your Privacy My Cloak: Backdoor Attacks on Differentially Private Federated Learning** [[paper](https://arxiv.org/abs/2606.17035)]
+- [2026] **Quantifying and Defending against the Privacy Risk in Logit-based Federated Learning** [[paper](https://arxiv.org/abs/2606.08252)]
+- [2026] **IntraShuffler: A Privacy Preserving Framework for Heterogeneous DP Federated Learning** [[paper](https://arxiv.org/abs/2606.02563)]
+- [2026] **Don't Trust Us: A privacy-by-design android malware detection pipeline** [[paper](https://arxiv.org/abs/2606.03714)]
+- [2026] **Federated Learning for Multi-Center Sepsis Early Prediction with Privacy-Preserving** [[paper](https://arxiv.org/abs/2606.04338)]
+- [2026] **HADES: Privacy-Preserving Federated Learning via Selective Feature Encryption and Hybrid Model Fusion** [[paper](https://arxiv.org/abs/2606.22928)]
+- [2026] **A Privacy-Preserving Framework Using Remote Data Science for Inter-Institutional Student Retention Prediction** [[paper](https://arxiv.org/abs/2606.12845)] [[code](https://github.com/jtfields/NAIRR240195-Privacy-Preserving-Machine-Learning)]
+- [2026] **Privacy Preserving Machine Learning Workflow: from Anonymization to Personalized Differential Privacy Budgets in Federated Learning** [[paper](https://arxiv.org/abs/2605.02372)]
+- [2026] **Distributed Deep Variational Approach for Privacy-preserving Data Release** [[paper](https://arxiv.org/abs/2605.03069)]
+- [2026] **On Privacy-Preserving Image Transmission in Low-Altitude Networks: A Swin Transformer-Based Framework with Federated Learning** [[paper](https://arxiv.org/abs/2605.12566)]
+- [2026] **Enhanced Privacy and Communication Efficiency in Non-IID Federated Learning with Adaptive Quantization and Differential Privacy** [[paper](https://arxiv.org/abs/2604.23426)]
+- [2026] **Digital Privacy in IoT: Exploring Challenges, Approaches and Open Issues** [[paper](https://arxiv.org/abs/2604.04572)]
+- [2026] **Privacy-Preserving Federated Learning via Differential Privacy and Homomorphic Encryption for Cardiovascular Disease Risk Modeling** [[paper](https://arxiv.org/abs/2604.27598)]
+- [2026] **BVFLMSP : Bayesian Vertical Federated Learning for Multimodal Survival with Privacy** [[paper](https://arxiv.org/abs/2604.02248)]
+- [2026] **Secure and Privacy-Preserving Vertical Federated Learning** [[paper](https://arxiv.org/abs/2604.13474)]
+- [2026] **Taming Noise-Induced Prototype Degradation for Privacy-Preserving Personalized Federated Fine-Tuning** [[paper](https://arxiv.org/abs/2604.27833)]
+- [2026] **ADP-FL-MedSeg: Adaptive Differential Privacy for Federated Medical Segmentation Across Diverse Modalities** [[paper](https://arxiv.org/abs/2604.06518)]
+- [2026] **Scalable and Private Federated Learning Using Distributed Differential Privacy and Secure Aggregation** [[paper](https://arxiv.org/abs/2604.07125)]
+- [2026] **Evaluating Differential Privacy Against Membership Inference in Federated Learning: Insights from the NIST Genomics Red Team Challenge** [[paper](https://arxiv.org/abs/2604.12737)]
+- [2026] **FEDBUD: Joint Incentive and Privacy Optimization for Resource-Constrained Federated Learning** [[paper](https://arxiv.org/abs/2604.10499)]
+- [2026] **Differentially Private Clustered Federated Learning with Privacy-Preserving Initialization and Normality-Driven Aggregation** [[paper](https://arxiv.org/abs/2604.20596)]
+- [2026] **Towards Securing IIoT: An Innovative Privacy-Preserving Anomaly Detector Based on Federated Learning** [[paper](https://arxiv.org/abs/2604.06101)]
+- [2026] **Privacy as Commodity: MFG-RegretNet for Large-Scale Privacy Trading in Federated Learning** [[paper](https://arxiv.org/abs/2603.28329)]
+- [2026] **When Differential Privacy Meets Wireless Federated Learning: An Improved Analysis for Privacy and Convergence** [[paper](https://arxiv.org/abs/2603.19040)]
+- [2026] **Federated Learning for Privacy-Preserving Medical AI** [[paper](https://arxiv.org/abs/2603.15901)]
+- [2026] **Key-Embedded Privacy for Decentralized AI in Biomedical Omics** [[paper](https://arxiv.org/abs/2603.28334)]
+- [2026] **Balancing Privacy-Quality-Efficiency in Federated Learning through Round-Based Interleaving of Protection Techniques** [[paper](https://arxiv.org/abs/2603.05158)]
+- [2026] **Privacy-Preserving Machine Learning for IoT: A Cross-Paradigm Survey and Future Roadmap** [[paper](https://arxiv.org/abs/2603.13570)]
+- [2026] **Integrating Homomorphic Encryption and Synthetic Data in FL for Privacy and Learning Quality** [[paper](https://arxiv.org/abs/2603.02969)]
+- [2026] **DPxFin: Adaptive Differential Privacy for Anti-Money Laundering Detection via Reputation-Weighted Federated Learning** [[paper](https://arxiv.org/abs/2603.19314)]
+- [2026] **Efficient Privacy-Preserving Sparse Matrix-Vector Multiplication Using Homomorphic Encryption** [[paper](https://arxiv.org/abs/2603.04742)]
+- [2026] **FedFG: Privacy-Preserving and Robust Federated Learning via Flow-Matching Generation** [[paper](https://arxiv.org/abs/2603.27986)]
+- [2026] **SRFed: Mitigating Poisoning Attacks in Privacy-Preserving Federated Learning with Heterogeneous Data** [[paper](https://arxiv.org/abs/2602.16480)]
+- [2026] **A Human-Centered Privacy Approach (HCP) to AI** [[paper](https://arxiv.org/abs/2602.04616)]
+- [2026] **Tackling Privacy Heterogeneity in Differentially Private Federated Learning** [[paper](https://arxiv.org/abs/2602.22633)]
+- [2026] **Towards Explainable Federated Learning: Understanding the Impact of Differential Privacy** [[paper](https://arxiv.org/abs/2602.10100)]
+- [2026] **Safeguarding Privacy: Privacy-Preserving Detection of Mind Wandering and Disengagement Using Federated Learning in Online Education** [[paper](https://arxiv.org/abs/2602.09904)]
+- [2026] **Hybrid Federated and Split Learning for Privacy Preserving Clinical Prediction and Treatment Optimization** [[paper](https://arxiv.org/abs/2602.15304)]
+- [2026] **JSAM: Privacy Straggler-Resilient Joint Client Selection and Incentive Mechanism Design in Differentially Private Federated Learning** [[paper](https://arxiv.org/abs/2602.21844)]
+- [2026] **Rethinking LoRA for Privacy-Preserving Federated Learning in Large Models** [[paper](https://arxiv.org/abs/2602.19926)]
+- [2026] **Federated Inference: Toward Privacy-Preserving Collaborative and Incentivized Model Serving** [[paper](https://arxiv.org/abs/2603.02214)]
+- [2026] **Local Layer-wise Differential Privacy in Federated Learning** [[paper](https://arxiv.org/abs/2601.01737)]
+- [2026] **Leveraging Membership Inference Attacks for Privacy Measurement in Federated Learning for Remote Sensing Images** [[paper](https://arxiv.org/abs/2601.06200)]
+- [2026] **Privacy-Preserving Federated Learning with Verifiable Fairness Guarantees** [[paper](https://arxiv.org/abs/2601.12447)]
+- [2026] **Communication-Efficient and Privacy-Adaptable Mechanism -- a Federated Learning Scheme with Convergence Analysis** [[paper](https://arxiv.org/abs/2601.10701)]
+- [2026] **Privacy-Preserving Data Processing in Cloud : From Homomorphic Encryption to Federated Analytics** [[paper](https://arxiv.org/abs/2601.06710)]
+- [2026] **SAFE: Secure and Accurate Federated Learning for Privacy-Preserving Brain-Computer Interfaces** [[paper](https://arxiv.org/abs/2601.05789)]
+- [2026] **Federated Continual Learning for Privacy-Preserving Hospital Imaging Classification** [[paper](https://arxiv.org/abs/2601.06742)]
+
+##### 2025
+
+- [2025] **A Privacy-Preserving Cloud Architecture for Distributed Machine Learning at Scale** [[paper](https://arxiv.org/abs/2512.10341)]
+- [2025] **FedWiLoc: Federated Learning for Privacy-Preserving WiFi Indoor Localization** [[paper](https://arxiv.org/abs/2512.18207)]
+- [2025] **Scaling Trust in Quantum Federated Learning: A Multi-Protocol Privacy Design** [[paper](https://arxiv.org/abs/2512.03358)]
+- [2025] **PrivLLMSwarm: Privacy-Preserving LLM-Driven UAV Swarms for Secure IoT Surveillance** [[paper](https://arxiv.org/abs/2512.06747)]
+- [2025] **Federated Learning Based Decentralized Adaptive Intelligent Transmission Protocol for Privacy Preserving 6G Networks** [[paper](https://arxiv.org/abs/2512.18432)]
+- [2025] **Practical Framework for Privacy-Preserving and Byzantine-robust Federated Learning** [[paper](https://arxiv.org/abs/2512.17254)]
+- [2025] **zkFL-Health: Blockchain-Enabled Zero-Knowledge Federated Learning for Medical AI Privacy** [[paper](https://arxiv.org/abs/2512.21048)]
+- [2025] **Quantum Vanguard: Server Optimized Privacy Fortified Federated Intelligence for Future Vehicles** [[paper](https://arxiv.org/abs/2512.02301)]
+- [2025] **Secure and Privacy-Preserving Federated Learning for Next-Generation Underground Mine Safety** [[paper](https://arxiv.org/abs/2512.08862)]
+- [2025] **FedMPDD: Communication-Efficient Federated Learning with Privacy Preservation Attributes via Projected Directional Derivative** [[paper](https://arxiv.org/abs/2512.20814)]
+- [2025] **FedVideoMAE: Efficient Federated Video Moderation with Differential Privacy and Secure Aggregation** [[paper](https://arxiv.org/abs/2512.18809)] [[code](https://github.com/zyt-599/FedVideoMAE)]
+- [2025] **A Privacy-Preserving Federated Learning Method for Heterogeneous Clients** [[paper](https://arxiv.org/abs/2511.06064)]
+- [2025] **Privacy-Preserving Federated Learning for Fair and Efficient Urban Traffic Optimization** [[paper](https://arxiv.org/abs/2511.06363)]
+- [2025] **Enhancing Federated Learning Privacy with QUBO** [[paper](https://arxiv.org/abs/2511.02785)]
+- [2025] **FedOnco-Bench: A Reproducible Benchmark for Privacy-Aware Federated Tumor Segmentation with Synthetic CT Data** [[paper](https://arxiv.org/abs/2511.00795)]
+- [2025] **Experiences Building Enterprise-Level Privacy-Preserving Federated Learning to Power AI for Science** [[paper](https://arxiv.org/abs/2511.08998)]
+- [2025] **IslandRun: Privacy-Aware Multi-Objective Orchestration for Distributed AI Inference** [[paper](https://arxiv.org/abs/2512.00595)]
+- [2025] **Privacy-Preserving Prompt Injection Detection for LLMs Using Federated Learning and Embedding-Based NLP Classification** [[paper](https://arxiv.org/abs/2511.12295)]
+- [2025] **Privacy in Federated Learning with Spiking Neural Networks** [[paper](https://arxiv.org/abs/2511.21181)]
+- [2025] **FedRW: Efficient Privacy-Preserving Data Reweighting for Enhancing Federated Learning of Language Models** *NeurIPS 2025. Code is available at https* [[paper](https://arxiv.org/abs/2511.07505)]
+- [2025] **MedHE: Communication-Efficient Privacy-Preserving Federated Learning with Adaptive Gradient Sparsification for Healthcare** [[paper](https://arxiv.org/abs/2511.09043)]
+- [2025] **Fast, Private, and Protected: Safeguarding Data Privacy and Defending Against Model Poisoning Attacks in Federated Learning** [[paper](https://arxiv.org/abs/2511.02797)]
+
+[⬆ Back to top](#paper-list)
+
+#### Theory
+
+##### 2026
+
+- [2026] **Federated Learning-Based Battery Management System for Privacy-Preserving State-of-Health Estimation in Electric Vehicles** *Journal of Engineering and Computational Intelligence Review* [[paper](https://jecir.com/index.php/jecir/article/view/56)]
+- [2026] **AI-Driven Mental Health Intelligence and Early Intervention Framework: An Enterprise Platform Architecture Perspective** *International Journal of Intelligent Systems and Applications in Engineering* [[paper](https://ijisae.org/index.php/IJISAE/article/view/8496)]
+- [2026] **Predictive Care** *Advances in computational intelligence and robotics book series* [[paper](https://doi.org/10.4018/979-8-3373-6650-0.ch009)]
+
+[⬆ Back to top](#paper-list)
+
 <!-- END PAPER LIST -->
 
 <!-- BEGIN CORPUS STATISTICS -->
 
 ## 📊 Corpus Statistics
 
-**1363 papers** across **14 categories**.  
-Sources: **arXiv** 271 (20%).  
+**2341 papers** across **19 categories**.  
+Sources: **arXiv** 824 (35%).  
 
 ### Top categories
 
 | Category | Papers | Recent | |
 |----------|--------|--------|-|
-| adoption-change | **191** | 191 | ████████████ |
-| evaluation | **164** | 164 | ██████████░░ |
-| public-sector | **153** | 153 | ██████████░░ |
-| survey | **151** | 151 | █████████░░░ |
-| interoperability | **129** | 129 | ████████░░░░ |
-| open-source | **120** | 115 | ████████░░░░ |
-| method | **118** | 118 | ███████░░░░░ |
-| tooling | **112** | 112 | ███████░░░░░ |
-| collaboration | **73** | 73 | █████░░░░░░░ |
-| data-sovereignty | **57** | 45 | ████░░░░░░░░ |
-| identity-access | **40** | 40 | ███░░░░░░░░░ |
-| security-compliance | **26** | 26 | ██░░░░░░░░░░ |
-| digital-workplace | **23** | 7 | █░░░░░░░░░░░ |
+| open-source | **305** | 165 | ████████████ |
+| interoperability | **238** | 154 | █████████░░░ |
+| adoption-change | **191** | 191 | ████████░░░░ |
+| hybrid-work | **170** | 167 | ███████░░░░░ |
+| evaluation | **166** | 164 | ███████░░░░░ |
+| employee-wellbeing | **163** | 163 | ██████░░░░░░ |
+| public-sector | **153** | 153 | ██████░░░░░░ |
+| survey | **151** | 151 | ██████░░░░░░ |
+| method | **118** | 118 | █████░░░░░░░ |
+| ai-llm | **117** | 109 | █████░░░░░░░ |
+| tooling | **112** | 112 | ████░░░░░░░░ |
+| federated-privacy | **100** | 100 | ████░░░░░░░░ |
+| digital-transformation | **96** | 88 | ████░░░░░░░░ |
+| collaboration | **79** | 73 | ███░░░░░░░░░ |
+| data-sovereignty | **64** | 45 | ███░░░░░░░░░ |
+| security-compliance | **47** | 28 | ██░░░░░░░░░░ |
+| identity-access | **40** | 40 | ██░░░░░░░░░░ |
+| digital-workplace | **25** | 7 | █░░░░░░░░░░░ |
 | sme-adoption | **6** | 6 | █░░░░░░░░░░░ |
 
 ### By year
 
 | Year | Papers | |
 |------|--------|-|
+| 2003 | 1 | █░░░░░░░░░░░ |
 | 2005 | 1 | █░░░░░░░░░░░ |
 | 2007 | 1 | █░░░░░░░░░░░ |
 | 2011 | 1 | █░░░░░░░░░░░ |
-| 2013 | 1 | █░░░░░░░░░░░ |
+| 2013 | 2 | █░░░░░░░░░░░ |
 | 2016 | 3 | █░░░░░░░░░░░ |
 | 2017 | 5 | █░░░░░░░░░░░ |
 | 2018 | 3 | █░░░░░░░░░░░ |
-| 2019 | 1 | █░░░░░░░░░░░ |
-| 2020 | 4 | █░░░░░░░░░░░ |
-| 2021 | 2 | █░░░░░░░░░░░ |
-| 2022 | 1 | █░░░░░░░░░░░ |
-| 2023 | 4 | █░░░░░░░░░░░ |
-| 2024 | 3 | █░░░░░░░░░░░ |
-| 2025 | 37 | █░░░░░░░░░░░ |
-| 2026 | 1296 | ████████████ |
+| 2019 | 2 | █░░░░░░░░░░░ |
+| 2020 | 7 | █░░░░░░░░░░░ |
+| 2021 | 3 | █░░░░░░░░░░░ |
+| 2022 | 10 | █░░░░░░░░░░░ |
+| 2023 | 49 | █░░░░░░░░░░░ |
+| 2024 | 78 | █░░░░░░░░░░░ |
+| 2025 | 244 | ██░░░░░░░░░░ |
+| 2026 | 1931 | ████████████ |
 
 ### Momentum (hottest categories)
 
 | Category | Total | Rate | Recent | Score |
 |----------|-------|------|--------|-------|
-| Open Source | 120 | 9.6/mo | 96% | 11496 |
-| Digital Workplace | 23 | 0.6/mo | 30% | 280 |
+| Hybrid Work | 170 | 13.9/mo | 98% | 16698 |
+| Digital Transformation | 96 | 7.3/mo | 92% | 8792 |
+| Ai Llm | 117 | 9.1/mo | 93% | 2718 |
+| Collaboration | 79 | 6.1/mo | 92% | 1452 |
+| Data Sovereignty | 64 | 3.8/mo | 70% | 1095 |
+| Digital Workplace | 25 | 0.6/mo | 28% | 278 |
+| Interoperability | 238 | 12.8/mo | 65% | 221 |
+| Security Compliance | 47 | 2.3/mo | 60% | 214 |
+| Open Source | 305 | 13.8/mo | 54% | 186 |
 | Adoption Change | 191 | 15.9/mo | 100% | 100 |
-| Collaboration | 73 | 6.1/mo | 100% | 100 |
-| Evaluation | 164 | 13.7/mo | 100% | 100 |
+| Employee Wellbeing | 163 | 13.6/mo | 100% | 100 |
+| Federated Privacy | 100 | 8.3/mo | 100% | 100 |
 | Identity Access | 40 | 3.3/mo | 100% | 100 |
-| Interoperability | 129 | 10.8/mo | 100% | 100 |
 | Method | 118 | 9.8/mo | 100% | 100 |
 | Public Sector | 153 | 12.8/mo | 100% | 100 |
-| Security Compliance | 26 | 2.2/mo | 100% | 100 |
 | Sme Adoption | 6 | 0.5/mo | 100% | 100 |
 | Survey | 151 | 12.6/mo | 100% | 100 |
 | Tooling | 112 | 9.3/mo | 100% | 100 |
-| Data Sovereignty | 57 | 3.8/mo | 79% | 79 |
+| Evaluation | 166 | 13.7/mo | 99% | 99 |
 
 ### Trending keywords
 
 | Keyword | Papers | Burst |
 |---------|--------|-------|
-| workplace | 964 | 1.02 |
-| platform | 456 | 1.02 |
-| review | 388 | 1.02 |
-| education | 283 | 1.02 |
-| evaluation | 220 | 1.02 |
-| adoption | 182 | 1.02 |
-| survey | 163 | 1.02 |
-| security | 161 | 1.02 |
+| employee well-being | 237 | 1.15 |
+| change management | 28 | 1.15 |
+| self-hosted | 6 | 1.15 |
+| productivity | 260 | 1.14 |
+| remote work | 156 | 1.14 |
+| public sector | 80 | 1.14 |
+| workplace | 1375 | 1.13 |
+| education | 328 | 1.13 |
 
 ### Top venues
 
 | Venue | Papers |
 |-------|--------|
-| Zenodo (CERN European Organization for Nuclear Research) | 129 |
-| Academy of Management Proceedings | 15 |
+| Zenodo (CERN European Organization for Nuclear Research) | 166 |
+| Academy of Management Proceedings | 30 |
+| IGI Global eBooks | 18 |
+| Routledge eBooks | 18 |
+| Iterative International Publishers eBooks | 18 |
+| Advances in computational intelligence and robotics book series | 14 |
 | Frontiers in Public Health | 14 |
-| Routledge eBooks | 13 |
-| Advances in computational intelligence and robotics book series | 11 |
+| Frontiers in Psychology | 12 |
 | Journal of Business Insight and Innovation | 11 |
-| Iterative International Publishers eBooks | 10 |
-| Frontiers in Psychology | 9 |
-| IGI Global eBooks | 9 |
-| MED | 8 |
+| International Journal For Multidisciplinary Research | 11 |
 
 ### Research gaps (thinnest cells)
 
 | Cell | Papers |
 |------|--------|
 | `identity-access/method` | 1 |
-| `evaluation/evaluation` | 1 |
 | `digital-workplace/systems` | 1 |
 | `data-sovereignty/method` | 1 |
 | `identity-access/application` | 1 |
+| `public-sector/development` | 1 |
 
 *Generated 2026-10 by `scripts/standard_stats.py`.*
 

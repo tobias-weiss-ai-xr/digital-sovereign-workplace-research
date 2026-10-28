@@ -40,3 +40,18 @@
   query: digital sovereign workplace
   category: digital-workplace
   subcategory_hint: theory
+
+- source: crossref
+  query: hybrid work remote collaboration
+  category: hybrid-work
+  subcategory_hint: application
+
+- source: crossref
+  query: digital transformation workplace
+  category: digital-transformation
+  subcategory_hint: application
+
+- source: openalex
+  query: AI language model workplace
+  category: ai-llm
+  subcategory_hint: application

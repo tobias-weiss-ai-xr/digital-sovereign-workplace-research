@@ -1,323 +1,357 @@
-# ⚙️ Research Taxonomy & Discovery Config
-#
-# Digital Sovereign Workplace research corpus.
-# Topic, taxonomy, discovery queries, and keywords for the digital-sovereign-workplace field.
-
-# ── Topic ────────────────────────────────────────────────────────────────────
 topic:
-  name: "Digital Sovereign Workplace"
-  short: "digital-sovereign-workplace"
+  name: Digital Sovereign Workplace
+  short: digital-sovereign-workplace
   description: '- GitHub: https://github.com/tobias-weiss-ai-xr/digital-sovereign-workplace-research'
   openalex_mailto: research@tobias-weiss-ai-xr.de
-
-# ── Taxonomy ─────────────────────────────────────────────────────────────────
 taxonomy:
   categories:
-    - id: digital-workplace
-      display: "Digital Workplace"
-    - id: data-sovereignty
-      display: "Data Sovereignty"
-    - id: collaboration
-      display: "Collaboration & Productivity"
-    - id: identity-access
-      display: "Identity & Access"
-    - id: interoperability
-      display: "Interoperability & Standards"
-    - id: open-source
-      display: "Open Source"
-    - id: public-sector
-      display: "Public Sector & Education"
-    - id: sme-adoption
-      display: "SME Adoption"
-    - id: security-compliance
-      display: "Security & Compliance"
-    - id: adoption-change
-      display: "Adoption & Change"
-    - id: architecture
-      display: "Architecture & Infrastructure"
-    - id: evaluation
-      display: "Evaluation & Case Studies"
-    - id: survey
-      display: "Surveys & Reviews"
-    - id: method
-      display: "Methods"
-    - id: tooling
-      display: "Tooling & Platforms"
-  subcategories:
-    - id: method
-      display: "Method"
-    - id: theory
-      display: "Theory"
-    - id: application
-      display: "Application"
-    - id: survey
-      display: "Survey"
-    - id: experiment
-      display: "Experiment"
-    - id: systems
-      display: "Systems"
-    - id: development
-      display: "Development"
-    - id: evaluation
-      display: "Evaluation"
-    - id: review
-      display: "Review"
-    - id: mechanism
-      display: "Mechanism"
-
-# ── Discovery: arXiv queries ─────────────────────────────────────────────────
-arxiv_queries:
-  - query: 'abs:"digital workplace" AND (sovereign OR sovereignty)'
-    category: digital-workplace
-    subcategory_hint: theory
-  - query: 'abs:"data sovereignty" AND (workplace OR collaboration OR cloud)'
-    category: data-sovereignty
-    subcategory_hint: theory
-  - query: 'abs:"sovereign cloud" AND (workplace OR office OR collaboration)'
-    category: data-sovereignty
-    subcategory_hint: application
-  - query: 'abs:"collaborative systems" AND (sovereign OR open source)'
-    category: collaboration
-    subcategory_hint: systems
-  - query: 'abs:"identity federation" AND (workplace OR enterprise)'
-    category: identity-access
-    subcategory_hint: method
-  - query: 'abs:"single sign-on" AND (enterprise OR workplace)'
-    category: identity-access
-    subcategory_hint: application
-  - query: 'abs:"interoperability" AND (digital workplace OR collaboration suite)'
-    category: interoperability
-    subcategory_hint: systems
-  - query: 'abs:"open source" AND (office suite OR collaboration platform)'
-    category: open-source
-    subcategory_hint: application
-  - query: 'abs:"digital workplace" AND (public sector OR government)'
-    category: public-sector
-    subcategory_hint: application
-  - query: 'abs:"digital workplace adoption" AND (SME OR small medium)'
-    category: sme-adoption
-    subcategory_hint: application
-  - query: 'abs:"GDPR" AND (workplace OR collaboration platform)'
-    category: security-compliance
-    subcategory_hint: application
-  - query: 'abs:"change management" AND (digital workplace OR collaboration)'
-    category: adoption-change
-    subcategory_hint: method
-  - query: 'abs:"digital workplace architecture" AND (sovereign OR self-hosted)'
-    category: architecture
-    subcategory_hint: systems
-  - query: 'abs:"digital workplace" AND (evaluation OR case study)'
-    category: evaluation
-    subcategory_hint: evaluation
-  - query: 'abs:"digital workplace" AND (survey OR review)'
-    category: survey
-    subcategory_hint: review
-
-# ── Discovery: other sources ─────────────────────────────────────────────────
-other_sources_queries:
-  - source: crossref
-    query: digital sovereign workplace
-    category: digital-workplace
-    subcategory_hint: theory
-  - source: crossref
-    query: data sovereignty workplace collaboration
-    category: data-sovereignty
-    subcategory_hint: theory
-  - source: crossref
-    query: sovereign cloud office suite
-    category: data-sovereignty
-    subcategory_hint: application
-  - source: crossref
-    query: open source collaboration platform enterprise
-    category: open-source
-    subcategory_hint: application
-  - source: dblp
-    query: digital workplace sovereignty
-    category: digital-workplace
-    subcategory_hint: systems
-  - source: dblp
-    query: interoperability digital workplace
-    category: interoperability
-    subcategory_hint: systems
-  - source: europepmc
-    query: digital workplace adoption
-    category: adoption-change
-    subcategory_hint: application
-  - source: openalex
-    query: digital sovereign workplace
-    category: digital-workplace
-    subcategory_hint: theory
-
-openalex_queries:
-  - category: digital-workplace
-    query: digital sovereign workplace
-  - category: data-sovereignty
-    query: data sovereignty workplace
-  - category: collaboration
-    query: collaboration platform sovereignty
-  - category: identity-access
-    query: identity access management workplace
-  - category: interoperability
-    query: interoperability digital workplace
-  - category: open-source
-    query: open source office suite
-  - category: public-sector
-    query: digital workplace public sector
-  - category: sme-adoption
-    query: digital workplace SME adoption
-  - category: security-compliance
-    query: GDPR workplace collaboration
-  - category: adoption-change
-    query: change management digital workplace
-  - category: architecture
-    query: digital workplace architecture self-hosted
-  - category: evaluation
-    query: digital workplace case study
-  - category: survey
-    query: digital workplace review
-  - category: method
-    query: digital workplace method
-  - category: tooling
-    query: digital workplace platform
-
-subcategory_keywords:
-  - id: theory
-    keywords:
-      - theory
-      - theoretical
-      - model
-      - framework
-      - concept
-  - id: method
-    keywords:
-      - method
-      - algorithm
-      - approach
-      - technique
-      - protocol
-  - id: application
-    keywords:
-      - application
-      - applied
-      - case study
-      - empirical
-      - deployment
-  - id: systems
-    keywords:
-      - system
-      - platform
-      - architecture
-      - scalable
-      - distributed
+  - id: digital-workplace
+    display: Digital Workplace
+  - id: data-sovereignty
+    display: Data Sovereignty
+  - id: collaboration
+    display: Collaboration & Productivity
+  - id: identity-access
+    display: Identity & Access
+  - id: interoperability
+    display: Interoperability & Standards
+  - id: open-source
+    display: Open Source
+  - id: public-sector
+    display: Public Sector & Education
+  - id: sme-adoption
+    display: SME Adoption
+  - id: security-compliance
+    display: Security & Compliance
+  - id: adoption-change
+    display: Adoption & Change
+  - id: architecture
+    display: Architecture & Infrastructure
   - id: evaluation
-    keywords:
-      - evaluation
-      - benchmark
-      - comparison
-      - assessment
+    display: Evaluation & Case Studies
   - id: survey
-    keywords:
-      - survey
-      - review
-      - literature
-      - overview
-      - taxonomy
+    display: Surveys & Reviews
+  - id: method
+    display: Methods
+  - id: tooling
+    display: Tooling & Platforms
+  - id: hybrid-work
+    display: Hybrid & Remote Work
+  - id: employee-wellbeing
+    display: Employee Well-being
+  - id: digital-transformation
+    display: Digital Transformation
+  - id: ai-llm
+    display: AI & Language Models
+  - id: federated-privacy
+    display: Federated & Privacy-Preserving
+  subcategories:
+  - id: method
+    display: Method
+  - id: theory
+    display: Theory
+  - id: application
+    display: Application
+  - id: survey
+    display: Survey
+  - id: systems
+    display: Systems
   - id: development
-    keywords:
-      - implementation
-      - software
-      - toolkit
-      - open source
-  - id: experiment
-    keywords:
-      - experiment
-      - experimental
-      - simulation
+    display: Development
+  - id: evaluation
+    display: Evaluation
   - id: mechanism
-    keywords:
-      - mechanism
-      - process
-      - causal
-
+    display: Mechanism
+arxiv_queries:
+- query: abs:"digital workplace" AND (sovereign OR sovereignty)
+  category: digital-workplace
+  subcategory_hint: theory
+- query: abs:"data sovereignty" AND (workplace OR collaboration OR cloud)
+  category: data-sovereignty
+  subcategory_hint: theory
+- query: abs:"sovereign cloud" AND (workplace OR office OR collaboration)
+  category: data-sovereignty
+  subcategory_hint: application
+- query: abs:"collaborative systems" AND (sovereign OR open source)
+  category: collaboration
+  subcategory_hint: systems
+- query: abs:"identity federation" AND (workplace OR enterprise)
+  category: identity-access
+  subcategory_hint: method
+- query: abs:"single sign-on" AND (enterprise OR workplace)
+  category: identity-access
+  subcategory_hint: application
+- query: abs:"interoperability" AND (digital workplace OR collaboration suite)
+  category: interoperability
+  subcategory_hint: systems
+- query: abs:"open source" AND (office suite OR collaboration platform)
+  category: open-source
+  subcategory_hint: application
+- query: abs:"digital workplace" AND (public sector OR government)
+  category: public-sector
+  subcategory_hint: application
+- query: abs:"digital workplace adoption" AND (SME OR small medium)
+  category: sme-adoption
+  subcategory_hint: application
+- query: abs:"GDPR" AND (workplace OR collaboration platform)
+  category: security-compliance
+  subcategory_hint: application
+- query: abs:"change management" AND (digital workplace OR collaboration)
+  category: adoption-change
+  subcategory_hint: method
+- query: abs:"digital workplace architecture" AND (sovereign OR self-hosted)
+  category: architecture
+  subcategory_hint: systems
+- query: abs:"digital workplace" AND (evaluation OR case study)
+  category: evaluation
+  subcategory_hint: evaluation
+- query: abs:"digital workplace" AND (survey OR review)
+  category: survey
+  subcategory_hint: review
+- query: abs:"hybrid work" AND (digital OR workplace OR remote)
+  category: hybrid-work
+  subcategory_hint: application
+- query: abs:"employee well-being" AND (workplace OR organization)
+  category: employee-wellbeing
+  subcategory_hint: application
+- query: abs:"digital transformation" AND (workplace OR organization)
+  category: digital-transformation
+  subcategory_hint: application
+- query: abs:"large language model" AND (workplace OR enterprise OR collaboration)
+  category: ai-llm
+  subcategory_hint: application
+- query: abs:"federated learning" AND (workplace OR privacy OR sovereign)
+  category: federated-privacy
+  subcategory_hint: method
+other_sources_queries:
+- source: crossref
+  query: digital sovereign workplace
+  category: digital-workplace
+  subcategory_hint: theory
+- source: crossref
+  query: data sovereignty workplace collaboration
+  category: data-sovereignty
+  subcategory_hint: theory
+- source: crossref
+  query: sovereign cloud office suite
+  category: data-sovereignty
+  subcategory_hint: application
+- source: crossref
+  query: open source collaboration platform enterprise
+  category: open-source
+  subcategory_hint: application
+- source: dblp
+  query: digital workplace sovereignty
+  category: digital-workplace
+  subcategory_hint: systems
+- source: dblp
+  query: interoperability digital workplace
+  category: interoperability
+  subcategory_hint: systems
+- source: europepmc
+  query: digital workplace adoption
+  category: adoption-change
+  subcategory_hint: application
+- source: openalex
+  query: digital sovereign workplace
+  category: digital-workplace
+  subcategory_hint: theory
+- source: crossref
+  query: hybrid work remote collaboration
+  category: hybrid-work
+  subcategory_hint: application
+- source: crossref
+  query: digital transformation workplace
+  category: digital-transformation
+  subcategory_hint: application
+- source: openalex
+  query: AI language model workplace
+  category: ai-llm
+  subcategory_hint: application
+openalex_queries:
+- category: digital-workplace
+  query: digital sovereign workplace
+- category: data-sovereignty
+  query: data sovereignty workplace
+- category: collaboration
+  query: collaboration platform sovereignty
+- category: identity-access
+  query: identity access management workplace
+- category: interoperability
+  query: interoperability digital workplace
+- category: open-source
+  query: open source office suite
+- category: public-sector
+  query: digital workplace public sector
+- category: sme-adoption
+  query: digital workplace SME adoption
+- category: security-compliance
+  query: GDPR workplace collaboration
+- category: adoption-change
+  query: change management digital workplace
+- category: architecture
+  query: digital workplace architecture self-hosted
+- category: evaluation
+  query: digital workplace case study
+- category: survey
+  query: digital workplace review
+- category: method
+  query: digital workplace method
+- category: tooling
+  query: digital workplace platform
+- category: hybrid-work
+  query: hybrid work remote workplace
+- category: employee-wellbeing
+  query: employee well-being workplace
+- category: digital-transformation
+  query: digital transformation workplace
+- category: ai-llm
+  query: large language model workplace enterprise
+- category: federated-privacy
+  query: federated learning privacy workplace
+subcategory_keywords:
+- id: theory
+  keywords:
+  - theory
+  - theoretical
+  - model
+  - framework
+  - concept
+- id: method
+  keywords:
+  - method
+  - algorithm
+  - approach
+  - technique
+  - protocol
+- id: application
+  keywords:
+  - application
+  - applied
+  - case study
+  - empirical
+  - deployment
+- id: systems
+  keywords:
+  - system
+  - platform
+  - architecture
+  - scalable
+  - distributed
+- id: evaluation
+  keywords:
+  - evaluation
+  - benchmark
+  - comparison
+  - assessment
+- id: survey
+  keywords:
+  - survey
+  - review
+  - literature
+  - overview
+  - taxonomy
+- id: development
+  keywords:
+  - implementation
+  - software
+  - toolkit
+  - open source
+- id: mechanism
+  keywords:
+  - mechanism
+  - process
+  - causal
 relevance_keywords:
-  - digital workplace
-  - sovereign
-  - sovereignty
-  - data sovereignty
-  - cloud sovereignty
-  - collaboration
-  - productivity
-  - office suite
-  - open source
-  - identity
-  - access
-  - federation
-  - SSO
-  - interoperability
-  - standards
-  - public sector
-  - government
-  - education
-  - SME
-  - adoption
-  - change management
-  - architecture
-  - self-hosted
-  - evaluation
-  - case study
-  - survey
-  - review
-  - GDPR
-  - compliance
-  - security
-  - privacy
-  - platform
-  - Nextcloud
-  - openDesk
-  - workplace
-
+- digital workplace
+- sovereign
+- sovereignty
+- data sovereignty
+- cloud sovereignty
+- collaboration
+- productivity
+- office suite
+- open source
+- identity
+- access
+- federation
+- SSO
+- interoperability
+- standards
+- public sector
+- government
+- education
+- SME
+- adoption
+- change management
+- architecture
+- self-hosted
+- evaluation
+- case study
+- survey
+- review
+- GDPR
+- compliance
+- security
+- privacy
+- platform
+- Nextcloud
+- openDesk
+- workplace
+- hybrid work
+- remote work
+- employee well-being
+- mental health
+- digital transformation
+- language model
+- federated learning
+- privacy-preserving
 trend_keywords:
-  - digital workplace
-  - sovereignty
-  - data sovereignty
-  - cloud sovereignty
-  - collaboration
-  - productivity
-  - open source
-  - identity
-  - federation
-  - interoperability
-  - standards
-  - public sector
-  - government
-  - education
-  - SME
-  - adoption
-  - change management
-  - architecture
-  - self-hosted
-  - evaluation
-  - case study
-  - survey
-  - review
-  - GDPR
-  - compliance
-  - security
-  - privacy
-  - platform
-  - Nextcloud
-  - openDesk
-  - workplace
-  - sovereign
-
-# ── Discovery: GitHub queries ─────────────────────────────────────────────
+- digital workplace
+- sovereignty
+- data sovereignty
+- cloud sovereignty
+- collaboration
+- productivity
+- open source
+- identity
+- federation
+- interoperability
+- standards
+- public sector
+- government
+- education
+- SME
+- adoption
+- change management
+- architecture
+- self-hosted
+- evaluation
+- case study
+- survey
+- review
+- GDPR
+- compliance
+- security
+- privacy
+- platform
+- Nextcloud
+- openDesk
+- workplace
+- sovereign
+- hybrid work
+- remote work
+- employee well-being
+- digital transformation
+- language model
+- federated learning
 github_queries:
-  - query: 'nextcloud sovereign workplace'
-    category: tooling
-    subcategory_hint: systems
-  - query: 'open source office suite collaboration'
-    category: open-source
-    subcategory_hint: application
-  - query: 'self-hosted collaboration platform'
-    category: architecture
-    subcategory_hint: systems
+- query: nextcloud sovereign workplace
+  category: tooling
+  subcategory_hint: systems
+- query: open source office suite collaboration
+  category: open-source
+  subcategory_hint: application
+- query: self-hosted collaboration platform
+  category: architecture
+  subcategory_hint: systems

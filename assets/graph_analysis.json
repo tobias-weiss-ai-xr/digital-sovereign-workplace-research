@@ -21,58 +21,108 @@
    }
   },
   {
+   "id": "ai-llm",
+   "name": "AI & Language Models",
+   "count": 117,
+   "trajectory": {
+    "2019": 1,
+    "2023": 1,
+    "2024": 2,
+    "2025": 16,
+    "2026": 97
+   },
+   "momentum": {
+    "id": "ai-llm",
+    "name": "Ai Llm",
+    "total": 117,
+    "recent": 109,
+    "prior": 4,
+    "growth_pct": 2625.0,
+    "recent_share": 0.932,
+    "papers_per_month": 9.1,
+    "score": 2718.2
+   }
+  },
+  {
    "id": "collaboration",
    "name": "Collaboration & Productivity",
-   "count": 73,
+   "count": 79,
    "trajectory": {
-    "2025": 2,
+    "2023": 1,
+    "2025": 7,
     "2026": 71
    },
    "momentum": {
     "id": "collaboration",
     "name": "Collaboration",
-    "total": 73,
+    "total": 79,
     "recent": 73,
-    "prior": 0,
-    "growth_pct": null,
-    "recent_share": 1.0,
+    "prior": 5,
+    "growth_pct": 1360.0,
+    "recent_share": 0.924,
     "papers_per_month": 6.1,
-    "score": 100.0
+    "score": 1452.4
    }
   },
   {
    "id": "data-sovereignty",
    "name": "Data Sovereignty",
-   "count": 57,
+   "count": 64,
    "trajectory": {
     "2013": 1,
     "2016": 3,
     "2017": 5,
-    "2020": 2,
-    "2023": 1,
-    "2025": 2,
+    "2020": 3,
+    "2023": 2,
+    "2024": 1,
+    "2025": 6,
     "2026": 43
    },
    "momentum": {
     "id": "data-sovereignty",
     "name": "Data Sovereignty",
-    "total": 57,
+    "total": 64,
     "recent": 45,
-    "prior": 0,
-    "growth_pct": null,
-    "recent_share": 0.789,
+    "prior": 4,
+    "growth_pct": 1025.0,
+    "recent_share": 0.703,
     "papers_per_month": 3.8,
-    "score": 78.9
+    "score": 1095.3
+   }
+  },
+  {
+   "id": "digital-transformation",
+   "name": "Digital Transformation",
+   "count": 96,
+   "trajectory": {
+    "2003": 1,
+    "2020": 2,
+    "2022": 3,
+    "2024": 1,
+    "2025": 7,
+    "2026": 82
+   },
+   "momentum": {
+    "id": "digital-transformation",
+    "name": "Digital Transformation",
+    "total": 96,
+    "recent": 88,
+    "prior": 1,
+    "growth_pct": 8700.0,
+    "recent_share": 0.917,
+    "papers_per_month": 7.3,
+    "score": 8791.7
    }
   },
   {
    "id": "digital-workplace",
    "name": "Digital Workplace",
-   "count": 23,
+   "count": 25,
    "trajectory": {
+    "2013": 1,
     "2018": 3,
     "2020": 2,
-    "2021": 2,
+    "2021": 3,
     "2022": 1,
     "2023": 3,
     "2024": 3,
@@ -82,32 +132,93 @@
    "momentum": {
     "id": "digital-workplace",
     "name": "Digital Workplace",
-    "total": 23,
+    "total": 25,
     "recent": 7,
     "prior": 2,
     "growth_pct": 250.0,
-    "recent_share": 0.304,
+    "recent_share": 0.28,
     "papers_per_month": 0.6,
-    "score": 280.4
+    "score": 278.0
+   }
+  },
+  {
+   "id": "employee-wellbeing",
+   "name": "Employee Well-being",
+   "count": 163,
+   "trajectory": {
+    "2026": 163
+   },
+   "momentum": {
+    "id": "employee-wellbeing",
+    "name": "Employee Wellbeing",
+    "total": 163,
+    "recent": 163,
+    "prior": 0,
+    "growth_pct": null,
+    "recent_share": 1.0,
+    "papers_per_month": 13.6,
+    "score": 100.0
    }
   },
   {
    "id": "evaluation",
    "name": "Evaluation & Case Studies",
-   "count": 164,
+   "count": 166,
    "trajectory": {
+    "2024": 2,
     "2026": 164
    },
    "momentum": {
     "id": "evaluation",
     "name": "Evaluation",
-    "total": 164,
+    "total": 166,
     "recent": 164,
     "prior": 0,
     "growth_pct": null,
-    "recent_share": 1.0,
+    "recent_share": 0.988,
     "papers_per_month": 13.7,
+    "score": 98.8
+   }
+  },
+  {
+   "id": "federated-privacy",
+   "name": "Federated & Privacy-Preserving",
+   "count": 100,
+   "trajectory": {
+    "2025": 22,
+    "2026": 78
+   },
+   "momentum": {
+    "id": "federated-privacy",
+    "name": "Federated Privacy",
+    "total": 100,
+    "recent": 100,
+    "prior": 0,
+    "growth_pct": null,
+    "recent_share": 1.0,
+    "papers_per_month": 8.3,
     "score": 100.0
+   }
+  },
+  {
+   "id": "hybrid-work",
+   "name": "Hybrid & Remote Work",
+   "count": 170,
+   "trajectory": {
+    "2024": 2,
+    "2025": 5,
+    "2026": 163
+   },
+   "momentum": {
+    "id": "hybrid-work",
+    "name": "Hybrid Work",
+    "total": 170,
+    "recent": 167,
+    "prior": 1,
+    "growth_pct": 16600.0,
+    "recent_share": 0.982,
+    "papers_per_month": 13.9,
+    "score": 16698.2
    }
   },
   {
@@ -132,21 +243,24 @@
   {
    "id": "interoperability",
    "name": "Interoperability & Standards",
-   "count": 129,
+   "count": 238,
    "trajectory": {
-    "2025": 15,
-    "2026": 114
+    "2022": 2,
+    "2023": 8,
+    "2024": 19,
+    "2025": 82,
+    "2026": 127
    },
    "momentum": {
     "id": "interoperability",
     "name": "Interoperability",
-    "total": 129,
-    "recent": 129,
-    "prior": 0,
-    "growth_pct": null,
-    "recent_share": 1.0,
-    "papers_per_month": 10.8,
-    "score": 100.0
+    "total": 238,
+    "recent": 154,
+    "prior": 60,
+    "growth_pct": 156.7,
+    "recent_share": 0.647,
+    "papers_per_month": 12.8,
+    "score": 221.4
    }
   },
   {
@@ -171,25 +285,28 @@
   {
    "id": "open-source",
    "name": "Open Source",
-   "count": 120,
+   "count": 305,
    "trajectory": {
     "2005": 1,
     "2007": 1,
     "2011": 1,
     "2019": 1,
-    "2025": 13,
-    "2026": 103
+    "2022": 4,
+    "2023": 31,
+    "2024": 42,
+    "2025": 82,
+    "2026": 142
    },
    "momentum": {
     "id": "open-source",
     "name": "Open Source",
-    "total": 120,
-    "recent": 115,
-    "prior": 1,
-    "growth_pct": 11400.0,
-    "recent_share": 0.958,
-    "papers_per_month": 9.6,
-    "score": 11495.8
+    "total": 305,
+    "recent": 165,
+    "prior": 71,
+    "growth_pct": 132.4,
+    "recent_share": 0.541,
+    "papers_per_month": 13.8,
+    "score": 186.5
    }
   },
   {
@@ -214,21 +331,23 @@
   {
    "id": "security-compliance",
    "name": "Security & Compliance",
-   "count": 26,
+   "count": 47,
    "trajectory": {
-    "2025": 2,
+    "2023": 3,
+    "2024": 6,
+    "2025": 14,
     "2026": 24
    },
    "momentum": {
     "id": "security-compliance",
     "name": "Security Compliance",
-    "total": 26,
-    "recent": 26,
-    "prior": 0,
-    "growth_pct": null,
-    "recent_share": 1.0,
-    "papers_per_month": 2.2,
-    "score": 100.0
+    "total": 47,
+    "recent": 28,
+    "prior": 11,
+    "growth_pct": 154.5,
+    "recent_share": 0.596,
+    "papers_per_month": 2.3,
+    "score": 214.1
    }
   },
   {
@@ -293,45 +412,50 @@
   {
    "id": "application",
    "name": "Application",
-   "count": 184
+   "count": 546
   },
   {
    "id": "development",
    "name": "Development",
-   "count": 1
+   "count": 2
   },
   {
    "id": "evaluation",
    "name": "Evaluation",
-   "count": 6
+   "count": 11
   },
   {
    "id": "mechanism",
    "name": "Mechanism",
-   "count": 1
+   "count": 2
   },
   {
    "id": "method",
    "name": "Method",
-   "count": 183
+   "count": 337
   },
   {
    "id": "survey",
    "name": "Survey",
-   "count": 9
+   "count": 24
   },
   {
    "id": "systems",
    "name": "Systems",
-   "count": 158
+   "count": 281
   },
   {
    "id": "theory",
    "name": "Theory",
-   "count": 821
+   "count": 1138
   }
  ],
  "timeline": [
+  [
+   "2003-01",
+   "digital-transformation",
+   "application"
+  ],
   [
    "2005-05",
    "open-source",
@@ -346,6 +470,11 @@
    "2011-01",
    "open-source",
    "application"
+  ],
+  [
+   "2013-01",
+   "digital-workplace",
+   "theory"
   ],
   [
    "2013-05",
@@ -409,6 +538,11 @@
   ],
   [
    "2019-01",
+   "ai-llm",
+   "application"
+  ],
+  [
+   "2019-01",
    "open-source",
    "application"
   ],
@@ -416,6 +550,16 @@
    "2020-01",
    "data-sovereignty",
    "theory"
+  ],
+  [
+   "2020-01",
+   "digital-transformation",
+   "application"
+  ],
+  [
+   "2020-01",
+   "digital-transformation",
+   "application"
   ],
   [
    "2020-01",
@@ -433,6 +577,16 @@
    "theory"
   ],
   [
+   "2020-10",
+   "data-sovereignty",
+   "theory"
+  ],
+  [
+   "2021-01",
+   "digital-workplace",
+   "theory"
+  ],
+  [
    "2021-10",
    "digital-workplace",
    "theory"
@@ -444,8 +598,58 @@
   ],
   [
    "2022-01",
+   "digital-transformation",
+   "application"
+  ],
+  [
+   "2022-01",
+   "digital-transformation",
+   "application"
+  ],
+  [
+   "2022-01",
    "digital-workplace",
    "theory"
+  ],
+  [
+   "2022-09",
+   "digital-transformation",
+   "application"
+  ],
+  [
+   "2022-12",
+   "interoperability",
+   "systems"
+  ],
+  [
+   "2022-12",
+   "interoperability",
+   "systems"
+  ],
+  [
+   "2022-12",
+   "open-source",
+   "application"
+  ],
+  [
+   "2022-12",
+   "open-source",
+   "application"
+  ],
+  [
+   "2022-12",
+   "open-source",
+   "application"
+  ],
+  [
+   "2022-12",
+   "open-source",
+   "application"
+  ],
+  [
+   "2023-01",
+   "ai-llm",
+   "application"
   ],
   [
    "2023-01",
@@ -468,6 +672,416 @@
    "theory"
   ],
   [
+   "2023-01",
+   "open-source",
+   "application"
+  ],
+  [
+   "2023-01",
+   "open-source",
+   "application"
+  ],
+  [
+   "2023-02",
+   "open-source",
+   "application"
+  ],
+  [
+   "2023-03",
+   "open-source",
+   "application"
+  ],
+  [
+   "2023-03",
+   "open-source",
+   "application"
+  ],
+  [
+   "2023-03",
+   "open-source",
+   "application"
+  ],
+  [
+   "2023-03",
+   "open-source",
+   "application"
+  ],
+  [
+   "2023-03",
+   "open-source",
+   "application"
+  ],
+  [
+   "2023-04",
+   "open-source",
+   "application"
+  ],
+  [
+   "2023-04",
+   "security-compliance",
+   "application"
+  ],
+  [
+   "2023-05",
+   "interoperability",
+   "systems"
+  ],
+  [
+   "2023-05",
+   "security-compliance",
+   "application"
+  ],
+  [
+   "2023-06",
+   "interoperability",
+   "systems"
+  ],
+  [
+   "2023-06",
+   "open-source",
+   "application"
+  ],
+  [
+   "2023-06",
+   "open-source",
+   "application"
+  ],
+  [
+   "2023-06",
+   "open-source",
+   "application"
+  ],
+  [
+   "2023-06",
+   "open-source",
+   "application"
+  ],
+  [
+   "2023-06",
+   "open-source",
+   "application"
+  ],
+  [
+   "2023-06",
+   "open-source",
+   "application"
+  ],
+  [
+   "2023-07",
+   "data-sovereignty",
+   "theory"
+  ],
+  [
+   "2023-07",
+   "interoperability",
+   "systems"
+  ],
+  [
+   "2023-07",
+   "open-source",
+   "application"
+  ],
+  [
+   "2023-08",
+   "interoperability",
+   "systems"
+  ],
+  [
+   "2023-08",
+   "open-source",
+   "application"
+  ],
+  [
+   "2023-08",
+   "open-source",
+   "application"
+  ],
+  [
+   "2023-08",
+   "open-source",
+   "application"
+  ],
+  [
+   "2023-09",
+   "interoperability",
+   "systems"
+  ],
+  [
+   "2023-09",
+   "open-source",
+   "application"
+  ],
+  [
+   "2023-09",
+   "open-source",
+   "application"
+  ],
+  [
+   "2023-09",
+   "open-source",
+   "application"
+  ],
+  [
+   "2023-09",
+   "open-source",
+   "application"
+  ],
+  [
+   "2023-10",
+   "interoperability",
+   "systems"
+  ],
+  [
+   "2023-10",
+   "open-source",
+   "application"
+  ],
+  [
+   "2023-10",
+   "open-source",
+   "application"
+  ],
+  [
+   "2023-10",
+   "open-source",
+   "application"
+  ],
+  [
+   "2023-10",
+   "open-source",
+   "application"
+  ],
+  [
+   "2023-11",
+   "interoperability",
+   "systems"
+  ],
+  [
+   "2023-11",
+   "open-source",
+   "application"
+  ],
+  [
+   "2023-11",
+   "open-source",
+   "application"
+  ],
+  [
+   "2023-11",
+   "open-source",
+   "application"
+  ],
+  [
+   "2023-11",
+   "security-compliance",
+   "application"
+  ],
+  [
+   "2023-12",
+   "collaboration",
+   "systems"
+  ],
+  [
+   "2023-12",
+   "interoperability",
+   "systems"
+  ],
+  [
+   "2023-12",
+   "open-source",
+   "application"
+  ],
+  [
+   "2024-01",
+   "ai-llm",
+   "application"
+  ],
+  [
+   "2024-01",
+   "ai-llm",
+   "application"
+  ],
+  [
+   "2024-01",
+   "interoperability",
+   "systems"
+  ],
+  [
+   "2024-01",
+   "security-compliance",
+   "application"
+  ],
+  [
+   "2024-02",
+   "open-source",
+   "application"
+  ],
+  [
+   "2024-02",
+   "open-source",
+   "application"
+  ],
+  [
+   "2024-02",
+   "open-source",
+   "application"
+  ],
+  [
+   "2024-02",
+   "open-source",
+   "application"
+  ],
+  [
+   "2024-02",
+   "security-compliance",
+   "application"
+  ],
+  [
+   "2024-03",
+   "digital-transformation",
+   "application"
+  ],
+  [
+   "2024-03",
+   "hybrid-work",
+   "application"
+  ],
+  [
+   "2024-03",
+   "hybrid-work",
+   "application"
+  ],
+  [
+   "2024-03",
+   "interoperability",
+   "systems"
+  ],
+  [
+   "2024-03",
+   "open-source",
+   "application"
+  ],
+  [
+   "2024-03",
+   "open-source",
+   "application"
+  ],
+  [
+   "2024-03",
+   "security-compliance",
+   "application"
+  ],
+  [
+   "2024-04",
+   "data-sovereignty",
+   "theory"
+  ],
+  [
+   "2024-04",
+   "open-source",
+   "application"
+  ],
+  [
+   "2024-04",
+   "open-source",
+   "application"
+  ],
+  [
+   "2024-04",
+   "open-source",
+   "application"
+  ],
+  [
+   "2024-04",
+   "open-source",
+   "application"
+  ],
+  [
+   "2024-05",
+   "interoperability",
+   "systems"
+  ],
+  [
+   "2024-05",
+   "open-source",
+   "application"
+  ],
+  [
+   "2024-05",
+   "open-source",
+   "application"
+  ],
+  [
+   "2024-05",
+   "open-source",
+   "application"
+  ],
+  [
+   "2024-05",
+   "open-source",
+   "application"
+  ],
+  [
+   "2024-05",
+   "open-source",
+   "application"
+  ],
+  [
+   "2024-05",
+   "open-source",
+   "application"
+  ],
+  [
+   "2024-06",
+   "interoperability",
+   "systems"
+  ],
+  [
+   "2024-06",
+   "interoperability",
+   "systems"
+  ],
+  [
+   "2024-06",
+   "interoperability",
+   "systems"
+  ],
+  [
+   "2024-06",
+   "open-source",
+   "application"
+  ],
+  [
+   "2024-06",
+   "open-source",
+   "application"
+  ],
+  [
+   "2024-06",
+   "open-source",
+   "application"
+  ],
+  [
+   "2024-06",
+   "open-source",
+   "application"
+  ],
+  [
+   "2024-06",
+   "open-source",
+   "application"
+  ],
+  [
+   "2024-06",
+   "open-source",
+   "application"
+  ],
+  [
+   "2024-07",
+   "digital-workplace",
+   "theory"
+  ],
+  [
    "2024-07",
    "digital-workplace",
    "theory"
@@ -479,8 +1093,223 @@
   ],
   [
    "2024-07",
-   "digital-workplace",
+   "evaluation",
+   "evaluation"
+  ],
+  [
+   "2024-07",
+   "evaluation",
+   "evaluation"
+  ],
+  [
+   "2024-07",
+   "interoperability",
+   "systems"
+  ],
+  [
+   "2024-07",
+   "interoperability",
+   "systems"
+  ],
+  [
+   "2024-07",
+   "interoperability",
+   "systems"
+  ],
+  [
+   "2024-07",
+   "interoperability",
+   "systems"
+  ],
+  [
+   "2024-07",
+   "interoperability",
+   "systems"
+  ],
+  [
+   "2024-07",
+   "interoperability",
+   "systems"
+  ],
+  [
+   "2024-07",
+   "interoperability",
+   "systems"
+  ],
+  [
+   "2024-07",
+   "open-source",
+   "application"
+  ],
+  [
+   "2024-07",
+   "open-source",
+   "application"
+  ],
+  [
+   "2024-07",
+   "open-source",
+   "application"
+  ],
+  [
+   "2024-07",
+   "open-source",
+   "application"
+  ],
+  [
+   "2024-07",
+   "security-compliance",
+   "application"
+  ],
+  [
+   "2024-08",
+   "interoperability",
+   "systems"
+  ],
+  [
+   "2024-09",
+   "open-source",
+   "application"
+  ],
+  [
+   "2024-09",
+   "open-source",
+   "application"
+  ],
+  [
+   "2024-09",
+   "open-source",
+   "application"
+  ],
+  [
+   "2024-09",
+   "open-source",
+   "application"
+  ],
+  [
+   "2024-09",
+   "security-compliance",
+   "application"
+  ],
+  [
+   "2024-10",
+   "interoperability",
+   "systems"
+  ],
+  [
+   "2024-10",
+   "interoperability",
+   "systems"
+  ],
+  [
+   "2024-10",
+   "open-source",
+   "application"
+  ],
+  [
+   "2024-10",
+   "open-source",
+   "application"
+  ],
+  [
+   "2024-10",
+   "open-source",
+   "application"
+  ],
+  [
+   "2024-10",
+   "open-source",
+   "application"
+  ],
+  [
+   "2024-11",
+   "open-source",
+   "application"
+  ],
+  [
+   "2024-11",
+   "open-source",
+   "application"
+  ],
+  [
+   "2024-11",
+   "open-source",
+   "application"
+  ],
+  [
+   "2024-11",
+   "open-source",
+   "application"
+  ],
+  [
+   "2024-11",
+   "security-compliance",
+   "application"
+  ],
+  [
+   "2024-12",
+   "interoperability",
+   "systems"
+  ],
+  [
+   "2024-12",
+   "interoperability",
+   "systems"
+  ],
+  [
+   "2024-12",
+   "interoperability",
+   "systems"
+  ],
+  [
+   "2024-12",
+   "open-source",
+   "application"
+  ],
+  [
+   "2024-12",
+   "open-source",
+   "application"
+  ],
+  [
+   "2024-12",
+   "open-source",
+   "application"
+  ],
+  [
+   "2024-12",
+   "open-source",
+   "application"
+  ],
+  [
+   "2025-01",
+   "ai-llm",
+   "application"
+  ],
+  [
+   "2025-01",
+   "ai-llm",
+   "application"
+  ],
+  [
+   "2025-01",
+   "ai-llm",
+   "application"
+  ],
+  [
+   "2025-01",
+   "ai-llm",
+   "application"
+  ],
+  [
+   "2025-01",
+   "data-sovereignty",
    "theory"
+  ],
+  [
+   "2025-01",
+   "digital-transformation",
+   "application"
   ],
   [
    "2025-01",
@@ -491,6 +1320,541 @@
    "2025-01",
    "digital-workplace",
    "theory"
+  ],
+  [
+   "2025-01",
+   "hybrid-work",
+   "application"
+  ],
+  [
+   "2025-01",
+   "interoperability",
+   "systems"
+  ],
+  [
+   "2025-01",
+   "interoperability",
+   "systems"
+  ],
+  [
+   "2025-01",
+   "interoperability",
+   "systems"
+  ],
+  [
+   "2025-01",
+   "interoperability",
+   "systems"
+  ],
+  [
+   "2025-01",
+   "interoperability",
+   "systems"
+  ],
+  [
+   "2025-01",
+   "interoperability",
+   "systems"
+  ],
+  [
+   "2025-01",
+   "interoperability",
+   "systems"
+  ],
+  [
+   "2025-01",
+   "open-source",
+   "application"
+  ],
+  [
+   "2025-01",
+   "open-source",
+   "application"
+  ],
+  [
+   "2025-01",
+   "open-source",
+   "application"
+  ],
+  [
+   "2025-01",
+   "open-source",
+   "application"
+  ],
+  [
+   "2025-01",
+   "open-source",
+   "application"
+  ],
+  [
+   "2025-01",
+   "open-source",
+   "application"
+  ],
+  [
+   "2025-01",
+   "open-source",
+   "application"
+  ],
+  [
+   "2025-02",
+   "open-source",
+   "application"
+  ],
+  [
+   "2025-02",
+   "open-source",
+   "application"
+  ],
+  [
+   "2025-02",
+   "open-source",
+   "application"
+  ],
+  [
+   "2025-02",
+   "open-source",
+   "application"
+  ],
+  [
+   "2025-02",
+   "open-source",
+   "application"
+  ],
+  [
+   "2025-02",
+   "open-source",
+   "application"
+  ],
+  [
+   "2025-02",
+   "open-source",
+   "application"
+  ],
+  [
+   "2025-02",
+   "open-source",
+   "application"
+  ],
+  [
+   "2025-02",
+   "open-source",
+   "application"
+  ],
+  [
+   "2025-02",
+   "security-compliance",
+   "application"
+  ],
+  [
+   "2025-03",
+   "collaboration",
+   "systems"
+  ],
+  [
+   "2025-03",
+   "data-sovereignty",
+   "theory"
+  ],
+  [
+   "2025-03",
+   "interoperability",
+   "systems"
+  ],
+  [
+   "2025-03",
+   "interoperability",
+   "systems"
+  ],
+  [
+   "2025-03",
+   "interoperability",
+   "systems"
+  ],
+  [
+   "2025-03",
+   "interoperability",
+   "systems"
+  ],
+  [
+   "2025-03",
+   "interoperability",
+   "systems"
+  ],
+  [
+   "2025-03",
+   "interoperability",
+   "systems"
+  ],
+  [
+   "2025-03",
+   "open-source",
+   "application"
+  ],
+  [
+   "2025-03",
+   "open-source",
+   "application"
+  ],
+  [
+   "2025-03",
+   "open-source",
+   "application"
+  ],
+  [
+   "2025-03",
+   "open-source",
+   "application"
+  ],
+  [
+   "2025-03",
+   "open-source",
+   "application"
+  ],
+  [
+   "2025-03",
+   "open-source",
+   "application"
+  ],
+  [
+   "2025-03",
+   "security-compliance",
+   "application"
+  ],
+  [
+   "2025-04",
+   "collaboration",
+   "systems"
+  ],
+  [
+   "2025-04",
+   "collaboration",
+   "systems"
+  ],
+  [
+   "2025-04",
+   "interoperability",
+   "systems"
+  ],
+  [
+   "2025-04",
+   "interoperability",
+   "systems"
+  ],
+  [
+   "2025-04",
+   "interoperability",
+   "systems"
+  ],
+  [
+   "2025-04",
+   "interoperability",
+   "systems"
+  ],
+  [
+   "2025-04",
+   "interoperability",
+   "systems"
+  ],
+  [
+   "2025-04",
+   "interoperability",
+   "systems"
+  ],
+  [
+   "2025-04",
+   "open-source",
+   "application"
+  ],
+  [
+   "2025-04",
+   "open-source",
+   "application"
+  ],
+  [
+   "2025-04",
+   "open-source",
+   "application"
+  ],
+  [
+   "2025-04",
+   "open-source",
+   "application"
+  ],
+  [
+   "2025-04",
+   "open-source",
+   "application"
+  ],
+  [
+   "2025-04",
+   "open-source",
+   "application"
+  ],
+  [
+   "2025-05",
+   "interoperability",
+   "systems"
+  ],
+  [
+   "2025-05",
+   "interoperability",
+   "systems"
+  ],
+  [
+   "2025-05",
+   "interoperability",
+   "systems"
+  ],
+  [
+   "2025-05",
+   "interoperability",
+   "systems"
+  ],
+  [
+   "2025-05",
+   "interoperability",
+   "systems"
+  ],
+  [
+   "2025-05",
+   "interoperability",
+   "systems"
+  ],
+  [
+   "2025-05",
+   "interoperability",
+   "systems"
+  ],
+  [
+   "2025-05",
+   "interoperability",
+   "systems"
+  ],
+  [
+   "2025-05",
+   "interoperability",
+   "systems"
+  ],
+  [
+   "2025-05",
+   "interoperability",
+   "systems"
+  ],
+  [
+   "2025-05",
+   "interoperability",
+   "systems"
+  ],
+  [
+   "2025-05",
+   "interoperability",
+   "systems"
+  ],
+  [
+   "2025-05",
+   "open-source",
+   "application"
+  ],
+  [
+   "2025-05",
+   "open-source",
+   "application"
+  ],
+  [
+   "2025-05",
+   "open-source",
+   "application"
+  ],
+  [
+   "2025-05",
+   "open-source",
+   "application"
+  ],
+  [
+   "2025-05",
+   "open-source",
+   "application"
+  ],
+  [
+   "2025-05",
+   "open-source",
+   "application"
+  ],
+  [
+   "2025-05",
+   "open-source",
+   "application"
+  ],
+  [
+   "2025-05",
+   "open-source",
+   "application"
+  ],
+  [
+   "2025-05",
+   "open-source",
+   "application"
+  ],
+  [
+   "2025-05",
+   "security-compliance",
+   "application"
+  ],
+  [
+   "2025-06",
+   "interoperability",
+   "systems"
+  ],
+  [
+   "2025-06",
+   "interoperability",
+   "systems"
+  ],
+  [
+   "2025-06",
+   "interoperability",
+   "systems"
+  ],
+  [
+   "2025-06",
+   "interoperability",
+   "systems"
+  ],
+  [
+   "2025-06",
+   "interoperability",
+   "systems"
+  ],
+  [
+   "2025-06",
+   "interoperability",
+   "systems"
+  ],
+  [
+   "2025-06",
+   "interoperability",
+   "systems"
+  ],
+  [
+   "2025-06",
+   "interoperability",
+   "systems"
+  ],
+  [
+   "2025-06",
+   "open-source",
+   "application"
+  ],
+  [
+   "2025-06",
+   "security-compliance",
+   "application"
+  ],
+  [
+   "2025-06",
+   "security-compliance",
+   "application"
+  ],
+  [
+   "2025-07",
+   "collaboration",
+   "systems"
+  ],
+  [
+   "2025-07",
+   "collaboration",
+   "systems"
+  ],
+  [
+   "2025-07",
+   "interoperability",
+   "systems"
+  ],
+  [
+   "2025-07",
+   "interoperability",
+   "systems"
+  ],
+  [
+   "2025-07",
+   "interoperability",
+   "systems"
+  ],
+  [
+   "2025-07",
+   "interoperability",
+   "systems"
+  ],
+  [
+   "2025-07",
+   "open-source",
+   "application"
+  ],
+  [
+   "2025-07",
+   "open-source",
+   "application"
+  ],
+  [
+   "2025-07",
+   "open-source",
+   "application"
+  ],
+  [
+   "2025-07",
+   "open-source",
+   "application"
+  ],
+  [
+   "2025-07",
+   "security-compliance",
+   "application"
+  ],
+  [
+   "2025-07",
+   "security-compliance",
+   "application"
+  ],
+  [
+   "2025-08",
+   "data-sovereignty",
+   "theory"
+  ],
+  [
+   "2025-08",
+   "data-sovereignty",
+   "theory"
+  ],
+  [
+   "2025-08",
+   "interoperability",
+   "systems"
+  ],
+  [
+   "2025-08",
+   "interoperability",
+   "systems"
+  ],
+  [
+   "2025-08",
+   "interoperability",
+   "systems"
+  ],
+  [
+   "2025-08",
+   "interoperability",
+   "systems"
+  ],
+  [
+   "2025-08",
+   "interoperability",
+   "systems"
+  ],
+  [
+   "2025-08",
+   "interoperability",
+   "systems"
   ],
   [
    "2025-08",
@@ -498,14 +1862,314 @@
    "application"
   ],
   [
+   "2025-08",
+   "open-source",
+   "application"
+  ],
+  [
+   "2025-08",
+   "open-source",
+   "application"
+  ],
+  [
+   "2025-08",
+   "open-source",
+   "application"
+  ],
+  [
+   "2025-08",
+   "open-source",
+   "application"
+  ],
+  [
+   "2025-08",
+   "open-source",
+   "application"
+  ],
+  [
+   "2025-08",
+   "open-source",
+   "application"
+  ],
+  [
+   "2025-08",
+   "security-compliance",
+   "application"
+  ],
+  [
+   "2025-08",
+   "security-compliance",
+   "application"
+  ],
+  [
+   "2025-08",
+   "security-compliance",
+   "application"
+  ],
+  [
+   "2025-09",
+   "interoperability",
+   "systems"
+  ],
+  [
+   "2025-09",
+   "interoperability",
+   "systems"
+  ],
+  [
+   "2025-09",
+   "interoperability",
+   "systems"
+  ],
+  [
+   "2025-09",
+   "interoperability",
+   "systems"
+  ],
+  [
+   "2025-09",
+   "interoperability",
+   "systems"
+  ],
+  [
+   "2025-09",
+   "interoperability",
+   "systems"
+  ],
+  [
+   "2025-09",
+   "open-source",
+   "application"
+  ],
+  [
+   "2025-09",
+   "open-source",
+   "application"
+  ],
+  [
+   "2025-09",
+   "open-source",
+   "application"
+  ],
+  [
+   "2025-09",
+   "open-source",
+   "application"
+  ],
+  [
+   "2025-09",
+   "open-source",
+   "application"
+  ],
+  [
+   "2025-09",
+   "open-source",
+   "application"
+  ],
+  [
+   "2025-09",
+   "open-source",
+   "application"
+  ],
+  [
+   "2025-09",
+   "open-source",
+   "application"
+  ],
+  [
+   "2025-09",
+   "open-source",
+   "application"
+  ],
+  [
+   "2025-09",
+   "open-source",
+   "application"
+  ],
+  [
+   "2025-10",
+   "interoperability",
+   "systems"
+  ],
+  [
+   "2025-10",
+   "interoperability",
+   "systems"
+  ],
+  [
+   "2025-10",
+   "interoperability",
+   "systems"
+  ],
+  [
+   "2025-10",
+   "interoperability",
+   "systems"
+  ],
+  [
+   "2025-10",
+   "interoperability",
+   "systems"
+  ],
+  [
+   "2025-10",
+   "interoperability",
+   "systems"
+  ],
+  [
+   "2025-10",
+   "interoperability",
+   "systems"
+  ],
+  [
+   "2025-10",
+   "interoperability",
+   "systems"
+  ],
+  [
+   "2025-10",
+   "interoperability",
+   "systems"
+  ],
+  [
+   "2025-10",
+   "interoperability",
+   "systems"
+  ],
+  [
+   "2025-10",
+   "open-source",
+   "application"
+  ],
+  [
+   "2025-10",
+   "open-source",
+   "application"
+  ],
+  [
+   "2025-10",
+   "open-source",
+   "application"
+  ],
+  [
+   "2025-10",
+   "open-source",
+   "application"
+  ],
+  [
+   "2025-10",
+   "open-source",
+   "application"
+  ],
+  [
+   "2025-10",
+   "security-compliance",
+   "application"
+  ],
+  [
+   "2025-10",
+   "security-compliance",
+   "application"
+  ],
+  [
    "2025-11",
    "adoption-change",
    "method"
   ],
   [
    "2025-11",
-   "interoperability",
-   "systems"
+   "ai-llm",
+   "application"
+  ],
+  [
+   "2025-11",
+   "ai-llm",
+   "application"
+  ],
+  [
+   "2025-11",
+   "ai-llm",
+   "application"
+  ],
+  [
+   "2025-11",
+   "ai-llm",
+   "application"
+  ],
+  [
+   "2025-11",
+   "ai-llm",
+   "application"
+  ],
+  [
+   "2025-11",
+   "ai-llm",
+   "application"
+  ],
+  [
+   "2025-11",
+   "digital-transformation",
+   "application"
+  ],
+  [
+   "2025-11",
+   "federated-privacy",
+   "method"
+  ],
+  [
+   "2025-11",
+   "federated-privacy",
+   "method"
+  ],
+  [
+   "2025-11",
+   "federated-privacy",
+   "method"
+  ],
+  [
+   "2025-11",
+   "federated-privacy",
+   "method"
+  ],
+  [
+   "2025-11",
+   "federated-privacy",
+   "method"
+  ],
+  [
+   "2025-11",
+   "federated-privacy",
+   "method"
+  ],
+  [
+   "2025-11",
+   "federated-privacy",
+   "method"
+  ],
+  [
+   "2025-11",
+   "federated-privacy",
+   "method"
+  ],
+  [
+   "2025-11",
+   "federated-privacy",
+   "method"
+  ],
+  [
+   "2025-11",
+   "federated-privacy",
+   "method"
+  ],
+  [
+   "2025-11",
+   "federated-privacy",
+   "method"
+  ],
+  [
+   "2025-11",
+   "hybrid-work",
+   "application"
   ],
   [
    "2025-11",
@@ -531,6 +2195,36 @@
    "2025-11",
    "interoperability",
    "systems"
+  ],
+  [
+   "2025-11",
+   "interoperability",
+   "systems"
+  ],
+  [
+   "2025-11",
+   "interoperability",
+   "systems"
+  ],
+  [
+   "2025-11",
+   "open-source",
+   "application"
+  ],
+  [
+   "2025-11",
+   "open-source",
+   "application"
+  ],
+  [
+   "2025-11",
+   "open-source",
+   "application"
+  ],
+  [
+   "2025-11",
+   "open-source",
+   "application"
   ],
   [
    "2025-11",
@@ -574,6 +2268,36 @@
   ],
   [
    "2025-12",
+   "ai-llm",
+   "application"
+  ],
+  [
+   "2025-12",
+   "ai-llm",
+   "application"
+  ],
+  [
+   "2025-12",
+   "ai-llm",
+   "application"
+  ],
+  [
+   "2025-12",
+   "ai-llm",
+   "application"
+  ],
+  [
+   "2025-12",
+   "ai-llm",
+   "application"
+  ],
+  [
+   "2025-12",
+   "ai-llm",
+   "application"
+  ],
+  [
+   "2025-12",
    "collaboration",
    "systems"
   ],
@@ -594,6 +2318,106 @@
   ],
   [
    "2025-12",
+   "digital-transformation",
+   "application"
+  ],
+  [
+   "2025-12",
+   "digital-transformation",
+   "application"
+  ],
+  [
+   "2025-12",
+   "digital-transformation",
+   "application"
+  ],
+  [
+   "2025-12",
+   "digital-transformation",
+   "application"
+  ],
+  [
+   "2025-12",
+   "digital-transformation",
+   "application"
+  ],
+  [
+   "2025-12",
+   "federated-privacy",
+   "method"
+  ],
+  [
+   "2025-12",
+   "federated-privacy",
+   "method"
+  ],
+  [
+   "2025-12",
+   "federated-privacy",
+   "method"
+  ],
+  [
+   "2025-12",
+   "federated-privacy",
+   "method"
+  ],
+  [
+   "2025-12",
+   "federated-privacy",
+   "method"
+  ],
+  [
+   "2025-12",
+   "federated-privacy",
+   "method"
+  ],
+  [
+   "2025-12",
+   "federated-privacy",
+   "method"
+  ],
+  [
+   "2025-12",
+   "federated-privacy",
+   "method"
+  ],
+  [
+   "2025-12",
+   "federated-privacy",
+   "method"
+  ],
+  [
+   "2025-12",
+   "federated-privacy",
+   "method"
+  ],
+  [
+   "2025-12",
+   "federated-privacy",
+   "method"
+  ],
+  [
+   "2025-12",
+   "hybrid-work",
+   "application"
+  ],
+  [
+   "2025-12",
+   "hybrid-work",
+   "application"
+  ],
+  [
+   "2025-12",
+   "hybrid-work",
+   "application"
+  ],
+  [
+   "2025-12",
+   "interoperability",
+   "systems"
+  ],
+  [
+   "2025-12",
    "interoperability",
    "systems"
   ],
@@ -668,8 +2492,13 @@
    "application"
   ],
   [
-   "2026-01",
-   "adoption-change",
+   "2025-12",
+   "open-source",
+   "application"
+  ],
+  [
+   "2025-12",
+   "open-source",
    "application"
   ],
   [
@@ -715,6 +2544,91 @@
   [
    "2026-01",
    "adoption-change",
+   "application"
+  ],
+  [
+   "2026-01",
+   "adoption-change",
+   "application"
+  ],
+  [
+   "2026-01",
+   "ai-llm",
+   "application"
+  ],
+  [
+   "2026-01",
+   "ai-llm",
+   "application"
+  ],
+  [
+   "2026-01",
+   "ai-llm",
+   "application"
+  ],
+  [
+   "2026-01",
+   "ai-llm",
+   "application"
+  ],
+  [
+   "2026-01",
+   "ai-llm",
+   "application"
+  ],
+  [
+   "2026-01",
+   "ai-llm",
+   "application"
+  ],
+  [
+   "2026-01",
+   "ai-llm",
+   "application"
+  ],
+  [
+   "2026-01",
+   "ai-llm",
+   "application"
+  ],
+  [
+   "2026-01",
+   "ai-llm",
+   "application"
+  ],
+  [
+   "2026-01",
+   "ai-llm",
+   "application"
+  ],
+  [
+   "2026-01",
+   "ai-llm",
+   "application"
+  ],
+  [
+   "2026-01",
+   "ai-llm",
+   "application"
+  ],
+  [
+   "2026-01",
+   "ai-llm",
+   "application"
+  ],
+  [
+   "2026-01",
+   "ai-llm",
+   "application"
+  ],
+  [
+   "2026-01",
+   "ai-llm",
+   "application"
+  ],
+  [
+   "2026-01",
+   "ai-llm",
    "application"
   ],
   [
@@ -726,6 +2640,16 @@
    "2026-01",
    "data-sovereignty",
    "theory"
+  ],
+  [
+   "2026-01",
+   "digital-transformation",
+   "application"
+  ],
+  [
+   "2026-01",
+   "digital-transformation",
+   "application"
   ],
   [
    "2026-01",
@@ -744,8 +2668,48 @@
   ],
   [
    "2026-01",
-   "interoperability",
-   "systems"
+   "federated-privacy",
+   "method"
+  ],
+  [
+   "2026-01",
+   "federated-privacy",
+   "method"
+  ],
+  [
+   "2026-01",
+   "federated-privacy",
+   "method"
+  ],
+  [
+   "2026-01",
+   "federated-privacy",
+   "method"
+  ],
+  [
+   "2026-01",
+   "federated-privacy",
+   "method"
+  ],
+  [
+   "2026-01",
+   "federated-privacy",
+   "method"
+  ],
+  [
+   "2026-01",
+   "federated-privacy",
+   "method"
+  ],
+  [
+   "2026-01",
+   "hybrid-work",
+   "application"
+  ],
+  [
+   "2026-01",
+   "hybrid-work",
+   "application"
   ],
   [
    "2026-01",
@@ -796,6 +2760,31 @@
    "2026-01",
    "interoperability",
    "systems"
+  ],
+  [
+   "2026-01",
+   "interoperability",
+   "systems"
+  ],
+  [
+   "2026-01",
+   "interoperability",
+   "systems"
+  ],
+  [
+   "2026-01",
+   "interoperability",
+   "systems"
+  ],
+  [
+   "2026-01",
+   "open-source",
+   "application"
+  ],
+  [
+   "2026-01",
+   "open-source",
+   "application"
   ],
   [
    "2026-01",
@@ -860,6 +2849,26 @@
   [
    "2026-01",
    "security-compliance",
+   "application"
+  ],
+  [
+   "2026-02",
+   "ai-llm",
+   "application"
+  ],
+  [
+   "2026-02",
+   "ai-llm",
+   "application"
+  ],
+  [
+   "2026-02",
+   "ai-llm",
+   "application"
+  ],
+  [
+   "2026-02",
+   "ai-llm",
    "application"
   ],
   [
@@ -889,8 +2898,58 @@
   ],
   [
    "2026-02",
-   "interoperability",
-   "systems"
+   "digital-transformation",
+   "application"
+  ],
+  [
+   "2026-02",
+   "federated-privacy",
+   "method"
+  ],
+  [
+   "2026-02",
+   "federated-privacy",
+   "method"
+  ],
+  [
+   "2026-02",
+   "federated-privacy",
+   "method"
+  ],
+  [
+   "2026-02",
+   "federated-privacy",
+   "method"
+  ],
+  [
+   "2026-02",
+   "federated-privacy",
+   "method"
+  ],
+  [
+   "2026-02",
+   "federated-privacy",
+   "method"
+  ],
+  [
+   "2026-02",
+   "federated-privacy",
+   "method"
+  ],
+  [
+   "2026-02",
+   "federated-privacy",
+   "method"
+  ],
+  [
+   "2026-02",
+   "federated-privacy",
+   "method"
+  ],
+  [
+   "2026-02",
+   "hybrid-work",
+   "application"
   ],
   [
    "2026-02",
@@ -921,6 +2980,66 @@
    "2026-02",
    "interoperability",
    "systems"
+  ],
+  [
+   "2026-02",
+   "interoperability",
+   "systems"
+  ],
+  [
+   "2026-02",
+   "interoperability",
+   "systems"
+  ],
+  [
+   "2026-02",
+   "interoperability",
+   "systems"
+  ],
+  [
+   "2026-02",
+   "open-source",
+   "application"
+  ],
+  [
+   "2026-02",
+   "open-source",
+   "application"
+  ],
+  [
+   "2026-02",
+   "open-source",
+   "application"
+  ],
+  [
+   "2026-02",
+   "open-source",
+   "application"
+  ],
+  [
+   "2026-02",
+   "open-source",
+   "application"
+  ],
+  [
+   "2026-02",
+   "open-source",
+   "application"
+  ],
+  [
+   "2026-02",
+   "open-source",
+   "application"
+  ],
+  [
+   "2026-02",
+   "open-source",
+   "application"
+  ],
+  [
+   "2026-02",
+   "open-source",
+   "application"
   ],
   [
    "2026-02",
@@ -959,8 +3078,63 @@
   ],
   [
    "2026-03",
-   "data-sovereignty",
-   "theory"
+   "ai-llm",
+   "application"
+  ],
+  [
+   "2026-03",
+   "ai-llm",
+   "application"
+  ],
+  [
+   "2026-03",
+   "ai-llm",
+   "application"
+  ],
+  [
+   "2026-03",
+   "ai-llm",
+   "application"
+  ],
+  [
+   "2026-03",
+   "ai-llm",
+   "application"
+  ],
+  [
+   "2026-03",
+   "ai-llm",
+   "application"
+  ],
+  [
+   "2026-03",
+   "ai-llm",
+   "application"
+  ],
+  [
+   "2026-03",
+   "ai-llm",
+   "application"
+  ],
+  [
+   "2026-03",
+   "ai-llm",
+   "application"
+  ],
+  [
+   "2026-03",
+   "ai-llm",
+   "application"
+  ],
+  [
+   "2026-03",
+   "ai-llm",
+   "application"
+  ],
+  [
+   "2026-03",
+   "ai-llm",
+   "application"
   ],
   [
    "2026-03",
@@ -984,8 +3158,68 @@
   ],
   [
    "2026-03",
-   "interoperability",
-   "systems"
+   "data-sovereignty",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "digital-transformation",
+   "application"
+  ],
+  [
+   "2026-03",
+   "federated-privacy",
+   "method"
+  ],
+  [
+   "2026-03",
+   "federated-privacy",
+   "method"
+  ],
+  [
+   "2026-03",
+   "federated-privacy",
+   "method"
+  ],
+  [
+   "2026-03",
+   "federated-privacy",
+   "method"
+  ],
+  [
+   "2026-03",
+   "federated-privacy",
+   "method"
+  ],
+  [
+   "2026-03",
+   "federated-privacy",
+   "method"
+  ],
+  [
+   "2026-03",
+   "federated-privacy",
+   "method"
+  ],
+  [
+   "2026-03",
+   "federated-privacy",
+   "method"
+  ],
+  [
+   "2026-03",
+   "federated-privacy",
+   "method"
+  ],
+  [
+   "2026-03",
+   "federated-privacy",
+   "method"
+  ],
+  [
+   "2026-03",
+   "hybrid-work",
+   "application"
   ],
   [
    "2026-03",
@@ -1031,6 +3265,41 @@
    "2026-03",
    "interoperability",
    "systems"
+  ],
+  [
+   "2026-03",
+   "interoperability",
+   "systems"
+  ],
+  [
+   "2026-03",
+   "interoperability",
+   "systems"
+  ],
+  [
+   "2026-03",
+   "interoperability",
+   "systems"
+  ],
+  [
+   "2026-03",
+   "open-source",
+   "application"
+  ],
+  [
+   "2026-03",
+   "open-source",
+   "application"
+  ],
+  [
+   "2026-03",
+   "open-source",
+   "application"
+  ],
+  [
+   "2026-03",
+   "open-source",
+   "application"
   ],
   [
    "2026-03",
@@ -1079,8 +3348,23 @@
   ],
   [
    "2026-04",
-   "data-sovereignty",
-   "theory"
+   "ai-llm",
+   "application"
+  ],
+  [
+   "2026-04",
+   "ai-llm",
+   "application"
+  ],
+  [
+   "2026-04",
+   "ai-llm",
+   "application"
+  ],
+  [
+   "2026-04",
+   "ai-llm",
+   "application"
   ],
   [
    "2026-04",
@@ -1089,8 +3373,73 @@
   ],
   [
    "2026-04",
-   "interoperability",
-   "systems"
+   "data-sovereignty",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "federated-privacy",
+   "method"
+  ],
+  [
+   "2026-04",
+   "federated-privacy",
+   "method"
+  ],
+  [
+   "2026-04",
+   "federated-privacy",
+   "method"
+  ],
+  [
+   "2026-04",
+   "federated-privacy",
+   "method"
+  ],
+  [
+   "2026-04",
+   "federated-privacy",
+   "method"
+  ],
+  [
+   "2026-04",
+   "federated-privacy",
+   "method"
+  ],
+  [
+   "2026-04",
+   "federated-privacy",
+   "method"
+  ],
+  [
+   "2026-04",
+   "federated-privacy",
+   "method"
+  ],
+  [
+   "2026-04",
+   "federated-privacy",
+   "method"
+  ],
+  [
+   "2026-04",
+   "federated-privacy",
+   "method"
+  ],
+  [
+   "2026-04",
+   "federated-privacy",
+   "method"
+  ],
+  [
+   "2026-04",
+   "federated-privacy",
+   "method"
+  ],
+  [
+   "2026-04",
+   "hybrid-work",
+   "application"
   ],
   [
    "2026-04",
@@ -1131,6 +3480,41 @@
    "2026-04",
    "interoperability",
    "systems"
+  ],
+  [
+   "2026-04",
+   "interoperability",
+   "systems"
+  ],
+  [
+   "2026-04",
+   "interoperability",
+   "systems"
+  ],
+  [
+   "2026-04",
+   "open-source",
+   "application"
+  ],
+  [
+   "2026-04",
+   "open-source",
+   "application"
+  ],
+  [
+   "2026-04",
+   "open-source",
+   "application"
+  ],
+  [
+   "2026-04",
+   "open-source",
+   "application"
+  ],
+  [
+   "2026-04",
+   "open-source",
+   "application"
   ],
   [
    "2026-04",
@@ -1329,6 +3713,96 @@
   ],
   [
    "2026-05",
+   "ai-llm",
+   "application"
+  ],
+  [
+   "2026-05",
+   "ai-llm",
+   "application"
+  ],
+  [
+   "2026-05",
+   "ai-llm",
+   "application"
+  ],
+  [
+   "2026-05",
+   "ai-llm",
+   "application"
+  ],
+  [
+   "2026-05",
+   "ai-llm",
+   "application"
+  ],
+  [
+   "2026-05",
+   "ai-llm",
+   "application"
+  ],
+  [
+   "2026-05",
+   "ai-llm",
+   "application"
+  ],
+  [
+   "2026-05",
+   "ai-llm",
+   "application"
+  ],
+  [
+   "2026-05",
+   "ai-llm",
+   "application"
+  ],
+  [
+   "2026-05",
+   "ai-llm",
+   "application"
+  ],
+  [
+   "2026-05",
+   "ai-llm",
+   "application"
+  ],
+  [
+   "2026-05",
+   "ai-llm",
+   "application"
+  ],
+  [
+   "2026-05",
+   "ai-llm",
+   "application"
+  ],
+  [
+   "2026-05",
+   "ai-llm",
+   "application"
+  ],
+  [
+   "2026-05",
+   "ai-llm",
+   "application"
+  ],
+  [
+   "2026-05",
+   "ai-llm",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "ai-llm",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "ai-llm",
+   "theory"
+  ],
+  [
+   "2026-05",
    "collaboration",
    "method"
   ],
@@ -1370,6 +3844,66 @@
   [
    "2026-05",
    "data-sovereignty",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "digital-transformation",
+   "application"
+  ],
+  [
+   "2026-05",
+   "digital-transformation",
+   "application"
+  ],
+  [
+   "2026-05",
+   "digital-transformation",
+   "method"
+  ],
+  [
+   "2026-05",
+   "digital-transformation",
+   "survey"
+  ],
+  [
+   "2026-05",
+   "digital-transformation",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "digital-transformation",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "digital-transformation",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "digital-transformation",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "digital-transformation",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "digital-transformation",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "digital-transformation",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "digital-transformation",
    "theory"
   ],
   [
@@ -1379,6 +3913,106 @@
   ],
   [
    "2026-05",
+   "employee-wellbeing",
+   "application"
+  ],
+  [
+   "2026-05",
+   "employee-wellbeing",
+   "application"
+  ],
+  [
+   "2026-05",
+   "employee-wellbeing",
+   "method"
+  ],
+  [
+   "2026-05",
+   "employee-wellbeing",
+   "method"
+  ],
+  [
+   "2026-05",
+   "employee-wellbeing",
+   "systems"
+  ],
+  [
+   "2026-05",
+   "employee-wellbeing",
+   "systems"
+  ],
+  [
+   "2026-05",
+   "employee-wellbeing",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "employee-wellbeing",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "employee-wellbeing",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "employee-wellbeing",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "employee-wellbeing",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "employee-wellbeing",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "employee-wellbeing",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "employee-wellbeing",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "employee-wellbeing",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "employee-wellbeing",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "employee-wellbeing",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "employee-wellbeing",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "employee-wellbeing",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "employee-wellbeing",
+   "theory"
+  ],
+  [
+   "2026-05",
    "evaluation",
    "method"
   ],
@@ -1520,6 +4154,171 @@
   [
    "2026-05",
    "evaluation",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "federated-privacy",
+   "method"
+  ],
+  [
+   "2026-05",
+   "federated-privacy",
+   "method"
+  ],
+  [
+   "2026-05",
+   "federated-privacy",
+   "method"
+  ],
+  [
+   "2026-05",
+   "hybrid-work",
+   "method"
+  ],
+  [
+   "2026-05",
+   "hybrid-work",
+   "method"
+  ],
+  [
+   "2026-05",
+   "hybrid-work",
+   "survey"
+  ],
+  [
+   "2026-05",
+   "hybrid-work",
+   "survey"
+  ],
+  [
+   "2026-05",
+   "hybrid-work",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "hybrid-work",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "hybrid-work",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "hybrid-work",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "hybrid-work",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "hybrid-work",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "hybrid-work",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "hybrid-work",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "hybrid-work",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "hybrid-work",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "hybrid-work",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "hybrid-work",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "hybrid-work",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "hybrid-work",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "hybrid-work",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "hybrid-work",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "hybrid-work",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "hybrid-work",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "hybrid-work",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "hybrid-work",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "hybrid-work",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "hybrid-work",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "hybrid-work",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "hybrid-work",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "hybrid-work",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "hybrid-work",
    "theory"
   ],
   [
@@ -1615,7 +4414,7 @@
   [
    "2026-05",
    "interoperability",
-   "theory"
+   "systems"
   ],
   [
    "2026-05",
@@ -1634,6 +4433,11 @@
   ],
   [
    "2026-05",
+   "interoperability",
+   "theory"
+  ],
+  [
+   "2026-05",
    "method",
    "method"
   ],
@@ -1731,6 +4535,16 @@
    "2026-05",
    "method",
    "theory"
+  ],
+  [
+   "2026-05",
+   "open-source",
+   "application"
+  ],
+  [
+   "2026-05",
+   "open-source",
+   "application"
   ],
   [
    "2026-05",
@@ -2264,6 +5078,51 @@
   ],
   [
    "2026-06",
+   "ai-llm",
+   "application"
+  ],
+  [
+   "2026-06",
+   "ai-llm",
+   "application"
+  ],
+  [
+   "2026-06",
+   "ai-llm",
+   "application"
+  ],
+  [
+   "2026-06",
+   "ai-llm",
+   "application"
+  ],
+  [
+   "2026-06",
+   "ai-llm",
+   "application"
+  ],
+  [
+   "2026-06",
+   "ai-llm",
+   "application"
+  ],
+  [
+   "2026-06",
+   "ai-llm",
+   "application"
+  ],
+  [
+   "2026-06",
+   "ai-llm",
+   "application"
+  ],
+  [
+   "2026-06",
+   "ai-llm",
+   "theory"
+  ],
+  [
+   "2026-06",
    "collaboration",
    "method"
   ],
@@ -2340,6 +5199,71 @@
   [
    "2026-06",
    "data-sovereignty",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "digital-transformation",
+   "application"
+  ],
+  [
+   "2026-06",
+   "digital-transformation",
+   "method"
+  ],
+  [
+   "2026-06",
+   "digital-transformation",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "digital-transformation",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "digital-transformation",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "digital-transformation",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "digital-transformation",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "digital-transformation",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "digital-transformation",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "digital-transformation",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "digital-transformation",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "digital-transformation",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "digital-transformation",
    "theory"
   ],
   [
@@ -2349,6 +5273,211 @@
   ],
   [
    "2026-06",
+   "employee-wellbeing",
+   "application"
+  ],
+  [
+   "2026-06",
+   "employee-wellbeing",
+   "application"
+  ],
+  [
+   "2026-06",
+   "employee-wellbeing",
+   "development"
+  ],
+  [
+   "2026-06",
+   "employee-wellbeing",
+   "method"
+  ],
+  [
+   "2026-06",
+   "employee-wellbeing",
+   "method"
+  ],
+  [
+   "2026-06",
+   "employee-wellbeing",
+   "method"
+  ],
+  [
+   "2026-06",
+   "employee-wellbeing",
+   "method"
+  ],
+  [
+   "2026-06",
+   "employee-wellbeing",
+   "method"
+  ],
+  [
+   "2026-06",
+   "employee-wellbeing",
+   "method"
+  ],
+  [
+   "2026-06",
+   "employee-wellbeing",
+   "method"
+  ],
+  [
+   "2026-06",
+   "employee-wellbeing",
+   "method"
+  ],
+  [
+   "2026-06",
+   "employee-wellbeing",
+   "method"
+  ],
+  [
+   "2026-06",
+   "employee-wellbeing",
+   "method"
+  ],
+  [
+   "2026-06",
+   "employee-wellbeing",
+   "method"
+  ],
+  [
+   "2026-06",
+   "employee-wellbeing",
+   "method"
+  ],
+  [
+   "2026-06",
+   "employee-wellbeing",
+   "survey"
+  ],
+  [
+   "2026-06",
+   "employee-wellbeing",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "employee-wellbeing",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "employee-wellbeing",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "employee-wellbeing",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "employee-wellbeing",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "employee-wellbeing",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "employee-wellbeing",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "employee-wellbeing",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "employee-wellbeing",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "employee-wellbeing",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "employee-wellbeing",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "employee-wellbeing",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "employee-wellbeing",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "employee-wellbeing",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "employee-wellbeing",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "employee-wellbeing",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "employee-wellbeing",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "employee-wellbeing",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "employee-wellbeing",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "employee-wellbeing",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "employee-wellbeing",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "employee-wellbeing",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "employee-wellbeing",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "employee-wellbeing",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "employee-wellbeing",
+   "theory"
+  ],
+  [
+   "2026-06",
    "evaluation",
    "application"
   ],
@@ -2549,6 +5678,191 @@
   ],
   [
    "2026-06",
+   "federated-privacy",
+   "method"
+  ],
+  [
+   "2026-06",
+   "federated-privacy",
+   "method"
+  ],
+  [
+   "2026-06",
+   "federated-privacy",
+   "method"
+  ],
+  [
+   "2026-06",
+   "federated-privacy",
+   "method"
+  ],
+  [
+   "2026-06",
+   "federated-privacy",
+   "method"
+  ],
+  [
+   "2026-06",
+   "federated-privacy",
+   "method"
+  ],
+  [
+   "2026-06",
+   "federated-privacy",
+   "method"
+  ],
+  [
+   "2026-06",
+   "federated-privacy",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "hybrid-work",
+   "application"
+  ],
+  [
+   "2026-06",
+   "hybrid-work",
+   "evaluation"
+  ],
+  [
+   "2026-06",
+   "hybrid-work",
+   "method"
+  ],
+  [
+   "2026-06",
+   "hybrid-work",
+   "method"
+  ],
+  [
+   "2026-06",
+   "hybrid-work",
+   "method"
+  ],
+  [
+   "2026-06",
+   "hybrid-work",
+   "survey"
+  ],
+  [
+   "2026-06",
+   "hybrid-work",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "hybrid-work",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "hybrid-work",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "hybrid-work",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "hybrid-work",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "hybrid-work",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "hybrid-work",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "hybrid-work",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "hybrid-work",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "hybrid-work",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "hybrid-work",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "hybrid-work",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "hybrid-work",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "hybrid-work",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "hybrid-work",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "hybrid-work",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "hybrid-work",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "hybrid-work",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "hybrid-work",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "hybrid-work",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "hybrid-work",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "hybrid-work",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "hybrid-work",
+   "theory"
+  ],
+  [
+   "2026-06",
    "identity-access",
    "method"
   ],
@@ -2645,6 +5959,11 @@
   [
    "2026-06",
    "interoperability",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "interoperability",
    "theory"
   ],
   [
@@ -2791,6 +6110,31 @@
    "2026-06",
    "method",
    "theory"
+  ],
+  [
+   "2026-06",
+   "open-source",
+   "application"
+  ],
+  [
+   "2026-06",
+   "open-source",
+   "application"
+  ],
+  [
+   "2026-06",
+   "open-source",
+   "application"
+  ],
+  [
+   "2026-06",
+   "open-source",
+   "application"
+  ],
+  [
+   "2026-06",
+   "open-source",
+   "application"
   ],
   [
    "2026-06",
@@ -3454,6 +6798,51 @@
   ],
   [
    "2026-07",
+   "ai-llm",
+   "application"
+  ],
+  [
+   "2026-07",
+   "ai-llm",
+   "application"
+  ],
+  [
+   "2026-07",
+   "ai-llm",
+   "application"
+  ],
+  [
+   "2026-07",
+   "ai-llm",
+   "application"
+  ],
+  [
+   "2026-07",
+   "ai-llm",
+   "application"
+  ],
+  [
+   "2026-07",
+   "ai-llm",
+   "application"
+  ],
+  [
+   "2026-07",
+   "ai-llm",
+   "application"
+  ],
+  [
+   "2026-07",
+   "ai-llm",
+   "application"
+  ],
+  [
+   "2026-07",
+   "ai-llm",
+   "theory"
+  ],
+  [
+   "2026-07",
    "collaboration",
    "application"
   ],
@@ -3574,6 +6963,256 @@
   ],
   [
    "2026-07",
+   "digital-transformation",
+   "application"
+  ],
+  [
+   "2026-07",
+   "digital-transformation",
+   "application"
+  ],
+  [
+   "2026-07",
+   "digital-transformation",
+   "method"
+  ],
+  [
+   "2026-07",
+   "digital-transformation",
+   "method"
+  ],
+  [
+   "2026-07",
+   "digital-transformation",
+   "method"
+  ],
+  [
+   "2026-07",
+   "digital-transformation",
+   "method"
+  ],
+  [
+   "2026-07",
+   "digital-transformation",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "digital-transformation",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "digital-transformation",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "digital-transformation",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "digital-transformation",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "digital-transformation",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "digital-transformation",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "digital-transformation",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "digital-transformation",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "digital-transformation",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "digital-transformation",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "digital-transformation",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "digital-transformation",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "digital-transformation",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "digital-transformation",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "employee-wellbeing",
+   "method"
+  ],
+  [
+   "2026-07",
+   "employee-wellbeing",
+   "method"
+  ],
+  [
+   "2026-07",
+   "employee-wellbeing",
+   "method"
+  ],
+  [
+   "2026-07",
+   "employee-wellbeing",
+   "method"
+  ],
+  [
+   "2026-07",
+   "employee-wellbeing",
+   "method"
+  ],
+  [
+   "2026-07",
+   "employee-wellbeing",
+   "method"
+  ],
+  [
+   "2026-07",
+   "employee-wellbeing",
+   "survey"
+  ],
+  [
+   "2026-07",
+   "employee-wellbeing",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "employee-wellbeing",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "employee-wellbeing",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "employee-wellbeing",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "employee-wellbeing",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "employee-wellbeing",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "employee-wellbeing",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "employee-wellbeing",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "employee-wellbeing",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "employee-wellbeing",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "employee-wellbeing",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "employee-wellbeing",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "employee-wellbeing",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "employee-wellbeing",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "employee-wellbeing",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "employee-wellbeing",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "employee-wellbeing",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "employee-wellbeing",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "employee-wellbeing",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "employee-wellbeing",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "employee-wellbeing",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "employee-wellbeing",
+   "theory"
+  ],
+  [
+   "2026-07",
    "evaluation",
    "application"
   ],
@@ -3689,7 +7328,177 @@
   ],
   [
    "2026-07",
-   "identity-access",
+   "federated-privacy",
+   "method"
+  ],
+  [
+   "2026-07",
+   "federated-privacy",
+   "method"
+  ],
+  [
+   "2026-07",
+   "federated-privacy",
+   "method"
+  ],
+  [
+   "2026-07",
+   "federated-privacy",
+   "method"
+  ],
+  [
+   "2026-07",
+   "federated-privacy",
+   "method"
+  ],
+  [
+   "2026-07",
+   "federated-privacy",
+   "method"
+  ],
+  [
+   "2026-07",
+   "federated-privacy",
+   "method"
+  ],
+  [
+   "2026-07",
+   "federated-privacy",
+   "method"
+  ],
+  [
+   "2026-07",
+   "federated-privacy",
+   "method"
+  ],
+  [
+   "2026-07",
+   "hybrid-work",
+   "method"
+  ],
+  [
+   "2026-07",
+   "hybrid-work",
+   "method"
+  ],
+  [
+   "2026-07",
+   "hybrid-work",
+   "survey"
+  ],
+  [
+   "2026-07",
+   "hybrid-work",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "hybrid-work",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "hybrid-work",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "hybrid-work",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "hybrid-work",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "hybrid-work",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "hybrid-work",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "hybrid-work",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "hybrid-work",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "hybrid-work",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "hybrid-work",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "hybrid-work",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "hybrid-work",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "hybrid-work",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "hybrid-work",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "hybrid-work",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "hybrid-work",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "hybrid-work",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "hybrid-work",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "hybrid-work",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "hybrid-work",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "hybrid-work",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "hybrid-work",
    "theory"
   ],
   [
@@ -3711,6 +7520,16 @@
    "2026-07",
    "identity-access",
    "theory"
+  ],
+  [
+   "2026-07",
+   "identity-access",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "interoperability",
+   "systems"
   ],
   [
    "2026-07",
@@ -3856,6 +7675,21 @@
    "2026-07",
    "method",
    "theory"
+  ],
+  [
+   "2026-07",
+   "open-source",
+   "application"
+  ],
+  [
+   "2026-07",
+   "open-source",
+   "application"
+  ],
+  [
+   "2026-07",
+   "open-source",
+   "application"
   ],
   [
    "2026-07",
@@ -4524,6 +8358,56 @@
   ],
   [
    "2026-08",
+   "ai-llm",
+   "application"
+  ],
+  [
+   "2026-08",
+   "ai-llm",
+   "application"
+  ],
+  [
+   "2026-08",
+   "ai-llm",
+   "application"
+  ],
+  [
+   "2026-08",
+   "ai-llm",
+   "application"
+  ],
+  [
+   "2026-08",
+   "ai-llm",
+   "application"
+  ],
+  [
+   "2026-08",
+   "ai-llm",
+   "application"
+  ],
+  [
+   "2026-08",
+   "ai-llm",
+   "application"
+  ],
+  [
+   "2026-08",
+   "ai-llm",
+   "application"
+  ],
+  [
+   "2026-08",
+   "ai-llm",
+   "application"
+  ],
+  [
+   "2026-08",
+   "ai-llm",
+   "application"
+  ],
+  [
+   "2026-08",
    "collaboration",
    "systems"
   ],
@@ -4575,6 +8459,176 @@
   [
    "2026-08",
    "data-sovereignty",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "digital-transformation",
+   "evaluation"
+  ],
+  [
+   "2026-08",
+   "digital-transformation",
+   "method"
+  ],
+  [
+   "2026-08",
+   "digital-transformation",
+   "method"
+  ],
+  [
+   "2026-08",
+   "digital-transformation",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "digital-transformation",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "digital-transformation",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "digital-transformation",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "digital-transformation",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "digital-transformation",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "employee-wellbeing",
+   "method"
+  ],
+  [
+   "2026-08",
+   "employee-wellbeing",
+   "method"
+  ],
+  [
+   "2026-08",
+   "employee-wellbeing",
+   "method"
+  ],
+  [
+   "2026-08",
+   "employee-wellbeing",
+   "method"
+  ],
+  [
+   "2026-08",
+   "employee-wellbeing",
+   "survey"
+  ],
+  [
+   "2026-08",
+   "employee-wellbeing",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "employee-wellbeing",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "employee-wellbeing",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "employee-wellbeing",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "employee-wellbeing",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "employee-wellbeing",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "employee-wellbeing",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "employee-wellbeing",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "employee-wellbeing",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "employee-wellbeing",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "employee-wellbeing",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "employee-wellbeing",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "employee-wellbeing",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "employee-wellbeing",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "employee-wellbeing",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "employee-wellbeing",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "employee-wellbeing",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "employee-wellbeing",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "employee-wellbeing",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "employee-wellbeing",
    "theory"
   ],
   [
@@ -4679,6 +8733,126 @@
   ],
   [
    "2026-08",
+   "federated-privacy",
+   "method"
+  ],
+  [
+   "2026-08",
+   "federated-privacy",
+   "method"
+  ],
+  [
+   "2026-08",
+   "federated-privacy",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "federated-privacy",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "hybrid-work",
+   "method"
+  ],
+  [
+   "2026-08",
+   "hybrid-work",
+   "method"
+  ],
+  [
+   "2026-08",
+   "hybrid-work",
+   "method"
+  ],
+  [
+   "2026-08",
+   "hybrid-work",
+   "survey"
+  ],
+  [
+   "2026-08",
+   "hybrid-work",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "hybrid-work",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "hybrid-work",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "hybrid-work",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "hybrid-work",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "hybrid-work",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "hybrid-work",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "hybrid-work",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "hybrid-work",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "hybrid-work",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "hybrid-work",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "hybrid-work",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "hybrid-work",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "hybrid-work",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "hybrid-work",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "hybrid-work",
+   "theory"
+  ],
+  [
+   "2026-08",
    "identity-access",
    "theory"
   ],
@@ -4730,7 +8904,7 @@
   [
    "2026-08",
    "interoperability",
-   "theory"
+   "systems"
   ],
   [
    "2026-08",
@@ -4749,6 +8923,11 @@
   ],
   [
    "2026-08",
+   "interoperability",
+   "theory"
+  ],
+  [
+   "2026-08",
    "method",
    "method"
   ],
@@ -4846,6 +9025,16 @@
    "2026-08",
    "method",
    "theory"
+  ],
+  [
+   "2026-08",
+   "open-source",
+   "application"
+  ],
+  [
+   "2026-08",
+   "open-source",
+   "application"
   ],
   [
    "2026-08",
@@ -5399,6 +9588,46 @@
   ],
   [
    "2026-09",
+   "ai-llm",
+   "application"
+  ],
+  [
+   "2026-09",
+   "ai-llm",
+   "application"
+  ],
+  [
+   "2026-09",
+   "ai-llm",
+   "application"
+  ],
+  [
+   "2026-09",
+   "ai-llm",
+   "application"
+  ],
+  [
+   "2026-09",
+   "ai-llm",
+   "application"
+  ],
+  [
+   "2026-09",
+   "ai-llm",
+   "application"
+  ],
+  [
+   "2026-09",
+   "ai-llm",
+   "theory"
+  ],
+  [
+   "2026-09",
+   "ai-llm",
+   "theory"
+  ],
+  [
+   "2026-09",
    "collaboration",
    "method"
   ],
@@ -5525,6 +9754,61 @@
   [
    "2026-09",
    "data-sovereignty",
+   "theory"
+  ],
+  [
+   "2026-09",
+   "digital-transformation",
+   "application"
+  ],
+  [
+   "2026-09",
+   "digital-transformation",
+   "method"
+  ],
+  [
+   "2026-09",
+   "digital-transformation",
+   "survey"
+  ],
+  [
+   "2026-09",
+   "digital-transformation",
+   "theory"
+  ],
+  [
+   "2026-09",
+   "digital-transformation",
+   "theory"
+  ],
+  [
+   "2026-09",
+   "digital-transformation",
+   "theory"
+  ],
+  [
+   "2026-09",
+   "digital-transformation",
+   "theory"
+  ],
+  [
+   "2026-09",
+   "digital-transformation",
+   "theory"
+  ],
+  [
+   "2026-09",
+   "digital-transformation",
+   "theory"
+  ],
+  [
+   "2026-09",
+   "digital-transformation",
+   "theory"
+  ],
+  [
+   "2026-09",
+   "digital-transformation",
    "theory"
   ],
   [
@@ -5534,6 +9818,161 @@
   ],
   [
    "2026-09",
+   "employee-wellbeing",
+   "application"
+  ],
+  [
+   "2026-09",
+   "employee-wellbeing",
+   "application"
+  ],
+  [
+   "2026-09",
+   "employee-wellbeing",
+   "evaluation"
+  ],
+  [
+   "2026-09",
+   "employee-wellbeing",
+   "mechanism"
+  ],
+  [
+   "2026-09",
+   "employee-wellbeing",
+   "method"
+  ],
+  [
+   "2026-09",
+   "employee-wellbeing",
+   "method"
+  ],
+  [
+   "2026-09",
+   "employee-wellbeing",
+   "method"
+  ],
+  [
+   "2026-09",
+   "employee-wellbeing",
+   "method"
+  ],
+  [
+   "2026-09",
+   "employee-wellbeing",
+   "theory"
+  ],
+  [
+   "2026-09",
+   "employee-wellbeing",
+   "theory"
+  ],
+  [
+   "2026-09",
+   "employee-wellbeing",
+   "theory"
+  ],
+  [
+   "2026-09",
+   "employee-wellbeing",
+   "theory"
+  ],
+  [
+   "2026-09",
+   "employee-wellbeing",
+   "theory"
+  ],
+  [
+   "2026-09",
+   "employee-wellbeing",
+   "theory"
+  ],
+  [
+   "2026-09",
+   "employee-wellbeing",
+   "theory"
+  ],
+  [
+   "2026-09",
+   "employee-wellbeing",
+   "theory"
+  ],
+  [
+   "2026-09",
+   "employee-wellbeing",
+   "theory"
+  ],
+  [
+   "2026-09",
+   "employee-wellbeing",
+   "theory"
+  ],
+  [
+   "2026-09",
+   "employee-wellbeing",
+   "theory"
+  ],
+  [
+   "2026-09",
+   "employee-wellbeing",
+   "theory"
+  ],
+  [
+   "2026-09",
+   "employee-wellbeing",
+   "theory"
+  ],
+  [
+   "2026-09",
+   "employee-wellbeing",
+   "theory"
+  ],
+  [
+   "2026-09",
+   "employee-wellbeing",
+   "theory"
+  ],
+  [
+   "2026-09",
+   "employee-wellbeing",
+   "theory"
+  ],
+  [
+   "2026-09",
+   "employee-wellbeing",
+   "theory"
+  ],
+  [
+   "2026-09",
+   "employee-wellbeing",
+   "theory"
+  ],
+  [
+   "2026-09",
+   "employee-wellbeing",
+   "theory"
+  ],
+  [
+   "2026-09",
+   "employee-wellbeing",
+   "theory"
+  ],
+  [
+   "2026-09",
+   "employee-wellbeing",
+   "theory"
+  ],
+  [
+   "2026-09",
+   "employee-wellbeing",
+   "theory"
+  ],
+  [
+   "2026-09",
+   "employee-wellbeing",
+   "theory"
+  ],
+  [
+   "2026-09",
    "evaluation",
    "application"
   ],
@@ -5669,6 +10108,196 @@
   ],
   [
    "2026-09",
+   "federated-privacy",
+   "method"
+  ],
+  [
+   "2026-09",
+   "federated-privacy",
+   "method"
+  ],
+  [
+   "2026-09",
+   "federated-privacy",
+   "method"
+  ],
+  [
+   "2026-09",
+   "federated-privacy",
+   "method"
+  ],
+  [
+   "2026-09",
+   "federated-privacy",
+   "method"
+  ],
+  [
+   "2026-09",
+   "federated-privacy",
+   "method"
+  ],
+  [
+   "2026-09",
+   "federated-privacy",
+   "method"
+  ],
+  [
+   "2026-09",
+   "federated-privacy",
+   "method"
+  ],
+  [
+   "2026-09",
+   "hybrid-work",
+   "application"
+  ],
+  [
+   "2026-09",
+   "hybrid-work",
+   "application"
+  ],
+  [
+   "2026-09",
+   "hybrid-work",
+   "application"
+  ],
+  [
+   "2026-09",
+   "hybrid-work",
+   "method"
+  ],
+  [
+   "2026-09",
+   "hybrid-work",
+   "method"
+  ],
+  [
+   "2026-09",
+   "hybrid-work",
+   "method"
+  ],
+  [
+   "2026-09",
+   "hybrid-work",
+   "survey"
+  ],
+  [
+   "2026-09",
+   "hybrid-work",
+   "survey"
+  ],
+  [
+   "2026-09",
+   "hybrid-work",
+   "theory"
+  ],
+  [
+   "2026-09",
+   "hybrid-work",
+   "theory"
+  ],
+  [
+   "2026-09",
+   "hybrid-work",
+   "theory"
+  ],
+  [
+   "2026-09",
+   "hybrid-work",
+   "theory"
+  ],
+  [
+   "2026-09",
+   "hybrid-work",
+   "theory"
+  ],
+  [
+   "2026-09",
+   "hybrid-work",
+   "theory"
+  ],
+  [
+   "2026-09",
+   "hybrid-work",
+   "theory"
+  ],
+  [
+   "2026-09",
+   "hybrid-work",
+   "theory"
+  ],
+  [
+   "2026-09",
+   "hybrid-work",
+   "theory"
+  ],
+  [
+   "2026-09",
+   "hybrid-work",
+   "theory"
+  ],
+  [
+   "2026-09",
+   "hybrid-work",
+   "theory"
+  ],
+  [
+   "2026-09",
+   "hybrid-work",
+   "theory"
+  ],
+  [
+   "2026-09",
+   "hybrid-work",
+   "theory"
+  ],
+  [
+   "2026-09",
+   "hybrid-work",
+   "theory"
+  ],
+  [
+   "2026-09",
+   "hybrid-work",
+   "theory"
+  ],
+  [
+   "2026-09",
+   "hybrid-work",
+   "theory"
+  ],
+  [
+   "2026-09",
+   "hybrid-work",
+   "theory"
+  ],
+  [
+   "2026-09",
+   "hybrid-work",
+   "theory"
+  ],
+  [
+   "2026-09",
+   "hybrid-work",
+   "theory"
+  ],
+  [
+   "2026-09",
+   "hybrid-work",
+   "theory"
+  ],
+  [
+   "2026-09",
+   "hybrid-work",
+   "theory"
+  ],
+  [
+   "2026-09",
+   "hybrid-work",
+   "theory"
+  ],
+  [
+   "2026-09",
    "identity-access",
    "systems"
   ],
@@ -5716,6 +10345,11 @@
    "2026-09",
    "identity-access",
    "theory"
+  ],
+  [
+   "2026-09",
+   "interoperability",
+   "systems"
   ],
   [
    "2026-09",
@@ -5901,6 +10535,36 @@
    "2026-09",
    "method",
    "theory"
+  ],
+  [
+   "2026-09",
+   "open-source",
+   "application"
+  ],
+  [
+   "2026-09",
+   "open-source",
+   "application"
+  ],
+  [
+   "2026-09",
+   "open-source",
+   "application"
+  ],
+  [
+   "2026-09",
+   "open-source",
+   "application"
+  ],
+  [
+   "2026-09",
+   "open-source",
+   "application"
+  ],
+  [
+   "2026-09",
+   "open-source",
+   "application"
   ],
   [
    "2026-09",
@@ -6399,6 +11063,41 @@
   ],
   [
    "2026-10",
+   "ai-llm",
+   "application"
+  ],
+  [
+   "2026-10",
+   "ai-llm",
+   "application"
+  ],
+  [
+   "2026-10",
+   "ai-llm",
+   "application"
+  ],
+  [
+   "2026-10",
+   "ai-llm",
+   "application"
+  ],
+  [
+   "2026-10",
+   "ai-llm",
+   "application"
+  ],
+  [
+   "2026-10",
+   "ai-llm",
+   "application"
+  ],
+  [
+   "2026-10",
+   "ai-llm",
+   "theory"
+  ],
+  [
+   "2026-10",
    "collaboration",
    "application"
   ],
@@ -6465,6 +11164,66 @@
   [
    "2026-10",
    "data-sovereignty",
+   "theory"
+  ],
+  [
+   "2026-10",
+   "digital-transformation",
+   "application"
+  ],
+  [
+   "2026-10",
+   "digital-transformation",
+   "method"
+  ],
+  [
+   "2026-10",
+   "digital-transformation",
+   "survey"
+  ],
+  [
+   "2026-10",
+   "digital-transformation",
+   "theory"
+  ],
+  [
+   "2026-10",
+   "digital-transformation",
+   "theory"
+  ],
+  [
+   "2026-10",
+   "digital-transformation",
+   "theory"
+  ],
+  [
+   "2026-10",
+   "digital-transformation",
+   "theory"
+  ],
+  [
+   "2026-10",
+   "digital-transformation",
+   "theory"
+  ],
+  [
+   "2026-10",
+   "digital-transformation",
+   "theory"
+  ],
+  [
+   "2026-10",
+   "digital-transformation",
+   "theory"
+  ],
+  [
+   "2026-10",
+   "digital-transformation",
+   "theory"
+  ],
+  [
+   "2026-10",
+   "digital-transformation",
    "theory"
   ],
   [
@@ -6474,6 +11233,91 @@
   ],
   [
    "2026-10",
+   "employee-wellbeing",
+   "method"
+  ],
+  [
+   "2026-10",
+   "employee-wellbeing",
+   "method"
+  ],
+  [
+   "2026-10",
+   "employee-wellbeing",
+   "method"
+  ],
+  [
+   "2026-10",
+   "employee-wellbeing",
+   "survey"
+  ],
+  [
+   "2026-10",
+   "employee-wellbeing",
+   "survey"
+  ],
+  [
+   "2026-10",
+   "employee-wellbeing",
+   "systems"
+  ],
+  [
+   "2026-10",
+   "employee-wellbeing",
+   "theory"
+  ],
+  [
+   "2026-10",
+   "employee-wellbeing",
+   "theory"
+  ],
+  [
+   "2026-10",
+   "employee-wellbeing",
+   "theory"
+  ],
+  [
+   "2026-10",
+   "employee-wellbeing",
+   "theory"
+  ],
+  [
+   "2026-10",
+   "employee-wellbeing",
+   "theory"
+  ],
+  [
+   "2026-10",
+   "employee-wellbeing",
+   "theory"
+  ],
+  [
+   "2026-10",
+   "employee-wellbeing",
+   "theory"
+  ],
+  [
+   "2026-10",
+   "employee-wellbeing",
+   "theory"
+  ],
+  [
+   "2026-10",
+   "employee-wellbeing",
+   "theory"
+  ],
+  [
+   "2026-10",
+   "employee-wellbeing",
+   "theory"
+  ],
+  [
+   "2026-10",
+   "employee-wellbeing",
+   "theory"
+  ],
+  [
+   "2026-10",
    "evaluation",
    "application"
   ],
@@ -6595,6 +11439,161 @@
   [
    "2026-10",
    "evaluation",
+   "theory"
+  ],
+  [
+   "2026-10",
+   "federated-privacy",
+   "method"
+  ],
+  [
+   "2026-10",
+   "federated-privacy",
+   "method"
+  ],
+  [
+   "2026-10",
+   "federated-privacy",
+   "method"
+  ],
+  [
+   "2026-10",
+   "federated-privacy",
+   "method"
+  ],
+  [
+   "2026-10",
+   "federated-privacy",
+   "method"
+  ],
+  [
+   "2026-10",
+   "federated-privacy",
+   "method"
+  ],
+  [
+   "2026-10",
+   "federated-privacy",
+   "method"
+  ],
+  [
+   "2026-10",
+   "federated-privacy",
+   "method"
+  ],
+  [
+   "2026-10",
+   "hybrid-work",
+   "method"
+  ],
+  [
+   "2026-10",
+   "hybrid-work",
+   "method"
+  ],
+  [
+   "2026-10",
+   "hybrid-work",
+   "method"
+  ],
+  [
+   "2026-10",
+   "hybrid-work",
+   "systems"
+  ],
+  [
+   "2026-10",
+   "hybrid-work",
+   "systems"
+  ],
+  [
+   "2026-10",
+   "hybrid-work",
+   "theory"
+  ],
+  [
+   "2026-10",
+   "hybrid-work",
+   "theory"
+  ],
+  [
+   "2026-10",
+   "hybrid-work",
+   "theory"
+  ],
+  [
+   "2026-10",
+   "hybrid-work",
+   "theory"
+  ],
+  [
+   "2026-10",
+   "hybrid-work",
+   "theory"
+  ],
+  [
+   "2026-10",
+   "hybrid-work",
+   "theory"
+  ],
+  [
+   "2026-10",
+   "hybrid-work",
+   "theory"
+  ],
+  [
+   "2026-10",
+   "hybrid-work",
+   "theory"
+  ],
+  [
+   "2026-10",
+   "hybrid-work",
+   "theory"
+  ],
+  [
+   "2026-10",
+   "hybrid-work",
+   "theory"
+  ],
+  [
+   "2026-10",
+   "hybrid-work",
+   "theory"
+  ],
+  [
+   "2026-10",
+   "hybrid-work",
+   "theory"
+  ],
+  [
+   "2026-10",
+   "hybrid-work",
+   "theory"
+  ],
+  [
+   "2026-10",
+   "hybrid-work",
+   "theory"
+  ],
+  [
+   "2026-10",
+   "hybrid-work",
+   "theory"
+  ],
+  [
+   "2026-10",
+   "hybrid-work",
+   "theory"
+  ],
+  [
+   "2026-10",
+   "hybrid-work",
+   "theory"
+  ],
+  [
+   "2026-10",
+   "hybrid-work",
    "theory"
   ],
   [
@@ -6640,7 +11639,7 @@
   [
    "2026-10",
    "interoperability",
-   "theory"
+   "systems"
   ],
   [
    "2026-10",
@@ -6659,6 +11658,11 @@
   ],
   [
    "2026-10",
+   "interoperability",
+   "theory"
+  ],
+  [
+   "2026-10",
    "method",
    "method"
   ],
@@ -6741,6 +11745,11 @@
    "2026-10",
    "method",
    "theory"
+  ],
+  [
+   "2026-10",
+   "open-source",
+   "application"
   ],
   [
    "2026-10",
@@ -7151,39 +12160,47 @@
  "venues": [
   {
    "name": "Zenodo (CERN European Organization for Nuclear Research)",
-   "papers": 129
+   "papers": 166
   },
   {
    "name": "Academy of Management Proceedings",
-   "papers": 15
+   "papers": 30
+  },
+  {
+   "name": "IGI Global eBooks",
+   "papers": 18
+  },
+  {
+   "name": "Routledge eBooks",
+   "papers": 18
+  },
+  {
+   "name": "Iterative International Publishers eBooks",
+   "papers": 18
+  },
+  {
+   "name": "Advances in computational intelligence and robotics book series",
+   "papers": 14
   },
   {
    "name": "Frontiers in Public Health",
    "papers": 14
   },
   {
-   "name": "Routledge eBooks",
-   "papers": 13
-  },
-  {
-   "name": "Advances in computational intelligence and robotics book series",
-   "papers": 11
+   "name": "Frontiers in Psychology",
+   "papers": 12
   },
   {
    "name": "Journal of Business Insight and Innovation",
    "papers": 11
   },
   {
-   "name": "Iterative International Publishers eBooks",
+   "name": "International Journal For Multidisciplinary Research",
+   "papers": 11
+  },
+  {
+   "name": "Figshare",
    "papers": 10
-  },
-  {
-   "name": "Frontiers in Psychology",
-   "papers": 9
-  },
-  {
-   "name": "IGI Global eBooks",
-   "papers": 9
   },
   {
    "name": "MED",
@@ -7194,127 +12211,119 @@
    "papers": 8
   },
   {
-   "name": "Figshare",
-   "papers": 6
-  },
-  {
    "name": "Journal of the Association for Information Systems",
-   "papers": 5
-  },
-  {
-   "name": "European journal of training and development",
-   "papers": 5
+   "papers": 7
   },
   {
    "name": "Administrative Sciences",
-   "papers": 5
+   "papers": 7
   }
  ],
  "keyword_bursts": [
   {
-   "keyword": "workplace",
-   "recent": 964,
-   "total": 973,
-   "burst_score": 1.02,
-   "recent_share": 0.7248
+   "keyword": "employee well-being",
+   "recent": 237,
+   "total": 237,
+   "burst_score": 1.15,
+   "recent_share": 0.1165
   },
   {
-   "keyword": "platform",
-   "recent": 456,
-   "total": 459,
-   "burst_score": 1.02,
-   "recent_share": 0.3429
+   "keyword": "change management",
+   "recent": 28,
+   "total": 28,
+   "burst_score": 1.15,
+   "recent_share": 0.0138
   },
   {
-   "keyword": "review",
-   "recent": 388,
-   "total": 388,
-   "burst_score": 1.02,
-   "recent_share": 0.2917
-  },
-  {
-   "keyword": "education",
-   "recent": 283,
-   "total": 283,
-   "burst_score": 1.02,
-   "recent_share": 0.2128
-  },
-  {
-   "keyword": "evaluation",
-   "recent": 220,
-   "total": 220,
-   "burst_score": 1.02,
-   "recent_share": 0.1654
-  },
-  {
-   "keyword": "adoption",
-   "recent": 182,
-   "total": 182,
-   "burst_score": 1.02,
-   "recent_share": 0.1368
-  },
-  {
-   "keyword": "survey",
-   "recent": 163,
-   "total": 163,
-   "burst_score": 1.02,
-   "recent_share": 0.1226
-  },
-  {
-   "keyword": "security",
-   "recent": 161,
-   "total": 161,
-   "burst_score": 1.02,
-   "recent_share": 0.1211
-  },
-  {
-   "keyword": "architecture",
-   "recent": 151,
-   "total": 152,
-   "burst_score": 1.02,
-   "recent_share": 0.1135
+   "keyword": "self-hosted",
+   "recent": 6,
+   "total": 6,
+   "burst_score": 1.15,
+   "recent_share": 0.0029
   },
   {
    "keyword": "productivity",
-   "recent": 149,
-   "total": 149,
-   "burst_score": 1.02,
-   "recent_share": 0.112
+   "recent": 260,
+   "total": 262,
+   "burst_score": 1.14,
+   "recent_share": 0.1278
   },
   {
-   "keyword": "privacy",
-   "recent": 142,
-   "total": 142,
-   "burst_score": 1.02,
-   "recent_share": 0.1068
+   "keyword": "remote work",
+   "recent": 156,
+   "total": 158,
+   "burst_score": 1.14,
+   "recent_share": 0.0767
   },
   {
-   "keyword": "case study",
-   "recent": 130,
-   "total": 130,
-   "burst_score": 1.02,
-   "recent_share": 0.0977
+   "keyword": "public sector",
+   "recent": 80,
+   "total": 81,
+   "burst_score": 1.14,
+   "recent_share": 0.0393
+  },
+  {
+   "keyword": "workplace",
+   "recent": 1375,
+   "total": 1400,
+   "burst_score": 1.13,
+   "recent_share": 0.676
+  },
+  {
+   "keyword": "education",
+   "recent": 328,
+   "total": 334,
+   "burst_score": 1.13,
+   "recent_share": 0.1613
+  },
+  {
+   "keyword": "hybrid work",
+   "recent": 200,
+   "total": 203,
+   "burst_score": 1.13,
+   "recent_share": 0.0983
+  },
+  {
+   "keyword": "review",
+   "recent": 472,
+   "total": 486,
+   "burst_score": 1.12,
+   "recent_share": 0.2321
+  },
+  {
+   "keyword": "digital transformation",
+   "recent": 325,
+   "total": 335,
+   "burst_score": 1.12,
+   "recent_share": 0.1598
   },
   {
    "keyword": "identity",
-   "recent": 114,
-   "total": 115,
-   "burst_score": 1.02,
-   "recent_share": 0.0857
+   "recent": 126,
+   "total": 130,
+   "burst_score": 1.12,
+   "recent_share": 0.0619
   },
   {
-   "keyword": "interoperability",
-   "recent": 104,
-   "total": 104,
-   "burst_score": 1.02,
-   "recent_share": 0.0782
+   "keyword": "government",
+   "recent": 90,
+   "total": 93,
+   "burst_score": 1.11,
+   "recent_share": 0.0442
   },
   {
-   "keyword": "compliance",
-   "recent": 86,
-   "total": 86,
-   "burst_score": 1.02,
-   "recent_share": 0.0647
+   "keyword": "survey",
+   "recent": 282,
+   "total": 296,
+   "burst_score": 1.1,
+   "recent_share": 0.1386
+  },
+  {
+   "keyword": "case study",
+   "recent": 146,
+   "total": 153,
+   "burst_score": 1.1,
+   "recent_share": 0.0718
   }
  ]
 }

@@ -1,7 +1,7 @@
 # Literature Review
 
 **Generated:** 2026-10-28  
-**Corpus:** 1,363 papers across 14 categories
+**Corpus:** 2,341 papers across 19 categories
 
 > Synthesis of the corpus. Category insights are grounded in title/abstract analysis of the papers themselves.
 
@@ -11,17 +11,17 @@
 
 | Rank | Category | Papers |
 |------|----------|--------|
-| 1 | Adoption & Change | 191 |
-| 2 | Evaluation & Case Studies | 164 |
-| 3 | Public Sector & Education | 153 |
-| 4 | Surveys & Reviews | 151 |
-| 5 | Interoperability & Standards | 129 |
-| 6 | Open Source | 120 |
-| 7 | Methods | 118 |
-| 8 | Tooling & Platforms | 112 |
+| 1 | Open Source | 305 |
+| 2 | Interoperability & Standards | 238 |
+| 3 | Adoption & Change | 191 |
+| 4 | Hybrid & Remote Work | 170 |
+| 5 | Evaluation & Case Studies | 166 |
+| 6 | Employee Well-being | 163 |
+| 7 | Public Sector & Education | 153 |
+| 8 | Surveys & Reviews | 151 |
 
-**Time span:** 2005–2026 (median year 2019)
-**Dominant aspects:** Theory (821), Application (184), Methods (183)
+**Time span:** 2003–2026 (median year 2019)
+**Dominant aspects:** Theory (1138), Application (546), Methods (337)
 
 ---
 
@@ -29,18 +29,18 @@
 
 | Category | Total | Last 12m | Prior 12m | Growth | 12-m share | Papers/mo |
 |----------|------:|---------:|----------:|-------:|----------:|----------:|
-| Open Source | 120 | 115 | 1 | +11400% | 96% | 9.6 |
-| Digital Workplace | 23 | 7 | 2 | +250% | 30% | 0.6 |
+| Hybrid Work | 170 | 167 | 1 | +16600% | 98% | 13.9 |
+| Digital Transformation | 96 | 88 | 1 | +8700% | 92% | 7.3 |
+| Ai Llm | 117 | 109 | 4 | +2625% | 93% | 9.1 |
+| Collaboration | 79 | 73 | 5 | +1360% | 92% | 6.1 |
+| Data Sovereignty | 64 | 45 | 4 | +1025% | 70% | 3.8 |
+| Digital Workplace | 25 | 7 | 2 | +250% | 28% | 0.6 |
+| Interoperability | 238 | 154 | 60 | +157% | 65% | 12.8 |
+| Security Compliance | 47 | 28 | 11 | +154% | 60% | 2.3 |
+| Open Source | 305 | 165 | 71 | +132% | 54% | 13.8 |
 | Adoption Change | 191 | 191 | 0 | — | 100% | 15.9 |
-| Collaboration | 73 | 73 | 0 | — | 100% | 6.1 |
-| Evaluation | 164 | 164 | 0 | — | 100% | 13.7 |
-| Identity Access | 40 | 40 | 0 | — | 100% | 3.3 |
-| Interoperability | 129 | 129 | 0 | — | 100% | 10.8 |
-| Method | 118 | 118 | 0 | — | 100% | 9.8 |
-| Public Sector | 153 | 153 | 0 | — | 100% | 12.8 |
-| Security Compliance | 26 | 26 | 0 | — | 100% | 2.2 |
-| Sme Adoption | 6 | 6 | 0 | — | 100% | 0.5 |
-| Survey | 151 | 151 | 0 | — | 100% | 12.6 |
+| Employee Wellbeing | 163 | 163 | 0 | — | 100% | 13.6 |
+| Federated Privacy | 100 | 100 | 0 | — | 100% | 8.3 |
 
 ---
 
@@ -49,18 +49,42 @@
 | Cell | Papers |
 |------|--------:|
 | `identity-access/method` | 1 |
-| `evaluation/evaluation` | 1 |
 | `digital-workplace/systems` | 1 |
 | `data-sovereignty/method` | 1 |
 | `identity-access/application` | 1 |
 | `public-sector/development` | 1 |
 | `sme-adoption/method` | 1 |
 | `sme-adoption/evaluation` | 1 |
+| `sme-adoption/application` | 1 |
 
 ---
 
 
 ## Category Insights
+
+### Open Source (`open-source`)
+
+**Corpus size:** 305 papers
+
+**Recent papers:**
+
+- [2026-10] ParaTaxe: a Suite of Tools for Processing and Publishing Multi-parallel Corpora — https://arxiv.org/abs/2610.32796
+- [2026-10] PyPottery: an AI-powered end-to-end suite for pottery processing and publication — https://arxiv.org/abs/2610.02072
+- [2026-10] TestSuiteBench: Coding Agents Struggle to Generate Strong Test Suites from Specifications — https://arxiv.org/abs/2610.13065
+
+---
+
+### Interoperability & Standards (`interoperability`)
+
+**Corpus size:** 238 papers
+
+**Recent papers:**
+
+- [2026-10] Towards End-to-End Privacy-Preserving AI for Real-Time ECG Monitoring — https://arxiv.org/abs/2610.25094
+- [2026-10] Polarized Scheme: duality of computation, delimited control, and continuation-passing macro Int — https://arxiv.org/abs/2610.26266
+- [2026-10] Consumer empowerment: need, definition, quantification, outcomes and challenges — https://arxiv.org/abs/2610.04877
+
+---
 
 ### Adoption & Change (`adoption-change`)
 
@@ -74,15 +98,39 @@
 
 ---
 
+### Hybrid & Remote Work (`hybrid-work`)
+
+**Corpus size:** 170 papers
+
+**Recent papers:**
+
+- [2026-10] Experiencing Remote, Hybrid and In‐Office Work in the Canadian Public Sector: Evidence from a 9 — https://doi.org/10.1111/capa.70075
+- [2026-10] REMOTE WORK FATIGUE AND EMPLOYEE ENGAGEMENT IN HYBRID WORK ENVIRONMENTS: A REVIEW — https://doi.org/10.5281/zenodo.23205377
+- [2026-10] IMPACT OF REMOTE AND HYBRID WORK MODELS ON EMPLOYEE PRODUCTIVITY AND JOB SATISFACTION — https://doi.org/10.48047/ijss.5.9.2026.4
+
+---
+
 ### Evaluation & Case Studies (`evaluation`)
 
-**Corpus size:** 164 papers
+**Corpus size:** 166 papers
 
 **Recent papers:**
 
 - [2026-10] The ecosystemic workplace: Erotic content creation and the spatial transformation of digital la — https://doi.org/10.1177/29768624261492473
 - [2026-10] The Influence of Digital Transformation on Employee Productivity and Workplace Efficiency in Mo — https://doi.org/10.36948/ijfmr.2026.v08i05.88987
 - [2026-10] Socio-technical co-adaptation: Digital integration and workplace learning — https://doi.org/10.14254/1795-6889.2026.22-2.8
+
+---
+
+### Employee Well-being (`employee-wellbeing`)
+
+**Corpus size:** 163 papers
+
+**Recent papers:**
+
+- [2026-10] The impact of facilities management on workplace well-being and employee productivity in the ba — https://doi.org/10.51867/ajernet.7.4.23
+- [2026-10] EMPLOYEE WELL-BEING AND ORGANIZATIONAL PERFORMANCE: A SYSTEMATIC REVIEW OF WORKPLACE INTERVENTI — https://doi.org/10.62441/actainnovations.vi.2090
+- [2026-10] Impact of Employee Engagement on Workplace Well-Being Among Middle-Level Managers in the Privat — https://doi.org/10.61113/ijiap.v4i10.1664
 
 ---
 
@@ -110,30 +158,6 @@
 
 ---
 
-### Interoperability & Standards (`interoperability`)
-
-**Corpus size:** 129 papers
-
-**Recent papers:**
-
-- [2026-10] Towards End-to-End Privacy-Preserving AI for Real-Time ECG Monitoring — https://arxiv.org/abs/2610.25094
-- [2026-10] Polarized Scheme: duality of computation, delimited control, and continuation-passing macro Int — https://arxiv.org/abs/2610.26266
-- [2026-10] Consumer empowerment: need, definition, quantification, outcomes and challenges — https://arxiv.org/abs/2610.04877
-
----
-
-### Open Source (`open-source`)
-
-**Corpus size:** 120 papers
-
-**Recent papers:**
-
-- [2026-10] ParaTaxe: a Suite of Tools for Processing and Publishing Multi-parallel Corpora — https://arxiv.org/abs/2610.32796
-- [2026-10] PyPottery: an AI-powered end-to-end suite for pottery processing and publication — https://arxiv.org/abs/2610.02072
-- [2026-10] TestSuiteBench: Coding Agents Struggle to Generate Strong Test Suites from Specifications — https://arxiv.org/abs/2610.13065
-
----
-
 ### Methods (`method`)
 
 **Corpus size:** 118 papers
@@ -143,6 +167,18 @@
 - [2026-10] INSTRUCTIONAL DESIGN OF A WORKPLACE-ORIENTED GENERAL AIGC COURSE IN THE ERA OF DIGITAL INTELLIG — https://doi.org/10.61784/erhd3064
 - [2026-10] Explainable AI for resource-aware intervention prioritization of digital burnout in healthcare  — https://doi.org/10.1007/s13755-026-00485-4
 - [2026-10] RELEVANCE OF TRADITIONAL HR METHODS IN THE CONTEMPORARY WORKPLACE: ADVOCATING FOR A HYBRID HUMA — https://doi.org/10.5281/zenodo.18139718
+
+---
+
+### AI & Language Models (`ai-llm`)
+
+**Corpus size:** 117 papers
+
+**Recent papers:**
+
+- [2026-10] Designing for Imperfect Prompts: A Simulation-Based Evaluation of an LLM-Based Enterprise Data  — https://arxiv.org/abs/2610.23304
+- [2026-10] Collaborative Learning and Reasoning over Model Slices — https://arxiv.org/abs/2610.12927
+- [2026-10] MASBench: Benchmarking LLM-based Multi-Agent Collaboration under Partial Observability — https://arxiv.org/abs/2610.04672
 
 ---
 
@@ -158,9 +194,33 @@
 
 ---
 
+### Federated & Privacy-Preserving (`federated-privacy`)
+
+**Corpus size:** 100 papers
+
+**Recent papers:**
+
+- [2026-10] Combining Homomorphic Encryption and Differential Privacy in Federated Learning for Model Inspe — https://arxiv.org/abs/2610.01650
+- [2026-10] Privacy-Preserving Personalized Federated Learning (PPP-FL) for Medical Imaging — https://arxiv.org/abs/2610.27470
+- [2026-10] Evaluating Federated Vision-Language and Vision-Only Models for Privacy-Aware Breast Cancer Ima — https://arxiv.org/abs/2610.36379
+
+---
+
+### Digital Transformation (`digital-transformation`)
+
+**Corpus size:** 96 papers
+
+**Recent papers:**
+
+- [2026-10] From Digital Capabilities to Non Linear Growth: The Exponential SME Framework — https://arxiv.org/abs/2610.01129
+- [2026-10] Digital Workload and Psychological Well-Being in the Digital Workplace: The Protective Role of  — https://doi.org/10.30872/5tpdkd80
+- [2026-10] Digital Transformation and Employee Engagement in Healthcare Organizations: The Role of Digital — https://doi.org/10.64388/irev10i4-1724034
+
+---
+
 ### Collaboration & Productivity (`collaboration`)
 
-**Corpus size:** 73 papers
+**Corpus size:** 79 papers
 
 **Recent papers:**
 
@@ -172,13 +232,25 @@
 
 ### Data Sovereignty (`data-sovereignty`)
 
-**Corpus size:** 57 papers
+**Corpus size:** 64 papers
 
 **Recent papers:**
 
 - [2026-10] Towards a Cloud Fog Edge System for Smart Building — https://arxiv.org/abs/2610.01647
 - [2026-10] FLAI Protocol: Decentralized Federated Learning with On-Chain Rewards and sPEG-Based Contributi — https://arxiv.org/abs/2610.17546
 - [2026-10] Governed Sovereign RAG for Public Administration: Tripartite Epistemic Routing, Facet-Guided Cl — https://arxiv.org/abs/2610.36561
+
+---
+
+### Security & Compliance (`security-compliance`)
+
+**Corpus size:** 47 papers
+
+**Recent papers:**
+
+- [2026-10] CYBERFORT: A Compliance-Chain Platform Operationalising the Cyber Resilience Act for SMEs — https://arxiv.org/abs/2610.09918
+- [2026-10] The Amplifier Effect: Human-Factor Risks of AI-Suggested Correlation and Auto-Propagation in Mu — https://arxiv.org/abs/2610.07866
+- [2026-09] Correlation-Guided Fast Machine Unlearning via Hessian Analysis — https://arxiv.org/abs/2609.12620
 
 ---
 
@@ -194,21 +266,9 @@
 
 ---
 
-### Security & Compliance (`security-compliance`)
-
-**Corpus size:** 26 papers
-
-**Recent papers:**
-
-- [2026-10] CYBERFORT: A Compliance-Chain Platform Operationalising the Cyber Resilience Act for SMEs — https://arxiv.org/abs/2610.09918
-- [2026-10] The Amplifier Effect: Human-Factor Risks of AI-Suggested Correlation and Auto-Propagation in Mu — https://arxiv.org/abs/2610.07866
-- [2026-09] Correlation-Guided Fast Machine Unlearning via Hessian Analysis — https://arxiv.org/abs/2609.12620
-
----
-
 ### Digital Workplace (`digital-workplace`)
 
-**Corpus size:** 23 papers
+**Corpus size:** 25 papers
 
 **Recent papers:**
 
