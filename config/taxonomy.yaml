@@ -123,6 +123,24 @@ arxiv_queries:
 - query: abs:"federated learning" AND (workplace OR privacy OR sovereign)
   category: federated-privacy
   subcategory_hint: method
+- query: abs:"digital twin" AND (workplace OR enterprise)
+  category: tooling
+  subcategory_hint: systems
+- query: abs:"employee engagement" AND (digital OR workplace)
+  category: employee-wellbeing
+  subcategory_hint: application
+- query: abs:"psychological safety" AND (workplace OR team)
+  category: employee-wellbeing
+  subcategory_hint: application
+- query: abs:"retrieval augmented" AND (workplace OR enterprise OR knowledge)
+  category: ai-llm
+  subcategory_hint: application
+- query: abs:"autonomous agent" AND (workplace OR collaboration)
+  category: ai-llm
+  subcategory_hint: systems
+- query: abs:"occupational health" AND (digital OR workplace)
+  category: employee-wellbeing
+  subcategory_hint: application
 other_sources_queries:
 - source: crossref
   query: digital sovereign workplace
@@ -306,6 +324,12 @@ relevance_keywords:
 - language model
 - federated learning
 - privacy-preserving
+- digital twin
+- employee engagement
+- psychological safety
+- retrieval augmented
+- autonomous agent
+- occupational health
 trend_keywords:
 - digital workplace
 - sovereignty
@@ -345,6 +369,12 @@ trend_keywords:
 - digital transformation
 - language model
 - federated learning
+- digital twin
+- employee engagement
+- psychological safety
+- retrieval augmented
+- autonomous agent
+- occupational health
 github_queries:
 - query: nextcloud sovereign workplace
   category: tooling

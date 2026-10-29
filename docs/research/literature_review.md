@@ -1,7 +1,7 @@
 # Literature Review
 
-**Generated:** 2026-10-28  
-**Corpus:** 2,341 papers across 19 categories
+**Generated:** 2026-10-29  
+**Corpus:** 2,967 papers across 19 categories
 
 > Synthesis of the corpus. Category insights are grounded in title/abstract analysis of the papers themselves.
 
@@ -12,16 +12,16 @@
 | Rank | Category | Papers |
 |------|----------|--------|
 | 1 | Open Source | 305 |
-| 2 | Interoperability & Standards | 238 |
-| 3 | Adoption & Change | 191 |
-| 4 | Hybrid & Remote Work | 170 |
-| 5 | Evaluation & Case Studies | 166 |
-| 6 | Employee Well-being | 163 |
-| 7 | Public Sector & Education | 153 |
-| 8 | Surveys & Reviews | 151 |
+| 2 | AI & Language Models | 280 |
+| 3 | Employee Well-being | 261 |
+| 4 | Adoption & Change | 252 |
+| 5 | Interoperability & Standards | 238 |
+| 6 | Surveys & Reviews | 221 |
+| 7 | Evaluation & Case Studies | 204 |
+| 8 | Methods | 195 |
 
 **Time span:** 2003–2026 (median year 2019)
-**Dominant aspects:** Theory (1138), Application (546), Methods (337)
+**Dominant aspects:** Theory (1442), Application (652), Methods (435)
 
 ---
 
@@ -29,18 +29,18 @@
 
 | Category | Total | Last 12m | Prior 12m | Growth | 12-m share | Papers/mo |
 |----------|------:|---------:|----------:|-------:|----------:|----------:|
-| Hybrid Work | 170 | 167 | 1 | +16600% | 98% | 13.9 |
-| Digital Transformation | 96 | 88 | 1 | +8700% | 92% | 7.3 |
-| Ai Llm | 117 | 109 | 4 | +2625% | 93% | 9.1 |
+| Hybrid Work | 183 | 180 | 1 | +17900% | 98% | 15.0 |
+| Digital Transformation | 130 | 122 | 1 | +12100% | 94% | 10.2 |
+| Ai Llm | 280 | 272 | 4 | +6700% | 97% | 22.7 |
 | Collaboration | 79 | 73 | 5 | +1360% | 92% | 6.1 |
 | Data Sovereignty | 64 | 45 | 4 | +1025% | 70% | 3.8 |
-| Digital Workplace | 25 | 7 | 2 | +250% | 28% | 0.6 |
+| Digital Workplace | 27 | 7 | 2 | +250% | 26% | 0.6 |
+| Security Compliance | 48 | 29 | 11 | +164% | 60% | 2.4 |
 | Interoperability | 238 | 154 | 60 | +157% | 65% | 12.8 |
-| Security Compliance | 47 | 28 | 11 | +154% | 60% | 2.3 |
 | Open Source | 305 | 165 | 71 | +132% | 54% | 13.8 |
-| Adoption Change | 191 | 191 | 0 | — | 100% | 15.9 |
-| Employee Wellbeing | 163 | 163 | 0 | — | 100% | 13.6 |
-| Federated Privacy | 100 | 100 | 0 | — | 100% | 8.3 |
+| Adoption Change | 252 | 252 | 0 | — | 100% | 21.0 |
+| Employee Wellbeing | 261 | 261 | 0 | — | 100% | 21.8 |
+| Federated Privacy | 101 | 101 | 0 | — | 100% | 8.4 |
 
 ---
 
@@ -74,6 +74,42 @@
 
 ---
 
+### AI & Language Models (`ai-llm`)
+
+**Corpus size:** 280 papers
+
+**Recent papers:**
+
+- [2026-10] Designing for Imperfect Prompts: A Simulation-Based Evaluation of an LLM-Based Enterprise Data  — https://arxiv.org/abs/2610.23304
+- [2026-10] Collaborative Learning and Reasoning over Model Slices — https://arxiv.org/abs/2610.12927
+- [2026-10] MASBench: Benchmarking LLM-based Multi-Agent Collaboration under Partial Observability — https://arxiv.org/abs/2610.04672
+
+---
+
+### Employee Well-being (`employee-wellbeing`)
+
+**Corpus size:** 261 papers
+
+**Recent papers:**
+
+- [2026-10] The impact of facilities management on workplace well-being and employee productivity in the ba — https://doi.org/10.51867/ajernet.7.4.23
+- [2026-10] EMPLOYEE WELL-BEING AND ORGANIZATIONAL PERFORMANCE: A SYSTEMATIC REVIEW OF WORKPLACE INTERVENTI — https://doi.org/10.62441/actainnovations.vi.2090
+- [2026-10] Impact of Employee Engagement on Workplace Well-Being Among Middle-Level Managers in the Privat — https://doi.org/10.61113/ijiap.v4i10.1664
+
+---
+
+### Adoption & Change (`adoption-change`)
+
+**Corpus size:** 252 papers
+
+**Recent papers:**
+
+- [2026-10] Digital Skills Are Not Enough: Digital–Human Capability Profiles and Employee Resilience in the — https://doi.org/10.3390/merits6040031
+- [2026-10] THE IMPACT OF DIGITAL WORKPLACE, DIGITAL FATIGUE, DIGITAL MINIMALISM ON EMPLOYEE PRODUCTIVITY I — https://doi.org/10.5281/zenodo.23120060
+- [2026-10] AI-ENABLED HUMAN RESOURCE MANAGEMENT PRACTICES AND EMPLOYEE PERFORMANCE: THE MEDIATING ROLE OF  — https://doi.org/10.62441/actainnovations.vi.2137
+
+---
+
 ### Interoperability & Standards (`interoperability`)
 
 **Corpus size:** 238 papers
@@ -86,69 +122,9 @@
 
 ---
 
-### Adoption & Change (`adoption-change`)
-
-**Corpus size:** 191 papers
-
-**Recent papers:**
-
-- [2026-10] Digital Skills Are Not Enough: Digital–Human Capability Profiles and Employee Resilience in the — https://doi.org/10.3390/merits6040031
-- [2026-10] THE IMPACT OF DIGITAL WORKPLACE, DIGITAL FATIGUE, DIGITAL MINIMALISM ON EMPLOYEE PRODUCTIVITY I — https://doi.org/10.5281/zenodo.23120060
-- [2026-10] AI-ENABLED HUMAN RESOURCE MANAGEMENT PRACTICES AND EMPLOYEE PERFORMANCE: THE MEDIATING ROLE OF  — https://doi.org/10.62441/actainnovations.vi.2137
-
----
-
-### Hybrid & Remote Work (`hybrid-work`)
-
-**Corpus size:** 170 papers
-
-**Recent papers:**
-
-- [2026-10] Experiencing Remote, Hybrid and In‐Office Work in the Canadian Public Sector: Evidence from a 9 — https://doi.org/10.1111/capa.70075
-- [2026-10] REMOTE WORK FATIGUE AND EMPLOYEE ENGAGEMENT IN HYBRID WORK ENVIRONMENTS: A REVIEW — https://doi.org/10.5281/zenodo.23205377
-- [2026-10] IMPACT OF REMOTE AND HYBRID WORK MODELS ON EMPLOYEE PRODUCTIVITY AND JOB SATISFACTION — https://doi.org/10.48047/ijss.5.9.2026.4
-
----
-
-### Evaluation & Case Studies (`evaluation`)
-
-**Corpus size:** 166 papers
-
-**Recent papers:**
-
-- [2026-10] The ecosystemic workplace: Erotic content creation and the spatial transformation of digital la — https://doi.org/10.1177/29768624261492473
-- [2026-10] The Influence of Digital Transformation on Employee Productivity and Workplace Efficiency in Mo — https://doi.org/10.36948/ijfmr.2026.v08i05.88987
-- [2026-10] Socio-technical co-adaptation: Digital integration and workplace learning — https://doi.org/10.14254/1795-6889.2026.22-2.8
-
----
-
-### Employee Well-being (`employee-wellbeing`)
-
-**Corpus size:** 163 papers
-
-**Recent papers:**
-
-- [2026-10] The impact of facilities management on workplace well-being and employee productivity in the ba — https://doi.org/10.51867/ajernet.7.4.23
-- [2026-10] EMPLOYEE WELL-BEING AND ORGANIZATIONAL PERFORMANCE: A SYSTEMATIC REVIEW OF WORKPLACE INTERVENTI — https://doi.org/10.62441/actainnovations.vi.2090
-- [2026-10] Impact of Employee Engagement on Workplace Well-Being Among Middle-Level Managers in the Privat — https://doi.org/10.61113/ijiap.v4i10.1664
-
----
-
-### Public Sector & Education (`public-sector`)
-
-**Corpus size:** 153 papers
-
-**Recent papers:**
-
-- [2026-10] E-HRM as a behavioural enabler of public sector digital transformation — https://malque.pub/ojs/index.php/mr/article/view/21533
-- [2026-10] Digital financial reporting and modern digital audit technologies in the public sector: prospec — https://doi.org/10.66556/2663-0117.52.topolenko-n
-- [2026-10] Strategic Human Capital Disclosure, Agile Work Culture, And Public Trust Via Workplace Pro Envi — https://doi.org/10.37676/ekombis.v14i4.10359
-
----
-
 ### Surveys & Reviews (`survey`)
 
-**Corpus size:** 151 papers
+**Corpus size:** 221 papers
 
 **Recent papers:**
 
@@ -158,9 +134,21 @@
 
 ---
 
+### Evaluation & Case Studies (`evaluation`)
+
+**Corpus size:** 204 papers
+
+**Recent papers:**
+
+- [2026-10] The ecosystemic workplace: Erotic content creation and the spatial transformation of digital la — https://doi.org/10.1177/29768624261492473
+- [2026-10] The Influence of Digital Transformation on Employee Productivity and Workplace Efficiency in Mo — https://doi.org/10.36948/ijfmr.2026.v08i05.88987
+- [2026-10] Socio-technical co-adaptation: Digital integration and workplace learning — https://doi.org/10.14254/1795-6889.2026.22-2.8
+
+---
+
 ### Methods (`method`)
 
-**Corpus size:** 118 papers
+**Corpus size:** 195 papers
 
 **Recent papers:**
 
@@ -170,21 +158,21 @@
 
 ---
 
-### AI & Language Models (`ai-llm`)
+### Hybrid & Remote Work (`hybrid-work`)
 
-**Corpus size:** 117 papers
+**Corpus size:** 183 papers
 
 **Recent papers:**
 
-- [2026-10] Designing for Imperfect Prompts: A Simulation-Based Evaluation of an LLM-Based Enterprise Data  — https://arxiv.org/abs/2610.23304
-- [2026-10] Collaborative Learning and Reasoning over Model Slices — https://arxiv.org/abs/2610.12927
-- [2026-10] MASBench: Benchmarking LLM-based Multi-Agent Collaboration under Partial Observability — https://arxiv.org/abs/2610.04672
+- [2026-10] Experiencing Remote, Hybrid and In‐Office Work in the Canadian Public Sector: Evidence from a 9 — https://doi.org/10.1111/capa.70075
+- [2026-10] REMOTE WORK FATIGUE AND EMPLOYEE ENGAGEMENT IN HYBRID WORK ENVIRONMENTS: A REVIEW — https://doi.org/10.5281/zenodo.23205377
+- [2026-10] IMPACT OF REMOTE AND HYBRID WORK MODELS ON EMPLOYEE PRODUCTIVITY AND JOB SATISFACTION — https://doi.org/10.48047/ijss.5.9.2026.4
 
 ---
 
 ### Tooling & Platforms (`tooling`)
 
-**Corpus size:** 112 papers
+**Corpus size:** 179 papers
 
 **Recent papers:**
 
@@ -194,27 +182,39 @@
 
 ---
 
-### Federated & Privacy-Preserving (`federated-privacy`)
+### Public Sector & Education (`public-sector`)
 
-**Corpus size:** 100 papers
+**Corpus size:** 154 papers
 
 **Recent papers:**
 
-- [2026-10] Combining Homomorphic Encryption and Differential Privacy in Federated Learning for Model Inspe — https://arxiv.org/abs/2610.01650
-- [2026-10] Privacy-Preserving Personalized Federated Learning (PPP-FL) for Medical Imaging — https://arxiv.org/abs/2610.27470
-- [2026-10] Evaluating Federated Vision-Language and Vision-Only Models for Privacy-Aware Breast Cancer Ima — https://arxiv.org/abs/2610.36379
+- [2026-10] E-HRM as a behavioural enabler of public sector digital transformation — https://malque.pub/ojs/index.php/mr/article/view/21533
+- [2026-10] Digital financial reporting and modern digital audit technologies in the public sector: prospec — https://doi.org/10.66556/2663-0117.52.topolenko-n
+- [2026-10] Strategic Human Capital Disclosure, Agile Work Culture, And Public Trust Via Workplace Pro Envi — https://doi.org/10.37676/ekombis.v14i4.10359
 
 ---
 
 ### Digital Transformation (`digital-transformation`)
 
-**Corpus size:** 96 papers
+**Corpus size:** 130 papers
 
 **Recent papers:**
 
 - [2026-10] From Digital Capabilities to Non Linear Growth: The Exponential SME Framework — https://arxiv.org/abs/2610.01129
 - [2026-10] Digital Workload and Psychological Well-Being in the Digital Workplace: The Protective Role of  — https://doi.org/10.30872/5tpdkd80
 - [2026-10] Digital Transformation and Employee Engagement in Healthcare Organizations: The Role of Digital — https://doi.org/10.64388/irev10i4-1724034
+
+---
+
+### Federated & Privacy-Preserving (`federated-privacy`)
+
+**Corpus size:** 101 papers
+
+**Recent papers:**
+
+- [2026-10] Combining Homomorphic Encryption and Differential Privacy in Federated Learning for Model Inspe — https://arxiv.org/abs/2610.01650
+- [2026-10] Privacy-Preserving Personalized Federated Learning (PPP-FL) for Medical Imaging — https://arxiv.org/abs/2610.27470
+- [2026-10] Evaluating Federated Vision-Language and Vision-Only Models for Privacy-Aware Breast Cancer Ima — https://arxiv.org/abs/2610.36379
 
 ---
 
@@ -244,13 +244,13 @@
 
 ### Security & Compliance (`security-compliance`)
 
-**Corpus size:** 47 papers
+**Corpus size:** 48 papers
 
 **Recent papers:**
 
 - [2026-10] CYBERFORT: A Compliance-Chain Platform Operationalising the Cyber Resilience Act for SMEs — https://arxiv.org/abs/2610.09918
 - [2026-10] The Amplifier Effect: Human-Factor Risks of AI-Suggested Correlation and Auto-Propagation in Mu — https://arxiv.org/abs/2610.07866
-- [2026-09] Correlation-Guided Fast Machine Unlearning via Hessian Analysis — https://arxiv.org/abs/2609.12620
+- [2026-10] Cohort Profile Update: COVIDMENT: COVID-19 cohorts on mental health across six nations — https://doi.org/10.1093/ije/dyag233
 
 ---
 
@@ -268,7 +268,7 @@
 
 ### Digital Workplace (`digital-workplace`)
 
-**Corpus size:** 25 papers
+**Corpus size:** 27 papers
 
 **Recent papers:**
 

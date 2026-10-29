@@ -1,35 +1,35 @@
 # Trends (12-Month View)
 
-**Generated:** 2026-10-28  
-**Window:** since 2025-10 — 2034 of 2341 papers
+**Generated:** 2026-10-29  
+**Window:** since 2025-10 — 2658 of 2967 papers
 
 ## 🔥 Keyword Bursts
 
 | Keyword | Recent | Total | Burst |
 |---------|--------|-------|-------|
-| employee well-being | 237 | 237 | 1.2× |
-| change management | 28 | 28 | 1.2× |
-| self-hosted | 6 | 6 | 1.2× |
-| workplace | 1375 | 1400 | 1.1× |
-| review | 472 | 486 | 1.1× |
-| education | 328 | 334 | 1.1× |
-| digital transformation | 325 | 335 | 1.1× |
-| survey | 282 | 296 | 1.1× |
-| adoption | 263 | 280 | 1.1× |
-| productivity | 260 | 262 | 1.1× |
-| hybrid work | 200 | 203 | 1.1× |
-| remote work | 156 | 158 | 1.1× |
-| case study | 146 | 153 | 1.1× |
-| digital workplace | 138 | 145 | 1.1× |
-| identity | 126 | 130 | 1.1× |
+| workplace | 1803 | 1829 | 1.1× |
+| review | 616 | 630 | 1.1× |
+| education | 475 | 481 | 1.1× |
+| digital transformation | 386 | 396 | 1.1× |
+| survey | 375 | 389 | 1.1× |
+| productivity | 328 | 330 | 1.1× |
+| adoption | 318 | 335 | 1.1× |
+| employee well-being | 293 | 293 | 1.1× |
+| hybrid work | 223 | 226 | 1.1× |
+| remote work | 169 | 171 | 1.1× |
+| case study | 168 | 175 | 1.1× |
+| digital workplace | 159 | 166 | 1.1× |
+| identity | 157 | 161 | 1.1× |
+| employee engagement | 145 | 145 | 1.1× |
+| psychological safety | 116 | 116 | 1.1× |
 
 ## 📈 Fastest-Growing Cells
 
 | Cell | Recent | Total | Recent Share |
 |------|--------|-------|--------------|
 | `identity-access/method` | 1 | 1 | 100% |
-| `adoption-change/method` | 42 | 42 | 100% |
-| `adoption-change/application` | 13 | 13 | 100% |
+| `adoption-change/method` | 55 | 55 | 100% |
+| `adoption-change/application` | 14 | 14 | 100% |
 | `digital-workplace/systems` | 1 | 1 | 100% |
 | `data-sovereignty/method` | 1 | 1 | 100% |
 | `collaboration/method` | 6 | 6 | 100% |
@@ -41,6 +41,6 @@
 | `interoperability/theory` | 27 | 27 | 100% |
 | `open-source/theory` | 14 | 14 | 100% |
 | `open-source/method` | 2 | 2 | 100% |
-| `public-sector/theory` | 122 | 122 | 100% |
+| `public-sector/theory` | 123 | 123 | 100% |
 
 Regenerate with `python3 tools/trend_scanner.py --months 12`.

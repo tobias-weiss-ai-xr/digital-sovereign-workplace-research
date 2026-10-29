@@ -1,41 +1,46 @@
-# Curated concept seeds for THIS research corpus.
-# Optional: repo-specific important concepts/ideas, added on top of the
-# taxonomy categories (associated structurally) and the statistically-mined
-# emergent bigrams. Leave empty to rely on taxonomy + emergent terms only.
-# Portable across all *-research repos: copy tools/extract_concepts.py,
-# tools/relate_concepts.py and tools/analyze_concept_graph.py as-is; only
-# papers.yaml is required.
-#
-# Curated concept seeds for the Digital Sovereign Workplace corpus so the
-# selective concept graph (config/extraction.yaml: mode=selective) has a
-# meaningful curated layer on top of the taxonomy backbone.
 concepts:
-  - digital workplace
-  - data sovereignty
-  - cloud sovereignty
-  - collaboration platform
-  - office suite
-  - open source
-  - identity federation
-  - single sign-on
-  - interoperability
-  - standards
-  - public sector
-  - government
-  - education
-  - SME
-  - adoption
-  - change management
-  - self-hosted
-  - GDPR
-  - compliance
-  - privacy
-  - architecture
-  - evaluation
-  - case study
-  - survey
-  - review
-  - Nextcloud
-  - openDesk
-  - platform
-  - productivity
+- digital workplace
+- data sovereignty
+- cloud sovereignty
+- collaboration platform
+- office suite
+- open source
+- identity federation
+- single sign-on
+- interoperability
+- standards
+- public sector
+- government
+- education
+- SME
+- adoption
+- change management
+- self-hosted
+- GDPR
+- compliance
+- privacy
+- architecture
+- evaluation
+- case study
+- survey
+- review
+- Nextcloud
+- openDesk
+- platform
+- productivity
+- artificial intelligence
+- large language models
+- machine learning
+- multi agent
+- digital twins
+- privacy preserving
+- employee engagement
+- employee productivity
+- work arrangements
+- psychological safety
+- retrieval augmented
+- software engineering
+- occupational health
+- autonomous agents
+- differential privacy
+- future work
