@@ -1,7 +1,7 @@
 # Trends (12-Month View)
 
 **Generated:** 2026-10-30  
-**Window:** since 2025-10 — 2658 of 2967 papers
+**Window:** since 2025-10 — 2663 of 2972 papers
 
 ## 🔥 Keyword Bursts
 
@@ -15,11 +15,11 @@
 | productivity | 328 | 330 | 1.1× |
 | adoption | 318 | 335 | 1.1× |
 | employee well-being | 293 | 293 | 1.1× |
-| hybrid work | 223 | 226 | 1.1× |
+| hybrid work | 224 | 227 | 1.1× |
 | remote work | 169 | 171 | 1.1× |
 | case study | 168 | 175 | 1.1× |
 | digital workplace | 159 | 166 | 1.1× |
-| identity | 157 | 161 | 1.1× |
+| identity | 158 | 162 | 1.1× |
 | employee engagement | 145 | 145 | 1.1× |
 | psychological safety | 116 | 116 | 1.1× |
 

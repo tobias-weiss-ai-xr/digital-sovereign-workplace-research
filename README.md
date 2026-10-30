@@ -161,28 +161,28 @@ This repo is designed to be driven by coding agents (OpenCode, Claude Code, …)
 
 ## 📊 Corpus Statistics
 
-**2967 papers** across **19 categories**.  
-Sources: **arXiv** 1008 (34%).  
+**2972 papers** across **19 categories**.  
+Sources: **arXiv** 1013 (34%).  
 
 ### Top categories
 
 | Category | Papers | Recent | |
 |----------|--------|--------|-|
 | open-source | **305** | 165 | ████████████ |
-| ai-llm | **280** | 272 | ███████████░ |
+| ai-llm | **282** | 274 | ███████████░ |
 | employee-wellbeing | **261** | 261 | ██████████░░ |
 | adoption-change | **252** | 252 | ██████████░░ |
 | interoperability | **238** | 154 | █████████░░░ |
 | survey | **221** | 221 | █████████░░░ |
 | evaluation | **204** | 202 | ████████░░░░ |
 | method | **195** | 195 | ████████░░░░ |
-| hybrid-work | **183** | 180 | ███████░░░░░ |
-| tooling | **179** | 179 | ███████░░░░░ |
+| hybrid-work | **184** | 181 | ███████░░░░░ |
+| tooling | **180** | 180 | ███████░░░░░ |
 | public-sector | **154** | 154 | ██████░░░░░░ |
 | digital-transformation | **130** | 122 | █████░░░░░░░ |
 | federated-privacy | **101** | 101 | ████░░░░░░░░ |
 | collaboration | **79** | 73 | ███░░░░░░░░░ |
-| data-sovereignty | **64** | 45 | ███░░░░░░░░░ |
+| data-sovereignty | **65** | 46 | ███░░░░░░░░░ |
 | security-compliance | **48** | 29 | ██░░░░░░░░░░ |
 | identity-access | **40** | 40 | ██░░░░░░░░░░ |
 | digital-workplace | **27** | 7 | █░░░░░░░░░░░ |
@@ -207,17 +207,17 @@ Sources: **arXiv** 1008 (34%).
 | 2023 | 49 | █░░░░░░░░░░░ |
 | 2024 | 79 | █░░░░░░░░░░░ |
 | 2025 | 274 | █░░░░░░░░░░░ |
-| 2026 | 2525 | ████████████ |
+| 2026 | 2530 | ████████████ |
 
 ### Momentum (hottest categories)
 
 | Category | Total | Rate | Recent | Score |
 |----------|-------|------|--------|-------|
-| Hybrid Work | 183 | 15.0/mo | 98% | 17998 |
+| Hybrid Work | 184 | 15.1/mo | 98% | 18098 |
 | Digital Transformation | 130 | 10.2/mo | 94% | 12194 |
-| Ai Llm | 280 | 22.7/mo | 97% | 6797 |
+| Ai Llm | 282 | 22.8/mo | 97% | 6847 |
 | Collaboration | 79 | 6.1/mo | 92% | 1452 |
-| Data Sovereignty | 64 | 3.8/mo | 70% | 1095 |
+| Data Sovereignty | 65 | 3.8/mo | 71% | 1121 |
 | Digital Workplace | 27 | 0.6/mo | 26% | 276 |
 | Security Compliance | 48 | 2.4/mo | 60% | 224 |
 | Interoperability | 238 | 12.8/mo | 65% | 221 |
@@ -230,7 +230,7 @@ Sources: **arXiv** 1008 (34%).
 | Public Sector | 154 | 12.8/mo | 100% | 100 |
 | Sme Adoption | 6 | 0.5/mo | 100% | 100 |
 | Survey | 221 | 18.4/mo | 100% | 100 |
-| Tooling | 179 | 14.9/mo | 100% | 100 |
+| Tooling | 180 | 15.0/mo | 100% | 100 |
 | Evaluation | 204 | 16.8/mo | 99% | 99 |
 
 ### Trending keywords
@@ -242,7 +242,7 @@ Sources: **arXiv** 1008 (34%).
 | psychological safety | 116 | 1.12 |
 | occupational health | 74 | 1.12 |
 | change management | 30 | 1.12 |
-| retrieval augmented | 12 | 1.12 |
+| retrieval augmented | 13 | 1.12 |
 | self-hosted | 6 | 1.12 |
 | productivity | 328 | 1.11 |
 

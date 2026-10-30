@@ -1,7 +1,7 @@
 # Literature Review
 
 **Generated:** 2026-10-30  
-**Corpus:** 2,967 papers across 19 categories
+**Corpus:** 2,972 papers across 19 categories
 
 > Synthesis of the corpus. Category insights are grounded in title/abstract analysis of the papers themselves.
 
@@ -12,7 +12,7 @@
 | Rank | Category | Papers |
 |------|----------|--------|
 | 1 | Open Source | 305 |
-| 2 | AI & Language Models | 280 |
+| 2 | AI & Language Models | 282 |
 | 3 | Employee Well-being | 261 |
 | 4 | Adoption & Change | 252 |
 | 5 | Interoperability & Standards | 238 |
@@ -21,7 +21,7 @@
 | 8 | Methods | 195 |
 
 **Time span:** 2003–2026 (median year 2019)
-**Dominant aspects:** Theory (1442), Application (652), Methods (435)
+**Dominant aspects:** Theory (1443), Application (655), Methods (435)
 
 ---
 
@@ -29,11 +29,11 @@
 
 | Category | Total | Last 12m | Prior 12m | Growth | 12-m share | Papers/mo |
 |----------|------:|---------:|----------:|-------:|----------:|----------:|
-| Hybrid Work | 183 | 180 | 1 | +17900% | 98% | 15.0 |
+| Hybrid Work | 184 | 181 | 1 | +18000% | 98% | 15.1 |
 | Digital Transformation | 130 | 122 | 1 | +12100% | 94% | 10.2 |
-| Ai Llm | 280 | 272 | 4 | +6700% | 97% | 22.7 |
+| Ai Llm | 282 | 274 | 4 | +6750% | 97% | 22.8 |
 | Collaboration | 79 | 73 | 5 | +1360% | 92% | 6.1 |
-| Data Sovereignty | 64 | 45 | 4 | +1025% | 70% | 3.8 |
+| Data Sovereignty | 65 | 46 | 4 | +1050% | 71% | 3.8 |
 | Digital Workplace | 27 | 7 | 2 | +250% | 26% | 0.6 |
 | Security Compliance | 48 | 29 | 11 | +164% | 60% | 2.4 |
 | Interoperability | 238 | 154 | 60 | +157% | 65% | 12.8 |
@@ -76,7 +76,7 @@
 
 ### AI & Language Models (`ai-llm`)
 
-**Corpus size:** 280 papers
+**Corpus size:** 282 papers
 
 **Recent papers:**
 
@@ -160,7 +160,7 @@
 
 ### Hybrid & Remote Work (`hybrid-work`)
 
-**Corpus size:** 183 papers
+**Corpus size:** 184 papers
 
 **Recent papers:**
 
@@ -172,7 +172,7 @@
 
 ### Tooling & Platforms (`tooling`)
 
-**Corpus size:** 179 papers
+**Corpus size:** 180 papers
 
 **Recent papers:**
 
@@ -232,7 +232,7 @@
 
 ### Data Sovereignty (`data-sovereignty`)
 
-**Corpus size:** 64 papers
+**Corpus size:** 65 papers
 
 **Recent papers:**
 

@@ -226,6 +226,7 @@
 - [2026] **SuperLocalMemory V3: Information-Geometric Foundations for Zero-LLM Enterprise Agent Memory** [[paper](https://arxiv.org/abs/2603.14588)]
 - [2026] **Berta: an open-source, modular tool for AI-enabled clinical documentation** [[paper](https://arxiv.org/abs/2603.23513)]
 - [2026] **Privacy-Preserving Federated Fraud Detection in Payment Transactions with NVIDIA FLARE** [[paper](https://arxiv.org/abs/2603.13617)]
+- [2026] **Aceso: Latency-Aware Geo-Distribution of Microservices for Cost-Effective Carbon Reduction** [[paper](https://arxiv.org/abs/2603.10768)]
 - [2026] **Quecto-V1: Empirical Analysis of 8-bit Quantized Small Language Models for On-Device Legal Retrieval** [[paper](https://arxiv.org/abs/2602.16640)]
 - [2026] **From Static Repositories to Agentic Knowledge Webs: ResearchTwin and the S-Index for Federated Human-AI Research Discovery** [[paper](https://arxiv.org/abs/2603.00080)]
 - [2026] **FedAvg-Based CTMC Hazard Model for Federated Bridge Deterioration Assessment** [[paper](https://arxiv.org/abs/2602.20194)]
@@ -2632,6 +2633,7 @@
 - [2026] **Dismantling the Digital Nudge: A Three-Arm Pragmatic Randomized Controlled Trial Evaluating Individual, Competitive, and Collaborative WhatsApp-Driven Gamification to Disrupt Workplace Sedentary Behavior.** *Open Science Framework* [[paper](https://doi.org/10.17605/osf.io/gzdra)]
 - [2026] **Socializing Our Research: Using Team Communication Platforms to Build Collaboration and Professionalization in Early-Career Researchers** *ACM International Conference on Design of Communication (SIGDOC)* [[paper](https://doi.org/10.1145/3772063.3841679)]
 - [2026] **BREAKING THE ISOLATION: HOW EFFECTIVE IS THE NEW AGE MEDIA IN ENHANCING THE MENTAL WELL-BEING OF GIG WORKERS?** *Acta Innovations* [[paper](https://doi.org/10.62441/actainnovations.vi.2373)]
+- [2026] **An Alignment Benchmark for Enterprise Agents on Era by Eon** [[paper](https://arxiv.org/abs/2610.38544)]
 - [2026] **Digital Detox: Reducing Screen Time and Improving Mental Health** *JOURNAL OF ADVANCE AND FUTURE RESEARCH* [[paper](https://doi.org/10.56975/jaafr.v4i9.514626)]
 - [2026] **EnterpriseBench: Benchmarking LLM Agents on Enterprise-Level Strategic Reasoning and Decision-Making** [[paper](https://arxiv.org/abs/2609.37658)]
 - [2026] **Corporate Language Model (CLM): Transforming Tacit and Fragmented Enterprise Knowledge into a Sovereign, Auditable, and Executable Corporate Intelligence Layer** [[paper](https://arxiv.org/abs/2609.04377)]
@@ -2846,6 +2848,7 @@
 
 ##### 2026
 
+- [2026] **Zero Trust-Enabled Adaptive Incident Response using Hierarchical Reinforcement Learning** [[paper](https://arxiv.org/abs/2610.38146)]
 - [2026] **Hybrid Work and the Restructuring of Urban Mobility in U.S. Cities** [[paper](https://arxiv.org/abs/2609.36428)]
 - [2026] **Labor-Oriented Management Controls in the Modern Era** *Journal of Management Accounting Research* [[paper](https://doi.org/10.2308/jmar-2026-045)]
 - [2026] **Governing digital collaboration in remote and hybrid work: a bibliometric analysis grounded in a multi-level governance framework** *Management Review Quarterly* [[paper](https://doi.org/10.1007/s11301-026-00641-w)]
@@ -3455,6 +3458,7 @@
 - [2026] **Training LLMs for Multi-Agent Collaboration with Verifiable Information Rewards** [[paper](https://arxiv.org/abs/2610.17893)]
 - [2026] **MemeLogos: Knowledge-Driven Retrieval-Augmented Reasoning for Harmful Meme Detection** [[paper](https://arxiv.org/abs/2610.15463)]
 - [2026] **Trustworthy Domain-Specific AI for Structured Knowledge Retrieval and Reasoning** [[paper](https://arxiv.org/abs/2610.08894)]
+- [2026] **TCC-RAG: Temporal Causal Chain-Guided RAG for Temporal Knowledge Graph Question Answering** [[paper](https://arxiv.org/abs/2610.38366)]
 - [2026] **ERPBench: Evaluating LLM Agents for Enterprise Decision-Making Across Competitive Market Ecologies** [[paper](https://arxiv.org/abs/2609.04667)] [[code](https://github.com/GAIR-NLP/erp-bench)]
 - [2026] **Toward Sustainable AI Deployment: A Carbon-Aware Decision Framework for Enterprise Supply Chain Systems** [[paper](https://arxiv.org/abs/2609.14881)]
 - [2026] **FirmCORe: A Benchmark for Structured Reasoning about Inter-Firm Collaboration Opportunities** [[paper](https://arxiv.org/abs/2609.17128)]
@@ -3580,6 +3584,7 @@
 - [2026] **Expert Mind: A Retrieval-Augmented Architecture for Expert Knowledge Preservation in the Energy Sector** [[paper](https://arxiv.org/abs/2603.14541)]
 - [2026] **KEPo: Knowledge Evolution Poison on Graph-based Retrieval-Augmented Generation** [[paper](https://arxiv.org/abs/2603.11501)]
 - [2026] **Training the Knowledge Base through Evidence Distillation and Write-Back Enrichment** [[paper](https://arxiv.org/abs/2603.25737)]
+- [2026] **GSI Agent: Domain Knowledge Enhancement for Large Language Models in Green Stormwater Infrastructure** [[paper](https://arxiv.org/abs/2603.15643)]
 - [2026] **The PBSAI Governance Ecosystem: A Multi-Agent AI Reference Architecture for Securing Enterprise AI Estates** [[paper](https://arxiv.org/abs/2602.11301)]
 - [2026] **Agent-Diff: Benchmarking LLM Agents on Enterprise API Tasks via Code Execution with State-Diff-Based Evaluation** [[paper](https://arxiv.org/abs/2602.11224)] [[code](https://github.com/agent-diff-bench/agent-diff)]
 - [2026] **From Human-Human Collaboration to Human-Agent Collaboration: A Vision, Design Philosophy, and an Empirical Framework for Achieving Successful Partnerships Between Humans and LLM Agents** [[paper](https://arxiv.org/abs/2602.05987)]

@@ -23,24 +23,24 @@
   {
    "id": "ai-llm",
    "name": "AI & Language Models",
-   "count": 280,
+   "count": 282,
    "trajectory": {
     "2019": 1,
     "2023": 1,
     "2024": 2,
     "2025": 42,
-    "2026": 234
+    "2026": 236
    },
    "momentum": {
     "id": "ai-llm",
     "name": "Ai Llm",
-    "total": 280,
-    "recent": 272,
+    "total": 282,
+    "recent": 274,
     "prior": 4,
-    "growth_pct": 6700.0,
-    "recent_share": 0.971,
-    "papers_per_month": 22.7,
-    "score": 6797.1
+    "growth_pct": 6750.0,
+    "recent_share": 0.972,
+    "papers_per_month": 22.8,
+    "score": 6847.2
    }
   },
   {
@@ -67,7 +67,7 @@
   {
    "id": "data-sovereignty",
    "name": "Data Sovereignty",
-   "count": 64,
+   "count": 65,
    "trajectory": {
     "2013": 1,
     "2016": 3,
@@ -76,18 +76,18 @@
     "2023": 2,
     "2024": 1,
     "2025": 6,
-    "2026": 43
+    "2026": 44
    },
    "momentum": {
     "id": "data-sovereignty",
     "name": "Data Sovereignty",
-    "total": 64,
-    "recent": 45,
+    "total": 65,
+    "recent": 46,
     "prior": 4,
-    "growth_pct": 1025.0,
-    "recent_share": 0.703,
+    "growth_pct": 1050.0,
+    "recent_share": 0.708,
     "papers_per_month": 3.8,
-    "score": 1095.3
+    "score": 1120.8
    }
   },
   {
@@ -204,22 +204,22 @@
   {
    "id": "hybrid-work",
    "name": "Hybrid & Remote Work",
-   "count": 183,
+   "count": 184,
    "trajectory": {
     "2024": 2,
     "2025": 5,
-    "2026": 176
+    "2026": 177
    },
    "momentum": {
     "id": "hybrid-work",
     "name": "Hybrid Work",
-    "total": 183,
-    "recent": 180,
+    "total": 184,
+    "recent": 181,
     "prior": 1,
-    "growth_pct": 17900.0,
+    "growth_pct": 18000.0,
     "recent_share": 0.984,
-    "papers_per_month": 15.0,
-    "score": 17998.4
+    "papers_per_month": 15.1,
+    "score": 18098.4
    }
   },
   {
@@ -392,20 +392,20 @@
   {
    "id": "tooling",
    "name": "Tooling & Platforms",
-   "count": 179,
+   "count": 180,
    "trajectory": {
     "2025": 2,
-    "2026": 177
+    "2026": 178
    },
    "momentum": {
     "id": "tooling",
     "name": "Tooling",
-    "total": 179,
-    "recent": 179,
+    "total": 180,
+    "recent": 180,
     "prior": 0,
     "growth_pct": null,
     "recent_share": 1.0,
-    "papers_per_month": 14.9,
+    "papers_per_month": 15.0,
     "score": 100.0
    }
   }
@@ -414,7 +414,7 @@
   {
    "id": "application",
    "name": "Application",
-   "count": 652
+   "count": 655
   },
   {
    "id": "development",
@@ -444,12 +444,12 @@
   {
    "id": "systems",
    "name": "Systems",
-   "count": 383
+   "count": 384
   },
   {
    "id": "theory",
    "name": "Theory",
-   "count": 1442
+   "count": 1443
   }
  ],
  "timeline": [
@@ -3436,7 +3436,7 @@
   [
    "2026-03",
    "ai-llm",
-   "systems"
+   "application"
   ],
   [
    "2026-03",
@@ -3477,6 +3477,16 @@
    "2026-03",
    "ai-llm",
    "systems"
+  ],
+  [
+   "2026-03",
+   "ai-llm",
+   "systems"
+  ],
+  [
+   "2026-03",
+   "data-sovereignty",
+   "theory"
   ],
   [
    "2026-03",
@@ -13706,6 +13716,11 @@
   [
    "2026-10",
    "ai-llm",
+   "application"
+  ],
+  [
+   "2026-10",
+   "ai-llm",
    "systems"
   ],
   [
@@ -14351,6 +14366,11 @@
   [
    "2026-10",
    "hybrid-work",
+   "application"
+  ],
+  [
+   "2026-10",
+   "hybrid-work",
    "method"
   ],
   [
@@ -15172,6 +15192,11 @@
    "2026-10",
    "tooling",
    "method"
+  ],
+  [
+   "2026-10",
+   "tooling",
+   "systems"
   ],
   [
    "2026-10",
@@ -15357,14 +15382,14 @@
    "recent": 293,
    "total": 293,
    "burst_score": 1.12,
-   "recent_share": 0.1102
+   "recent_share": 0.11
   },
   {
    "keyword": "employee engagement",
    "recent": 145,
    "total": 145,
    "burst_score": 1.12,
-   "recent_share": 0.0546
+   "recent_share": 0.0544
   },
   {
    "keyword": "psychological safety",
@@ -15389,10 +15414,10 @@
   },
   {
    "keyword": "retrieval augmented",
-   "recent": 12,
-   "total": 12,
+   "recent": 13,
+   "total": 13,
    "burst_score": 1.12,
-   "recent_share": 0.0045
+   "recent_share": 0.0049
   },
   {
    "keyword": "self-hosted",
@@ -15406,56 +15431,56 @@
    "recent": 328,
    "total": 330,
    "burst_score": 1.11,
-   "recent_share": 0.1234
+   "recent_share": 0.1232
   },
   {
    "keyword": "workplace",
    "recent": 1803,
    "total": 1829,
    "burst_score": 1.1,
-   "recent_share": 0.6783
+   "recent_share": 0.6771
   },
   {
    "keyword": "education",
    "recent": 475,
    "total": 481,
    "burst_score": 1.1,
-   "recent_share": 0.1787
+   "recent_share": 0.1784
   },
   {
    "keyword": "hybrid work",
-   "recent": 223,
-   "total": 226,
+   "recent": 224,
+   "total": 227,
    "burst_score": 1.1,
-   "recent_share": 0.0839
+   "recent_share": 0.0841
   },
   {
    "keyword": "remote work",
    "recent": 169,
    "total": 171,
    "burst_score": 1.1,
-   "recent_share": 0.0636
+   "recent_share": 0.0635
   },
   {
    "keyword": "public sector",
    "recent": 81,
    "total": 82,
    "burst_score": 1.1,
-   "recent_share": 0.0305
+   "recent_share": 0.0304
   },
   {
    "keyword": "review",
    "recent": 616,
    "total": 630,
    "burst_score": 1.09,
-   "recent_share": 0.2318
+   "recent_share": 0.2313
   },
   {
    "keyword": "digital transformation",
    "recent": 386,
    "total": 396,
    "burst_score": 1.09,
-   "recent_share": 0.1452
+   "recent_share": 0.1449
   }
  ]
 }
