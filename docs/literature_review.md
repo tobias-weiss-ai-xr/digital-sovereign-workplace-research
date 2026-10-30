@@ -1,7 +1,7 @@
 # Literature Review: Digital Sovereign Workplace
 
-**Corpus:** 2,967 papers · 19 categories · 8 subcategory dimensions  
-**Sources:** arXiv (1,008) · DOI-registered venues (1,694) · Other (265)  
+**Corpus:** 2,972 papers · 19 categories · 8 subcategory dimensions  
+**Sources:** arXiv (1,013) · DOI-registered venues (1,694) · Other (265)  
 **Time span:** 2003–2026 (median year 2019; 85% of papers published 2025–2026)  
 **Generated:** 2026-10-29
 
@@ -16,7 +16,7 @@ stacks), the technical maturation of **open-source collaboration platforms** (Ne
 openDesk, Collabora, OnlyOffice, identity-federation stacks), and the organisational
 transformation of work itself through **hybrid arrangements, AI augmentation, and
 employee well-being** concerns. This literature review synthesises a curated corpus of
-2,967 papers discovered through taxonomy-aware queries against arXiv, OpenAlex,
+2,972 papers discovered through taxonomy-aware queries against arXiv, OpenAlex,
 Crossref, dblp, Europe PMC, and Semantic Scholar.
 
 The corpus is deliberately broad. The DSW concept cannot be understood through any single
@@ -510,7 +510,7 @@ for the Digital Sovereign Workplace programme:
 
 ## 13. Methodology
 
-This review synthesises a corpus of 2,967 papers discovered through taxonomy-aware
+This review synthesises a corpus of 2,972 papers discovered through taxonomy-aware
 queries against arXiv, OpenAlex, Crossref, dblp, Europe PMC, and Semantic Scholar. The
 taxonomy (19 categories, 8 subcategory dimensions) is defined in
 `config/taxonomy.yaml`. Papers are auto-classified into the taxonomy and validated by
@@ -527,7 +527,7 @@ provides the thematic synthesis. The full pipeline is reproducible via `make all
 
 The Digital Sovereign Workplace research programme sits at the confluence of digital
 sovereignty, open-source infrastructure, AI augmentation, and workplace transformation.
-The corpus of 2,967 papers reveals a field that is rapidly growing (85% of papers from
+The corpus of 2,972 papers reveals a field that is rapidly growing (85% of papers from
 2025–2026), intellectually diverse (19 categories spanning computer science, information
 systems, organisational behaviour, and public policy), and rich with opportunity. The
 central finding is a sovereignty–capability tension: the literature demonstrates the
