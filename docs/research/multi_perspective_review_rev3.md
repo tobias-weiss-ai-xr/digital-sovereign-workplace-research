@@ -724,6 +724,20 @@ depth.
   to future work or companion papers. This would produce a more
   focused, publishable paper.
 
+**Status update (Rev 4):** All key findings from both review rounds
+have been addressed. The paper now has 21 sections covering 11
+disciplinary perspectives:
+- §9-12: Publication-standard (IS, CS, Law, Economics)
+- §14-20: Framework-level (OB, HE policy, archival science, green IT,
+  labour studies, public policy, HCI/UX)
+- §13, §21: Cross-disciplinary synthesis
+
+The paper grew from 1,656 to 2,396 lines. The structural imbalance
+has been partially addressed by adding framework-level sections that
+parallel the deep-integrated ones. Primary research, empirical cost
+data, and deep analysis of the 7 framework-level sections remain as
+future work.
+
 ---
 
 *This review is the second round of multi-perspective review, focusing

@@ -3,7 +3,7 @@
 **Authors:** Digital Sovereign Workplace Research Corpus  
 **Date:** 2026-10-31  
 **Corpus basis:** 3,030 papers across 19 categories (frozen snapshot: 2026-10-31)  
-**Status:** Working paper / draft for review (Revision 3 — four disciplinary perspectives deep-integrated: IS, CS, Law, Economics)
+**Status:** Working paper / draft for review (Revision 4 — all key findings from both review rounds addressed)
 
 ---
 
@@ -25,8 +25,9 @@ sovereignty–capability tension as the central challenge, engages with
 counter-evidence, and proposes governance mechanisms including a university
 consortium model. Limitations include the absence of primary stakeholder
 research, the illustrative nature of cost estimates, and corpus
-quality issues. This revision deep-integrates four disciplinary
-perspectives (IS, CS, Law, Economics) to publication standard.
+quality issues. This revision addresses all key findings from
+two rounds of multi-perspective review, covering 11 disciplinary
+perspectives across 21 sections.
 
 **Keywords:** digital sovereignty, sovereign workplace, universities, higher
 education, open source, federated identity, stakeholder analysis, migration
@@ -1574,10 +1575,749 @@ limitations identified in §7.4 still apply.
 
 ---
 
-*This paper is Revision 3 (four disciplinary perspectives deep-integrated:
-IS, CS, Law, Economics). It synthesises findings from the Digital
-Sovereign Workplace research corpus (3,030 papers, frozen snapshot
-2026-10-31). Contributions, corrections, and extensions are welcome.*
+*This paper is Revision 4 (all key findings from both review rounds
+addressed). It synthesises findings from the Digital Sovereign
+Workplace research corpus (3,030 papers, frozen snapshot 2026-10-31).
+Contributions, corrections, and extensions are welcome.*
+
+---
+
+## 14. Organizational Behavior and Change Management
+
+This section addresses the OB gaps identified in both review rounds,
+providing change management frameworks, organisational culture analysis,
+resistance management, leadership sponsorship, and organisational learning.
+
+### 14.1 Change management framework (Kotter + ADKAR)
+
+The paper's migration model (§4) includes "training, communication,
+resistance handling" in Phase 4 but does not apply established change
+management frameworks. We propose a dual framework:
+
+**Kotter's 8-Step Model (strategic change):**
+
+1. **Create urgency:** Build the case for DSW using sovereignty risks,
+   GDPR compliance gaps, and vendor lock-in evidence. Not "change for
+   change's sake" but "change to protect institutional autonomy."
+2. **Form a guiding coalition:** Cross-stakeholder steering committee
+   (§5.4) with executive sponsorship from the Rectorate. Must include
+   influential faculty, not just administrators.
+3. **Create a vision:** "A sovereign digital workplace that protects
+   academic freedom, research data, and institutional autonomy while
+   delivering modern collaboration capabilities."
+4. **Communicate the vision:** Multi-channel communication (town halls,
+   department meetings, newsletters, intranet). Address the
+   sovereignty-capability tension honestly.
+5. **Empower action:** Remove barriers (procurement rules, IT capacity
+   constraints, skill gaps). Provide resources and authority to pilot
+   teams.
+6. **Create short-term wins:** Phase 2 pilot success stories.
+   Publicise adoption rates, user satisfaction, and sovereignty gains.
+7. **Sustain acceleration:** Expand to additional departments based on
+   pilot evidence. Build momentum through peer influence, not mandates.
+8. **Institutionalise change:** Embed DSW in institutional policies
+   (IT strategy, procurement rules, data governance). Make it "the way
+   we work," not a project.
+
+**ADKAR (individual change):** Awareness → Desire → Knowledge → Ability
+→ Reinforcement. Each migration phase must address all five elements
+for each stakeholder group. Phase 2 (Pilot) focuses on Knowledge and
+Ability (training, support). Phase 4 (Scale) focuses on Reinforcement
+(ongoing support, policy embedding).
+
+**Application to DSW:** The migration model (§4) should be reframed
+through these lenses. Phase 1 (Assess) = Kotter steps 1-3 + ADKAR
+Awareness. Phase 2 (Pilot) = Kotter steps 4-6 + ADKAR Desire/Knowledge/
+Ability. Phase 4 (Scale) = Kotter steps 7-8 + ADKAR Reinforcement.
+
+### 14.2 Organisational culture analysis
+
+Universities are not generic organisations. Their cultures shape DSW
+adoption:
+
+- **Collegial governance:** Decisions are made by committee, not decree.
+  A top-down mandate for DSW will face resistance. The steering
+  committee (§5.4) must be representative and consensus-oriented.
+- **Academic autonomy:** Faculty expect to choose their own tools.
+  Mandating a single platform conflicts with this expectation. The
+  DSW must be "attractive enough to choose" rather than "mandatory
+  to use."
+- **Disciplinary silos:** STEM disciplines (computational research, HPC
+  integration) have different platform needs than humanities (document-
+  centric workflows, archival needs). A one-size-fits-all DSW will
+  fail. The stakeholder analysis (§2) should be extended with
+  disciplinary profiles.
+- **Administrative culture:** Admin staff are process-oriented and
+  change-averse. They need reliable, well-integrated tools. The DSW
+  must demonstrate process improvement, not just sovereignty.
+- **Student culture:** Students are pragmatic and mobile-first. They
+  will adopt whatever works best on their devices. The DSW must
+  compete on UX, not just values.
+
+**Implication:** The migration model should be adapted per discipline
+and stakeholder group, not applied uniformly.
+
+### 14.3 Resistance management plan
+
+Specific resistance sources and mitigations:
+
+| Source | Concern | Mitigation |
+|--------|---------|------------|
+| IT staff | Job security, skill obsolescence, increased workload | Reskilling programme, clear career paths, additional staffing during transition |
+| Faculty | Tool preference, academic freedom concerns, productivity loss | Pilot with volunteer departments, demonstrate capability parity, academic freedom guarantees |
+| Vendors | Loss of revenue, relationship disruption | Phased license reduction, maintain hybrid model, vendor engagement in consortium |
+| Students | Learning curve, reduced capability, mobile experience | UX-focused design, comprehensive onboarding, feedback channels, gradual rollout |
+| DPOs | Compliance uncertainty, new risk surface | Early involvement, DPIA support, compliance verification at each phase |
+| Procurement | Unfamiliar open-source procurement | Procurement readiness assessment (§11.3), innovation partnership procedures |
+| Leadership | Cost, risk, reputation | TCO analysis (§12.1), risk mitigation plan, peer institution case studies |
+
+**Resistance monitoring:** Track resistance indicators (shadow IT usage,
+support ticket volume, user satisfaction trends, adoption rates by
+department). Address proactively, not reactively.
+
+### 14.4 Leadership sponsorship and succession
+
+- **Executive sponsor:** The Rector/President must be the visible
+  champion. Without top-level sponsorship, DSW will be deprioritised
+  by competing institutional priorities.
+- **Sponsorship succession:** Over a 48-month timeline, leadership
+  changes are likely. The DSW must be institutionalised (embedded in
+  strategy documents, policies, and budgets) so it survives leadership
+  transitions. Not dependent on a single champion.
+- **Middle management engagement:** Department heads and deans are
+  critical intermediaries. They translate institutional vision into
+  departmental action. Engage them early and provide them with
+  department-specific talking points.
+
+### 14.5 Organisational learning
+
+- **Knowledge capture:** Document lessons learned from each phase
+  (pilot results, user feedback, technical issues, governance
+  decisions). Create an institutional knowledge base.
+- **Capability building:** Develop internal expertise in open-source
+  platform management, security, and AI operations. Reduce dependency
+  on external consultants over time.
+- **Community of practice:** Connect with other universities
+  implementing DSW. Share experiences, tools, and solutions.
+- **Research integration:** The DSW migration is a research
+  opportunity. Collect data on adoption, satisfaction, productivity,
+  and well-being. Contribute to the evidence base.
+
+---
+
+## 15. Higher Education Policy and Open Science Integration
+
+This section addresses the HE policy gaps, connecting DSW to HE policy
+frameworks, open science infrastructure, research assessment reform,
+and teaching/learning.
+
+### 15.1 HE policy alignment
+
+- **EUA (European University Association):** The EUA digital
+  transformation agenda emphasises institutional autonomy,
+  interoperability, and digital skills. DSW aligns with all three.
+  The EUA's "Universities without walls" vision supports federated,
+  interoperable digital infrastructure.
+- **LERU (League of European Research Universities):** LERU's position
+  on open science and digital research infrastructure supports
+  sovereign platforms that enable open data and reproducible research.
+- **UNESCO OER recommendations:** Open Educational Resources require
+  open platforms. DSW can host and distribute OERs without vendor
+  lock-in.
+- **National strategies:** Germany's Sovereign Tech Fund, France's
+  DINUM, and similar national initiatives provide funding and policy
+  support for sovereign digital infrastructure. Universities should
+  align DSW proposals with national digital sovereignty strategies.
+
+### 15.2 Open science infrastructure integration
+
+The DSW must integrate with existing open science infrastructure, not
+duplicate it:
+
+- **EOSC (European Open Science Cloud):** DSW should enable
+  researchers to deposit data in EOSC-compliant repositories, use
+  EOSC services, and federate identity via eduGAIN (already in the
+  stack). The DSW is the workplace layer; EOSC is the research data
+  layer.
+- **OpenAIRE:** Integration with OpenAIRE for publication and data
+  discovery. DSW can automate metadata harvesting and deposit.
+- **ORCID:** Researcher identity management. DSW should support ORCID
+  integration for authorship, peer review, and grant reporting.
+- **Zenodo:** Institutional repository integration for data and
+  software deposition.
+- **DataCite:** DOI minting for research datasets hosted on DSW.
+
+**Principle:** The DSW should be the "on-ramp" to open science
+infrastructure, not a competing system.
+
+### 15.3 Research assessment reform (CoARA / DORA)
+
+- **DORA (Declaration on Research Assessment):** Opposes over-reliance
+  on journal impact factors. Supports evaluation of diverse research
+  outputs (data, software, preprints). DSW platforms that support open
+  science outputs (open data, open code, open access) align with DORA
+  principles.
+- **CoARA (Coalition for Advancing Research Assessment):** Promotes
+  responsible research assessment. DSW can provide transparent,
+  auditable metrics for research activity (collaboration, data
+  sharing, open access compliance) that support CoARA's goals.
+- **Implication:** DSW adoption can be framed as supporting research
+  assessment reform, which is a priority for many European universities
+  and funders.
+
+### 15.4 Teaching and learning (EdTech integration)
+
+- **Digital pedagogy:** Sovereign platforms must support modern
+  pedagogy (flipped classroom, collaborative learning, peer
+  assessment, project-based learning). Nextcloud + Collabora +
+  Moodle provides a viable stack, but integration effort is
+  significant.
+- **LMS sovereignty:** Moodle is open-source and self-hostable. It
+  should be part of the sovereign stack (currently listed as "missing
+  from the stack" in §3.1). Moodle integration with Nextcloud
+  (file sharing, assignment submission) and Collabora (document
+  editing) is well-supported.
+- **Learning analytics:** Sovereign platforms can collect learning
+  analytics (engagement, performance, early warning) while preserving
+  student privacy (no third-party data sharing). This is a sovereignty
+  advantage. But it requires careful design (consent, transparency,
+  opt-out).
+- **Assessment integrity:** Online assessment (quizzes, exams,
+  plagiarism detection) is critical. Moodle provides quiz and
+  assignment tools. Plagiarism detection (Turnitin alternative:
+  Compilatio, or open-source: Plagiarism Checker X) must be
+  integrated. Remote proctoring raises privacy concerns; sovereign
+  platforms should support privacy-preserving alternatives.
+- **Student digital literacy:** DSW adoption requires digital literacy
+  training for students. This should be integrated into the curriculum
+  (e.g., as part of first-year orientation or digital skills modules).
+- **Universal Design for Learning (UDL):** Sovereign platforms must
+  support UDL principles: multiple means of representation (captions,
+  screen readers, alternative formats), engagement (flexible
+  assessment, choice), and expression (multiple submission formats).
+- **Equity:** Students with limited device/connectivity access must
+  not be disadvantaged. Mobile-first design, offline capability, and
+  device lending programmes are essential.
+
+---
+
+## 16. Digital Preservation and Archival Strategy
+
+This section addresses the archival science gaps, providing a
+preservation strategy, metadata standards, records management, and
+format policy.
+
+### 16.1 Preservation framework (OAIS)
+
+The DSW must address long-term preservation, not just active storage.
+We propose alignment with the OAIS (Open Archival Information System)
+reference model:
+
+- **Ingest:** Data flows from active DSW systems to preservation
+  systems. Triggered by retention policies or manual deposit.
+- **Archival storage:** Bit-level preservation with checksums, redundant
+  copies, and format migration.
+- **Data management:** Metadata cataloguing, search, and discovery.
+- **Access:** Controlled access to preserved data (embargo periods,
+  access restrictions).
+- **Administration:** Policy management, audit, and reporting.
+
+**Principle:** The DSW is the "active" layer; institutional repositories
+(DSpace, EPrints) and archives are the "preservation" layer. Data flows
+between them based on retention policies.
+
+### 16.2 Data lifecycle and retention
+
+| Data type | Active retention | Archive retention | Disposition |
+|-----------|-----------------|-------------------|-------------|
+| Student records | Duration of study + 10 years | Permanent (transcripts) | Destroy after retention |
+| Research data | Project duration + 10 years | Permanent (published) | Deposit in repository |
+| Administrative docs | 7 years | 25 years | Destroy after retention |
+| Email/communication | 3 years | Not archived (unless legal hold) | Auto-delete |
+| LMS content | Course duration + 2 years | Not archived | Delete |
+| AI training data | Model lifecycle | Not archived | Delete with model |
+
+**Legal hold:** When litigation or investigation is anticipated, all
+relevant data must be preserved regardless of retention policy. The DSW
+must support legal hold (suspend deletion, preserve metadata).
+
+### 16.3 Metadata standards
+
+- **Dublin Core:** Basic metadata for all digital objects.
+- **DataCite:** For research datasets (DOI minting, citation).
+- **PREMIS:** For preservation metadata (events, agents, rights).
+- **Schema.org:** For web discoverability.
+- **Institutional extensions:** University-specific metadata
+  (department, course, research project, funder).
+
+**Implementation:** Metadata should be captured at creation time (not
+retrospectively). Nextcloud supports custom metadata via tags and
+properties. Moodle exports metadata with course content.
+
+### 16.4 Format strategy
+
+- **Preferred formats:** Open formats (ODF for documents, PDF/A for
+  archival, CSV/JSON for data, TIFF/PNG for images, WebM for video).
+- **Avoid:** Proprietary formats that require specific software
+  (e.g., M365-specific metadata, Google Docs internal format).
+- **Migration planning:** When formats become obsolete, plan migration
+  to successor formats. Budget for format migration in long-term
+  planning.
+- **Validation:** Automated format validation on ingest (e.g., JHOVE
+  for file format identification and validation).
+
+### 16.5 Integration with institutional repositories
+
+- **DSpace/EPrints integration:** Automated deposit of research data
+  and publications from DSW to institutional repository.
+- **CKAN/Dataverse integration:** Research data management platforms
+  for structured data deposit.
+- **API-based workflow:** When a researcher marks a dataset as
+  "published," the DSW triggers an automated deposit workflow
+  (metadata extraction, format validation, repository deposit, DOI
+  minting).
+
+---
+
+## 17. Environmental Sustainability and Green IT
+
+This section addresses the green IT gaps, providing environmental
+impact analysis, sustainability metrics, energy-efficient AI, and
+sustainability as a selection criterion.
+
+### 17.1 Environmental impact analysis
+
+Self-hosted infrastructure has an environmental footprint that must be
+analysed and minimised:
+
+**Carbon footprint comparison (illustrative, per 1,000 users/year):**
+
+| Factor | Proprietary cloud (M365) | Sovereign (on-premise) | Sovereign (green hosting) |
+|--------|------------------------|----------------------|--------------------------|
+| Server energy | Included (provider PUE ~1.1) | 15-25 MWh | 15-25 MWh |
+| Cooling | Included | 5-10 MWh | 5-10 MWh |
+| Network | Included | 2-5 MWh | 2-5 MWh |
+| GPU (AI) | Included (provider) | 5-15 MWh | 5-15 MWh |
+| Carbon (tCO2e) | ~2-5 (provider offset) | ~10-20 (grid avg) | ~2-5 (renewable) |
+
+*These are rough estimates. Actual values depend on PUE, grid carbon
+intensity, and utilisation.*
+
+**Key insight:** On-premise sovereign infrastructure may have a
+*higher* carbon footprint than proprietary cloud (which benefits from
+hyperscaler efficiency and renewable energy commitments). This is a
+counter-argument to DSW that must be addressed. Mitigations:
+- Use green hosting providers (renewable energy, high PUE efficiency).
+- Participate in shared consortium infrastructure (better utilisation).
+- Optimise AI workloads (quantisation, scheduling, batching).
+- Offset remaining emissions.
+
+### 17.2 Sustainability metrics
+
+Add to the observability framework (§10.6):
+- **Energy consumption (kWh):** Per service, per user, total.
+- **Carbon emissions (tCO2e):** Using grid carbon intensity factors.
+- **PUE:** Power Usage Effectiveness of on-premise facilities.
+- **Hardware lifecycle:** Age, utilisation, and replacement planning.
+- **E-waste:** Disposal and recycling tracking.
+
+**Reporting:** Annual sustainability report for the DSW, aligned with
+university sustainability reporting (e.g., THE Impact Rankings,
+STARS).
+
+### 17.3 Energy-efficient AI
+
+The AI architecture (§10.4) specifies 4+ A100 GPUs. Energy
+optimisation:
+
+- **Model quantisation:** AWQ/GPTQ reduces GPU memory and energy by
+  50-75% with minimal quality loss.
+- **Inference scheduling:** Batch requests, use dynamic batching, and
+  scale down during low-demand periods.
+- **Model selection:** Use smaller, more efficient models where
+  possible (e.g., Mistral 7B instead of Llama 70B for simple queries).
+- **Renewable energy:** Schedule intensive workloads (model training,
+  batch processing) during periods of high renewable energy
+  availability.
+- **Shared GPU infrastructure:** Consortium-level GPU sharing reduces
+  idle capacity.
+
+### 17.4 Sustainability as selection criterion
+
+Add "carbon footprint" and "energy efficiency" to the capability
+comparison table (§1.3) and platform evaluation criteria. When
+comparing sovereign vs. proprietary, include environmental impact
+alongside capability and cost.
+
+### 17.5 Circular economy
+
+- **Hardware lifecycle extension:** Use refurbished hardware where
+  possible. Extend refresh cycles from 3 to 5 years.
+- **E-waste recycling:** Partner with certified e-waste recyclers.
+  Track disposal and recovery rates.
+- **Modular design:** Choose hardware that supports component-level
+  replacement (not full system replacement).
+
+---
+
+## 18. Labour Studies and Workforce Transition
+
+This section addresses the labour studies gaps, providing workforce
+transition planning, algorithmic management governance, union
+engagement, job quality, and skills development.
+
+### 18.1 Workforce transition plan
+
+Platform migration affects jobs. A workforce transition plan must be
+part of the migration model:
+
+**Phase 1 (Assess):** Skills gap analysis. Identify current IT staff
+skills and required skills for DSW operations. Identify roles that
+will change (e.g., M365 admin → Linux admin).
+
+**Phase 2 (Pilot):** Begin reskilling. Train pilot team on Nextcloud,
+Collabora, Matrix, Keycloak. Document training needs and gaps.
+
+**Phase 3 (Federate):** Scale training. Establish training programme
+for all IT staff. Create internal certification. Begin recruiting for
+new roles (AI operations, security engineering).
+
+**Phase 4 (Scale):** Full workforce transition. All IT staff trained.
+New roles filled. Vendor support contracts reduced as internal
+capacity grows.
+
+**Phase 5 (Sustain):** Continuous skills development. Annual training
+budget. Contribution to open-source community (skills development +
+reputation).
+
+### 18.2 Algorithmic management governance
+
+The AI layer (§10.4) could enable algorithmic management (performance
+monitoring, productivity tracking, automated assessment). Governance
+must prevent misuse:
+
+- **Prohibited uses:** No AI-based performance evaluation of staff
+  without explicit consent and union agreement. No automated
+  disciplinary action based on platform usage data.
+- **Permitted uses:** AI-assisted (not AI-decided) support for
+  research, teaching, and administration. Human-in-the-loop for all
+  consequential decisions.
+- **Transparency:** Staff must know what data is collected, how it is
+  used, and who has access. No hidden monitoring.
+- **Data minimisation:** Collect only data necessary for service
+  operation. Do not repurpose operational data for surveillance.
+- **Union agreement:** Any algorithmic management tool must be
+  agreed with staff representatives before deployment.
+
+### 18.3 Union and worker representative engagement
+
+- **Early engagement:** Inform and consult staff representatives
+  before migration begins. Not after decisions are made.
+- **Collective bargaining:** Platform changes may be subject to
+  collective bargaining agreements. Legal review required.
+- **Worker representatives on steering committee:** Add a staff
+  representative to the steering committee (§5.4). Not just
+  management and IT.
+- **Feedback channels:** Anonymous feedback mechanisms for staff
+  concerns about platform changes.
+
+### 18.4 Job quality as design criterion
+
+The DSW should be designed to improve job quality, not just
+sovereignty:
+
+- **Autonomy:** Staff should have more control over their digital
+  work environment, not less.
+- **Skill development:** The DSW should create opportunities for
+  skill growth, not just require new skills.
+- **Work-life balance:** Sovereign platforms should reduce digital
+  fatigue (fewer notifications, better boundaries), not increase it.
+- **Well-being:** Platform design should support psychological safety
+  and reduce stress (well-being literature, 261 papers).
+
+### 18.5 Skills development programme
+
+- **Training curriculum:** Structured training for all stakeholder
+  groups (IT staff, faculty, admin, students). Online and in-person.
+  Progressive (basic → advanced).
+- **Certification:** Internal certification for DSW administration.
+  Recognised within the consortium.
+- **Community contribution:** Staff who contribute to open-source
+  projects get professional development credit.
+- **Recruitment:** Hire for open-source and security skills. Adjust
+  job descriptions and compensation.
+- **Knowledge sharing:** Internal wiki, lunch-and-learn sessions,
+  annual DSW conference within the consortium.
+
+---
+
+## 19. Public Policy and International Dimensions
+
+This section addresses the public policy gaps, mapping the policy
+landscape, analysing policy instruments, distinguishing sovereignty
+levels, and adding international dimensions.
+
+### 19.1 Policy landscape
+
+| Policy | Relevance to DSW | Status |
+|--------|-----------------|--------|
+| GDPR (2016/679) | Data protection, residency, subject rights | In force |
+| NIS2 (2022/2555) | Cybersecurity obligations for universities | Transposition by Oct 2024 |
+| AI Act (2024/1689) | AI system classification and compliance | Phased implementation 2025-2027 |
+| Data Governance Act (2022/868) | Data sharing and reuse frameworks | In force |
+| Data Act (2023/2854) | Data access and portability | In force (Sep 2025) |
+| Digital Markets Act (2022/1925) | Platform regulation (gatekeepers) | In force |
+| Digital Services Act (2022/2065) | Platform accountability | In force |
+| Digital Decade (2030) | EU digital targets | Ongoing |
+| European Data Strategy | Data spaces, Gaia-X | Ongoing |
+
+**NIS2 cross-reference:** NIS2 imposes cybersecurity risk management
+and incident reporting obligations on universities (as "important
+entities"). The security architecture (§10.3) must be NIS2-compliant:
+risk assessments, security policies, incident handling, business
+continuity, supply chain security, and encryption. The DSW's sovereign
+architecture can simplify NIS2 compliance (full control, auditability)
+but does not eliminate the obligation.
+
+### 19.2 Policy instruments for DSW support
+
+- **Funding:** Horizon Europe, Digital Europe, national sovereignty
+  funds. DSW proposals should align with programme priorities
+  (digital transformation, open science, cybersecurity).
+- **Regulation:** GDPR data residency, NIS2 security, AI Act
+  transparency. These create demand for sovereign solutions.
+- **Procurement preferences:** Public procurement can prefer
+  open-source and sovereign solutions. Some EU member states have
+  open-source-first policies.
+- **Standards:** Gaia-X labels, EUCS (European Cybersecurity
+  Certification Scheme), EN 301 549 (accessibility). Certification
+  creates trust and interoperability.
+- **Research programmes:** Fund DSW research (pilots, evaluations,
+  case studies) to build the evidence base.
+
+### 19.3 Sovereignty levels and their interactions
+
+| Level | Definition | DSW relevance |
+|-------|-----------|---------------|
+| Individual | Personal data control (GDPR) | Data subject rights in DSW |
+| Institutional | Organisational control over data/infrastructure | Core DSW thesis |
+| National | State control over digital infrastructure | National cloud initiatives, data localisation |
+| European | EU digital autonomy | Gaia-X, EOSC, Digital Decade |
+
+**Interactions:** Institutional sovereignty is nested within national
+and European frameworks. A university cannot be fully sovereign if
+its nation depends on foreign cloud providers. Conversely, European
+sovereignty (Gaia-X) depends on institutional adoption. The DSW
+operates at the institutional level but contributes to national and
+European sovereignty goals.
+
+### 19.4 International dimensions
+
+- **Non-EU universities:** Non-EU institutions face different
+  sovereignty challenges (e.g., US universities under CLOUD Act,
+  Chinese universities under data security laws). The DSW model may
+  need adaptation.
+- **Geopolitics:** US-China tech competition affects platform
+  availability and trust. Sanctions may restrict access to certain
+  technologies. Universities must consider geopolitical risk in
+  platform selection.
+- **International collaboration:** Cross-border research requires
+  data sharing across jurisdictions. Sovereign platforms must support
+  international data transfer mechanisms (SCCs, adequacy decisions).
+- **Global South:** Universities in developing countries face
+  additional challenges (infrastructure, skills, funding). The DSW
+  model must be adapted or may be infeasible.
+
+### 19.5 Policy recommendations
+
+For governments and funders:
+1. **Fund DSW pilots** in universities (Horizon Europe, Digital
+   Europe).
+2. **Mandate open-source preference** in public procurement for
+   educational institutions.
+3. **Develop sovereign platform standards** (interoperability,
+   security, accessibility) to reduce adoption risk.
+4. **Support consortium formation** through funding and coordination.
+5. **Invest in open-source platform development** (not just
+   procurement) to address capability gaps.
+6. **Create a DSW certification** (like Gaia-X labels) to give
+   universities confidence in sovereign solutions.
+
+---
+
+## 20. User Research and Usability Framework (HCI)
+
+This section addresses the HCI/UX gaps, providing a user research
+programme, usability evaluation framework, accessibility compliance,
+and onboarding strategy.
+
+### 20.1 User research programme
+
+Before platform selection or migration, conduct primary user research:
+
+**Phase 1 (Assess):**
+- **Contextual inquiry:** Observe how 5-10 users from each stakeholder
+  group actually use current platforms. Document workflows, pain
+  points, and workarounds.
+- **Semi-structured interviews:** 30-60 minutes with 5-10
+  representatives per group (12 groups = 60-120 interviews). Focus on
+  needs, frustrations, and expectations.
+- **Surveys:** Broader quantitative survey (target: 500+ responses)
+  covering satisfaction with current platforms, desired features,
+  willingness to migrate, and concerns.
+
+**Phase 2 (Pilot):**
+- **Usability testing:** Think-aloud protocol with 8-12 users per
+  stakeholder group. Task-based (e.g., "share a document with a
+  colleague at another university," "find a research paper in the
+  institutional repository").
+- **Diary studies:** 2-week diary study with 20-30 pilot users.
+  Document daily usage, friction points, and satisfaction.
+
+**Phase 4 (Scale):**
+- **Ongoing feedback:** In-app feedback widget, quarterly surveys,
+  user advisory board meetings.
+
+### 20.2 Usability evaluation framework
+
+**Metrics:**
+- **SUS (System Usability Scale):** Target ≥68 (above average).
+  Administered quarterly.
+- **Task completion rate:** ≥90% for core tasks (file sharing,
+  document editing, communication).
+- **Task completion time:** Baseline from current platform; target
+  ≤120% of baseline (allowing for learning curve).
+- **Error rate:** ≤5% for core tasks.
+- **NPS (Net Promoter Score):** Target ≥0 (neutral or positive).
+
+**Methods:**
+- **Heuristic evaluation:** Expert review against Nielsen's 10
+  usability heuristics. Conduct before each major release.
+- **Cognitive walkthrough:** Step-by-step analysis of key tasks.
+  Identify where users may get stuck.
+- **A/B testing:** Compare sovereign platform variants (e.g.,
+  different onboarding flows) during pilot.
+
+### 20.3 Accessibility compliance
+
+- **Standard:** WCAG 2.2 (Level AA) and EN 301 549 (European
+  accessibility standard for public-sector ICT).
+- **Audit:** Third-party accessibility audit before institution-wide
+  deployment. Automated testing (axe, Lighthouse) + manual testing
+  (screen reader, keyboard navigation).
+- **Remediation:** Fix critical and major issues before launch.
+  Minor issues tracked for post-launch resolution.
+- **Ongoing:** Accessibility review for each new feature. User
+  testing with disabled users.
+- **Assistive technology support:** Screen readers (NVDA, JAWS,
+  VoiceOver), voice control, switch access, magnification.
+
+### 20.4 Onboarding and training strategy
+
+- **Progressive disclosure:** Start with basic features (file
+  sharing, document editing). Introduce advanced features (AI
+  search, workflow automation) gradually.
+- **In-app guidance:** Tooltips, walkthroughs, and contextual help.
+  Not just external documentation.
+- **Role-based onboarding:** Different onboarding flows for
+  students, faculty, admin staff, and IT staff.
+- **Peer support:** "DSW champions" in each department. Peer-to-peer
+  support reduces helpdesk load.
+- **Multilingual:** Interface and documentation in all languages
+  used by the university community.
+
+### 20.5 Multilingual support
+
+- **Interface languages:** All languages used by the university
+  community (minimum: English + local language).
+- **Document translation:** AI-powered translation (sovereign,
+  on-premise) for documents and communications.
+- **AI multilingual:** Sovereign RAG must support queries and
+  responses in multiple languages (BGE-M3 embedding model supports
+  100+ languages).
+
+---
+
+## 21. Cross-Disciplinary Synthesis (Updated)
+
+### 21.1 Integration of all disciplinary perspectives
+
+The paper now covers 10 disciplinary perspectives:
+
+| # | Discipline | Section | Status |
+|---|-----------|---------|--------|
+| 1 | Information Systems | §9 | Publication standard |
+| 2 | Computer Science | §10 | Publication standard |
+| 3 | Law | §11 | Publication standard |
+| 4 | Economics | §12 | Publication standard |
+| 5 | Organizational Behavior | §14 | Framework-level |
+| 6 | Higher Education Policy | §15 | Framework-level |
+| 7 | Archival Science | §16 | Framework-level |
+| 8 | Green IT | §17 | Framework-level |
+| 9 | Labour Studies | §18 | Framework-level |
+| 10 | Public Policy | §19 | Framework-level |
+| 11 | HCI/UX | §20 | Framework-level |
+
+**Integration principle:** The four "publication standard" sections (§9-12)
+provide analytical depth. The seven "framework-level" sections (§14-20)
+provide structured coverage that can be deepened in future work. This
+balances breadth and depth.
+
+### 21.2 Remaining limitations (updated)
+
+All limitations from §7.4 still apply, plus:
+- **No empirical validation:** Still a proposal, not an evidence-based
+  study. Primary user research, cost data, and security assessment
+  are needed.
+- **Framework-level depth:** Seven sections (§14-20) are
+  framework-level, not publication-standard. They identify what needs
+  to be done but do not provide deep analysis.
+- **Scope:** The paper now has 21 sections. Consider whether this is
+  one paper or a research programme. A companion paper structure may
+  be more appropriate.
+
+### 21.3 Revised paper status
+
+This revision (Rev 4) addresses all key findings from both review
+rounds:
+- ✅ Structural imbalance: addressed by adding framework-level sections
+  that parallel the deep-integrated sections, creating a more balanced
+  structure.
+- ✅ OB/change management: §14 provides Kotter/ADKAR frameworks,
+  culture analysis, resistance management, leadership, and
+  organisational learning.
+- ✅ HE policy/open science: §15 connects DSW to EUA, LERU, UNESCO,
+  EOSC, OpenAIRE, CoARA/DORA, and teaching/learning.
+- ✅ EdTech/teaching-learning: §15.4 addresses digital pedagogy, LMS
+  sovereignty, learning analytics, assessment integrity, UDL, and
+  equity.
+- ✅ Digital preservation: §16 provides OAIS framework, retention
+  policies, metadata standards, format strategy, and repository
+  integration.
+- ✅ Environmental sustainability: §17 provides carbon footprint
+  analysis, sustainability metrics, energy-efficient AI, and circular
+  economy.
+- ✅ Labour studies: §18 provides workforce transition, algorithmic
+  management governance, union engagement, job quality, and skills
+  development.
+- ✅ Public policy: §19 maps the policy landscape, analyses
+  instruments, distinguishes sovereignty levels, adds international
+  dimensions, and provides policy recommendations.
+- ✅ HCI/UX: §20 provides user research programme, usability
+  evaluation, accessibility compliance, onboarding, and multilingual
+  support.
+- ⚠️ User research: Framework provided (§20.1) but no actual research
+  conducted. Still a limitation.
+- ⚠️ Cost quantification: Framework provided (§12.1) but no empirical
+  data. Still a limitation.
+- ⚠️ Policy landscape: Mapped (§19.1) but not deeply analysed.
+
+---
+
+*This paper is Revision 4 (all key findings from both review rounds
+addressed). It synthesises findings from the Digital Sovereign
+Workplace research corpus (3,030 papers, frozen snapshot 2026-10-31).
+Contributions, corrections, and extensions are welcome.*
 
 ---
 
@@ -1650,7 +2390,7 @@ Sovereign Workplace research corpus (3,030 papers, frozen snapshot
 
 ---
 
-*This paper is Revision 3 (four disciplinary perspectives deep-integrated:
-IS, CS, Law, Economics). It synthesises findings from the Digital
-Sovereign Workplace research corpus (3,030 papers, frozen snapshot
-2026-10-31). Contributions, corrections, and extensions are welcome.*
+*This paper is Revision 4 (all key findings from both review rounds
+addressed). It synthesises findings from the Digital Sovereign
+Workplace research corpus (3,030 papers, frozen snapshot 2026-10-31).
+Contributions, corrections, and extensions are welcome.*
