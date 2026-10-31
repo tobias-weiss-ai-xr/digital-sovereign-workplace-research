@@ -3,20 +3,20 @@
   {
    "id": "adoption-change",
    "name": "Adoption & Change",
-   "count": 252,
+   "count": 260,
    "trajectory": {
     "2025": 1,
-    "2026": 251
+    "2026": 259
    },
    "momentum": {
     "id": "adoption-change",
     "name": "Adoption Change",
-    "total": 252,
-    "recent": 252,
+    "total": 260,
+    "recent": 260,
     "prior": 0,
     "growth_pct": null,
     "recent_share": 1.0,
-    "papers_per_month": 21.0,
+    "papers_per_month": 21.7,
     "score": 100.0
    }
   },
@@ -46,22 +46,22 @@
   {
    "id": "collaboration",
    "name": "Collaboration & Productivity",
-   "count": 79,
+   "count": 80,
    "trajectory": {
     "2023": 1,
     "2025": 7,
-    "2026": 71
+    "2026": 72
    },
    "momentum": {
     "id": "collaboration",
     "name": "Collaboration",
-    "total": 79,
-    "recent": 73,
+    "total": 80,
+    "recent": 74,
     "prior": 5,
-    "growth_pct": 1360.0,
-    "recent_share": 0.924,
-    "papers_per_month": 6.1,
-    "score": 1452.4
+    "growth_pct": 1380.0,
+    "recent_share": 0.925,
+    "papers_per_month": 6.2,
+    "score": 1472.5
    }
   },
   {
@@ -93,25 +93,25 @@
   {
    "id": "digital-transformation",
    "name": "Digital Transformation",
-   "count": 130,
+   "count": 134,
    "trajectory": {
     "2003": 1,
     "2020": 2,
     "2022": 3,
     "2024": 1,
     "2025": 7,
-    "2026": 116
+    "2026": 120
    },
    "momentum": {
     "id": "digital-transformation",
     "name": "Digital Transformation",
-    "total": 130,
-    "recent": 122,
+    "total": 134,
+    "recent": 126,
     "prior": 1,
-    "growth_pct": 12100.0,
-    "recent_share": 0.938,
-    "papers_per_month": 10.2,
-    "score": 12193.8
+    "growth_pct": 12500.0,
+    "recent_share": 0.94,
+    "papers_per_month": 10.5,
+    "score": 12594.0
    }
   },
   {
@@ -144,100 +144,100 @@
   {
    "id": "employee-wellbeing",
    "name": "Employee Well-being",
-   "count": 261,
+   "count": 267,
    "trajectory": {
     "2025": 2,
-    "2026": 259
+    "2026": 265
    },
    "momentum": {
     "id": "employee-wellbeing",
     "name": "Employee Wellbeing",
-    "total": 261,
-    "recent": 261,
+    "total": 267,
+    "recent": 267,
     "prior": 0,
     "growth_pct": null,
     "recent_share": 1.0,
-    "papers_per_month": 21.8,
+    "papers_per_month": 22.2,
     "score": 100.0
    }
   },
   {
    "id": "evaluation",
    "name": "Evaluation & Case Studies",
-   "count": 204,
+   "count": 206,
    "trajectory": {
     "2024": 2,
-    "2026": 202
+    "2026": 204
    },
    "momentum": {
     "id": "evaluation",
     "name": "Evaluation",
-    "total": 204,
-    "recent": 202,
+    "total": 206,
+    "recent": 204,
     "prior": 0,
     "growth_pct": null,
     "recent_share": 0.99,
-    "papers_per_month": 16.8,
+    "papers_per_month": 17.0,
     "score": 99.0
    }
   },
   {
    "id": "federated-privacy",
    "name": "Federated & Privacy-Preserving",
-   "count": 101,
+   "count": 104,
    "trajectory": {
     "2025": 22,
-    "2026": 79
+    "2026": 82
    },
    "momentum": {
     "id": "federated-privacy",
     "name": "Federated Privacy",
-    "total": 101,
-    "recent": 101,
+    "total": 104,
+    "recent": 104,
     "prior": 0,
     "growth_pct": null,
     "recent_share": 1.0,
-    "papers_per_month": 8.4,
+    "papers_per_month": 8.7,
     "score": 100.0
    }
   },
   {
    "id": "hybrid-work",
    "name": "Hybrid & Remote Work",
-   "count": 184,
+   "count": 186,
    "trajectory": {
     "2024": 2,
     "2025": 5,
-    "2026": 177
+    "2026": 179
    },
    "momentum": {
     "id": "hybrid-work",
     "name": "Hybrid Work",
-    "total": 184,
-    "recent": 181,
+    "total": 186,
+    "recent": 183,
     "prior": 1,
-    "growth_pct": 18000.0,
+    "growth_pct": 18200.0,
     "recent_share": 0.984,
-    "papers_per_month": 15.1,
-    "score": 18098.4
+    "papers_per_month": 15.2,
+    "score": 18298.4
    }
   },
   {
    "id": "identity-access",
    "name": "Identity & Access",
-   "count": 40,
+   "count": 41,
    "trajectory": {
-    "2026": 40
+    "2026": 41
    },
    "momentum": {
     "id": "identity-access",
     "name": "Identity Access",
-    "total": 40,
-    "recent": 40,
+    "total": 41,
+    "recent": 41,
     "prior": 0,
     "growth_pct": null,
     "recent_share": 1.0,
-    "papers_per_month": 3.3,
+    "papers_per_month": 3.4,
     "score": 100.0
    }
   },
@@ -267,19 +267,19 @@
   {
    "id": "method",
    "name": "Methods",
-   "count": 195,
+   "count": 206,
    "trajectory": {
-    "2026": 195
+    "2026": 206
    },
    "momentum": {
     "id": "method",
     "name": "Method",
-    "total": 195,
-    "recent": 195,
+    "total": 206,
+    "recent": 206,
     "prior": 0,
     "growth_pct": null,
     "recent_share": 1.0,
-    "papers_per_month": 16.2,
+    "papers_per_month": 17.2,
     "score": 100.0
    }
   },
@@ -313,19 +313,19 @@
   {
    "id": "public-sector",
    "name": "Public Sector & Education",
-   "count": 154,
+   "count": 156,
    "trajectory": {
-    "2026": 154
+    "2026": 156
    },
    "momentum": {
     "id": "public-sector",
     "name": "Public Sector",
-    "total": 154,
-    "recent": 154,
+    "total": 156,
+    "recent": 156,
     "prior": 0,
     "growth_pct": null,
     "recent_share": 1.0,
-    "papers_per_month": 12.8,
+    "papers_per_month": 13.0,
     "score": 100.0
    }
   },
@@ -354,58 +354,58 @@
   {
    "id": "sme-adoption",
    "name": "SME Adoption",
-   "count": 6,
+   "count": 7,
    "trajectory": {
-    "2026": 6
+    "2026": 7
    },
    "momentum": {
     "id": "sme-adoption",
     "name": "Sme Adoption",
-    "total": 6,
-    "recent": 6,
+    "total": 7,
+    "recent": 7,
     "prior": 0,
     "growth_pct": null,
     "recent_share": 1.0,
-    "papers_per_month": 0.5,
+    "papers_per_month": 0.6,
     "score": 100.0
    }
   },
   {
    "id": "survey",
    "name": "Surveys & Reviews",
-   "count": 221,
+   "count": 228,
    "trajectory": {
-    "2026": 221
+    "2026": 228
    },
    "momentum": {
     "id": "survey",
     "name": "Survey",
-    "total": 221,
-    "recent": 221,
+    "total": 228,
+    "recent": 228,
     "prior": 0,
     "growth_pct": null,
     "recent_share": 1.0,
-    "papers_per_month": 18.4,
+    "papers_per_month": 19.0,
     "score": 100.0
    }
   },
   {
    "id": "tooling",
    "name": "Tooling & Platforms",
-   "count": 180,
+   "count": 190,
    "trajectory": {
     "2025": 2,
-    "2026": 178
+    "2026": 188
    },
    "momentum": {
     "id": "tooling",
     "name": "Tooling",
-    "total": 180,
-    "recent": 180,
+    "total": 190,
+    "recent": 190,
     "prior": 0,
     "growth_pct": null,
     "recent_share": 1.0,
-    "papers_per_month": 15.0,
+    "papers_per_month": 15.8,
     "score": 100.0
    }
   }
@@ -414,17 +414,17 @@
   {
    "id": "application",
    "name": "Application",
-   "count": 655
+   "count": 658
   },
   {
    "id": "development",
    "name": "Development",
-   "count": 7
+   "count": 8
   },
   {
    "id": "evaluation",
    "name": "Evaluation",
-   "count": 15
+   "count": 18
   },
   {
    "id": "mechanism",
@@ -434,7 +434,7 @@
   {
    "id": "method",
    "name": "Method",
-   "count": 435
+   "count": 445
   },
   {
    "id": "survey",
@@ -444,12 +444,12 @@
   {
    "id": "systems",
    "name": "Systems",
-   "count": 384
+   "count": 388
   },
   {
    "id": "theory",
    "name": "Theory",
-   "count": 1443
+   "count": 1480
   }
  ],
  "timeline": [
@@ -2715,6 +2715,11 @@
   ],
   [
    "2026-01",
+   "adoption-change",
+   "application"
+  ],
+  [
+   "2026-01",
    "ai-llm",
    "application"
   ],
@@ -3517,6 +3522,11 @@
    "2026-03",
    "digital-transformation",
    "application"
+  ],
+  [
+   "2026-03",
+   "federated-privacy",
+   "method"
   ],
   [
    "2026-03",
@@ -9565,6 +9575,11 @@
   ],
   [
    "2026-08",
+   "digital-transformation",
+   "theory"
+  ],
+  [
+   "2026-08",
    "employee-wellbeing",
    "development"
   ],
@@ -10026,6 +10041,11 @@
   [
    "2026-08",
    "federated-privacy",
+   "method"
+  ],
+  [
+   "2026-08",
+   "federated-privacy",
    "theory"
   ],
   [
@@ -10316,6 +10336,21 @@
   [
    "2026-08",
    "method",
+   "method"
+  ],
+  [
+   "2026-08",
+   "method",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "method",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "method",
    "theory"
   ],
   [
@@ -10647,6 +10682,16 @@
    "2026-08",
    "survey",
    "application"
+  ],
+  [
+   "2026-08",
+   "survey",
+   "method"
+  ],
+  [
+   "2026-08",
+   "survey",
+   "method"
   ],
   [
    "2026-08",
@@ -10942,6 +10987,16 @@
    "2026-08",
    "tooling",
    "systems"
+  ],
+  [
+   "2026-08",
+   "tooling",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "tooling",
+   "theory"
   ],
   [
    "2026-08",
@@ -11965,6 +12020,11 @@
   ],
   [
    "2026-09",
+   "employee-wellbeing",
+   "theory"
+  ],
+  [
+   "2026-09",
    "evaluation",
    "application"
   ],
@@ -12642,6 +12702,11 @@
    "2026-09",
    "method",
    "systems"
+  ],
+  [
+   "2026-09",
+   "method",
+   "theory"
   ],
   [
    "2026-09",
@@ -13005,6 +13070,11 @@
   ],
   [
    "2026-09",
+   "sme-adoption",
+   "theory"
+  ],
+  [
+   "2026-09",
    "survey",
    "application"
   ],
@@ -13444,6 +13514,16 @@
    "theory"
   ],
   [
+   "2026-09",
+   "tooling",
+   "theory"
+  ],
+  [
+   "2026-09",
+   "tooling",
+   "theory"
+  ],
+  [
    "2026-10",
    "adoption-change",
    "application"
@@ -13451,7 +13531,12 @@
   [
    "2026-10",
    "adoption-change",
-   "method"
+   "application"
+  ],
+  [
+   "2026-10",
+   "adoption-change",
+   "evaluation"
   ],
   [
    "2026-10",
@@ -13507,6 +13592,36 @@
    "2026-10",
    "adoption-change",
    "method"
+  ],
+  [
+   "2026-10",
+   "adoption-change",
+   "method"
+  ],
+  [
+   "2026-10",
+   "adoption-change",
+   "method"
+  ],
+  [
+   "2026-10",
+   "adoption-change",
+   "systems"
+  ],
+  [
+   "2026-10",
+   "adoption-change",
+   "theory"
+  ],
+  [
+   "2026-10",
+   "adoption-change",
+   "theory"
+  ],
+  [
+   "2026-10",
+   "adoption-change",
+   "theory"
   ],
   [
    "2026-10",
@@ -13762,6 +13877,11 @@
    "2026-10",
    "collaboration",
    "systems"
+  ],
+  [
+   "2026-10",
+   "collaboration",
+   "theory"
   ],
   [
    "2026-10",
@@ -13842,6 +13962,21 @@
    "2026-10",
    "digital-transformation",
    "survey"
+  ],
+  [
+   "2026-10",
+   "digital-transformation",
+   "theory"
+  ],
+  [
+   "2026-10",
+   "digital-transformation",
+   "theory"
+  ],
+  [
+   "2026-10",
+   "digital-transformation",
+   "theory"
   ],
   [
    "2026-10",
@@ -13986,6 +14121,31 @@
   [
    "2026-10",
    "employee-wellbeing",
+   "systems"
+  ],
+  [
+   "2026-10",
+   "employee-wellbeing",
+   "theory"
+  ],
+  [
+   "2026-10",
+   "employee-wellbeing",
+   "theory"
+  ],
+  [
+   "2026-10",
+   "employee-wellbeing",
+   "theory"
+  ],
+  [
+   "2026-10",
+   "employee-wellbeing",
+   "theory"
+  ],
+  [
+   "2026-10",
+   "employee-wellbeing",
    "theory"
   ],
   [
@@ -14325,8 +14485,13 @@
   ],
   [
    "2026-10",
-   "federated-privacy",
-   "method"
+   "evaluation",
+   "theory"
+  ],
+  [
+   "2026-10",
+   "evaluation",
+   "theory"
   ],
   [
    "2026-10",
@@ -14362,6 +14527,21 @@
    "2026-10",
    "federated-privacy",
    "method"
+  ],
+  [
+   "2026-10",
+   "federated-privacy",
+   "method"
+  ],
+  [
+   "2026-10",
+   "federated-privacy",
+   "theory"
+  ],
+  [
+   "2026-10",
+   "hybrid-work",
+   "application"
   ],
   [
    "2026-10",
@@ -14397,6 +14577,11 @@
    "2026-10",
    "hybrid-work",
    "systems"
+  ],
+  [
+   "2026-10",
+   "hybrid-work",
+   "theory"
   ],
   [
    "2026-10",
@@ -14510,6 +14695,11 @@
   ],
   [
    "2026-10",
+   "identity-access",
+   "theory"
+  ],
+  [
+   "2026-10",
    "interoperability",
    "systems"
   ],
@@ -14566,7 +14756,7 @@
   [
    "2026-10",
    "method",
-   "method"
+   "development"
   ],
   [
    "2026-10",
@@ -14647,6 +14837,41 @@
    "2026-10",
    "method",
    "method"
+  ],
+  [
+   "2026-10",
+   "method",
+   "method"
+  ],
+  [
+   "2026-10",
+   "method",
+   "method"
+  ],
+  [
+   "2026-10",
+   "method",
+   "method"
+  ],
+  [
+   "2026-10",
+   "method",
+   "theory"
+  ],
+  [
+   "2026-10",
+   "method",
+   "theory"
+  ],
+  [
+   "2026-10",
+   "method",
+   "theory"
+  ],
+  [
+   "2026-10",
+   "method",
+   "theory"
   ],
   [
    "2026-10",
@@ -14817,6 +15042,11 @@
    "2026-10",
    "public-sector",
    "application"
+  ],
+  [
+   "2026-10",
+   "public-sector",
+   "evaluation"
   ],
   [
    "2026-10",
@@ -14847,6 +15077,11 @@
    "2026-10",
    "public-sector",
    "systems"
+  ],
+  [
+   "2026-10",
+   "public-sector",
+   "theory"
   ],
   [
    "2026-10",
@@ -15031,7 +15266,7 @@
   [
    "2026-10",
    "survey",
-   "systems"
+   "method"
   ],
   [
    "2026-10",
@@ -15042,6 +15277,31 @@
    "2026-10",
    "survey",
    "systems"
+  ],
+  [
+   "2026-10",
+   "survey",
+   "systems"
+  ],
+  [
+   "2026-10",
+   "survey",
+   "theory"
+  ],
+  [
+   "2026-10",
+   "survey",
+   "theory"
+  ],
+  [
+   "2026-10",
+   "survey",
+   "theory"
+  ],
+  [
+   "2026-10",
+   "survey",
+   "theory"
   ],
   [
    "2026-10",
@@ -15171,6 +15431,16 @@
   [
    "2026-10",
    "tooling",
+   "evaluation"
+  ],
+  [
+   "2026-10",
+   "tooling",
+   "method"
+  ],
+  [
+   "2026-10",
+   "tooling",
    "method"
   ],
   [
@@ -15212,6 +15482,26 @@
    "2026-10",
    "tooling",
    "systems"
+  ],
+  [
+   "2026-10",
+   "tooling",
+   "systems"
+  ],
+  [
+   "2026-10",
+   "tooling",
+   "systems"
+  ],
+  [
+   "2026-10",
+   "tooling",
+   "theory"
+  ],
+  [
+   "2026-10",
+   "tooling",
+   "theory"
   ],
   [
    "2026-10",
@@ -15317,7 +15607,7 @@
  "venues": [
   {
    "name": "Zenodo (CERN European Organization for Nuclear Research)",
-   "papers": 205
+   "papers": 212
   },
   {
    "name": "Academy of Management Proceedings",
@@ -15329,23 +15619,23 @@
   },
   {
    "name": "IGI Global eBooks",
-   "papers": 20
+   "papers": 21
   },
   {
    "name": "Iterative International Publishers eBooks",
    "papers": 19
   },
   {
+   "name": "Frontiers in Psychology",
+   "papers": 17
+  },
+  {
    "name": "Advances in computational intelligence and robotics book series",
    "papers": 17
   },
   {
-   "name": "Frontiers in Psychology",
-   "papers": 16
-  },
-  {
    "name": "Research Square",
-   "papers": 15
+   "papers": 16
   },
   {
    "name": "Frontiers in Public Health",
@@ -15368,119 +15658,119 @@
    "papers": 11
   },
   {
-   "name": "International Journal of Drug Delivery Technology",
+   "name": "MED",
    "papers": 9
   },
   {
-   "name": "MED",
-   "papers": 8
+   "name": "International Journal of Drug Delivery Technology",
+   "papers": 9
   }
  ],
  "keyword_bursts": [
   {
+   "keyword": "productivity",
+   "recent": 338,
+   "total": 340,
+   "burst_score": 1.11,
+   "recent_share": 0.1242
+  },
+  {
    "keyword": "employee well-being",
-   "recent": 293,
-   "total": 293,
-   "burst_score": 1.12,
-   "recent_share": 0.11
+   "recent": 299,
+   "total": 299,
+   "burst_score": 1.11,
+   "recent_share": 0.1099
   },
   {
    "keyword": "employee engagement",
-   "recent": 145,
-   "total": 145,
-   "burst_score": 1.12,
+   "recent": 148,
+   "total": 148,
+   "burst_score": 1.11,
    "recent_share": 0.0544
   },
   {
    "keyword": "psychological safety",
-   "recent": 116,
-   "total": 116,
-   "burst_score": 1.12,
-   "recent_share": 0.0436
+   "recent": 119,
+   "total": 119,
+   "burst_score": 1.11,
+   "recent_share": 0.0437
   },
   {
    "keyword": "occupational health",
-   "recent": 74,
-   "total": 74,
-   "burst_score": 1.12,
-   "recent_share": 0.0278
+   "recent": 77,
+   "total": 77,
+   "burst_score": 1.11,
+   "recent_share": 0.0283
   },
   {
    "keyword": "change management",
    "recent": 30,
    "total": 30,
-   "burst_score": 1.12,
-   "recent_share": 0.0113
+   "burst_score": 1.11,
+   "recent_share": 0.011
   },
   {
    "keyword": "retrieval augmented",
    "recent": 13,
    "total": 13,
-   "burst_score": 1.12,
-   "recent_share": 0.0049
+   "burst_score": 1.11,
+   "recent_share": 0.0048
   },
   {
    "keyword": "self-hosted",
    "recent": 6,
    "total": 6,
-   "burst_score": 1.12,
-   "recent_share": 0.0023
-  },
-  {
-   "keyword": "productivity",
-   "recent": 328,
-   "total": 330,
    "burst_score": 1.11,
-   "recent_share": 0.1232
+   "recent_share": 0.0022
   },
   {
    "keyword": "workplace",
-   "recent": 1803,
-   "total": 1829,
+   "recent": 1854,
+   "total": 1880,
    "burst_score": 1.1,
-   "recent_share": 0.6771
+   "recent_share": 0.6814
   },
   {
    "keyword": "education",
-   "recent": 475,
-   "total": 481,
+   "recent": 487,
+   "total": 493,
    "burst_score": 1.1,
-   "recent_share": 0.1784
+   "recent_share": 0.179
   },
   {
    "keyword": "hybrid work",
-   "recent": 224,
-   "total": 227,
+   "recent": 228,
+   "total": 231,
    "burst_score": 1.1,
-   "recent_share": 0.0841
+   "recent_share": 0.0838
   },
   {
    "keyword": "remote work",
-   "recent": 169,
-   "total": 171,
+   "recent": 171,
+   "total": 173,
    "burst_score": 1.1,
-   "recent_share": 0.0635
+   "recent_share": 0.0628
   },
   {
    "keyword": "public sector",
-   "recent": 81,
-   "total": 82,
+   "recent": 82,
+   "total": 83,
    "burst_score": 1.1,
-   "recent_share": 0.0304
+   "recent_share": 0.0301
   },
   {
    "keyword": "review",
-   "recent": 616,
-   "total": 630,
+   "recent": 629,
+   "total": 643,
    "burst_score": 1.09,
-   "recent_share": 0.2313
+   "recent_share": 0.2312
   },
   {
    "keyword": "digital transformation",
-   "recent": 386,
-   "total": 396,
+   "recent": 393,
+   "total": 403,
    "burst_score": 1.09,
-   "recent_share": 0.1449
+   "recent_share": 0.1444
   }
  ]
 }

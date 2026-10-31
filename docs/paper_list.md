@@ -31,6 +31,7 @@
   - [Survey](#survey)
   - [Systems](#systems)
   - [Development](#development)
+  - [Evaluation](#evaluation)
 - [📚 SME Adoption](#sme-adoption)
   - [Method](#method)
   - [Theory](#theory)
@@ -68,6 +69,7 @@
   - [Method](#method)
   - [Theory](#theory)
   - [Systems](#systems)
+  - [Development](#development)
   - [Evaluation](#evaluation)
 - [📚 Tooling & Platforms](#tooling-&-platforms)
   - [Method](#method)
@@ -307,6 +309,7 @@
 - [2026] **Il ruolo delle banche per la diffusione dell’Euro digitale, fra bene pubblico e innovazione** [[paper](https://doi.org/10.54103/milanoup.313.c804)]
 - [2026] **From Institutional Silos to Shared Infrastructure: Building eln.nrw with eLabFTW** *Zenodo (CERN European Organization for Nuclear Research)* [[paper](https://doi.org/10.5281/zenodo.23665594)]
 - [2026] **Introduction** [[paper](https://doi.org/10.1093/9780197779033.003.0001)]
+- [2026] **Flipping the script: co-creation and local innovation in AI for global health paradigms** *BMJ Health & Care Informatics* [[paper](https://doi.org/10.1136/bmjhci-2026-102172)]
 - [2026] **Steps towards a digital sovereignty** *Zenodo (CERN European Organization for Nuclear Research)* [[paper](https://doi.org/10.5281/zenodo.23001705)]
 - [2026] **S5 - Governance and Collaboration Structures Designing High-Capability Governance with Human Sovereignty, Rights, Transparency, Appeal, Polycentricity and Restart Capacity** *Zenodo (CERN European Organization for Nuclear Research)* [[paper](https://doi.org/10.5281/zenodo.22777854)]
 - [2026] **Communication Theories in Food Systems: A Conceptual Synthesis of Policy, Safety, Security, Sovereignty, and Digital Transformation** *International Journal of Sustainable Social Science (IJSSS)* [[paper](https://doi.org/10.59890/ijsss.v4i4.316)]
@@ -413,6 +416,7 @@
 ##### 2026
 
 - [2026] **Editorial: Rethinking the role of social media in learning** *Frontiers in Education* [[paper](https://doi.org/10.3389/feduc.2026.2015852)]
+- [2026] **Role of Leadership in Fostering Perceived Diversity and Inclusion Among University Staff: Evidence from Universities in North Central Nigeria** *Emirati Journal of Applied Psychology* [[paper](https://doi.org/10.54878/zcb3ss29)]
 - [2026] **From space to signal: How identity-driven workplaces are reshaping corporate real estate strategy** *Corporate real estate journal* [[paper](https://doi.org/10.69554/fjtk3261)]
 - [2026] **Diversity management in European companies: intersectionality and individual experiences of bias at work** *Edward Elgar Publishing eBooks* [[paper](https://doi.org/10.4337/9781035361243.00012)]
 - [2026] **‘I am in no position to express myself.’ An ethnographic case study of multilingualism at a Finnish food corporation** *Warwick Research Archive Portal (University of Warwick)* [[paper](https://wrap.warwick.ac.uk/151330/1/WRAP_Theses_Humonen_2019.pdf)]
@@ -1141,6 +1145,7 @@
 - [2026] **PREreview of "Differential Effects of Artificial Intelligence Components on Administrative Outcomes in Nigerian Tertiary Institutions: A Comparative Analysis of OCR, CVA, and RPA"** *Zenodo (CERN European Organization for Nuclear Research)* [[paper](https://doi.org/10.5281/zenodo.23269199)]
 - [2026] **Editorial: Socio-legal, ethical, technical and medical considerations on neuroprivacy and brain-machine interaction technologies in the era of A.I.** *Frontiers in Human Dynamics* [[paper](https://doi.org/10.3389/fhumd.2026.1836498)]
 - [2026] **การจดการนโยบายสาธารณะเพอยกระดบสขภาวะการพกผอนในยคดจทล** *Journal of Interdisciplinary Innovation Review* [[paper](https://so04.tci-thaijo.org/index.php/jidir/article/view/291807)]
+- [2026] **The STEAM Governance Framework: A Simple Five-Phase Operating Cycle for Organizational Clarity, True Conformity, and Sustainable Continuity (Standardize, Train, Enforce, Assess/Reassess, Maintain)** *Zenodo (CERN European Organization for Nuclear Research)* [[paper](https://doi.org/10.5281/zenodo.23764221)]
 - [2026] **AI-Driven Feedback Systems, Digital Labour, and Silent Quitting: Transforming African Workplaces** *arXiv (Cornell University)* [[paper](https://arxiv.org/abs/2609.16192)]
 - [2026] **Learning in the workplace** [[paper](https://doi.org/10.4102/aosis.2026.bk586.06)]
 - [2026] **Factors Influencing Malaysian Public Sector Employee Performance in a Work-From-Home Context** *International Journal of Human Resource Studies* [[paper](https://doi.org/10.5296/ijhrs.v16i2.23580)]
@@ -1284,6 +1289,14 @@
 
 [⬆ Back to top](#paper-list)
 
+#### Evaluation
+
+##### 2026
+
+- [2026] **Underpaid and Overlooked: The Wage Crisis Facing Young Workers in Australia. Final Report of the Fair Work Project** *University of Melbourne data repository* [[paper](https://doi.org/10.26188/34846290)]
+
+[⬆ Back to top](#paper-list)
+
 ### SME Adoption
 
 #### Method
@@ -1299,6 +1312,7 @@
 ##### 2026
 
 - [2026] **Navigating the Infrastructure-Innovation Gap** *Advances in computational intelligence and robotics book series* [[paper](https://doi.org/10.4018/979-8-2600-0955-0.ch011)]
+- [2026] **INTEGRATING ARTIFICIAL INTELLIGENCE INTO TRAINING PROJECT MANAGEMENT: A CASE STUDY ON THE ROLE OF HUMAN SKILLS** *Portuguese National Funding Agency for Science, Research and Technology (RCAAP Project by FCT)* [[paper](https://hdl.handle.net/10316/124129)]
 - [2026] **Artificial intelligence as a catalyst for leadership transformation and organizational performance in Tunisian SMEs** *Leadership & Organization Development Journal* [[paper](https://doi.org/10.1108/lodj-10-2025-0887)]
 - [2026] **Creative Workforces for Sustainable Futures: An Empowerment Perspective** *Journal of Business Insight and Innovation* [[paper](https://doi.org/10.63544/jbii.v5i8.136)]
 
@@ -1411,6 +1425,7 @@
 - [2026] **Developing Human Resource Strategy Through Internal and External Environmental Analysis** *Economics and Business Journal (ECBIS)* [[paper](https://doi.org/10.47353/ecbis.v4i6.620)]
 - [2026] **Supporting Adult Learner Motivation Through Learner-Centered Design: Reflections from Three Iterations of a Professional Continuing Education Course** *Embedded Selforganising Systems* [[paper](https://www.bibliothek.tu-chemnitz.de/ojs/index.php/cs/article/view/991)]
 - [2026] **Penguatan Kompetensi Aparatur Pengelola Aset Daerah Melalui Pembelajaran Digitalisasi Sistem Informasi** *Jurnal Widyaiswara Indonesia* [[paper](https://ejournal.iwi.or.id/ojs/index.php/iwi/article/view/520)]
+- [2026] **THE IMPACT OF MONETARY ECONOMICS AND HUMAN RESOURCE POLICY ON ENSURING PRODUCTIVE EMPLOYMENT OF THE POPULATION UNDER CONDITIONS OF DIGITALIZATION** *Business Navigator* [[paper](https://doi.org/10.32782/business-navigator.88-35)]
 - [2026] **Software Engineering in the Agent Era From Trustworthy Change to Human Agent Software Organizations** [[paper](https://arxiv.org/abs/2609.04630)]
 - [2026] **Human Side of Digital Transformation Strengthening Human Resource Management in Navigating Employee Adaptation in Intelligent Workplaces** *Jurnal Nasional Manajemen Pemasaran & SDM* [[paper](https://doi.org/10.47747/jnmpsdm.v7i3.3495)]
 - [2026] **Challenges and Strategies for Employee Adaptation in Face Digital Transformation in the Shipping Industry** *Journal Research of Social Science Economics and Management* [[paper](https://doi.org/10.59141/jrssem.v6i2.1740)]
@@ -1497,6 +1512,9 @@
 - [2026] **Job Analysis and Job Design** *Routledge eBooks* [[paper](https://doi.org/10.4324/9781042017836-7)]
 - [2026] ****Every Individual Is a Light: A Research Study on Japan's Educational Philosophy, Human Development, and Social Transformation**** *Zenodo (CERN European Organization for Nuclear Research)* [[paper](https://doi.org/10.5281/zenodo.23308872)]
 - [2026] **LOng COvid Multidisciplinary consortium: Optimising Treatments and servIces acrOss the NHS (LOCOMOTION) - COV-LT2-0016** [[paper](https://doi.org/10.3310/nihropenres.1115360.1)]
+- [2026] **Exploring organizational readiness for the early adoption of a digital obesity prevention program in Swedish child healthcare: an observational prospective study** *BMC Health Services Research* [[paper](https://doi.org/10.1186/s12913-026-15953-6)]
+- [2026] **Data Management Plan for Project "Proposed Instrument for Assessing the Construction Industry's Readiness Level for Lean Construction 4.0 Implementation"** *Open Research Online (The Open University)* [[paper](https://doi.org/10.21954/ou.rd.34829223)]
+- [2026] **Employee Experience and the Future of Work** *IGI Global eBooks* [[paper](https://doi.org/10.4018/979-8-2600-0393-0.ch003)]
 - [2026] **Digital Workplace Technologies and Organizational Structure at HCL Company** *International Journal of Data Science and IoT Management System* [[paper](https://doi.org/10.64751/ijdim.2026.v5.n3.1315)]
 - [2026] **LEADERSHIP COMMUNICATION IN DIGITAL AND AI-ENABLED WORKPLACES: A SCOPING REVIEW** *Journal of Information System and Technology Management* [[paper](https://doi.org/10.35631/jistm.1144031)]
 - [2026] **Competency Gaps between the 2004 Office Technology and Management Curriculum and Contemporary Workplace Requirements** *Zenodo (CERN European Organization for Nuclear Research)* [[paper](https://doi.org/10.5281/zenodo.22870650)]
@@ -1639,6 +1657,7 @@
 ##### 2026
 
 - [2026] **Digital Acumen as a Workforce Capability: A Systematic Review of Digital Learning Activities in Accounting Education** *International Journal of Applied Research in Business and Management* [[paper](https://doi.org/10.51137/wrp.ijarbm.929)]
+- [2026] **Digital Transformation in the Workplace: Examining the Impact of Digital Tools on Employee Engagement and Productivity** *Zenodo (CERN European Organization for Nuclear Research)* [[paper](https://doi.org/10.5281/zenodo.23762906)]
 - [2026] **COLLABORATIVE MOBILE MANIPULATORS FOR FLEXIBLE HUMAN-CENTERED MANUFACTURING ENVIRONMENTS** *Zenodo (CERN European Organization for Nuclear Research)* [[paper](https://doi.org/10.5281/zenodo.22693283)]
 - [2026] **Business Transformation In Emerging Markets: Insights From Vietnam** *Zenodo (CERN European Organization for Nuclear Research)* [[paper](https://doi.org/10.5281/zenodo.21820879)]
 - [2026] **Network FM: An essential technology in real estate and facility management** *Corporate real estate journal* [[paper](https://doi.org/10.69554/hfms8378)]
@@ -1652,6 +1671,7 @@
 - [2026] **e-Learning, Distance Education, and Virtual and Augmented Reality in Orthopedic Training: European Cross-Sectional Survey of Trainee Acceptance Guided by the Technology Acceptance Model and Unified Theory of Acceptance and Use of Technology.** *MED* [[paper](https://doi.org/10.2196/79418)]
 - [2026] **From Tool to Social Actor: A Systematic Review of the Psychological Mechanisms Through Which Conversational AI Reshapes the Employee Experience.** *MED* [[paper](https://doi.org/10.3390/bs16091704)]
 - [2026] **Attitudinal openness to AI as supervisor or colleague/subordinate in Japan: the role of advanced digital technology familiarity.** *MED* [[paper](https://doi.org/10.3389/frai.2026.1920376)]
+- [2026] **Equal Provision, Unequal Benefit: Social Class and the Conversion of Employer-Provided Digital Training into Worker Wellbeing Across 27 European Countries.** *MED* [[paper](https://doi.org/10.3390/bs16101899)]
 
 [⬆ Back to top](#paper-list)
 
@@ -1667,6 +1687,7 @@
 
 ##### 2026
 
+- [2026] **Open Doors: Union Access Rights, Employee Voice, and How Leaders Can Build Constructive Labor Relations** *Human capital leadership.* [[paper](https://doi.org/10.70175/hclreview.2020.40.1.5)]
 - [2026] **A Study on the Impact Industrial Relations Practices on Employee Productivity in Manufacturing Unit** *INTERANTIONAL JOURNAL OF SCIENTIFIC RESEARCH IN ENGINEERING AND MANAGEMENT* [[paper](https://doi.org/10.55041/ijsrem67197)]
 - [2026] **Employee Engagement, Productivity and Workforce Retention** *International Journal of Multidisciplinary Innovations & Studies* [[paper](https://doi.org/10.64675/ijmis.v2.i3.2026.08)]
 - [2026] **Digital Transformation in Human Resource Management: A Study Among HR Professionals in the Information Technology Sector** *Zenodo (CERN European Organization for Nuclear Research)* [[paper](https://doi.org/10.5281/zenodo.22123248)]
@@ -1693,6 +1714,7 @@
 
 ##### 2026
 
+- [2026] **Managing Human Resource Management in the Cognitive Workplace with AI and the Future of work in India by 2047** [[paper](https://doi.org/10.64267/9789378375456)]
 - [2026] **The Impact of the Aging Workforce on Occupational Medicine: A Narrative Review** *Cureus* [[paper](https://doi.org/10.7759/cureus.113037)]
 
 [⬆ Back to top](#paper-list)
@@ -1789,6 +1811,8 @@
 - [2026] **Foundations of Intercultural Communication: For EFL University Students** *Zenodo (CERN European Organization for Nuclear Research)* [[paper](https://doi.org/10.5281/zenodo.22926959)]
 - [2026] **Do LLMs distinguish burnout from depression?** *Open Science Framework* [[paper](https://doi.org/10.17605/osf.io/qyvgr)]
 - [2026] **How a Data Analytics Course in Kolkata Helps Learners Master Power BI and Business Analytics** *Zenodo (CERN European Organization for Nuclear Research)* [[paper](https://doi.org/10.5281/zenodo.23181402)]
+- [2026] ****Reclaiming the Offline Self: A Mixed-Methods Analysis of Digital Detox, Social Media Addiction, and the Restoration of Real-World Social Capital Among Indian IT Professionals** ---** *Zenodo (CERN European Organization for Nuclear Research)* [[paper](https://doi.org/10.5281/zenodo.23719160)]
+- [2026] **นวตกรรมเชงยทธศาสตรเพอขบเคลอนการแกไขปญหาผเรยนอาชวศกษาทออกนอกระบบการศกษา** *Vocational Education Innovation and Research Journal* [[paper](https://so06.tci-thaijo.org/index.php/ve-irj/article/view/301302)]
 - [2026] **Human-Centered AI in HR Transforming Employee Well-Being and Workplace Culture in the Digital Era** *Advances in computational intelligence and robotics book series* [[paper](https://doi.org/10.4018/979-8-3373-9599-9.ch007)]
 - [2026] **SOCIAL MEDIA MONITORING AND WORKPLACE TRUST: A PARADOX?** *International Journal of Financial Research and Management Science* [[paper](https://doi.org/10.70382/tijfrms.v13i7.082)]
 - [2026] **Workplace Surveillance in the Post-Digital Personal Data Protection (DPDP) Act, 2023 Era: Reconciling Legitimate Employer Interests with Employee Right to Privacy** *Zenodo (CERN European Organization for Nuclear Research)* [[paper](https://doi.org/10.5281/zenodo.23020885)]
@@ -1977,6 +2001,7 @@
 - [2026] **Technical education in the development of labor and business skills: A systematic review** *Multidisciplinary Reviews* [[paper](https://malque.pub/ojs/index.php/mr/article/view/18399)]
 - [2026] **Empathy and compassion in nursing: a narrative review of interventions preventing burnout and fostering resilience** *Pielegniarstwo XXI wieku / Nursing in the 21st Century* [[paper](https://doi.org/10.12923/pielxxiw-2026-0040)]
 - [2026] **What matters in medical training in Wales: a thematic analysis of Wales-specific responses to the NHS England Medical Training Review Call for Evidence** *BMC Medical Education* [[paper](https://doi.org/10.1186/s12909-026-10573-4)]
+- [2026] **Language Barriers in Education and the Workplace: Effects on Performance, Communication and Inclusion** *American Journal of Social Development and Entrepreneurship* [[paper](https://doi.org/10.54536/ajsde.v5i2.8787)]
 - [2026] **Digital Musculoskeletal Assessment: A Narrative Review of Self-Report, Telehealth, Sensor-Based, and Conversational AI Modalities, with Implications for Workplace Screening** *Zenodo (CERN European Organization for Nuclear Research)* [[paper](https://doi.org/10.5281/zenodo.22785025)]
 - [2026] **Discrimination in the Digital Workplace: New Manifestations and Responses** *Ius Novum* [[paper](https://ojs.lazarski.pl/index/article/view/2391)]
 - [2026] **Auditor Capabilities and Workplace Pressures in Shaping Audit Quality: A Systematic Literature Review and Future Research Agenda** *International Journal of Education Vocational and Social Science* [[paper](https://e-journal.citakonsultindo.or.id/index.php/IJEVSS/article/view/6622)]
@@ -1996,6 +2021,8 @@
 - [2026] **Strategi Pengembangan Sumber Daya Manusia Pengelola Desa Wisata Bantaragung Majalengka melalui Pelatihan dan Pendampingan Digital** *Cakrawala Jurnal Pengabdian Masyarakat Global* [[paper](https://doi.org/10.30640/cakrawala.v5i3.7862)]
 - [2026] **The Visibility-Satisfaction Paradox: Decoupling Employer Popularity and Employee Ratings in the Indian Labor Market tapped through web reviews** *Int. J. Web Appl.* [[paper](https://doi.org/10.6025/ijwa/2026/18/3/165-188)]
 - [2026] **Socioeducational Interventions to Strengthen Entrepreneurial Competencies and Economic Inclusion among Family Microenterprises in Latin America: A Systematic Review in Accordance with PRISMA 2020** *Revista Científica Vanguardia Interdisciplinaria Educativa* [[paper](https://revain.plusidsa.com/index.php/RVI/article/view/26)]
+- [2026] **A Scoping Review of Health Education Programs for Improving Men’s Engagement with Health Services** *Health Promotion Perspectives* [[paper](https://doi.org/10.34172/hpp.45321)]
+- [2026] **Integrated care for chronic musculoskeletal (MSK) disorders is promising but incomplete: a scoping review of MSK service delivery approaches across systems** *Research Square* [[paper](https://doi.org/10.21203/rs.3.rs-8444965/v1)]
 - [2026] **ASSESSING THE EFFECTIVENESS OF WORK-FROM-HOME IMPLEMENTATION AND PERFORMANCE MONITORING IN THE DIGITAL WORKPLACE: A DIGITAL HRM PERSPECTIVE** *Jurnal Riset Multidisiplin Edukasi* [[paper](https://journal.hasbaedukasi.co.id/index.php/jurmie/article/view/2351)]
 - [2026] **A systematic review of technological approaches to managing workplace violence against healthcare workers** *Safety Science* [[paper](https://doi.org/10.1016/j.ssci.2026.107364)]
 - [2026] **Scopus Bibliometric Dataset: Digital Work, Psychosocial Risks, Organizational Trust, and Workplace Conflict (2010–2026)** *Zenodo (CERN European Organization for Nuclear Research)* [[paper](https://doi.org/10.5281/zenodo.21788789)]
@@ -2042,6 +2069,10 @@
 - [2026] **Relational Foundations of Sustainable Working Life: A Critical Integrative Review and Multilevel Framework of Trust, Social Competences, and Belonging** *Sustainability* [[paper](https://doi.org/10.3390/su181910101)]
 - [2026] **Health Human Resources Training and Development: A Literature Review of the Design, Implementation, and Evaluation of Health Worker Training Programs in Hospitals** *Manajemen Pelayanan Kesehatan* [[paper](https://doi.org/10.47134/mpk.v3i4.6423)]
 - [2026] **Balancing Stress, Support, and Clinical Practice: A Scoping Review of Evolving Pedagogical Models in Nursing Education** *Research Square* [[paper](https://doi.org/10.21203/rs.3.rs-11234824/v1)]
+- [2026] **Media and Social Media Representations of Healthcare Professionals and Their Relationship with Workplace Violence: A Scoping Review Protocol** *Open Science Framework* [[paper](https://doi.org/10.17605/osf.io/bcx2t)]
+- [2026] **Digital Hr Practices, Workplace Support and Employee Retention in Private Sector Banks: A Proposed Empirical Framework** *Zenodo (CERN European Organization for Nuclear Research)* [[paper](https://doi.org/10.5281/zenodo.23726029)]
+- [2026] **Digital Supervision and Work Discipline: A Review of Business Ethics with a Foucauldian Approach** *International Journal of Business and Quality Research* [[paper](https://e-journal.citakonsultindo.or.id/index.php/IJBQR/article/view/7148)]
+- [2026] **Development of a Digital Teaching Factory Evaluation Model for Assessing Employability Skills in Vocational High Schools** *Journal of General Education and Humanities* [[paper](https://doi.org/10.58421/gehu.v5i5.2133)]
 - [2026] **Intersectionality, legitimacy and women's digital leadership in AI-enabled workplaces: a systematic review** *Equality Diversity and Inclusion An International Journal* [[paper](https://doi.org/10.1108/edi-02-2026-0125)]
 - [2026] **Technostress in the Digital Workplace: A Systematic Literature Review of Antecedents, Employee Outcomes, and Mitigation Strategies** *Journal of Economic Education and Entrepreneurship Studies* [[paper](https://doi.org/10.62794/je3s.v7i5.515)]
 - [2026] **From emergency telework to hybrid workplace learning: a systematic review of digital upskilling, organisational support and performance** *European journal of training and development* [[paper](https://doi.org/10.1108/ejtd-06-2026-0179)]
@@ -2254,6 +2285,8 @@
 - [2026] **Predictors of Nursing Informatics Competency Among Registered Nurses Working in Clinical Settings in Tamil Nadu, India** *F1000Research* [[paper](https://doi.org/10.12688/f1000research.188982.1)]
 - [2026] **The Impact of Mental and Physical Wellbeing and Productivity on Creative Services Teams in Marketing and Communications within the IT Industry** *INTERANTIONAL JOURNAL OF SCIENTIFIC RESEARCH IN ENGINEERING AND MANAGEMENT* [[paper](https://doi.org/10.55041/ijsrem68165)]
 - [2026] **FOREIGN EXPERIENCE IN THE PROVISION OF ADMINISTRATIVE SERVICES BY LOCAL GOVERNMENT AUTHORITIES** *Economic scope* [[paper](https://doi.org/10.30838/ep.217.247-254)]
+- [2026] **RANCANG BANGUN SISTEM INFORMASI ABSENSI KARYAWAN BERBASIS ANDROID PADA PT SINAR PERKASA ENGINEERING** *Informatika Jurnal Teknik Informatika dan Multimedia* [[paper](https://doi.org/10.51903/informatika.v6i2.1930)]
+- [2026] **Informal Communication and Employee Productivity: A Comparative Study of Guaranty Trust Bank and Zenith Bank, Port Harcourt** *INTERNATIONAL JOURNAL OF ENGLISH LANGUAGE AND COMMUNICATION STUDIES* [[paper](https://doi.org/10.56201/ijelcs.vol.10.no7.2025.pg35.50)]
 - [2026] **‘Is This the Workplace for Me?’ A Qualitative Study of Nursing Students' Construction of Workplace Attractiveness in Clinical Placement** *Nursing Open* [[paper](https://doi.org/10.1002/nop2.70868)]
 - [2026] **Healthcare Practitioners' Perspectives on the Integration of Digital Health Education in Undergraduate Curricula: A Workforce-Readiness Mixed-Methods Study** *Research Square* [[paper](https://doi.org/10.21203/rs.3.rs-10854277/v1)]
 - [2026] **A Smartphone-Based Ecological Momentary Intervention for Workplace Mental Health: Randomized Controlled Trial** *JMIR mhealth and uhealth* [[paper](https://doi.org/10.2196/72435)]
@@ -2289,6 +2322,7 @@
 - [2026] **АВТОМАТИЗИРОВАННЫЕ ИСПЫТАТЕЛЬНЫЕ КОМПЛЕКСЫ ДЛЯ НАЗЕМНЫХ ЭЛЕКТРИЧЕСКИХ ИСПЫТАНИЙ КОСМИЧЕСКИХ АППАРАТОВ** *Международный журнал информационных технологий и энергоэффективности* [[paper](https://openaccessscience.ru/index.php/ijcse/article/view/1430)]
 - [2026] **Assessing hospital workers’ health: a tool for longitudinal health monitoring in a public tertiary hospital in Brazil’s Unified Health System (SUS)** *medRxiv* [[paper](https://doi.org/10.64898/2026.08.27.26361318)]
 - [2026] **Strategic Human Resource Management in the Georgian Hotel Industry: Current Trends and Talent Development Prospects** *InterConf* [[paper](https://doi.org/10.51582/interconf.19-20.08.2026.002)]
+- [2026] **Pemberdayaan Masyarakat Dalam Memahami Dan Mengoperasikan Alat Ukur Gps Geodetik** *Journal of Innovative and Creativity (Joecy)* [[paper](https://doi.org/10.31004/joecy.v6i2.13999)]
 - [2026] **Mixed-Method Process Evaluation of a Mobile Technology-Based Tailored Workplace Health Promotion Program** *Advances in Nursing Science* [[paper](https://doi.org/10.1097/ans.0000000000000655)]
 - [2026] **G²LM|LIC - LinkinOut Harassment: A Targeted Social Media Experiment to Reduce Workplace Harassment towards Women** [[paper](https://doi.org/10.15185/glmlic.1048.1)]
 - [2026] **Acquisition of workplace knowledge through individual and cooperative self-regulated learning** *International Journal of Mechanical Engineering Education* [[paper](https://doi.org/10.1177/03064190261468488)]
@@ -2336,6 +2370,10 @@
 - [2026] **ТРАНСФОРМАЦІЯ ТРАДИЦІЙНИХ МОДЕЛЕЙ НАВЧАННЯ ПЕРСОНАЛУ ДО УМОВ ЦИФРОВОЇ ЕКОНОМІКИ** *Market Infrastructure* [[paper](https://doi.org/10.32782/infrastruct91-20)]
 - [2026] **Peer Learning for Applied Engineering Technology Education** *Journal of Applied Learning in Higher Education* [[paper](https://doi.org/10.57186/jalhe_2026_v12a10)]
 - [2026] **From the Ground Up: Exploring the Implementation of a Staff-Led Wellbeing Intervention in Australian Public Healthcare – A Study of the SEED Program** *Research Online (University of Wollongong)* [[paper](https://doi.org/10.71747/uow-r3gk326m.34406130)]
+- [2026] **Seeing and being seen: how digital transparency and competence shape workplace gossip in a digitally connected industry** *Journal of Communication Management* [[paper](https://doi.org/10.1108/jcom-04-2026-0148)]
+- [2026] **Workplace Adaptability and Development in Hybrid Environments: The Role of Cultural Intelligence, E‐Leadership and Psychological Well‐Being** *European Journal of Education* [[paper](https://doi.org/10.1111/ejed.70916)]
+- [2026] **Analisis Pemberdayaan Masyarakat dalam Program Probebaya melalui Pelatihan Komputer di LKP Cendana Kota Samarinda** *DOAJ (DOAJ: Directory of Open Access Journals)* [[paper](https://doaj.org/article/33c330d74155467d820c90e07de4bf5f)]
+- [2026] **Re-Envisioning Library and Information Science (LIS) Education in India: Curricular Transformation, Pedagogical Disparities, and 21st-Century Competency Integration** *Natural Resources for Human Health* [[paper](https://doi.org/10.53365/nrfhh.3293)]
 - [2026] **Fostering a human-centric, age-inclusive workplace in the digital era** *Industrial and Commercial Training* [[paper](https://doi.org/10.1108/ict-07-2025-0095)]
 - [2026] **Personality Recognition Based on Digital Footprints for Better Online Workplace** *Communications in computer and information science* [[paper](https://doi.org/10.1007/978-3-032-27235-5_56)]
 - [2026] **How Digital Technology–Business Strategy Alignment Translates into Firm Performance: The Roles of Digital Experience Support and Digital Talent Capacity in a Mixed-Method Study** *OSF Preprints (OSF Preprints)* [[paper](https://osf.io/eg49c)]
@@ -2367,6 +2405,7 @@
 - [2026] **Narratives of Menopause Tech Cybersecurity, Safety and Privacy in the UK** *Nordic Conference on Human-Computer Interaction* [[paper](https://doi.org/10.1145/3829807.3829900)]
 - [2026] **The Right to Disconnect as a Basis for Reconstructing Workers' Legal Protection for Orders to Work Outside Working Hours in the Indonesian Labor Legal System** *Journal of Social Science (JoSS)* [[paper](https://doi.org/10.57185/zdqesm56)]
 - [2026] **Conscious Leadership and Employee Behaviour for Organizational Sustainability** *CRC Press eBooks* [[paper](https://doi.org/10.1201/9781003736158-16)]
+- [2026] **Thresholds of staff readiness in economics: an engineering model for synchronizing an employee’s access to work** *Bulgariаn Journal of Business Research* [[paper](https://doi.org/10.46656/bposoki.2026.37.2(8))]
 - [2026] **FROM ACTIVITY-BASED WORKPLACES TO PUBLIC EMPLOYEE PERFORMANCE: DIGITALIZATION AS THE MEDIATING MECHANISM** *Jurnal Ilmiah Ilmu Terapan Universitas Jambi|JIITUJ|* [[paper](https://doi.org/10.22437/jiituj.v10i4.57236)]
 - [2026] **Causal Mobility Profiles of Digital-Nomad Adaptation across City and Workplace Contexts** *International Journal of Quantitative and Qualitative Research* [[paper](https://ijqqr.com/index.php/ijqqr/article/view/74)]
 - [2026] **Digital strain in the workplace: the role of instrumental social platform use on employee emotional exhaustion** *Frontiers in Sociology* [[paper](https://doi.org/10.3389/fsoc.2026.1878074)]
@@ -2394,6 +2433,8 @@
 - [2026] **Quality of Work Life Factors Among Medical Residents: A Comparative Study of Public and Private Hospitals in Mexico** *Cureus* [[paper](https://doi.org/10.7759/cureus.115188)]
 - [2026] **Exploration on Spiritual Healing Value of Youth Cultural Tourism from the Perspective of Cultural Media** *Academic journal of management and social sciences* [[paper](https://doi.org/10.54097/f6tddm10)]
 - [2026] **Sociodemographic and lifestyle determinants of high technostress in a large cohort of spanish workers** *Academic Journal of Health Sciences* [[paper](https://doi.org/10.65735/ajhs.2026.41.4.1)]
+- [2026] **Beyond Quiet Quitting: Community Pressure and Adaptive Work Behaviors Explaining Family Hope Facilitators’ Task Performance** *Jurnal Ilmiah Manajemen dan Bisnis* [[paper](https://doi.org/10.38043/jimb.v11i1.7641)]
+- [2026] **การพฒนาชดกจกรรมเรยนรพทธนวตศลปภาพพมพดจทล ตามทฤษฎการเรยนรเชงประสบการณของโคลบ: กรณลายประดบวหารลานนาในรายวชาการสรางสรรคงานพทธศลปกรรมรวมสมย** *Panya* [[paper](https://so06.tci-thaijo.org/index.php/panya-thjo/article/view/292239)]
 - [2026] **Factors Influencing Career Development in a Digitally Transforming Workplace** *MARGINAL JOURNAL OF MANAGEMENT ACCOUNTING GENERAL FINANCE AND INTERNATIONAL ECONOMIC ISSUES* [[paper](https://doi.org/10.55047/marginal.v5i3.2320)]
 - [2026] **Cross-cultural impact of information anxiety on employee mental health in digital workplaces: a comparative study between Chinese and Western contexts** *Frontiers in Psychology* [[paper](https://doi.org/10.3389/fpsyg.2026.1775912)]
 - [2026] **The Relationship Between School Principals’ Toxic Leadership Behaviours and Teachers’ Exposure to Workplace Cyberbullying** *Journal of School Leadership* [[paper](https://doi.org/10.1177/10526846261474282)]
@@ -2447,6 +2488,14 @@
 
 [⬆ Back to top](#paper-list)
 
+#### Development
+
+##### 2026
+
+- [2026] **Implementing a blended coaching and E-learning program for military midwives in Benin: Lessons learned from a pilot implementation study** *Next research.* [[paper](https://doi.org/10.1016/j.nexres.2026.102629)]
+
+[⬆ Back to top](#paper-list)
+
 #### Evaluation
 
 ##### 2026
@@ -2467,6 +2516,7 @@
 - [2026] **The Mythos and Mētis of Antiwork in Digital Spaces** *Springer eBooks* [[paper](https://doi.org/10.1007/978-3-032-26012-3_5)]
 - [2026] **Recovering Associational Life?** *Cambridge University Press eBooks* [[paper](https://doi.org/10.1017/9781009838085.006)]
 - [2026] **Big brother at work** *Routledge eBooks* [[paper](https://doi.org/10.4324/9781042004935-7)]
+- [2026] **RESO International Magazine – Social Resilience, Global Leadership, AI Governance, Motherhood & Social Change | October 2026 | Vol. 02, Issue 08** *Zenodo (CERN European Organization for Nuclear Research)* [[paper](https://doi.org/10.5281/zenodo.23554468)]
 - [2026] **Planning for platform urbanism** *plaNext - Next Generation Planning* [[paper](https://doi.org/10.24306/plnxt/130)]
 - [2026] **DIGITAL COMMUNICATION COMPETENCIES AND UNDERGRADUATE BUSINESS EDUCATION STUDENTS’ EMPLOYMENT READINESS AT THE UNIVERSITY OF UYO, AKWA IBOM STATE, NIGERIA** *KOGI JOURNAL OF EDUCATION AND PEDAGOGY* [[paper](https://kojep.org.ng/index.php/journal/article/view/98)]
 - [2026] **A SURVEY ON CYBERBULLYING IN SMALL AND MEDIUM-SIZED HI-TECH ENTERPRISES IN THE REPUBLIC OF BULGARIA** *Proceedings of the International Conference on Secure Systems Design and Technology Development* [[paper](https://doi.org/10.68302/std2026.vol3.89)]
@@ -2507,6 +2557,8 @@
 - [2026] **Legal Challenges in Determining the Employer–Employee Relationship in the Gig Economy** *International Journal of Law Management & Humanities* [[paper](https://doi.org/10.63108/ijlmh.12958)]
 - [2026] **Implementation of UI/UX Design and Front-end Development on Web-Based Audit System at PT Aneka Coffee Industry** *Indonesian Journal of Innovation Studies* [[paper](https://doi.org/10.21070/ijins.v25i4.2388)]
 - [2026] **Organisational Culture as a Moderator of the Relationship Between Social Media Use and Employee Productivity in Public Colleges of Education in Ogun State** *Journal of Economics Finance and Management Studies* [[paper](https://doi.org/10.47191/jefms/v9-i10-21)]
+- [2026] **A Study of Curriculum-Based Ideological and Political Education in the Big Data Technology Program: Integrating Three Color Coded Themes and Two Interwoven Strands** *Journal of Computing and Electronic Information Management* [[paper](https://doi.org/10.54097/9yr5pt42)]
+- [2026] **Career Advice, Norms, and Aspirations on Social Media: A Qualitative Content Analysis of Short-Form TikTok Videos** *ACM Transactions on Social Computing* [[paper](https://doi.org/10.1145/3857841)]
 - [2026] **Yoga-based workplace health promotion: an organizational framework for employee well-being and sustainable workplace performance** *PHINISI* [[paper](https://doi.org/10.64282/phi.v3i3.134)]
 - [2026] **What constitutes a comprehensive workplace-based assessment programme?** [[paper](https://doi.org/10.4102/aosis.2026.bk586.02)]
 - [2026] **Engagement to Quiet Quitting: The Workplace Behavior Life Cycle and the Re-stabilization of the Effort Bargain** *DergiPark (Istanbul University)* [[paper](https://dergipark.org.tr/en/pub/ssad/article/1984961)]
@@ -2529,6 +2581,8 @@
 - [2026] **Contemporary Debates in Gender Equality: Issues, Perspectives, and Emerging Challenges** *International Journal of Academic Research & Development* [[paper](https://doi.org/10.70381/23951737.v12.js3.2026.11)]
 - [2026] **Banter, focus, and suitable monitoring: Perspectives on virtual team effectiveness** *AJIS. Australasian journal of information systems/AJIS. Australian journal of information systems/Australian journal of information systems* [[paper](https://doi.org/10.3127/ajis.v30.6451)]
 - [2026] **The Impact of AI-Driven Communication Tools on Conflict Resolution and Team Productivity Among Office Managers in Bayelsa State Tertiary Institutions** *SIAR-Global Journal of Management & Business Review* [[paper](https://doi.org/10.66694/siar.gjmbr20263008)]
+- [2026] **Skills Development Initiatives for Enhancing Employability of Graduate** *International Journal Of Recent Trends In Multidisciplinary Research* [[paper](https://doi.org/10.59256/ijrtmr.20260605009)]
+- [2026] **Beyond information seeking: a latent profile analysis of financial media repertoires and psychological motivations among Chinese users** *Frontiers in Psychology* [[paper](https://doi.org/10.3389/fpsyg.2026.1757025)]
 - [2026] **Emotional Intelligence and Quality of Work Life in Digital Workplaces: A Conceptual Framework Integrating Digital Work Stress and Digital Resilience** *Minnesota Journal of Business Law and Entrepreneurship* [[paper](https://doi.org/10.52783/mjble.759)]
 - [2026] **Workplace Conflict And Job Satisfaction In Digital Learning Institutions: Moderating Role Of Professional Ethics** *Adolescencia e Saude* [[paper](https://doi.org/10.67440/ahj.v21i5s.1300)]
 - [2026] **REMOTE WORK AND THE EXPANDING SCOPE OF THE POSH ACT: WORKPLACE SAFETY IN THE DIGITAL ERA** *Zenodo (CERN European Organization for Nuclear Research)* [[paper](https://doi.org/10.5281/zenodo.21851499)]
@@ -2554,6 +2608,8 @@
 - [2026] **Institutional Governance of Dingtalk and Students’ Management of Their Independent Study in an Economics and Business University in China** *International Journal on Science and Technology* [[paper](https://doi.org/10.71097/ijsat.v17.i3.11509)]
 - [2026] **The Martinez Eros Architecture: A Cross-Cutting Theory of Desire, Attachment, Intimacy, Exchange, Power, and Systemic Consequence** *Zenodo (CERN European Organization for Nuclear Research)* [[paper](https://doi.org/10.5281/zenodo.22020312)]
 - [2026] **Research on Innovative Implementation Pathways of Ideological and Political Education in Junior Colleges under the Background of Industry-Education Integration** *Advanced Electromagnetics* [[paper](https://doi.org/10.7716/aem.v15i3.4085)]
+- [2026] **The Effect of Digital Workplaces on Employee Engagement and Managerial Effectiveness** *Journal of Contemporary Science and Technology Management* [[paper](https://jcstm.info/index.php/index/article/view/79)]
+- [2026] **Designing intentional AI-augmented learning: social learning theory extended through the human-machine-human model** *Development in Learning Organizations An International Journal* [[paper](https://doi.org/10.1108/dlo-06-2026-0307)]
 - [2026] **Menopause in the French Workplace: Embodiment, Regulation, and Digital Resistance** *Gender Work and Organization* [[paper](https://doi.org/10.1111/gwao.70224)]
 - [2026] **Driving Job Satisfaction in the Evolving Digital Banking Workplace through Employee Empowerment** *South Asian Journal of Social Studies and Economics* [[paper](https://doi.org/10.9734/sajsse/2026/v23i71354)]
 - [2026] **Humanity Lost and Found: Workplace Dehumanization in the Age of Algorithms and AI** *Academy of Management Proceedings* [[paper](https://doi.org/10.5465/amproc.2026.18117symposium)]
@@ -2634,6 +2690,8 @@
 - [2026] **Socializing Our Research: Using Team Communication Platforms to Build Collaboration and Professionalization in Early-Career Researchers** *ACM International Conference on Design of Communication (SIGDOC)* [[paper](https://doi.org/10.1145/3772063.3841679)]
 - [2026] **BREAKING THE ISOLATION: HOW EFFECTIVE IS THE NEW AGE MEDIA IN ENHANCING THE MENTAL WELL-BEING OF GIG WORKERS?** *Acta Innovations* [[paper](https://doi.org/10.62441/actainnovations.vi.2373)]
 - [2026] **An Alignment Benchmark for Enterprise Agents on Era by Eon** [[paper](https://arxiv.org/abs/2610.38544)]
+- [2026] **IMPLEMENTATION OF CLOUD-BASED DIGITAL OCCUPATIONAL HEALTH AND SAFETY INSPECTION CHECKLIST FOR WORKPLACE SAFETY MONITORING AT PT X** *IRPITAGE JOURNAL* [[paper](https://radjapublika.com/index.php/IRPITAGE/article/view/6562)]
+- [2026] **Трансформация классических моделей рынка труда в условиях платформенной занятости в Российской Федерации** *Журнал "У". Экономика. Управление. Финансы.* [[paper](https://portal-u.ru/index.php/index/article/view/1329)]
 - [2026] **Digital Detox: Reducing Screen Time and Improving Mental Health** *JOURNAL OF ADVANCE AND FUTURE RESEARCH* [[paper](https://doi.org/10.56975/jaafr.v4i9.514626)]
 - [2026] **EnterpriseBench: Benchmarking LLM Agents on Enterprise-Level Strategic Reasoning and Decision-Making** [[paper](https://arxiv.org/abs/2609.37658)]
 - [2026] **Corporate Language Model (CLM): Transforming Tacit and Fragmented Enterprise Knowledge into a Sovereign, Auditable, and Executable Corporate Intelligence Layer** [[paper](https://arxiv.org/abs/2609.04377)]
@@ -2673,6 +2731,7 @@
 ##### 2026
 
 - [2026] **Adult mental health in digital environments: workplace overload, social comparison, relationships and clinical assessment** *Clinics in Integrated Care* [[paper](https://doi.org/10.1016/j.intcar.2026.100337)]
+- [2026] **A Comprehensive Dataset and Benchmark for Empathetic Responses in Online Communities** *Lecture notes in computer science* [[paper](https://doi.org/10.1007/978-981-92-5696-9_16)]
 
 [⬆ Back to top](#paper-list)
 
@@ -2728,6 +2787,7 @@
 - [2026] **IA, talento y espacio organizacional híbrido** [[paper](https://doi.org/10.62486/978-9915-9928-8-4.ch04)]
 - [2026] **Employer perspectives on support to employees with health-related needs** *European Journal of Public Health* [[paper](https://doi.org/10.1093/eurpub/ckag169.992)]
 - [2026] **Leveraging AI Technology to Combat Silent Quitting and Enhance Employee Engagement** *Emerald Group Publishing Limited eBooks* [[paper](https://doi.org/10.1108/978-1-80686-545-120261022)]
+- [2026] **From Classroom to Career: Use of Digital Collaboration Tools to Bridge Theory & Practice** *Marketing Education Review* [[paper](https://doi.org/10.1080/10528008.2026.2742368)]
 - [2026] **A Study on Employee Retention in The Hybrid Work** *International Journal of Data Science and IoT Management System* [[paper](https://doi.org/10.64751/ijdim.2026.v5.n3.1316)]
 - [2026] **Brave New Workplace** [[paper](https://doi.org/10.1093/9780197692332.003.0010)]
 - [2026] **The Well-Being Ledger of Hybrid Work: A Concise Job Demands-Resources Review of HRM Practices for the PostPandemic Workplace** *Journal of Science Engineering Technology and Management Sciences* [[paper](https://doi.org/10.64771/jsetms.2026.v03.i09.pp113-119)]
@@ -2849,6 +2909,7 @@
 ##### 2026
 
 - [2026] **Zero Trust-Enabled Adaptive Incident Response using Hierarchical Reinforcement Learning** [[paper](https://arxiv.org/abs/2610.38146)]
+- [2026] **Exploring Work-Life Balance Challenges and Strategies in Remote Working Environments Within the IT Sector** *CRC Press eBooks* [[paper](https://doi.org/10.1201/9781003787709-145)]
 - [2026] **Hybrid Work and the Restructuring of Urban Mobility in U.S. Cities** [[paper](https://arxiv.org/abs/2609.36428)]
 - [2026] **Labor-Oriented Management Controls in the Modern Era** *Journal of Management Accounting Research* [[paper](https://doi.org/10.2308/jmar-2026-045)]
 - [2026] **Governing digital collaboration in remote and hybrid work: a bibliometric analysis grounded in a multi-level governance framework** *Management Review Quarterly* [[paper](https://doi.org/10.1007/s11301-026-00641-w)]
@@ -3009,6 +3070,10 @@
 - [2026] **A Correlational Study Of Grief, Psychological Well-Being, WorkLife Balance, And Employee Retention Among It Professionals In India** *International Journal of Drug Delivery Technology* [[paper](https://doi.org/10.25258/ijddt.16.75s.18)]
 - [2026] **Smart tools for diverse minds: how AI use impacts performance and well-being among neurodivergent employees** *Equality Diversity and Inclusion An International Journal* [[paper](https://doi.org/10.1108/edi-02-2026-0161)]
 - [2026] **Understanding employee cyberloafing and its impact on employee well-being: A moderated mediation model of work-life balance and mindfulness** *Ho Chi Minh City Open University Journal of Science- Economics and Business Administration* [[paper](https://journalofscience.ou.edu.vn/index.php/econ-en/article/view/6220)]
+- [2026] **The Future of Organizational Leadership: Integrating Artificial Intelligence, Employee Well-Being, and Workplace Performance** *Journal of Artificial Intelligence General science (JAIGS)* [[paper](https://doi.org/10.60087/jaigs.v10i01.511)]
+- [2026] **Digital Employee Experience and Workplace Engagement Strategies for Modern Organizations** *Zenodo (CERN European Organization for Nuclear Research)* [[paper](https://doi.org/10.5281/zenodo.23730870)]
+- [2026] **EMPLOYEE WELL-BEING PROGRAMS AND MEASURABLE RETURNS ON INVESTIMENT IN PRIVATE INSTITUTIONS** *Zenodo (CERN European Organization for Nuclear Research)* [[paper](https://doi.org/10.5281/zenodo.23768000)]
+- [2026] **The Future of Work: Transforming HRM Strategies for a Digital, Hybrid, and Employee-Centric Workplace** *CRC Press eBooks* [[paper](https://doi.org/10.1201/9781003787709-147)]
 - [2026] **Workplace Architecture and Employee Well-Being** *The Sankalpa: International Journal of Management Decisions* [[paper](https://thesankalpa.org/ijmd/article/view/513)]
 - [2026] **The Influence of Workplace Incivility, Abusive Supervision, and Workplace Gossip on Employee Well-Being of Gen Z Employees in Sragen Regency** *Escalate Economics and Business Journal* [[paper](https://doi.org/10.61536/escalate.v4i02.639)]
 - [2026] **Perceived Organizational Support For Menstrual Health: Advancing Employee Well-Being In The Workplace** *Journal of Asia Entrepreneurship and Sustainability* [[paper](https://doi.org/10.66635/0secrp67)]
@@ -3054,6 +3119,7 @@
 - [2026] **Managing Stress in the Workplace** *Zenodo (CERN European Organization for Nuclear Research)* [[paper](https://doi.org/10.5281/zenodo.22665085)]
 - [2026] **Human-Centred AI and Employee Well-Being: The Mediating Role of Psychological Safety and the Moderating Role of Ethical Leadership** *Journal of Business Insight and Innovation* [[paper](https://doi.org/10.63544/jbii.v5i9.204)]
 - [2026] **Psychological Safety and Subjective Well-Being: The Mediating Role of Organizational Identification and Organizational Citizenship Behavior among Generation Z Employees** *Glosains Jurnal Sains Global Indonesia* [[paper](https://doi.org/10.59784/glosains.v7i4.864)]
+- [2026] **Understanding Interpersonal Deviance Among Employees in the Islamic Banking Industry: A Strategic Perspective on Employee Behavior** *Business Ethics and Leadership* [[paper](https://doi.org/10.61093/bel.10(3).431-456.2026)]
 - [2026] **A Study on the Impact of Workplace Well-being Initiatives on Employee Performance** *Zenodo (CERN European Organization for Nuclear Research)* [[paper](https://doi.org/10.5281/zenodo.21877142)]
 - [2026] **A Review on Spirituality in the Workplace and Employee Well-Being: A Human Resource Development Perspective** *Human Resource Development Review* [[paper](https://doi.org/10.1177/15344843261477998)]
 - [2026] **Effects of workplace greenery on well-being in live-in shiftwork rotation employees** *OSF Preprints (OSF Preprints)* [[paper](https://osf.io/et32f)]
@@ -3204,6 +3270,7 @@
 ##### 2026
 
 - [2026] **EMPLOYEE WELL-BEING AND ORGANIZATIONAL PERFORMANCE: A SYSTEMATIC REVIEW OF WORKPLACE INTERVENTIONS AND OUTCOMES** *Acta Innovations* [[paper](https://doi.org/10.62441/actainnovations.vi.2090)]
+- [2026] **From wellness events to well-being governance: an exploratory qualitative study of workplace well-being communication in selected UAE organizations** *Frontiers in Communication* [[paper](https://doi.org/10.3389/fcomm.2026.1959618)]
 - [2026] **Emotional State and Workplace Wellness among Employees of a Local Government Unit in Ifugao, Philippines** *International Journal of Research on Multidisciplinary Studies* [[paper](https://doi.org/10.67903/ijroms0320)]
 - [2026] **Navigating Shift Work and Workplace Well-Being: Social Work Insights from Emergency Healthcare Staff** *Research and Review Human Resource and Labour Management* [[paper](https://matjournals.net/engineering/index.php/RRHRLM/article/download/3997/4908)]
 - [2026] **Workplaces as Social Policy Actors: Work Design, Administrative Burden, and Employee Well-Being** *Academy of Management Proceedings* [[paper](https://doi.org/10.5465/amproc.2026.21504symposium)]
@@ -3279,6 +3346,9 @@
 - [2026] **Generative AI utilization and employee productivity through digital skills with the moderating role of AI trust** *Discover Sustainability* [[paper](https://doi.org/10.1007/s43621-026-04863-6)]
 - [2026] **F.9. Scientific session: Implementing digital and AI skills in public health education and the health workforce** *European Journal of Public Health* [[paper](https://doi.org/10.1093/eurpub/ckag169.499)]
 - [2026] **Digital Intelligent Accounting Talent Cultivation in Higher Vocational Colleges: From the Perspective of Industry Education Integration in Anhui Province, China** *International Journal of Academic Research in Progressive Education and Development* [[paper](https://doi.org/10.6007/ijarped/v15-i4/28929)]
+- [2026] **THE IMPACT OF DIGITAL HRM PRACTICES ON EMPLOYEE WELL-BEING: THE MEDIATING ROLE OF KNOWLEDGE SHARING AND THE MODERATING ROLE OF TECHNOLOGICAL READINESS IN VIRTUAL WORK ENVIRONMENTS** *Insights (Bhalwal) International Journal of Humanities Management and Social Sciences* [[paper](https://doi.org/10.68156/ckbc2w45)]
+- [2026] **The Twin Transition and Labor Market Transformation: A Conceptual Framework for AI-Enabled Green Growth** *Çalışma ve Toplum* [[paper](https://doi.org/10.54752/ct.1973941)]
+- [2026] **The Impact of Job Well-Being on Burnout among Knowledge Economy Workers: The Mediating Role of Digital Disconnection and the Influence of Techno strain** *Emirati Journal of Applied Psychology* [[paper](https://doi.org/10.54878/afez7v10)]
 - [2026] **Human Resource Transformation in the Digital Era** *IGI Global eBooks* [[paper](https://doi.org/10.4018/979-8-2600-1806-4.ch003)]
 - [2026] **Digital Technology and the Changing Nature of the Workplace on Performance Effectiveness of the Banking Sector in Bayelsa State of Nigeria** *JOURNAL OF BUSINESS AND AFRICAN ECONOMY* [[paper](https://doi.org/10.56201/jbae.vol.11.no7.2025.pg1.9)]
 - [2026] **REFRAMING GENERATION Y RETENTION IN THE DIGITAL WORKPLACE: THE BUFFERING ROLE OF IMMERSIVE TECHNOLOGY** *International Journal of Advanced Research* [[paper](https://doi.org/10.21474/ijar01/24171)]
@@ -3313,6 +3383,7 @@
 - [2026] **Engaging the Digital Workforce: A Study of Employee Engagement Practices and Organizational Effectiveness among IT Professionals** *Zenodo (CERN European Organization for Nuclear Research)* [[paper](https://doi.org/10.5281/zenodo.22773123)]
 - [2026] **MANAGING DIGITAL WORK STRESS IN HIGHER EDUCATION INSTITUTIONS:EXAMINING PSYCHOLOGICAL SAFETY, EMPLOYEE ENGAGEMENT, ANDINNOVATIVE WORK BEHAVIOR** *Proceedings of the International Conference on Rural Development and Entrepreneurship (ICORE)* [[paper](https://doi.org/10.32424/srn49p51)]
 - [2026] **DIGITAL COMPETENCE DEVELOPMENT AND EMPLOYABILITY OUTCOMES OF POLYTECHNIC GRADUATES IN NIGERIA: EVIDENCE FROM TECHNICAL AND VOCATIONAL EDUCATION INSTITUTIONS** *Journal of Human Social and Political Science Research* [[paper](https://doi.org/10.70382/sjhspsr.v13i6.0110)]
+- [2026] **Corporate digital responsibility (CDR): Enhancing employees’ perceived justice and organizational outcomes** *International Journal of Hospitality Management* [[paper](https://doi.org/10.1016/j.ijhm.2026.104865)]
 - [2026] **Careers and workplace digital transformation: A study among employees in China (Study 2)** *California Digital Library* [[paper](https://doi.org/10.48321/d1d1714f26)]
 - [2026] **Careers and workplace digital transformation: A study among employees in China (Study 1)** *California Digital Library* [[paper](https://doi.org/10.48321/d1b6d5da2e)]
 - [2026] **How Authentic Workplace Learning Shapes Vocational Students' Digital Occupational Competence: A Workplace-Embedded Competence Formation Framework** *International Journal of Academic Research in Business and Social Sciences* [[paper](https://doi.org/10.6007/ijarbss/v16-i7/28641)]
@@ -3773,6 +3844,7 @@
 - [2026] **Modality-Decoupled Federated Learning for Privacy-Preserving Embodied Intelligence in 6G** [[paper](https://arxiv.org/abs/2609.09591)]
 - [2026] **Similarity Weighted Aggregation with Global Differential Privacy for Federated Brain Lesion Segmentation** [[paper](https://arxiv.org/abs/2608.00872)]
 - [2026] **Differential Privacy in Feature Reconstruction Aided Federated Learning for Agent's Semantic Communication Model Update** [[paper](https://arxiv.org/abs/2608.19649)]
+- [2026] **SecureDrive-FL: Joint Differential Privacy and Gradient-Aware Selective Homomorphic Encryption for Federated Driver Monitoring** [[paper](https://arxiv.org/abs/2608.27108)]
 - [2026] **Federated Deep Learning for Privacy-Preserving Cardiovascular Disease Risk Prediction** [[paper](https://arxiv.org/abs/2607.08595)]
 - [2026] **Multi-Agent Privacy Game in Federated Learning: A Unified Mean-Field View** [[paper](https://arxiv.org/abs/2607.23029)]
 - [2026] **Federated Learning Architecture: Data Privacy and System Security Approaches** [[paper](https://arxiv.org/abs/2607.09391)]
@@ -3814,6 +3886,7 @@
 - [2026] **DPxFin: Adaptive Differential Privacy for Anti-Money Laundering Detection via Reputation-Weighted Federated Learning** [[paper](https://arxiv.org/abs/2603.19314)]
 - [2026] **Efficient Privacy-Preserving Sparse Matrix-Vector Multiplication Using Homomorphic Encryption** [[paper](https://arxiv.org/abs/2603.04742)]
 - [2026] **FedFG: Privacy-Preserving and Robust Federated Learning via Flow-Matching Generation** [[paper](https://arxiv.org/abs/2603.27986)]
+- [2026] **Resource-Adaptive Federated Text Generation with Differential Privacy** [[paper](https://arxiv.org/abs/2603.07027)]
 - [2026] **SRFed: Mitigating Poisoning Attacks in Privacy-Preserving Federated Learning with Heterogeneous Data** [[paper](https://arxiv.org/abs/2602.16480)]
 - [2026] **A Human-Centered Privacy Approach (HCP) to AI** [[paper](https://arxiv.org/abs/2602.04616)]
 - [2026] **Tackling Privacy Heterogeneity in Differentially Private Federated Learning** [[paper](https://arxiv.org/abs/2602.22633)]
@@ -3863,6 +3936,7 @@
 
 ##### 2026
 
+- [2026] **Personalized and differentially private federated learning for mobility data mining via the TrajectoryGuard framework** *PLoS ONE* [[paper](https://doi.org/10.1371/journal.pone.0358703)]
 - [2026] **Federated Learning-Based Battery Management System for Privacy-Preserving State-of-Health Estimation in Electric Vehicles** *Journal of Engineering and Computational Intelligence Review* [[paper](https://jecir.com/index.php/jecir/article/view/56)]
 - [2026] **AI-Driven Mental Health Intelligence and Early Intervention Framework: An Enterprise Platform Architecture Perspective** *International Journal of Intelligent Systems and Applications in Engineering* [[paper](https://ijisae.org/index.php/IJISAE/article/view/8496)]
 - [2026] **Predictive Care** *Advances in computational intelligence and robotics book series* [[paper](https://doi.org/10.4018/979-8-3373-6650-0.ch009)]

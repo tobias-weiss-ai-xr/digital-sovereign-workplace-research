@@ -161,8 +161,8 @@ This repo is designed to be driven by coding agents (OpenCode, Claude Code, …)
 
 ## 📊 Corpus Statistics
 
-**2972 papers** across **19 categories**.  
-Sources: **arXiv** 1013 (34%).  
+**3030 papers** across **19 categories**.  
+Sources: **arXiv** 1015 (33%).  
 
 ### Top categories
 
@@ -170,23 +170,23 @@ Sources: **arXiv** 1013 (34%).
 |----------|--------|--------|-|
 | open-source | **305** | 165 | ████████████ |
 | ai-llm | **282** | 274 | ███████████░ |
-| employee-wellbeing | **261** | 261 | ██████████░░ |
-| adoption-change | **252** | 252 | ██████████░░ |
+| employee-wellbeing | **267** | 267 | ███████████░ |
+| adoption-change | **260** | 260 | ██████████░░ |
 | interoperability | **238** | 154 | █████████░░░ |
-| survey | **221** | 221 | █████████░░░ |
-| evaluation | **204** | 202 | ████████░░░░ |
-| method | **195** | 195 | ████████░░░░ |
-| hybrid-work | **184** | 181 | ███████░░░░░ |
-| tooling | **180** | 180 | ███████░░░░░ |
-| public-sector | **154** | 154 | ██████░░░░░░ |
-| digital-transformation | **130** | 122 | █████░░░░░░░ |
-| federated-privacy | **101** | 101 | ████░░░░░░░░ |
-| collaboration | **79** | 73 | ███░░░░░░░░░ |
+| survey | **228** | 228 | █████████░░░ |
+| evaluation | **206** | 204 | ████████░░░░ |
+| method | **206** | 206 | ████████░░░░ |
+| tooling | **190** | 190 | ███████░░░░░ |
+| hybrid-work | **186** | 183 | ███████░░░░░ |
+| public-sector | **156** | 156 | ██████░░░░░░ |
+| digital-transformation | **134** | 126 | █████░░░░░░░ |
+| federated-privacy | **104** | 104 | ████░░░░░░░░ |
+| collaboration | **80** | 74 | ███░░░░░░░░░ |
 | data-sovereignty | **65** | 46 | ███░░░░░░░░░ |
 | security-compliance | **48** | 29 | ██░░░░░░░░░░ |
-| identity-access | **40** | 40 | ██░░░░░░░░░░ |
+| identity-access | **41** | 41 | ██░░░░░░░░░░ |
 | digital-workplace | **27** | 7 | █░░░░░░░░░░░ |
-| sme-adoption | **6** | 6 | █░░░░░░░░░░░ |
+| sme-adoption | **7** | 7 | █░░░░░░░░░░░ |
 
 ### By year
 
@@ -207,57 +207,57 @@ Sources: **arXiv** 1013 (34%).
 | 2023 | 49 | █░░░░░░░░░░░ |
 | 2024 | 79 | █░░░░░░░░░░░ |
 | 2025 | 274 | █░░░░░░░░░░░ |
-| 2026 | 2530 | ████████████ |
+| 2026 | 2588 | ████████████ |
 
 ### Momentum (hottest categories)
 
 | Category | Total | Rate | Recent | Score |
 |----------|-------|------|--------|-------|
-| Hybrid Work | 184 | 15.1/mo | 98% | 18098 |
-| Digital Transformation | 130 | 10.2/mo | 94% | 12194 |
+| Hybrid Work | 186 | 15.2/mo | 98% | 18298 |
+| Digital Transformation | 134 | 10.5/mo | 94% | 12594 |
 | Ai Llm | 282 | 22.8/mo | 97% | 6847 |
-| Collaboration | 79 | 6.1/mo | 92% | 1452 |
+| Collaboration | 80 | 6.2/mo | 92% | 1472 |
 | Data Sovereignty | 65 | 3.8/mo | 71% | 1121 |
 | Digital Workplace | 27 | 0.6/mo | 26% | 276 |
 | Security Compliance | 48 | 2.4/mo | 60% | 224 |
 | Interoperability | 238 | 12.8/mo | 65% | 221 |
 | Open Source | 305 | 13.8/mo | 54% | 186 |
-| Adoption Change | 252 | 21.0/mo | 100% | 100 |
-| Employee Wellbeing | 261 | 21.8/mo | 100% | 100 |
-| Federated Privacy | 101 | 8.4/mo | 100% | 100 |
-| Identity Access | 40 | 3.3/mo | 100% | 100 |
-| Method | 195 | 16.2/mo | 100% | 100 |
-| Public Sector | 154 | 12.8/mo | 100% | 100 |
-| Sme Adoption | 6 | 0.5/mo | 100% | 100 |
-| Survey | 221 | 18.4/mo | 100% | 100 |
-| Tooling | 180 | 15.0/mo | 100% | 100 |
-| Evaluation | 204 | 16.8/mo | 99% | 99 |
+| Adoption Change | 260 | 21.7/mo | 100% | 100 |
+| Employee Wellbeing | 267 | 22.2/mo | 100% | 100 |
+| Federated Privacy | 104 | 8.7/mo | 100% | 100 |
+| Identity Access | 41 | 3.4/mo | 100% | 100 |
+| Method | 206 | 17.2/mo | 100% | 100 |
+| Public Sector | 156 | 13.0/mo | 100% | 100 |
+| Sme Adoption | 7 | 0.6/mo | 100% | 100 |
+| Survey | 228 | 19.0/mo | 100% | 100 |
+| Tooling | 190 | 15.8/mo | 100% | 100 |
+| Evaluation | 206 | 17.0/mo | 99% | 99 |
 
 ### Trending keywords
 
 | Keyword | Papers | Burst |
 |---------|--------|-------|
-| employee well-being | 293 | 1.12 |
-| employee engagement | 145 | 1.12 |
-| psychological safety | 116 | 1.12 |
-| occupational health | 74 | 1.12 |
-| change management | 30 | 1.12 |
-| retrieval augmented | 13 | 1.12 |
-| self-hosted | 6 | 1.12 |
-| productivity | 328 | 1.11 |
+| productivity | 338 | 1.11 |
+| employee well-being | 299 | 1.11 |
+| employee engagement | 148 | 1.11 |
+| psychological safety | 119 | 1.11 |
+| occupational health | 77 | 1.11 |
+| change management | 30 | 1.11 |
+| retrieval augmented | 13 | 1.11 |
+| self-hosted | 6 | 1.11 |
 
 ### Top venues
 
 | Venue | Papers |
 |-------|--------|
-| Zenodo (CERN European Organization for Nuclear Research) | 205 |
+| Zenodo (CERN European Organization for Nuclear Research) | 212 |
 | Academy of Management Proceedings | 30 |
 | Routledge eBooks | 28 |
-| IGI Global eBooks | 20 |
+| IGI Global eBooks | 21 |
 | Iterative International Publishers eBooks | 19 |
+| Frontiers in Psychology | 17 |
 | Advances in computational intelligence and robotics book series | 17 |
-| Frontiers in Psychology | 16 |
-| Research Square | 15 |
+| Research Square | 16 |
 | Frontiers in Public Health | 15 |
 | International Journal For Multidisciplinary Research | 15 |
 

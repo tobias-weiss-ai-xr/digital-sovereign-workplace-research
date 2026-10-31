@@ -1,7 +1,7 @@
 # Literature Review
 
-**Generated:** 2026-10-30  
-**Corpus:** 2,972 papers across 19 categories
+**Generated:** 2026-10-31  
+**Corpus:** 3,030 papers across 19 categories
 
 > Synthesis of the corpus. Category insights are grounded in title/abstract analysis of the papers themselves.
 
@@ -13,15 +13,15 @@
 |------|----------|--------|
 | 1 | Open Source | 305 |
 | 2 | AI & Language Models | 282 |
-| 3 | Employee Well-being | 261 |
-| 4 | Adoption & Change | 252 |
+| 3 | Employee Well-being | 267 |
+| 4 | Adoption & Change | 260 |
 | 5 | Interoperability & Standards | 238 |
-| 6 | Surveys & Reviews | 221 |
-| 7 | Evaluation & Case Studies | 204 |
-| 8 | Methods | 195 |
+| 6 | Surveys & Reviews | 228 |
+| 7 | Evaluation & Case Studies | 206 |
+| 8 | Methods | 206 |
 
 **Time span:** 2003–2026 (median year 2019)
-**Dominant aspects:** Theory (1443), Application (655), Methods (435)
+**Dominant aspects:** Theory (1480), Application (658), Methods (445)
 
 ---
 
@@ -29,18 +29,18 @@
 
 | Category | Total | Last 12m | Prior 12m | Growth | 12-m share | Papers/mo |
 |----------|------:|---------:|----------:|-------:|----------:|----------:|
-| Hybrid Work | 184 | 181 | 1 | +18000% | 98% | 15.1 |
-| Digital Transformation | 130 | 122 | 1 | +12100% | 94% | 10.2 |
+| Hybrid Work | 186 | 183 | 1 | +18200% | 98% | 15.2 |
+| Digital Transformation | 134 | 126 | 1 | +12500% | 94% | 10.5 |
 | Ai Llm | 282 | 274 | 4 | +6750% | 97% | 22.8 |
-| Collaboration | 79 | 73 | 5 | +1360% | 92% | 6.1 |
+| Collaboration | 80 | 74 | 5 | +1380% | 92% | 6.2 |
 | Data Sovereignty | 65 | 46 | 4 | +1050% | 71% | 3.8 |
 | Digital Workplace | 27 | 7 | 2 | +250% | 26% | 0.6 |
 | Security Compliance | 48 | 29 | 11 | +164% | 60% | 2.4 |
 | Interoperability | 238 | 154 | 60 | +157% | 65% | 12.8 |
 | Open Source | 305 | 165 | 71 | +132% | 54% | 13.8 |
-| Adoption Change | 252 | 252 | 0 | — | 100% | 21.0 |
-| Employee Wellbeing | 261 | 261 | 0 | — | 100% | 21.8 |
-| Federated Privacy | 101 | 101 | 0 | — | 100% | 8.4 |
+| Adoption Change | 260 | 260 | 0 | — | 100% | 21.7 |
+| Employee Wellbeing | 267 | 267 | 0 | — | 100% | 22.2 |
+| Federated Privacy | 104 | 104 | 0 | — | 100% | 8.7 |
 
 ---
 
@@ -88,7 +88,7 @@
 
 ### Employee Well-being (`employee-wellbeing`)
 
-**Corpus size:** 261 papers
+**Corpus size:** 267 papers
 
 **Recent papers:**
 
@@ -100,7 +100,7 @@
 
 ### Adoption & Change (`adoption-change`)
 
-**Corpus size:** 252 papers
+**Corpus size:** 260 papers
 
 **Recent papers:**
 
@@ -124,7 +124,7 @@
 
 ### Surveys & Reviews (`survey`)
 
-**Corpus size:** 221 papers
+**Corpus size:** 228 papers
 
 **Recent papers:**
 
@@ -136,7 +136,7 @@
 
 ### Evaluation & Case Studies (`evaluation`)
 
-**Corpus size:** 204 papers
+**Corpus size:** 206 papers
 
 **Recent papers:**
 
@@ -148,7 +148,7 @@
 
 ### Methods (`method`)
 
-**Corpus size:** 195 papers
+**Corpus size:** 206 papers
 
 **Recent papers:**
 
@@ -158,21 +158,9 @@
 
 ---
 
-### Hybrid & Remote Work (`hybrid-work`)
-
-**Corpus size:** 184 papers
-
-**Recent papers:**
-
-- [2026-10] Experiencing Remote, Hybrid and In‐Office Work in the Canadian Public Sector: Evidence from a 9 — https://doi.org/10.1111/capa.70075
-- [2026-10] REMOTE WORK FATIGUE AND EMPLOYEE ENGAGEMENT IN HYBRID WORK ENVIRONMENTS: A REVIEW — https://doi.org/10.5281/zenodo.23205377
-- [2026-10] IMPACT OF REMOTE AND HYBRID WORK MODELS ON EMPLOYEE PRODUCTIVITY AND JOB SATISFACTION — https://doi.org/10.48047/ijss.5.9.2026.4
-
----
-
 ### Tooling & Platforms (`tooling`)
 
-**Corpus size:** 180 papers
+**Corpus size:** 190 papers
 
 **Recent papers:**
 
@@ -182,9 +170,21 @@
 
 ---
 
+### Hybrid & Remote Work (`hybrid-work`)
+
+**Corpus size:** 186 papers
+
+**Recent papers:**
+
+- [2026-10] Experiencing Remote, Hybrid and In‐Office Work in the Canadian Public Sector: Evidence from a 9 — https://doi.org/10.1111/capa.70075
+- [2026-10] REMOTE WORK FATIGUE AND EMPLOYEE ENGAGEMENT IN HYBRID WORK ENVIRONMENTS: A REVIEW — https://doi.org/10.5281/zenodo.23205377
+- [2026-10] IMPACT OF REMOTE AND HYBRID WORK MODELS ON EMPLOYEE PRODUCTIVITY AND JOB SATISFACTION — https://doi.org/10.48047/ijss.5.9.2026.4
+
+---
+
 ### Public Sector & Education (`public-sector`)
 
-**Corpus size:** 154 papers
+**Corpus size:** 156 papers
 
 **Recent papers:**
 
@@ -196,7 +196,7 @@
 
 ### Digital Transformation (`digital-transformation`)
 
-**Corpus size:** 130 papers
+**Corpus size:** 134 papers
 
 **Recent papers:**
 
@@ -208,7 +208,7 @@
 
 ### Federated & Privacy-Preserving (`federated-privacy`)
 
-**Corpus size:** 101 papers
+**Corpus size:** 104 papers
 
 **Recent papers:**
 
@@ -220,7 +220,7 @@
 
 ### Collaboration & Productivity (`collaboration`)
 
-**Corpus size:** 79 papers
+**Corpus size:** 80 papers
 
 **Recent papers:**
 
@@ -256,13 +256,13 @@
 
 ### Identity & Access (`identity-access`)
 
-**Corpus size:** 40 papers
+**Corpus size:** 41 papers
 
 **Recent papers:**
 
 - [2026-10] Understanding Workplace Needs and Constraints of Professionals with Chronic Illness — https://doi.org/10.1145/3797867.3841209
 - [2026-10] Editorial: Rethinking the role of social media in learning — https://doi.org/10.3389/feduc.2026.2015852
-- [2026-09] From space to signal: How identity-driven workplaces are reshaping corporate real estate strate — https://doi.org/10.69554/fjtk3261
+- [2026-10] Role of Leadership in Fostering Perceived Diversity and Inclusion Among University Staff: Evide — https://doi.org/10.54878/zcb3ss29
 
 ---
 
@@ -280,13 +280,13 @@
 
 ### SME Adoption (`sme-adoption`)
 
-**Corpus size:** 6 papers
+**Corpus size:** 7 papers
 
 **Recent papers:**
 
 - [2026-10] The impact and benefits of AI use in workplace tasks and firm-level value — https://doi.org/10.5281/zenodo.23385666
 - [2026-10] Navigating the Infrastructure-Innovation Gap — https://doi.org/10.4018/979-8-2600-0955-0.ch011
-- [2026-08] Artificial intelligence as a catalyst for leadership transformation and organizational performa — https://doi.org/10.1108/lodj-10-2025-0887
+- [2026-09] INTEGRATING ARTIFICIAL INTELLIGENCE INTO TRAINING PROJECT MANAGEMENT: A CASE STUDY ON THE ROLE  — https://hdl.handle.net/10316/124129
 
 ---
 
