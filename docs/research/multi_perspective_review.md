@@ -680,5 +680,10 @@ are identified as future work in §13.2.
 perspective represents a distinct disciplinary lens applied to the same
 document. Convergent themes indicate robust findings; divergent
 perspectives indicate areas requiring further research.*
+
+**Second review round:** A follow-up review of Rev 3 from the six
+remaining disciplines (OB, HE policy, STS, security, HCI, public policy)
+plus four new perspectives (EdTech, archival science, green IT, labour
+studies) is available in `multi_perspective_review_rev3.md`.
 MDEOF
 echo "Written"
