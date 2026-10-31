@@ -745,3 +745,20 @@ on the six disciplines not deep-integrated in Rev 3 plus four new
 disciplinary perspectives. It should be read alongside the first
 multi-perspective review (multi_perspective_review.md) for complete
 coverage.*
+---
+
+**Status update (Rev 5):** Deep analysis and structural reorganization
+completed. The paper now has 21 sections organized into 3 parts:
+- Part I (§1-8): Core argument (~720 lines)
+- Part II (§9-13): Disciplinary deep-dives at publication standard
+  (IS, CS, Law, Economics + synthesis)
+- Part III (§14-21): Additional disciplinary perspectives at framework
+  level (OB, HE policy, archival science, green IT, labour studies,
+  public policy, HCI + updated synthesis)
+
+Total: 2,790 lines. All 7 framework-level sections have been deepened
+with additional analytical content, frameworks, metrics, and
+cross-references. A "How to read this paper" guide and expanded
+conclusion have been added. The paper is now the most comprehensive
+DSW-for-universities document in the corpus. Remaining work: empirical
+validation (user research, cost data, security assessment).
