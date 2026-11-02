@@ -161,32 +161,32 @@ This repo is designed to be driven by coding agents (OpenCode, Claude Code, …)
 
 ## 📊 Corpus Statistics
 
-**3030 papers** across **19 categories**.  
-Sources: **arXiv** 1015 (33%).  
+**3569 papers** across **19 categories**.  
+Sources: **arXiv** 1324 (37%).  
 
 ### Top categories
 
 | Category | Papers | Recent | |
 |----------|--------|--------|-|
-| open-source | **305** | 165 | ████████████ |
-| ai-llm | **282** | 274 | ███████████░ |
-| employee-wellbeing | **267** | 267 | ███████████░ |
-| adoption-change | **260** | 260 | ██████████░░ |
-| interoperability | **238** | 154 | █████████░░░ |
-| survey | **228** | 228 | █████████░░░ |
-| evaluation | **206** | 204 | ████████░░░░ |
-| method | **206** | 206 | ████████░░░░ |
-| tooling | **190** | 190 | ███████░░░░░ |
-| hybrid-work | **186** | 183 | ███████░░░░░ |
-| public-sector | **156** | 156 | ██████░░░░░░ |
-| digital-transformation | **134** | 126 | █████░░░░░░░ |
-| federated-privacy | **104** | 104 | ████░░░░░░░░ |
-| collaboration | **80** | 74 | ███░░░░░░░░░ |
-| data-sovereignty | **65** | 46 | ███░░░░░░░░░ |
-| security-compliance | **48** | 29 | ██░░░░░░░░░░ |
-| identity-access | **41** | 41 | ██░░░░░░░░░░ |
-| digital-workplace | **27** | 7 | █░░░░░░░░░░░ |
-| sme-adoption | **7** | 7 | █░░░░░░░░░░░ |
+| ai-llm | **430** | 422 | ████████████ |
+| employee-wellbeing | **384** | 384 | ███████████░ |
+| open-source | **373** | 225 | ██████████░░ |
+| adoption-change | **263** | 263 | ███████░░░░░ |
+| interoperability | **254** | 160 | ███████░░░░░ |
+| survey | **253** | 253 | ███████░░░░░ |
+| method | **232** | 232 | ██████░░░░░░ |
+| evaluation | **210** | 208 | ██████░░░░░░ |
+| tooling | **199** | 199 | ██████░░░░░░ |
+| hybrid-work | **194** | 186 | █████░░░░░░░ |
+| federated-privacy | **184** | 184 | █████░░░░░░░ |
+| digital-transformation | **158** | 150 | ████░░░░░░░░ |
+| public-sector | **157** | 157 | ████░░░░░░░░ |
+| collaboration | **83** | 77 | ██░░░░░░░░░░ |
+| data-sovereignty | **70** | 46 | ██░░░░░░░░░░ |
+| security-compliance | **48** | 27 | █░░░░░░░░░░░ |
+| identity-access | **41** | 41 | █░░░░░░░░░░░ |
+| digital-workplace | **28** | 7 | █░░░░░░░░░░░ |
+| sme-adoption | **8** | 8 | █░░░░░░░░░░░ |
 
 ### By year
 
@@ -207,59 +207,59 @@ Sources: **arXiv** 1015 (33%).
 | 2023 | 49 | █░░░░░░░░░░░ |
 | 2024 | 79 | █░░░░░░░░░░░ |
 | 2025 | 274 | █░░░░░░░░░░░ |
-| 2026 | 2588 | ████████████ |
+| 2026 | 3113 | ████████████ |
 
 ### Momentum (hottest categories)
 
 | Category | Total | Rate | Recent | Score |
 |----------|-------|------|--------|-------|
-| Hybrid Work | 186 | 15.2/mo | 98% | 18298 |
-| Digital Transformation | 134 | 10.5/mo | 94% | 12594 |
-| Ai Llm | 282 | 22.8/mo | 97% | 6847 |
-| Collaboration | 80 | 6.2/mo | 92% | 1472 |
-| Data Sovereignty | 65 | 3.8/mo | 71% | 1121 |
-| Digital Workplace | 27 | 0.6/mo | 26% | 276 |
-| Security Compliance | 48 | 2.4/mo | 60% | 224 |
-| Interoperability | 238 | 12.8/mo | 65% | 221 |
-| Open Source | 305 | 13.8/mo | 54% | 186 |
-| Adoption Change | 260 | 21.7/mo | 100% | 100 |
-| Employee Wellbeing | 267 | 22.2/mo | 100% | 100 |
-| Federated Privacy | 104 | 8.7/mo | 100% | 100 |
+| Hybrid Work | 194 | 15.5/mo | 96% | 18596 |
+| Digital Transformation | 158 | 12.5/mo | 95% | 14995 |
+| Ai Llm | 430 | 35.2/mo | 98% | 10548 |
+| Collaboration | 83 | 6.4/mo | 93% | 1533 |
+| Data Sovereignty | 70 | 3.8/mo | 66% | 1116 |
+| Digital Workplace | 28 | 0.6/mo | 25% | 275 |
+| Open Source | 373 | 18.8/mo | 60% | 273 |
+| Interoperability | 254 | 13.3/mo | 63% | 198 |
+| Security Compliance | 48 | 2.2/mo | 56% | 164 |
+| Adoption Change | 263 | 21.9/mo | 100% | 100 |
+| Employee Wellbeing | 384 | 32.0/mo | 100% | 100 |
+| Federated Privacy | 184 | 15.3/mo | 100% | 100 |
 | Identity Access | 41 | 3.4/mo | 100% | 100 |
-| Method | 206 | 17.2/mo | 100% | 100 |
-| Public Sector | 156 | 13.0/mo | 100% | 100 |
-| Sme Adoption | 7 | 0.6/mo | 100% | 100 |
-| Survey | 228 | 19.0/mo | 100% | 100 |
-| Tooling | 190 | 15.8/mo | 100% | 100 |
-| Evaluation | 206 | 17.0/mo | 99% | 99 |
+| Method | 232 | 19.3/mo | 100% | 100 |
+| Public Sector | 157 | 13.1/mo | 100% | 100 |
+| Sme Adoption | 8 | 0.7/mo | 100% | 100 |
+| Survey | 253 | 21.1/mo | 100% | 100 |
+| Tooling | 199 | 16.6/mo | 100% | 100 |
+| Evaluation | 210 | 17.3/mo | 99% | 99 |
 
 ### Trending keywords
 
 | Keyword | Papers | Burst |
 |---------|--------|-------|
-| productivity | 338 | 1.11 |
-| employee well-being | 299 | 1.11 |
-| employee engagement | 148 | 1.11 |
-| psychological safety | 119 | 1.11 |
-| occupational health | 77 | 1.11 |
+| employee well-being | 353 | 1.11 |
+| employee engagement | 164 | 1.11 |
+| psychological safety | 130 | 1.11 |
+| occupational health | 89 | 1.11 |
 | change management | 30 | 1.11 |
-| retrieval augmented | 13 | 1.11 |
-| self-hosted | 6 | 1.11 |
+| retrieval augmented | 20 | 1.11 |
+| self-hosted | 8 | 1.11 |
+| productivity | 368 | 1.1 |
 
 ### Top venues
 
 | Venue | Papers |
 |-------|--------|
-| Zenodo (CERN European Organization for Nuclear Research) | 212 |
+| Zenodo (CERN European Organization for Nuclear Research) | 230 |
+| Routledge eBooks | 39 |
 | Academy of Management Proceedings | 30 |
-| Routledge eBooks | 28 |
-| IGI Global eBooks | 21 |
+| IGI Global eBooks | 22 |
+| Frontiers in Psychology | 19 |
 | Iterative International Publishers eBooks | 19 |
-| Frontiers in Psychology | 17 |
-| Advances in computational intelligence and robotics book series | 17 |
-| Research Square | 16 |
-| Frontiers in Public Health | 15 |
-| International Journal For Multidisciplinary Research | 15 |
+| Advances in computational intelligence and robotics book series | 18 |
+| Research Square | 17 |
+| Frontiers in Public Health | 17 |
+| International Journal For Multidisciplinary Research | 17 |
 
 ### Research gaps (thinnest cells)
 
@@ -271,7 +271,7 @@ Sources: **arXiv** 1015 (33%).
 | `identity-access/application` | 1 |
 | `public-sector/development` | 1 |
 
-*Generated 2026-10 by `scripts/standard_stats.py`.*
+*Generated 2026-11 by `scripts/standard_stats.py`.*
 
 <!-- END CORPUS STATISTICS -->
 
