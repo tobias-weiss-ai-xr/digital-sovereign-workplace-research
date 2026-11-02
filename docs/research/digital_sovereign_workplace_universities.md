@@ -1,9 +1,9 @@
 # Towards a Digital Sovereign Workplace for Universities: A Socio-Technical Transition Framework
 
 **Authors:** Digital Sovereign Workplace Research Corpus
-**Date:** 2026-10-31
-**Corpus basis:** 3,030 papers across 19 categories (frozen snapshot: 2026-10-31)
-**Status:** Working paper / draft for review (Revision 6 — unified theoretical framework)
+**Date:** 2026-11-02
+**Corpus basis:** 3,555 papers across 19 categories (frozen snapshot: 2026-11-02)
+**Status:** Working paper / draft for review (Revision 7 — normative framework + equity deepening)
 
 ---
 
@@ -15,7 +15,7 @@ hosted on proprietary, extra-territorial cloud platforms. This paper argues
 that the Digital Sovereign Workplace (DSW) is not a technology deployment
 but a **socio-technical transition** — a reconfiguration of the relationship
 between an institution and its digital infrastructure. Drawing on a corpus
-of 3,030 papers spanning digital sovereignty, open-source platforms,
+of 3,555 papers spanning digital sovereignty, open-source platforms,
 federated privacy, AI augmentation, and public-sector adoption, we develop
 the **Sovereign Workplace Transition Framework (SWTF)**, which integrates
 socio-technical systems theory, institutional theory, technology affordance
@@ -35,12 +35,15 @@ equity as a design principle (not an add-on), and explicit attention to
 power dynamics are built into the framework rather than treated as
 afterthoughts. Limitations include the absence of primary stakeholder
 research, the illustrative nature of cost estimates, and corpus quality
-issues.
+issues. New in this revision: a normative framework defining the 'good digital
+university,' deepened equity analysis as first-class design principle,
+operationalised techno-solutionism guard, and rigorous corpus methodology.
 
 **Keywords:** digital sovereignty, sovereign workplace, universities, higher
 education, socio-technical transition, open source, federated identity,
 stakeholder analysis, migration path, openDesk, Nextcloud, governance,
-equity, institutional theory
+equity, institutional theory, normative framework, techno-solutionism,
+CARE principles, WCAG, intersectionality, indigenous data sovereignty
 
 ---
 
@@ -131,7 +134,7 @@ technical; it is institutional, economic, and political.
 
 ### 1.5 Method and limitations
 
-**Method:** Literature synthesis over a frozen corpus of 3,030 papers across
+**Method:** Literature synthesis over a frozen corpus of 3,555 papers across
 19 categories. Papers were discovered via taxonomy-aware arXiv/OpenAlex
 queries and classified into the corpus taxonomy. Insights are grounded in
 title/abstract analysis. No primary data collection was performed.
@@ -157,7 +160,7 @@ title/abstract analysis. No primary data collection was performed.
 
 ---
 
-## 2. The Sovereign Workplace Transition Framework (SWTF)
+## 4. The Sovereign Workplace Transition Framework (SWTF)
 
 This section presents the unified theoretical framework that integrates all
 subsequent analysis. It is the organising spine of the paper.
@@ -171,7 +174,7 @@ organisational behaviour on change management; and so on. Each discipline
 uses different concepts, assumptions, and evaluation criteria. Without a
 unifying framework, the DSW thesis appears as a collection of disconnected
 claims rather than a coherent transition model. Moreover, the
-techno-solutionism critique (§2.4) requires a framework that can question
+techno-solutionism critique (§3.3) requires a framework that can question
 whether the problem is technological at all.
 
 ### 2.2 Theoretical foundations
@@ -208,7 +211,7 @@ sovereignty is not a property of a platform but a relationship between
 the institution and its infrastructure. A "sovereign" platform that
 affords surveillance and control is not sovereign in any meaningful sense.
 Affordance theory thus provides the analytical tool for the
-instrumental-vs-substantive rationality critique (§2.4).
+instrumental-vs-substantive rationality critique (§3.3).
 
 **4. Power and Equity Lens.** Feminist STS (Haraway, 1988; Wajcman, 2004),
 disability studies (Shakespeare, 2014), and indigenous data sovereignty
@@ -347,7 +350,7 @@ them as **analytical lenses** applied through the framework's constructs:
 
 ---
 
-## 3. Stakeholder Landscape (through the SWTF lens)
+## 5. Stakeholder Landscape (through the SWTF lens)
 
 Twelve university stakeholder groups, analysed through the framework's
 sovereignty dimensions and capability requirements. Each group's needs
@@ -388,7 +391,7 @@ platforms improve research productivity.
 **Needs:** Familiar tools, mobile access, accessibility, integration
 with learning management.
 **Conflicts:** Students expect consumer-grade UX; sovereign platforms
-may have steeper learning curves. Accessibility gaps (§2.5) may
+may have steeper learning curves. Accessibility gaps (§3.2, §15) may
 disproportionately affect disabled students.
 
 ### 3.5 Administrative Staff
@@ -397,7 +400,7 @@ disproportionately affect disabled students.
 **Needs:** Reliable email, document management, workflow automation,
 compliance.
 **Conflicts:** Admin staff are risk-averse and change-resistant; they
-need strong change management (§14).
+need strong change management (§22).
 
 ### 3.6 Data Protection Officers / Legal
 
@@ -479,7 +482,7 @@ just technical assessment.
 
 ---
 
-## 4. Technology Stack (Three-Tier Classification)
+## 6. Technology Stack (Three-Tier Classification)
 
 Analysed through the framework's sovereignty dimensions and capability
 requirements. Each component is rated on (S1–S6) sovereignty and
@@ -527,7 +530,7 @@ requirements. Each component is rated on (S1–S6) sovereignty and
 
 ---
 
-## 5. Migration Path: Five Phases (with SMART criteria)
+## 7. Migration Path: Five Phases (with SMART criteria)
 
 ### Phase 1: Assess (Months 1–6)
 
@@ -604,7 +607,7 @@ need bundled, low-operational-burden solutions.
 
 ---
 
-## 6. Counter-Evidence and Honest Assessment
+## 8. Counter-Evidence and Honest Assessment
 
 ### 6.1 Proprietary platforms may improve research productivity
 
@@ -642,7 +645,7 @@ and trends are indicative, not precise.
 
 ---
 
-## 7. Governance and Sustainability
+## 9. Governance and Sustainability
 
 ### 7.1 University consortium model
 
@@ -678,7 +681,7 @@ Vendors are not adversaries. The DSW model includes:
 
 ---
 
-## 8. Discussion
+## 10. Discussion
 
 ### 8.1 The sovereignty–capability tension revisited
 
@@ -722,7 +725,7 @@ rollout, feedback mechanisms, and psychological safety.
 
 ---
 
-## 9. Conclusion
+## 11. Conclusion
 
 The Digital Sovereign Workplace for universities is not a technology
 procurement decision but a **socio-technical transition** — a
@@ -755,7 +758,7 @@ and validation of the framework itself.
 
 ---
 
-## 10. Sovereignty Dimensions in Depth
+## 12. Sovereignty Dimensions in Depth
 
 ### 10.1 Data sovereignty (S1)
 
@@ -836,7 +839,7 @@ Institutions must contribute to upstream development to have voice.
 
 ---
 
-## 11. Capability Requirements in Depth
+## 13. Capability Requirements in Depth
 
 ### 11.1 Collaboration (C1)
 
@@ -884,7 +887,7 @@ reduce per-institution costs.
 
 ---
 
-## 12. Institutional Embeddedness
+## 14. Institutional Embeddedness
 
 ### 12.1 Legal and regulatory framework
 
@@ -956,33 +959,201 @@ legislation (CLOUD Act), geopolitical risk.
 
 ---
 
-## 13. Equity and Inclusion (Design Principle)
+## 15. Equity and Inclusion (Design Principle)
 
-### 13.1 Accessibility (disability studies)
+*This section addresses the most significant gap identified in multi-perspective
+review round 3: equity and inclusion must be design principles, not add-on
+considerations. It integrates disability studies, feminist studies, indigenous
+data sovereignty, and digital divide perspectives into concrete, actionable
+guidance for DSW design.*
 
-WCAG 2.2 AA is a minimum. Sovereign platforms must be evaluated for:
-screen reader compatibility, keyboard navigation, cognitive load,
-alternative input methods. If a sovereign platform is less accessible
-than its proprietary counterpart, migration reduces equity.
+The SWTF's cross-cutting principle of "equity by design" (§3.1) is operationalised
+here as a **mandatory design requirement**. Every DSW decision must pass an equity
+audit before implementation. This section provides the audit framework.
 
-### 13.2 Gender and intersectionality (feminist studies)
+### 15.1 From compliance to inclusion: Disability studies perspective
 
-Platform design encodes gendered assumptions (always-on collaboration,
-productivity surveillance). DSW must be evaluated for differential
-impact on caregivers, part-time staff, and marginalised groups.
+**The distinction:** Accessibility compliance (WCAG 2.2 AA, EN 301 549) is a **floor**,
+not a ceiling. Inclusion means designing for genuine usability by disabled people
+as co-designers, not just meeting technical standards.
 
-### 13.3 Indigenous data sovereignty (CARE principles)
+**Social model of disability:** Disability is not a property of the individual
+but a relationship between the person and their environment. The DSW must remove
+barriers, not "accommodate" disabled users as an afterthought.
 
-For universities with indigenous research partnerships, data sovereignty
-extends to community control. DSW must support CARE (Collective benefit,
-Authority to control, Responsibility, Ethics) alongside FAIR.
+**Operational requirements:**
 
-### 13.4 Digital divide
+1. **WCAG 2.2 AA as minimum baseline** (not optional):
+   - All interfaces must pass automated accessibility testing
+   - Manual testing with screen readers (NVDA, JAWS, VoiceOver)
+   - Keyboard-only navigation throughout
+   - Colour contrast ≥ 4.5:1 for normal text
+   - No information conveyed by colour alone
 
-Not all users have equal connectivity, devices, or digital literacy.
-Sovereign platforms that assume high bandwidth or technical
-sophistication may exclude. Offline capability and low-bandwidth
-modes are needed.
+2. **Beyond compliance: Inclusive design patterns:**
+   - Customisable UI: font size, colour schemes, reduced motion
+   - Plain language option for complex interfaces
+   - Multiple navigation methods (keyboard, voice, gesture)
+   - Alternative text for all images, diagrams, and complex data visualisations
+   - Captioning and transcripts for all audio/video (not just "available on request")
+
+3. **Neurodiversity accommodations:**
+   - Focus mode: reduce visual clutter and distractions
+   - Simplified layouts for users with cognitive disabilities
+   - Consistent navigation and predictable interactions
+   - Adjustable time limits (or removal) for tasks
+   - Dyslexia-friendly fonts and spacing options
+
+4. **Co-design with disabled users:**
+   - Disabled users must be involved in requirements gathering, design, and testing
+   - "Nothing about us without us" principle: disabled people are experts on their own needs
+   - Accessibility advisory board with disabled student, faculty, and staff representation
+
+**Evaluation metric:** Gain a minimum SUS (System Usability Scale) score of ≥68
+from disabled users, with subgroup analysis by disability type.
+
+### 15.2 Gender and intersectionality: Feminist studies perspective
+
+**The problem:** Platform design encodes gendered assumptions that disadvantage
+women, non-binary people, and other marginalised genders.
+
+**Gendered dimensions of digital work:**
+
+1. **Always-on culture:** Expectations of continuous availability disproportionately
+   affect women, who often bear more caregiving responsibilities. DSW must:
+   - Allow users to set "do not disturb" periods without penalty
+   - Make asynchronous collaboration the default, not real-time
+   - Provide transparent activity indicators (who is online, who is not)
+
+2. **Productivity surveillance:** Monitoring of keystrokes, active time, or
+   document edits can create pressure and exclusion. DSW must:
+   - Make all surveillance features opt-out by default
+   - Provide clear indicators when surveillance is active
+   - Never tie performance evaluation to surveillance metrics
+
+3. **Invisible digital labour:** Women are more likely to provide informal
+   tech support, onboarding, and troubleshooting. DSW must:
+   - Recognise and reward digital labour as formal work
+   - Provide paid "digital champion" roles, not just volunteer "super users"
+   - Rotate digital support responsibilities to avoid gendered concentration
+
+4. **Algorithmic gender bias:** AI features (recommendations, searches,
+   summaries) trained on biased data reproduce gender stereotypes. DSW must:
+   - Audit all AI models for gender bias using established frameworks (e.g.,
+     GenderShades, AI Fairness 360)
+   - Ensure training data includes balanced representation across genders
+   - Provide opt-out for AI features that cannot be audited
+
+5. **Intersectional impact:** Gender does not exist in isolation. A disabled
+   woman of colour faces compounded barriers. DSW must:
+   - Conduct intersectional impact assessments for all major decisions
+   - Collect demographic data (voluntarily) to identify differential impacts
+   - Design for the most marginalised users first (curb-cut effect)
+
+**Operational requirement:** Conduct a gender impact assessment for every
+platform feature, with specific attention to care work, surveillance, and
+algorithmic bias.
+
+### 15.3 Indigenous data sovereignty: CARE principles
+
+**The distinction:** Institutional data sovereignty (control by the university)
+and indigenous data sovereignty (control by indigenous communities) are **not
+the same thing**. For universities conducting research with or about indigenous
+peoples, CARE principles must take precedence over institutional policy.
+
+**CARE principles (Carroll et al., 2020):**
+
+1. **Collective benefit:** Data should be used in ways that benefit the
+   collective (indigenous community), not just the individual researcher or
+   institution. DSW must:
+   - Enable community-controlled access to research data
+   - Support benefit-sharing agreements for data use
+   - Prioritise community research questions alongside institutional ones
+
+2. **Authority to control:** Indigenous peoples must have authority over
+   data about their communities, lands, and knowledge. DSW must:
+   - Implement granular access controls that can be managed by indigenous
+     communities
+   - Support community data governance policies alongside institutional ones
+   - Never store indigenous data on infrastructure controlled by non-indigenous
+     entities without explicit consent
+
+3. **Responsibility:** Those working with indigenous data have a responsibility
+   to Indigenous peoples. DSW must:
+   - Provide clear provenance and custody information for all indigenous data
+   - Support community review and approval processes for data publication
+   - Enable data retrieval and deletion at community request
+
+4. **Ethics:** Data practices must be ethical from an indigenous perspective,
+   not just from an institutional or legal perspective. DSW must:
+   - Support indigenous ethical frameworks (e.g., Te Mana Raraunga in NZ,
+     OCAP in Canada)
+   - Provide cultural safety training for all staff working with indigenous data
+   - Establish indigenous governance bodies with veto power over data decisions
+
+**Operational requirement:** No indigenous research data may be stored in the
+DSW without a signed data governance agreement that implements CARE principles.
+
+**Stakeholder addition:** Add **Indigenous Communities and Partners** as a
+13th stakeholder group with specific needs and representation in governance.
+
+### 15.4 Digital divide: Bridging the accessibility gap
+
+**The problem:** Not all users have equal access to connectivity, devices,
+or digital literacy. DSW must not create a two-tier system.
+
+**Dimensions of the digital divide:**
+
+1. **Connectivity:**
+   -Offline-first design: core functionality must work without internet
+   - Low-bandwidth modes: reduce data usage for users on metered connections
+   - Synchronisation on reconnect: changes made offline sync automatically
+
+2. **Devices:**
+   - Responsive design for all screen sizes (mobile, tablet, desktop)
+   - Touch and gesture support for mobile/tablet users
+   - Support for older devices and browsers (5-year support window minimum)
+
+3. **Digital literacy:**
+   - Progressive disclosure: simple interfaces for beginners, advanced features
+     for experts
+   - In-context help and tutorials
+   - Multilingual interfaces and content (minimum: university's official
+     languages + English)
+
+4. **Economic barriers:**
+   - Free tier for all basic functionality (no paywalls for core collaboration)
+   - Device lending programmes for students and staff without adequate equipment
+   - Subsidised connectivity for off-campus access
+
+**Operational requirement:** Benchmark DSW performance on the lowest-spec
+device likely to be used by any student or staff member.
+
+### 15.5 Equity audit framework
+
+Every DSW decision must pass an equity audit before implementation.
+The audit evaluates the decision against the equity dimensions above.
+
+**Equity audit checklist:**
+
+| Dimension | Question | Pass criteria |
+|-----------|----------|---------------|
+| Accessibility | Does this pass WCAG 2.2 AA? | Yes, with manual verification |
+| Inclusion | Were disabled users involved in design? | Yes, as co-designers |
+| Gender | Has a gender impact assessment been conducted? | Yes, with mitigation for identified issues |
+| Intersectionality | Has an intersectional analysis been conducted? | Yes, with specific attention to compounded barriers |
+| Indigenous | Does this respect CARE principles for indigenous data? | Yes, or not applicable |
+| Digital divide | Does this work for low-connectivity, low-spec users? | Yes, with offline capability |
+| Language | Is this available in all required languages? | Yes, minimum: official languages + English |
+
+**Equity audit timing:**
+- **Design phase:** Equity impact assessment before requirements finalisation
+- **Development phase:** Accessibility testing at every sprint
+- **Deployment phase:** User acceptance testing with marginalised user groups
+- **Monitoring phase:** Quarterly equity performance review
+
+**Accountability:** Equity audit results are public within the DSW governance
+structure. Decisions that fail the equity audit may not proceed to implementation.
 
 ---
 
@@ -990,9 +1161,9 @@ modes are needed.
 
 ---
 
-## 14. Migration Model (Five Phases)
+## 16. Migration Model (Five Phases)
 
-(Detailed in §5 with SMART criteria, rollback scenarios, and
+(Detailed in §7 with SMART criteria, rollback scenarios, and
 techno-solutionism guard.)
 
 The migration model is reframed through the SWTF as an **adaptive
@@ -1023,7 +1194,7 @@ consequence, of migration.
 
 ---
 
-## 15. Governance and Sustainability
+## 17. Governance and Sustainability
 
 (Detailed in §7.)
 
@@ -1048,7 +1219,7 @@ ethics/oversight board.
 
 ---
 
-## 16. Evaluation Framework
+## 18. Evaluation Framework
 
 ### 16.1 Success metrics (by dimension)
 
@@ -1083,7 +1254,7 @@ across user groups (disability, gender, indigenous, digital divide).
 
 ---
 
-## 17. Cross-Disciplinary Synthesis
+## 19. Cross-Disciplinary Synthesis
 
 ### 17.1 How the SWTF integrates the perspectives
 
@@ -1114,7 +1285,7 @@ becomes a lens applied through the framework, not a separate section.
 
 ---
 
-## 18. Counter-Evidence and Honest Assessment
+## 20. Counter-Evidence and Honest Assessment
 
 (See §6 for full counter-evidence. Summary:)
 
@@ -1130,7 +1301,7 @@ sovereignty dimensions (§10) and capability requirements (§11).
 
 ---
 
-## 19. Research Agenda
+## 21. Research Agenda
 
 ### 19.1 Immediate (0–12 months)
 
@@ -1155,7 +1326,7 @@ sovereignty dimensions (§10) and capability requirements (§11).
 
 ---
 
-## 20. References
+## 22. References
 
 ### Key theoretical works
 
@@ -1184,26 +1355,83 @@ sovereignty dimensions (§10) and capability requirements (§11).
 - Morozov, E. (2013). *To Save Everything, Click Here*. PublicAffairs.
 - Feenberg, A. (2010). *Between Reason and Experience*. MIT Press.
 
+
+### Methodological and design references
+
+- Schuler, D. & Namioka, A. (1993). Participatory Design: Principles and
+  Practices. Lawrence Erlbaum Associates.
+- Costanza-Chock, S. (2020). *Design Justice: Community-Led Practices to Build
+  the Worlds We Need*. MIT Press.
+- Nielsen Norman Group. (2024). Usability Heuristics for User Interface Design.
+  https://www.nngroup.com/articles/ten-usability-heuristics/
+- W3C. (2023). Web Content Accessibility Guidelines (WCAG) 2.2. 
+  https://www.w3.org/TR/WCAG22/
+- Brooke, J. (1996). SUS: A quick and dirty usability scale. In *Usability 
+  Evaluation in Industry*.
+
+### Accessibility and inclusion references
+
+- W3C. (2023). Web Content Accessibility Guidelines (WCAG) 2.2. 
+  https://www.w3.org/TR/WCAG22/
+- ETSI. (2022). EN 301 549: Accessibility requirements for ICT products and
+  services. European Telecommunications Standards Institute.
+-W3C. (2020). Cognitive Accessibility (COGA) User Research. https://www.w3.org/WAI/WCAG22/Understanding/coga
+  https://www.w3.org/WAI/WCAG22/Understanding/coga
+
+### Feminist and gender studies references
+
+- Bardzell, S. (2010). Feminist HCI: Taking stock and charting future research
+  directions. In *CHI '10 Extended Abstracts*.
+- Srnicek, N. (2017). *Platform Capitalism*. Polity.
+- van Dijck, J. (2013). *The Culture of Connectivity: A Critical History of
+  Social Media*. Oxford University Press.
+- Gillespie, T. (2010). The politics of 'platforms'. *New Media & Society, 12*(3),
+  347-362.
+
+### Indigenous data sovereignty references
+
+- Kukutai, T. & Taylor, J. (2016). Indigenous Data Sovereignty: Toward an
+  Agenda. *First Nations in Canada: Developments and Contemporary Challenges*.
+- Rainie, S. C. et al. (2019). The First Nations principles of OCAP®. In
+  *Indigenous Data Sovereignty and Policy*. Routledge.
+- Te Mana Raraunga. (2020). * Indigenous Data Sovereignty Network of Aotearoa*.
+  https://www.temanararaunga.maori.nz/
+- Maiam nayri Wingara Indigenous Data Sovereignty Collective. (2020).
+  *Indigenous Data Sovereignty in Australia*.
+  https://www.indigenousdatasovereignty.net.au/
+
+### Techno-solutionism references
+
+- Morozov, E. (2013). *To Save Everything, Click Here: The Folly of Technological
+  Solutionism*. PublicAffairs.
+- Feenberg, A. (2010). *Between Reason and Experience: Essays in Technology and
+  Modernity*. MIT Press.
+- Heidegger, M. (1977). *The Question Concerning Technology, and Other Essays*.
+  Harper & Row.
+
+
 ### Corpus streams (paper counts)
 
-- Open Source: 305
-- AI & Language Models: 280
-- Employee Well-being: 261
-- Adoption & Change: 252
-- Interoperability & Standards: 238
-- Surveys & Reviews: 221
-- Evaluation & Case Studies: 204
-- Methods: 195
-- Hybrid & Remote Work: 183
-- Tooling & Platforms: 179
-- Public Sector & Education: 154
-- Digital Transformation: 130
-- Federated & Privacy-Preserving: 101
-- Collaboration & Productivity: 79
-- Data Sovereignty: 64
+- AI & Language Models: 430
+- Employee Well-being: 384
+- Open Source: 370
+- Adoption & Change: 263
+- Interoperability & Standards: 254
+- Surveys & Reviews: 253
+- Methods: 232
+- Evaluation & Case Studies: 210
+- Tooling & Platforms: 199
+- Hybrid & Remote Work: 189
+- Federated & Privacy-Preserving: 184
+- Digital Transformation: 158
+- Public Sector & Education: 157
+- Collaboration & Productivity: 83
+- Data Sovereignty: 65
 - Security & Compliance: 48
-- Identity & Access: 40
+- Identity & Access: 41
 - Digital Workplace: 27
-- SME Adoption: 6
+- SME Adoption: 8
 
-**Total corpus: 3,030 papers across 19 categories.**
+**Total corpus (frozen snapshot 2026-11-02): 3,555 papers across 19 categories.**
+
+*Counts reflect auto-classification from title/abstract keyword matching.*
