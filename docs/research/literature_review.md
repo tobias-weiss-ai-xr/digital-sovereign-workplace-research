@@ -1,7 +1,7 @@
 # Literature Review
 
 **Generated:** 2026-11-02  
-**Corpus:** 3,569 papers across 19 categories
+**Corpus:** 3,555 papers across 19 categories
 
 > Synthesis of the corpus. Category insights are grounded in title/abstract analysis of the papers themselves.
 
@@ -13,7 +13,7 @@
 |------|----------|--------|
 | 1 | AI & Language Models | 430 |
 | 2 | Employee Well-being | 384 |
-| 3 | Open Source | 373 |
+| 3 | Open Source | 370 |
 | 4 | Adoption & Change | 263 |
 | 5 | Interoperability & Standards | 254 |
 | 6 | Surveys & Reviews | 253 |
@@ -21,7 +21,7 @@
 | 8 | Evaluation & Case Studies | 210 |
 
 **Time span:** 2003–2026 (median year 2019)
-**Dominant aspects:** Theory (1633), Application (885), Methods (566)
+**Dominant aspects:** Theory (1630), Application (874), Methods (566)
 
 ---
 
@@ -29,13 +29,13 @@
 
 | Category | Total | Last 12m | Prior 12m | Growth | 12-m share | Papers/mo |
 |----------|------:|---------:|----------:|-------:|----------:|----------:|
-| Hybrid Work | 194 | 186 | 1 | +18500% | 96% | 15.5 |
+| Hybrid Work | 189 | 186 | 1 | +18500% | 98% | 15.5 |
 | Digital Transformation | 158 | 150 | 1 | +14900% | 95% | 12.5 |
 | Ai Llm | 430 | 422 | 4 | +10450% | 98% | 35.2 |
 | Collaboration | 83 | 77 | 5 | +1440% | 93% | 6.4 |
-| Data Sovereignty | 70 | 46 | 4 | +1050% | 66% | 3.8 |
-| Digital Workplace | 28 | 7 | 2 | +250% | 25% | 0.6 |
-| Open Source | 373 | 225 | 72 | +212% | 60% | 18.8 |
+| Data Sovereignty | 65 | 46 | 4 | +1050% | 71% | 3.8 |
+| Digital Workplace | 27 | 7 | 2 | +250% | 26% | 0.6 |
+| Open Source | 370 | 225 | 72 | +212% | 61% | 18.8 |
 | Interoperability | 254 | 160 | 68 | +135% | 63% | 13.3 |
 | Security Compliance | 48 | 27 | 13 | +108% | 56% | 2.2 |
 | Adoption Change | 263 | 263 | 0 | — | 100% | 21.9 |
@@ -88,7 +88,7 @@
 
 ### Open Source (`open-source`)
 
-**Corpus size:** 373 papers
+**Corpus size:** 370 papers
 
 **Recent papers:**
 
@@ -172,7 +172,7 @@
 
 ### Hybrid & Remote Work (`hybrid-work`)
 
-**Corpus size:** 194 papers
+**Corpus size:** 189 papers
 
 **Recent papers:**
 
@@ -232,7 +232,7 @@
 
 ### Data Sovereignty (`data-sovereignty`)
 
-**Corpus size:** 70 papers
+**Corpus size:** 65 papers
 
 **Recent papers:**
 
@@ -268,7 +268,7 @@
 
 ### Digital Workplace (`digital-workplace`)
 
-**Corpus size:** 28 papers
+**Corpus size:** 27 papers
 
 **Recent papers:**
 

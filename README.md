@@ -161,7 +161,7 @@ This repo is designed to be driven by coding agents (OpenCode, Claude Code, …)
 
 ## 📊 Corpus Statistics
 
-**3569 papers** across **19 categories**.  
+**3555 papers** across **19 categories**.  
 Sources: **arXiv** 1324 (37%).  
 
 ### Top categories
@@ -170,22 +170,22 @@ Sources: **arXiv** 1324 (37%).
 |----------|--------|--------|-|
 | ai-llm | **430** | 422 | ████████████ |
 | employee-wellbeing | **384** | 384 | ███████████░ |
-| open-source | **373** | 225 | ██████████░░ |
+| open-source | **370** | 225 | ██████████░░ |
 | adoption-change | **263** | 263 | ███████░░░░░ |
 | interoperability | **254** | 160 | ███████░░░░░ |
 | survey | **253** | 253 | ███████░░░░░ |
 | method | **232** | 232 | ██████░░░░░░ |
 | evaluation | **210** | 208 | ██████░░░░░░ |
 | tooling | **199** | 199 | ██████░░░░░░ |
-| hybrid-work | **194** | 186 | █████░░░░░░░ |
+| hybrid-work | **189** | 186 | █████░░░░░░░ |
 | federated-privacy | **184** | 184 | █████░░░░░░░ |
 | digital-transformation | **158** | 150 | ████░░░░░░░░ |
 | public-sector | **157** | 157 | ████░░░░░░░░ |
 | collaboration | **83** | 77 | ██░░░░░░░░░░ |
-| data-sovereignty | **70** | 46 | ██░░░░░░░░░░ |
+| data-sovereignty | **65** | 46 | ██░░░░░░░░░░ |
 | security-compliance | **48** | 27 | █░░░░░░░░░░░ |
 | identity-access | **41** | 41 | █░░░░░░░░░░░ |
-| digital-workplace | **28** | 7 | █░░░░░░░░░░░ |
+| digital-workplace | **27** | 7 | █░░░░░░░░░░░ |
 | sme-adoption | **8** | 8 | █░░░░░░░░░░░ |
 
 ### By year
@@ -213,13 +213,13 @@ Sources: **arXiv** 1324 (37%).
 
 | Category | Total | Rate | Recent | Score |
 |----------|-------|------|--------|-------|
-| Hybrid Work | 194 | 15.5/mo | 96% | 18596 |
+| Hybrid Work | 189 | 15.5/mo | 98% | 18598 |
 | Digital Transformation | 158 | 12.5/mo | 95% | 14995 |
 | Ai Llm | 430 | 35.2/mo | 98% | 10548 |
 | Collaboration | 83 | 6.4/mo | 93% | 1533 |
-| Data Sovereignty | 70 | 3.8/mo | 66% | 1116 |
-| Digital Workplace | 28 | 0.6/mo | 25% | 275 |
-| Open Source | 373 | 18.8/mo | 60% | 273 |
+| Data Sovereignty | 65 | 3.8/mo | 71% | 1121 |
+| Digital Workplace | 27 | 0.6/mo | 26% | 276 |
+| Open Source | 370 | 18.8/mo | 61% | 273 |
 | Interoperability | 254 | 13.3/mo | 63% | 198 |
 | Security Compliance | 48 | 2.2/mo | 56% | 164 |
 | Adoption Change | 263 | 21.9/mo | 100% | 100 |
@@ -237,14 +237,14 @@ Sources: **arXiv** 1324 (37%).
 
 | Keyword | Papers | Burst |
 |---------|--------|-------|
-| employee well-being | 353 | 1.11 |
-| employee engagement | 164 | 1.11 |
-| psychological safety | 130 | 1.11 |
-| occupational health | 89 | 1.11 |
-| change management | 30 | 1.11 |
-| retrieval augmented | 20 | 1.11 |
-| self-hosted | 8 | 1.11 |
 | productivity | 368 | 1.1 |
+| employee well-being | 353 | 1.1 |
+| employee engagement | 164 | 1.1 |
+| psychological safety | 130 | 1.1 |
+| occupational health | 89 | 1.1 |
+| change management | 30 | 1.1 |
+| retrieval augmented | 20 | 1.1 |
+| self-hosted | 8 | 1.1 |
 
 ### Top venues
 

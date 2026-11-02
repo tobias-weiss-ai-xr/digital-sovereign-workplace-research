@@ -166,10 +166,6 @@
 
 - [2013] **Environmental awareness in the workplace** *Abertay Research Portal (Abertay University)* [[paper](https://rke.abertay.ac.uk/ws/files/15408373/ChedjouJouontso_2013_Environmental_awareness_in_the_workplace_PhD.pdf)]
 
-##### 
-
-- [] **3D Heterogeneous technologies for Digital secured &amp; sovereign solutions** [[paper](https://doi.org/10.70675/20d92b0az7007z4612z9207za3fbbb28313a)]
-
 [⬆ Back to top](#paper-list)
 
 #### Systems
@@ -271,11 +267,6 @@
 
 - [2013] **Complex modeling and analysis of workplace collaboration data** *2013 International Conference on Collaboration Technologies and Systems (CTS)* [[paper](https://doi.org/10.1109/cts.2013.6567289)]
 
-##### 
-
-- [] **International Collaboration of Arab Scientists** *Science, Development, and Sovereignty in the Arab World* [[paper](https://doi.org/10.1057/9781137020987.0011)]
-- [] **Scientific Collaboration in the Arab World** *Science, Development, and Sovereignty in the Arab World* [[paper](https://doi.org/10.1057/9781137020987.0010)]
-
 [⬆ Back to top](#paper-list)
 
 #### Application
@@ -291,12 +282,6 @@
 - [2017] **Bibliography** *Virtualization and Private Cloud with VMware Cloud Suite* [[paper](https://doi.org/10.1201/9781315225777-16)]
 - [2017] **vCloud Director** *Virtualization and Private Cloud with VMware Cloud Suite* [[paper](https://doi.org/10.1201/9781315225777-12)]
 - [2017] **Front Matter** *Virtualization and Private Cloud with VMware Cloud Suite* [[paper](https://doi.org/10.1201/9781315225777-1)]
-
-##### 
-
-- [] **DORA Compliance Readiness: A Comparative Architecture and Cost/Performance Analysis of AWS European Sovereign Cloud and Google Cloud Sovereign Solutions for EU Financial Institutions** [[paper](https://doi.org/10.2139/ssrn.6967418)]
-- [] **From Sovereign Cloud to Data-Centric Sovereignty Reframing digital sovereignty in public-sector Cloud Governance** [[paper](https://doi.org/10.2139/ssrn.6172067)]
-- [] **Sovereign Cloud Architectures for AI and Confidential Computing** [[paper](https://doi.org/10.2139/ssrn.6324759)]
 
 [⬆ Back to top](#paper-list)
 
@@ -1186,12 +1171,6 @@
 ##### 2005
 
 - [2005] **Learning-Based Computer Vision with Intels Open Source Computer Vision Library** *Understanding the Platform Requirements of Emerging Enterprise Solutions* [[paper](https://doi.org/10.1535/itj.0902.03)]
-
-##### 
-
-- [] **Improving the collaboration ability among SMEs by developing an open source based collaboration tool** *Enterprise Interoperability II* [[paper](https://doi.org/10.1007/978-1-84628-858-6_26)]
-- [] **Designing Open-Source OMIS Environment for Virtual Teams to Support Inter-Enterprise Collaboration** *Social, Managerial, and Organizational Dimensions of Enterprise Information Systems* [[paper](https://doi.org/10.4018/978-1-60566-856-7.ch014)]
-- [] **An Open-Source Cognitive Automation Framework for Adaptive Data Capture and Cross-Platform Enterprise Syncing** [[paper](https://doi.org/10.2139/ssrn.7537268)]
 
 [⬆ Back to top](#paper-list)
 
@@ -3111,14 +3090,6 @@
 - [2024] **Introduction to Remote and
                         Hybrid Work** *Remote and Hybrid Work* [[paper](https://doi.org/10.1093/wentk/9780197684955.003.0002)]
 - [2024] **The Worker’s Experience of Remote and Hybrid Work** *Remote and Hybrid Work* [[paper](https://doi.org/10.1093/wentk/9780197684955.003.0004)]
-
-##### 
-
-- [] **Internet Based Collaboration Tools** *Remote Work and Collaboration* [[paper](https://doi.org/10.4018/978-1-5225-1918-8.ch006)]
-- [] **Fostering Social Innovation through E-Collaboration** *Remote Work and Collaboration* [[paper](https://doi.org/10.4018/978-1-5225-1918-8.ch003)]
-- [] **The Impact of Remote Work on Team Collaboration and Communication** [[paper](https://doi.org/10.2139/ssrn.5258200)]
-- [] **Exploring the Barriers to Electronic Collaboration** *Remote Work and Collaboration* [[paper](https://doi.org/10.4018/978-1-5225-1918-8.ch004)]
-- [] **Remote and Hybrid Work and Productivity** [[paper](https://doi.org/10.2139/ssrn.5790202)]
 
 [⬆ Back to top](#paper-list)
 

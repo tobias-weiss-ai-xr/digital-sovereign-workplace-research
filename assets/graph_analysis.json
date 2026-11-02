@@ -67,7 +67,7 @@
   {
    "id": "data-sovereignty",
    "name": "Data Sovereignty",
-   "count": 70,
+   "count": 65,
    "trajectory": {
     "2013": 1,
     "2016": 3,
@@ -81,13 +81,13 @@
    "momentum": {
     "id": "data-sovereignty",
     "name": "Data Sovereignty",
-    "total": 70,
+    "total": 65,
     "recent": 46,
     "prior": 4,
     "growth_pct": 1050.0,
-    "recent_share": 0.657,
+    "recent_share": 0.708,
     "papers_per_month": 3.8,
-    "score": 1115.7
+    "score": 1120.8
    }
   },
   {
@@ -117,7 +117,7 @@
   {
    "id": "digital-workplace",
    "name": "Digital Workplace",
-   "count": 28,
+   "count": 27,
    "trajectory": {
     "2013": 1,
     "2018": 4,
@@ -132,13 +132,13 @@
    "momentum": {
     "id": "digital-workplace",
     "name": "Digital Workplace",
-    "total": 28,
+    "total": 27,
     "recent": 7,
     "prior": 2,
     "growth_pct": 250.0,
-    "recent_share": 0.25,
+    "recent_share": 0.259,
     "papers_per_month": 0.6,
-    "score": 275.0
+    "score": 275.9
    }
   },
   {
@@ -204,7 +204,7 @@
   {
    "id": "hybrid-work",
    "name": "Hybrid & Remote Work",
-   "count": 194,
+   "count": 189,
    "trajectory": {
     "2024": 2,
     "2025": 5,
@@ -213,13 +213,13 @@
    "momentum": {
     "id": "hybrid-work",
     "name": "Hybrid Work",
-    "total": 194,
+    "total": 189,
     "recent": 186,
     "prior": 1,
     "growth_pct": 18500.0,
-    "recent_share": 0.959,
+    "recent_share": 0.984,
     "papers_per_month": 15.5,
-    "score": 18595.9
+    "score": 18598.4
    }
   },
   {
@@ -286,7 +286,7 @@
   {
    "id": "open-source",
    "name": "Open Source",
-   "count": 373,
+   "count": 370,
    "trajectory": {
     "2005": 1,
     "2007": 1,
@@ -301,13 +301,13 @@
    "momentum": {
     "id": "open-source",
     "name": "Open Source",
-    "total": 373,
+    "total": 370,
     "recent": 225,
     "prior": 72,
     "growth_pct": 212.5,
-    "recent_share": 0.603,
+    "recent_share": 0.608,
     "papers_per_month": 18.8,
-    "score": 272.8
+    "score": 273.3
    }
   },
   {
@@ -414,7 +414,7 @@
   {
    "id": "application",
    "name": "Application",
-   "count": 885
+   "count": 874
   },
   {
    "id": "development",
@@ -449,7 +449,7 @@
   {
    "id": "theory",
    "name": "Theory",
-   "count": 1633
+   "count": 1630
   }
  ],
  "timeline": [
@@ -18293,60 +18293,60 @@
  ],
  "keyword_bursts": [
   {
+   "keyword": "productivity",
+   "recent": 368,
+   "total": 370,
+   "burst_score": 1.1,
+   "recent_share": 0.114
+  },
+  {
    "keyword": "employee well-being",
    "recent": 353,
    "total": 353,
-   "burst_score": 1.11,
+   "burst_score": 1.1,
    "recent_share": 0.1093
   },
   {
    "keyword": "employee engagement",
    "recent": 164,
    "total": 164,
-   "burst_score": 1.11,
+   "burst_score": 1.1,
    "recent_share": 0.0508
   },
   {
    "keyword": "psychological safety",
    "recent": 130,
    "total": 130,
-   "burst_score": 1.11,
+   "burst_score": 1.1,
    "recent_share": 0.0403
   },
   {
    "keyword": "occupational health",
    "recent": 89,
    "total": 89,
-   "burst_score": 1.11,
+   "burst_score": 1.1,
    "recent_share": 0.0276
   },
   {
    "keyword": "change management",
    "recent": 30,
    "total": 30,
-   "burst_score": 1.11,
+   "burst_score": 1.1,
    "recent_share": 0.0093
   },
   {
    "keyword": "retrieval augmented",
    "recent": 20,
    "total": 20,
-   "burst_score": 1.11,
+   "burst_score": 1.1,
    "recent_share": 0.0062
   },
   {
    "keyword": "self-hosted",
    "recent": 8,
    "total": 8,
-   "burst_score": 1.11,
-   "recent_share": 0.0025
-  },
-  {
-   "keyword": "productivity",
-   "recent": 368,
-   "total": 371,
    "burst_score": 1.1,
-   "recent_share": 0.114
+   "recent_share": 0.0025
   },
   {
    "keyword": "workplace",
@@ -18365,21 +18365,21 @@
   {
    "keyword": "hybrid work",
    "recent": 235,
-   "total": 239,
+   "total": 238,
    "burst_score": 1.09,
    "recent_share": 0.0728
   },
   {
    "keyword": "remote work",
    "recent": 177,
-   "total": 180,
+   "total": 179,
    "burst_score": 1.09,
    "recent_share": 0.0548
   },
   {
    "keyword": "review",
    "recent": 706,
-   "total": 725,
+   "total": 723,
    "burst_score": 1.08,
    "recent_share": 0.2186
   },

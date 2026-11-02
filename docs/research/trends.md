@@ -1,27 +1,27 @@
 # Trends (12-Month View)
 
 **Generated:** 2026-11-02  
-**Window:** since 2025-11 — 3229 of 3569 papers
+**Window:** since 2025-11 — 3229 of 3555 papers
 
 ## 🔥 Keyword Bursts
 
 | Keyword | Recent | Total | Burst |
 |---------|--------|-------|-------|
 | workplace | 2071 | 2097 | 1.1× |
-| review | 706 | 725 | 1.1× |
+| review | 706 | 723 | 1.1× |
 | education | 535 | 541 | 1.1× |
 | survey | 442 | 458 | 1.1× |
 | digital transformation | 415 | 425 | 1.1× |
-| productivity | 368 | 371 | 1.1× |
+| productivity | 368 | 370 | 1.1× |
 | employee well-being | 353 | 353 | 1.1× |
-| hybrid work | 235 | 239 | 1.1× |
+| hybrid work | 235 | 238 | 1.1× |
 | case study | 178 | 185 | 1.1× |
-| remote work | 177 | 180 | 1.1× |
+| remote work | 177 | 179 | 1.1× |
 | identity | 172 | 176 | 1.1× |
 | digital workplace | 166 | 173 | 1.1× |
 | employee engagement | 164 | 164 | 1.1× |
 | psychological safety | 130 | 130 | 1.1× |
-| government | 126 | 130 | 1.1× |
+| government | 126 | 129 | 1.1× |
 
 ## 📈 Fastest-Growing Cells
 
