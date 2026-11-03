@@ -2,7 +2,7 @@
 
 **Reviewer:** Critical Review (auto-generated)  
 **Date:** 2026-10-31  
-**Paper reviewed:** `docs/research/digital_sovereign_workplace_universities.md`  
+**Paper reviewed:** `docs/digital-sovereign-workplace-universities.md`  
 **Corpus basis:** 3,030 papers across 19 categories
 
 ---

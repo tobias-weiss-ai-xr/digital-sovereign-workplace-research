@@ -10,7 +10,7 @@ Standard pipeline mimic shared across all research repos.
 Usage:
     python3 tools/landscape_analyzer.py                 # terminal report
     python3 tools/landscape_analyzer.py --json          # machine-readable
-    python3 tools/landscape_analyzer.py --write-doc     # docs/research/landscape_report.md
+    python3 tools/landscape_analyzer.py --write-doc     # docs/landscape-report.md
 """
 
 import argparse
@@ -192,7 +192,7 @@ def main():
         return
     md = render_markdown(res)
     if a.write_doc:
-        path = REPO / "docs" / "research" / "landscape_report.md"
+        path = REPO / "docs" / "landscape-report.md"
         path.parent.mkdir(parents=True, exist_ok=True)
         path.write_text(md, encoding="utf-8")
         print(f"Wrote {path}\n")

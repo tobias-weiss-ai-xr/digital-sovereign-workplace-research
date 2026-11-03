@@ -2,7 +2,7 @@
 
 **Reviewers:** Multi-disciplinary review panel (third round)  
 **Date:** 2026-10-31  
-**Paper reviewed:** `docs/research/digital_sovereign_workplace_universities.md` (Rev 5, 2,790 lines)  
+**Paper reviewed:** `docs/digital-sovereign-workplace-universities.md` (Rev 5, 2,790 lines)  
 **Focus:** Ten new disciplinary perspectives not covered in previous review
 rounds, assessing the paper's maturity after three rounds of review and
 revision.

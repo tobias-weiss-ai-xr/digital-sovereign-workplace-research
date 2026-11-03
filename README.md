@@ -22,7 +22,7 @@
 | ✅ **Auto-validation** | `scripts/validate_papers.py` checks schema, duplicates, URL normalization, LaTeX artifacts |
 | 🧾 **Auto-generated paper list** | `scripts/generate_readme.py` renders `docs/paper_list.md` grouped by your taxonomy |
 | 📊 **Statistics & trends** | `scripts/standard_stats.py` → `statistics.json` (momentum, gaps, bursts, venues, authors) |
-| 🔍 **Literature review report** | `scripts/analysis/generate_reports.py` → `docs/research/literature_review.md` + `trends.md` |
+| 🔍 **Literature review report** | `scripts/analysis/generate_reports.py` → `docs/research/literature_review.md` + `docs/research/trends.md` |
 | 🧭 **Topic planning** | `tools/topic_planner.py`, `tools/trend_scanner.py`, `tools/landscape_analyzer.py`, `tools/brief_generator.py` |
 | 🔎 **New paper discovery** | `scripts/fetch/fetch_new_papers.py` (arXiv), `fetch_other_sources.py` (dblp/crossref/europepmc), `fetch_openalex_bulk.py` |
 | 🐙 **GitHub repos discovery** | `scripts/fetch/fetch_github_repos.py` (optional, config-driven via `github_queries` in taxonomy.yaml) |
@@ -65,7 +65,7 @@ config/taxonomy.yaml ──► papers.yaml ──► validate_papers.py
                                         README.md corpus statistics (auto)
                           │
                           ▼
-              analysis/generate_reports.py ──► docs/research/*.md
+              analysis/generate_reports.py ──► docs/research/literature_review.md, docs/research/trends.md
 ```
 
 The generated README section (corpus statistics) and the paper list document are

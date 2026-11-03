@@ -17,7 +17,7 @@ Data-driven, auto-validated literature review corpus for the **Digital Sovereign
    other README prose is user-owned and left untouched. Edit `papers.yaml`,
    then regenerate.
 2. **Never edit `docs/papers.json`, `docs/paper_list.md`, `statistics.json`, or
-   `docs/research/*.md` by hand.** They are pipeline outputs.
+   `docs/research/literature_review.md` and `docs/research/trends.md` by hand.** They are pipeline outputs.
 3. **Never invent papers.** Every entry in `papers.yaml` must have a real,
    verifiable `url`. If you cannot verify a paper exists, do not add it.
 4. **After any `papers.yaml` change, run the full pipeline** and make sure it

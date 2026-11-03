@@ -2,7 +2,7 @@
 
 **Reviewers:** Multi-disciplinary review panel (second round)  
 **Date:** 2026-10-31  
-**Paper reviewed:** `docs/research/digital_sovereign_workplace_universities.md` (Rev 3)  
+**Paper reviewed:** `docs/digital-sovereign-workplace-universities.md` (Rev 3)  
 **Focus:** The six disciplines not deep-integrated in Rev 3, plus four new
 disciplinary perspectives not covered in the first review round.
 

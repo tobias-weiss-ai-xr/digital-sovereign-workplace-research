@@ -2,7 +2,7 @@
 
 **Reviewers:** Multi-disciplinary review panel  
 **Date:** 2026-10-31  
-**Paper reviewed:** `docs/research/digital_sovereign_workplace_universities.md` (Rev 2)  
+**Paper reviewed:** `docs/digital-sovereign-workplace-universities.md` (Rev 2)  
 **Format:** Disciplinary perspective reviews with cross-cutting synthesis
 
 ---
